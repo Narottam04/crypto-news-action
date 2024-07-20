@@ -1,0 +1,49 @@
+name: Update Cryptocurrency News
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install google-news-json
+
+      - name: Fetch and update news
+        run: |
+          node <<EOF
+          const googleNewsAPI = require('google-news-json');
+          const fs = require('fs');
+
+          async function fetchNews() {
+            try {
+              const news = await googleNewsAPI.getNews(googleNewsAPI.SEARCH, "cryptocurrency", "en-US");
+              const newsData = JSON.stringify(news, null, 2);
+              fs.writeFileSync('news.json', `module.exports = ${newsData};`);
+              console.log('News updated successfully');
+            } catch (error) {
+              console.error('Error fetching news:', error);
+              process.exit(1);
+            }
+          }
+
+          fetchNews();
+          EOF
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add news.js
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update cryptocurrency news" && git push)
