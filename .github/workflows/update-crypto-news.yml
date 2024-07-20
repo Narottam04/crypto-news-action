@@ -19,7 +19,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install google-news-json
@@ -32,8 +32,8 @@ jobs:
 
           async function fetchNews() {
             try {
-              const news = await googleNewsAPI.getNews(googleNewsAPI.SEARCH, "cryptocurrency", "en-US");
-              const newsData = JSON.stringify(news, null, 2);
+              const news = await googleNewsAPI.getNews(googleNewsAPI.TOP_NEWS, "cryptocurrency");
+              const newsData = JSON.stringify(news.items, null, 2);
               fs.writeFileSync('news.json', `module.exports = ${newsData};`);
               console.log('News updated successfully');
             } catch (error) {
