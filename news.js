@@ -9,7 +9,7 @@ async function fetchNews() {
     );
     const newsData = JSON.stringify(news.items, null, 2);
     fs.writeFileSync("news.json", `${newsData}`);
-    console.log("News updated successfully", newsData);
+    console.log("News updated successfully", newsData.length);
   } catch (error) {
     console.error("Error fetching news:", error);
     process.exit(1);
