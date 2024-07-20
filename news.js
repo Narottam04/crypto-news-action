@@ -8,7 +8,7 @@ async function fetchNews() {
       "cryptocurrency"
     );
     const newsData = JSON.stringify(news.items, null, 2);
-    // fs.writeFileSync("news.json", `module.exports = ${newsData};`);
+    fs.writeFileSync("news.json", `${newsData}`);
     console.log("News updated successfully", newsData);
   } catch (error) {
     console.error("Error fetching news:", error);

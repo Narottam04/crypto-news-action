@@ -25,25 +25,8 @@ jobs:
         run: npm install google-news-json
 
       - name: Fetch and update news
-        run: |
-          node <<EOF
-          const googleNewsAPI = require('google-news-json');
-          const fs = require('fs');
+        run: node news.js
 
-          async function fetchNews() {
-            try {
-              const news = await googleNewsAPI.getNews(googleNewsAPI.TOP_NEWS, "cryptocurrency");
-              const newsData = JSON.stringify(news.items, null, 2);
-              fs.writeFileSync('news.json', `module.exports = ${newsData};`);
-              console.log('News updated successfully');
-            } catch (error) {
-              console.error('Error fetching news:', error);
-              process.exit(1);
-            }
-          }
-
-          fetchNews();
-          EOF
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'
