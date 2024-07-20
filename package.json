@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "google-news-json": "^2.1.0"
+    "google-news-json": "^2.1.0",
+    "google-news-scraper": "^1.2.3",
+    "install": "^0.13.0",
+    "npm": "^10.8.2"
   }
 }
