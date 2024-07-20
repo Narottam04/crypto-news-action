@@ -2,7 +2,7 @@ name: Update Cryptocurrency News
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 8,16,23 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -21,8 +21,8 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install dependencies
-        run: npm install google-news-json
+      # - name: Install dependencies
+      #   run: npm install google-news-json
 
       - name: Fetch and update news
         run: node news.js
