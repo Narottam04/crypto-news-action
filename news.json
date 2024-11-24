@@ -64,10 +64,10 @@
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVRM2M1WDJwR05HTkJiVXB2VFJEREFSaUNBaWdCTWdtQlJJakNxcWRxTHdF=-w200-h200-p-df-rw",
     "published_datetime_utc": "2024-11-21T13:24:43.000Z",
     "source_url": "https://theconversation.com",
-    "source_name": "The Conversation",
-    "source_logo_url": null,
+    "source_name": "The Conversation Indonesia",
+    "source_logo_url": "https://lh3.googleusercontent.com/upMolb71h9WLsTXgTUx4w8IL2K5lEpfkWwnaVUDL5ZAMiVZS1Nm74IMbnbRnuZx7Hoy96i0gRQ",
     "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWldOdmJuWmxjbk5oZEdsdmJpNWpiMjBvQUFQAQ",
+    "source_publication_id": "CAAqBwgKMLyQggsw-Nz-Ag",
     "related_topics": [
       {
         "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNR016ZDNvM2VSSUNaVzRvQUFQAQ",
@@ -88,25 +88,6 @@
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqBggKMK6pATCgRQ",
     "related_topics": []
-  },
-  {
-    "title": "Addressing pervasive tax evasion by cryptocurrency users",
-    "link": "https://equitablegrowth.org/addressing-pervasive-tax-evasion-by-cryptocurrency-users/",
-    "snippet": "The column quantifies the extent of cryptocurrency tax evasion and assesses the efficacy of tax enforcement interventions.",
-    "photo_url": "https://equitablegrowth.org/wp-content/uploads/2024/11/Cryptocurrency.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNURXbFI2VGpaV1R6aEhVM1ZwVFJDeEFSaWNBaWdCTWdrSkFJcVlGR3VpRlFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T14:26:15.000Z",
-    "source_url": "https://equitablegrowth.org",
-    "source_name": "Equitable Growth",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://equitablegrowth.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMlZ4ZFdsMFlXSnNaV2R5YjNkMGFDNXZjbWNvQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqJggKIiBDQkFTRWdvTUwyY3ZNV2hzWjJadGNsOTZFZ0psYmlnQVAB",
-        "topic_name": "Magne Mogstad"
-      }
-    ]
   },
   {
     "title": "Cryptocurrency News: Bitcoin Hits $94,000, Continues Trumping Record Highs",
@@ -142,6 +123,25 @@
     "related_topics": []
   },
   {
+    "title": "Addressing pervasive tax evasion by cryptocurrency users",
+    "link": "https://equitablegrowth.org/addressing-pervasive-tax-evasion-by-cryptocurrency-users/",
+    "snippet": "The column quantifies the extent of cryptocurrency tax evasion and assesses the efficacy of tax enforcement interventions.",
+    "photo_url": "https://equitablegrowth.org/wp-content/uploads/2024/11/Cryptocurrency.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNURXbFI2VGpaV1R6aEhVM1ZwVFJDeEFSaWNBaWdCTWdrSkFJcVlGR3VpRlFF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T14:26:15.000Z",
+    "source_url": "https://equitablegrowth.org",
+    "source_name": "Equitable Growth",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://equitablegrowth.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMlZ4ZFdsMFlXSnNaV2R5YjNkMGFDNXZjbWNvQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqJggKIiBDQkFTRWdvTUwyY3ZNV2hzWjJadGNsOTZFZ0psYmlnQVAB",
+        "topic_name": "Magne Mogstad"
+      }
+    ]
+  },
+  {
     "title": "Bitcoin Reaches All-Time Highs. Here Are the Best Crypto Wallets To Store Your Coins",
     "link": "https://www.cnet.com/personal-finance/crypto/best-bitcoin-and-crypto-wallets/",
     "snippet": "Bitcoin has had a great year. It recently hit an all-time high of $93,434.36 and doesn't seem to be slowing down. Whether you're looking to ...",
@@ -161,44 +161,6 @@
     ]
   },
   {
-    "title": "The crypto industry plowed tens of millions into the election. Now, it’s looking for a return on that investment",
-    "link": "https://www.cnn.com/2024/11/17/politics/crypto-industry-donald-trump-reelection/index.html",
-    "snippet": "A tracker run by a group called Stand with Crypto said 274 pro-crypto candidates had been elected to the House and 20 to the Senate this cycle.",
-    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/20241115-trump-crypto-gfx.jpg?c=16x9&q=h_833,w_1480,c_fill",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpOemhQV0doSFdHcFhkbWRJVFJDb0FSaXJBaWdCTWdhWlVveFFKUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-17T10:00:00.000Z",
-    "source_url": "https://www.cnn.com",
-    "source_name": "CNN",
-    "source_logo_url": "https://lh3.googleusercontent.com/8zdvTbISHUn-4iHkauW-_yQSGPD9BMrx9EWfqTIhiVm2YMYqhHC1HJWNDQoSOkMk0MRPYKxjIg",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMKHL9QowkqbaAg",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1ocWRuQnRZaElDWlc0b0FBUAE",
-        "topic_name": "Fredreka Schouten"
-      }
-    ]
-  },
-  {
-    "title": "Paramount Business Jets adds cryptocurrency payments",
-    "link": "https://privatejetcardcomparisons.com/2024/11/21/paramount-business-jets-adds-cryptocurrency-payments/",
-    "snippet": "Private jet charter flyers can now book with Paramount Business Jets using major cryptocurrencies, including Bitcoin, Ethereum, and USD Coin.",
-    "photo_url": "https://cdn.privatejetcardcomparisons.com/uploads/Paramount_Business_Jets_Now_Accepting_Cryptocurrency_for_Private_Jet_Charter_Payments.jpg?auto=format&q=35&h=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJjWEpMVFVWSVQwTkxTVkU1VFJDa0FSaTBBaWdCTWdZSlFveXRMUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T21:47:03.000Z",
-    "source_url": "https://privatejetcardcomparisons.com",
-    "source_name": "Private Jet Card Comparisons",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://privatejetcardcomparisons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqPQgKIjdDQklTSXdnTWFoOEtIWEJ5YVhaaGRHVnFaWFJqWVhKa1kyOXRjR0Z5YVhOdmJuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpWZk5sOHhYeElDWlc0b0FBUAE",
-        "topic_name": "Doug Gollan"
-      }
-    ]
-  },
-  {
     "title": "Trump Media is close to buying a cryptocurrency trading platform",
     "link": "https://qz.com/trump-media-cryptocurrency-exchange-bakkt-bitcoin-1851702290",
     "snippet": "President-elect Donald Trump's social media company is reportedly in advanced negotiations to acquire the cryptocurrency trading platform ...",
@@ -214,6 +176,25 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeFgzZHRjQklDWlc0b0FBUAE",
         "topic_name": "Vinamrata Chaturvedi"
+      }
+    ]
+  },
+  {
+    "title": "Paramount Business Jets adds cryptocurrency payments",
+    "link": "https://privatejetcardcomparisons.com/2024/11/21/paramount-business-jets-adds-cryptocurrency-payments/",
+    "snippet": "Private jet charter flyers can now book with Paramount Business Jets using major cryptocurrencies, including Bitcoin, Ethereum, and USD Coin.",
+    "photo_url": "https://cdn.privatejetcardcomparisons.com/uploads/Paramount_Business_Jets_Now_Accepting_Cryptocurrency_for_Private_Jet_Charter_Payments.jpg?auto=format&q=35&h=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJjWEpMVFVWSVQwTkxTVkU1VFJDa0FSaTBBaWdCTWdZSlFveXRMUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T22:48:30.000Z",
+    "source_url": "https://privatejetcardcomparisons.com",
+    "source_name": "Private Jet Card Comparisons",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://privatejetcardcomparisons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqPQgKIjdDQklTSXdnTWFoOEtIWEJ5YVhaaGRHVnFaWFJqWVhKa1kyOXRjR0Z5YVhOdmJuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpWZk5sOHhYeElDWlc0b0FBUAE",
+        "topic_name": "Doug Gollan"
       }
     ]
   },
@@ -275,25 +256,6 @@
     ]
   },
   {
-    "title": "Best Cryptocurrency Brokers",
-    "link": "https://www.benzinga.com/money/best-cryptocurrency-brokers",
-    "snippet": "Best Online Brokers for Cryptocurrency Trading · 1. Best Bitcoin Broker: Coinbase · 2. Best for Mobile Users: Plus500 · 3. Best for Demo ...",
-    "photo_url": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2024/10/08071244/crypto-broker.jpg?width=200",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxWalJ6VkhZdFF6QXlUVzg0VFJDRkFSaklBU2dCTWdZNWM0NHpLUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T08:00:00.000Z",
-    "source_url": "https://www.benzinga.com",
-    "source_name": "Benzinga",
-    "source_logo_url": "https://lh3.googleusercontent.com/Kg5slaOP_n3XLEhwNqmLpBqIZY9zUkY7E0xUuY5H3fbWPa-1O_XlBM5vTUy9OcAVhCa2uDolOg",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.benzinga.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMJ3giAsw_d2HAw",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1Tm1kNGEzTTRNUklDWlc0b0FBUAE",
-        "topic_name": "Rebekah Brately"
-      }
-    ]
-  },
-  {
     "title": "Trump Media May Be Mulling a Crypto Payment Service",
     "link": "https://www.nytimes.com/2024/11/21/business/trump-media-crypto-payment-service.html",
     "snippet": "Donald J. Trump's social media company is considering developing a cryptocurrency payment service, according to a trademark application ...",
@@ -309,6 +271,25 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKeFlqZHdOeElDWlc0b0FBUAE",
         "topic_name": "David Yaffe-Bellany"
+      }
+    ]
+  },
+  {
+    "title": "Best Cryptocurrency Brokers",
+    "link": "https://www.benzinga.com/money/best-cryptocurrency-brokers",
+    "snippet": "Best Online Brokers for Cryptocurrency Trading · 1. Best Bitcoin Broker: Coinbase · 2. Best for Mobile Users: Plus500 · 3. Best for Demo ...",
+    "photo_url": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2024/10/08071244/crypto-broker.jpg?width=200",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxWalJ6VkhZdFF6QXlUVzg0VFJDRkFSaklBU2dCTWdZNWM0NHpLUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T08:00:00.000Z",
+    "source_url": "https://www.benzinga.com",
+    "source_name": "Benzinga",
+    "source_logo_url": "https://lh3.googleusercontent.com/Kg5slaOP_n3XLEhwNqmLpBqIZY9zUkY7E0xUuY5H3fbWPa-1O_XlBM5vTUy9OcAVhCa2uDolOg",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.benzinga.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMJ3giAsw_d2HAw",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1Tm1kNGEzTTRNUklDWlc0b0FBUAE",
+        "topic_name": "Rebekah Brately"
       }
     ]
   },
@@ -370,21 +351,21 @@
     ]
   },
   {
-    "title": "Trump Expands Crypto Reach With Acquisition Talks, Coinbase Meeting",
-    "link": "https://www.investors.com/news/donald-trump-stock-djt-crypto-coinbase-bitcoin/",
-    "snippet": "President-elect Donald Trump continues to embrace cryptocurrency after making digital assets a key part of his campaign.",
-    "photo_url": "https://www.investors.com/wp-content/uploads/2018/04/stock-trump-point-shutter.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNaRjlZTFhKYVkyaFliMnRCVFJDb0FSaXJBaWdCTWdhQlJZck5vUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T21:18:00.000Z",
-    "source_url": "https://www.investors.com",
-    "source_name": "Investor's Business Daily",
-    "source_logo_url": "https://lh3.googleusercontent.com/-m-56Z1d9ObiT3mixbg-CNUkjN8m9UWzzzJ6mm8jJULcnWYyxz5IBCYuZ5cQXy6MQceme7nYRQ",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.investors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMM6bhgswkPWDAw",
+    "title": "Bitcoin is surging: Could it take over?",
+    "link": "https://www.newsnationnow.com/business/your-money/bitcoin-surging-take-over/",
+    "snippet": "The price of bitcoin is surging after Donald Trump's reelection. Could it replace the dollar? Here's what experts have said.",
+    "photo_url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2021/06/GettyImages-887657568-1.jpg?strip=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpaVXRPTTJOT1l6bFpSbTQwVFJDM0FSaVRBaWdCTWdZQkFZYXNzUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T23:37:36.000Z",
+    "source_url": "https://www.newsnationnow.com",
+    "source_name": "NewsNation Now",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsnationnow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMM20nQsw3r61Aw",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJacVl6QXdjQklDWlc0b0FBUAE",
-        "topic_name": "Harrison Miller"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURaMGVXWnlNQklDWlc0b0FBUAE",
+        "topic_name": "Andrew Dorn"
       }
     ]
   },
@@ -408,34 +389,6 @@
     ]
   },
   {
-    "title": "Russia restricts cryptocurrency mining in low-energy regions",
-    "link": "https://www.reuters.com/technology/russia-restricts-cryptocurrency-mining-low-energy-regions-2024-11-19/",
-    "snippet": "Russia has banned cryptocurrency mining in several Siberian regions to prevent power shortages during the winter and has restricted it in ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/HJDYMEREYFLQFPCH6PHBFH2UTA.jpg?auth=18a8c08ba7190fd895e270e6136461da74ed3718584c12d4ea89d15156c6ff50&height=628&width=1200&quality=80&smart=true",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHpSR2hVY0dkQlZsRmlhbEJOVFJDaUFSaTNBaWdCTWdrQkFJb2trZVkxeGdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T16:10:12.000Z",
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://lh3.googleusercontent.com/OzNZmYwP-Zl3sTWa8dzzyws9hou0ZihOGJ_-qanon-1iB5KwyqcHOwPxYZj54cGMZwD5qXui",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBggKMLegDDCwJg",
-    "related_topics": []
-  },
-  {
-    "title": "15 Cryptocurrency Forecasts For 2025",
-    "link": "https://investinghaven.com/crypto-forecasts/15-cryptocurrency-forecasts-2025/",
-    "snippet": "1. Bitcoin (BTC). In 2025, Bitcoin is projected to trade between $75,500 and $150,000. Stretched target: $175,000 to even $200,000. The midpoint ...",
-    "photo_url": "https://investinghaven.com/wp-content/uploads/2024/09/15_cryptocurrency_forecast_2025.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFPV2N6WlcxdWFqVlVOREZtVFJDcUFSaW9BaWdCTWdZTlVvNnRNUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T08:00:00.000Z",
-    "source_url": "https://investinghaven.com",
-    "source_name": "Investing Haven",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://investinghaven.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWx1ZG1WemRHbHVaMmhoZG1WdUxtTnZiU2dBUAE",
-    "related_topics": []
-  },
-  {
     "title": "Cryptocurrency Adoption in Emerging Markets: Opportunities, Challenges, and Future Outlook",
     "link": "https://www.globenewswire.com/news-release/2024/11/21/2985119/0/en/Cryptocurrency-Adoption-in-Emerging-Markets-Opportunities-Challenges-and-Future-Outlook.html",
     "snippet": "The global crypto market is experiencing dynamic growth, driven by a variety of applications including trading, remittance, and peer-to-peer ...",
@@ -448,6 +401,25 @@
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAiEEK5uMK0X2lU4mP28uSsLH8qFAgKIhBCubjCtF9pVOJj9vLkrCx_",
     "related_topics": []
+  },
+  {
+    "title": "Trump Expands Crypto Reach With Acquisition Talks, Coinbase Meeting",
+    "link": "https://www.investors.com/news/donald-trump-stock-djt-crypto-coinbase-bitcoin/",
+    "snippet": "President-elect Donald Trump continues to embrace cryptocurrency after making digital assets a key part of his campaign.",
+    "photo_url": "https://www.investors.com/wp-content/uploads/2018/04/stock-trump-point-shutter.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNaRjlZTFhKYVkyaFliMnRCVFJDb0FSaXJBaWdCTWdhQlJZck5vUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T21:18:00.000Z",
+    "source_url": "https://www.investors.com",
+    "source_name": "Investor's Business Daily",
+    "source_logo_url": "https://lh3.googleusercontent.com/-m-56Z1d9ObiT3mixbg-CNUkjN8m9UWzzzJ6mm8jJULcnWYyxz5IBCYuZ5cQXy6MQceme7nYRQ",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.investors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMM6bhgswkPWDAw",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJacVl6QXdjQklDWlc0b0FBUAE",
+        "topic_name": "Harrison Miller"
+      }
+    ]
   },
   {
     "title": "Pima County Sheriff’s Department warns of cryptocurrency scams",
@@ -469,21 +441,35 @@
     ]
   },
   {
-    "title": "North Korea hackers behind 2019 $42 mln Ethereum heist, South Korea police say",
-    "link": "https://www.reuters.com/world/asia-pacific/north-korea-hackers-behind-2019-42-mln-ethereum-heist-south-korea-police-say-2024-11-21/",
-    "snippet": "The hackers infiltrated a crypto exchange where the Ethereum was being kept and stole 342,000 tokens, now valued at more than 1.4 trillion won ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/5QF64BFMM5NRVC6CMVMBPMYI5Y.jpg?auth=10b545022ba2130989d14c91a311f711679d0f33694eaf4b1c12077e594f0972&width=4000&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZWMWRZTm5GNFN5MHdVMUZuVFJDM0FSaVRBaWdCTWdZSkVJaXR3UVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T06:31:00.000Z",
+    "title": "Russia restricts cryptocurrency mining in low-energy regions",
+    "link": "https://www.reuters.com/technology/russia-restricts-cryptocurrency-mining-low-energy-regions-2024-11-19/",
+    "snippet": "Russia has banned cryptocurrency mining in several Siberian regions to prevent power shortages during the winter and has restricted it in ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/HJDYMEREYFLQFPCH6PHBFH2UTA.jpg?auth=18a8c08ba7190fd895e270e6136461da74ed3718584c12d4ea89d15156c6ff50&height=628&width=1200&quality=80&smart=true",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHpSR2hVY0dkQlZsRmlhbEJOVFJDaUFSaTNBaWdCTWdrQkFJb2trZVkxeGdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T16:10:12.000Z",
     "source_url": "https://www.reuters.com",
     "source_name": "Reuters",
-    "source_logo_url": null,
+    "source_logo_url": "https://lh3.googleusercontent.com/OzNZmYwP-Zl3sTWa8dzzyws9hou0ZihOGJ_-qanon-1iB5KwyqcHOwPxYZj54cGMZwD5qXui",
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "source_publication_id": "CAAqBggKMLegDDCwJg",
+    "related_topics": []
+  },
+  {
+    "title": "Donald Trump could create first cryptocurrency role at White House",
+    "link": "https://www.telegraph.co.uk/us/politics/2024/11/20/donald-trump-considering-first-white-house-crypto-role/",
+    "snippet": "Donald Trump's team is considering creating a new White House role focused on cryptocurrency policy, according to reports.",
+    "photo_url": "https://www.telegraph.co.uk/content/dam/en-us/politics/2024/11/20/TELEMMGLPICT000401765292_17321383120390_trans_NvBQzQNjv4Bq4Mx7Bwpg2FT5X3UTcqhdZ09WDn8kYUfLgonc976C9zc.jpeg?imwidth=680",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlaVTB4TW5WR2FHOTVVbkptVFJDeEFSaWNBaWdCTWdhUkFJcUdDQXc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-20T21:38:00.000Z",
+    "source_url": "https://www.telegraph.co.uk",
+    "source_name": "The Telegraph",
+    "source_logo_url": "https://lh3.googleusercontent.com/j2SlMa3ZNNfh4j2BbryariOGa9vuLPBcczFcHvCPyYKw4WILAQx1PSUExVHNIu7lGV5-SKmE7A",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.telegraph.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBggKMJukejDCqgk",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkRKb04xOWZjeElDWlc0b0FBUAE",
-        "topic_name": "Jack Kim"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OMmNtZGpkQklDWlc0b0FBUAE",
+        "topic_name": "Susie Coen"
       }
     ]
   },
@@ -499,6 +485,20 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.kold.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAiEEqaXzOJ9xmMAGwfW8xyh0oqFAgKIhBKml8zifcZjABsH1vMcodK",
+    "related_topics": []
+  },
+  {
+    "title": "Driving the Cryptocurrency Ecosystem: Incubation and Support Strategies of SILEGX Exchange",
+    "link": "https://www.globenewswire.com/news-release/2024/11/18/2982415/0/en/Driving-the-Cryptocurrency-Ecosystem-Incubation-and-Support-Strategies-of-SILEGX-Exchange.html",
+    "snippet": "The incubation program of SILEGX Exchange focuses on providing holistic support to blockchain startups, helping them overcome early-stage ...",
+    "photo_url": "https://ml.globenewswire.com/Resource/Download/24a7e144-bf4c-451b-973a-1de864a7957a",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdTWEZoVm5GaU1qSjNhRU5KVFJDaUFSaTNBaWdCTWdZZGtJaVhOQVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-18T04:45:00.000Z",
+    "source_url": "https://www.globenewswire.com",
+    "source_name": "GlobeNewswire",
+    "source_logo_url": "https://lh3.googleusercontent.com/bAvtMR8HuT8953AWtAJzPM5zo9rdrPHSj2qkDem47iwG1yDv2aXdA5ToBHbe8OsQhSJWz9zzblk",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAiEEK5uMK0X2lU4mP28uSsLH8qFAgKIhBCubjCtF9pVOJj9vLkrCx_",
     "related_topics": []
   },
   {
@@ -521,17 +521,31 @@
     ]
   },
   {
-    "title": "Driving the Cryptocurrency Ecosystem: Incubation and Support Strategies of SILEGX Exchange",
-    "link": "https://www.globenewswire.com/news-release/2024/11/18/2982415/0/en/Driving-the-Cryptocurrency-Ecosystem-Incubation-and-Support-Strategies-of-SILEGX-Exchange.html",
-    "snippet": "The incubation program of SILEGX Exchange focuses on providing holistic support to blockchain startups, helping them overcome early-stage ...",
-    "photo_url": "https://ml.globenewswire.com/Resource/Download/24a7e144-bf4c-451b-973a-1de864a7957a",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdTWEZoVm5GaU1qSjNhRU5KVFJDaUFSaTNBaWdCTWdZZGtJaVhOQVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-18T04:45:00.000Z",
-    "source_url": "https://www.globenewswire.com",
-    "source_name": "GlobeNewswire",
-    "source_logo_url": "https://lh3.googleusercontent.com/bAvtMR8HuT8953AWtAJzPM5zo9rdrPHSj2qkDem47iwG1yDv2aXdA5ToBHbe8OsQhSJWz9zzblk",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAiEEK5uMK0X2lU4mP28uSsLH8qFAgKIhBCubjCtF9pVOJj9vLkrCx_",
+    "title": "15 Cryptocurrency Forecasts For 2025",
+    "link": "https://investinghaven.com/crypto-forecasts/15-cryptocurrency-forecasts-2025/",
+    "snippet": "1. Bitcoin (BTC). In 2025, Bitcoin is projected to trade between $75,500 and $150,000. Stretched target: $175,000 to even $200,000. The midpoint ...",
+    "photo_url": "https://investinghaven.com/wp-content/uploads/2024/09/15_cryptocurrency_forecast_2025.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFPV2N6WlcxdWFqVlVOREZtVFJDcUFSaW9BaWdCTWdZTlVvNnRNUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T08:00:00.000Z",
+    "source_url": "https://investinghaven.com",
+    "source_name": "Investing Haven",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://investinghaven.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWx1ZG1WemRHbHVaMmhoZG1WdUxtTnZiU2dBUAE",
+    "related_topics": []
+  },
+  {
+    "title": "Trump team considers creating first-ever White House cryptocurrency role",
+    "link": "https://www.business-standard.com/world-news/trump-team-considers-creating-first-ever-white-house-cryptocurrency-role-124112100098_1.html",
+    "snippet": "President-elect Donald Trump's team is holding discussions with the digital asset industry about whether to create a new White House post solely ...",
+    "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-11/15/full/1731662391-1183.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNSVkl3VUdKU2JrcEJXbmhIVFJDM0FSaVRBaWdCTWdhSmw1SkpNZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T02:49:59.000Z",
+    "source_url": "https://www.business-standard.com",
+    "source_name": "Business Standard",
+    "source_logo_url": "https://lh3.googleusercontent.com/AT8iZRL6eUcqE6QveDcDvxkWRmUmyT_OzkkVmZ20YRlylJqSMypckPekPjhINXiSTA47GzKicg",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMLC13Qowpt3RAQ",
     "related_topics": []
   },
   {
@@ -573,6 +587,34 @@
     ]
   },
   {
+    "title": "Cryptocurrency Exchange App Development Cost: A Complete Guide",
+    "link": "https://appinventiv.com/blog/cost-of-crypto-exchange-app-development/",
+    "snippet": "On average, Coinbase-like cryptocurrency exchange app development costs range between $30,000 and $300,000 or more. Additionally, if you wish to ...",
+    "photo_url": "https://appinventiv.com/wp-content/uploads/2019/02/how_much_does_it_cost_to_develop_a_cryptocurrency_exchange_app_like_coinbase_.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTRVRXhEZVdGYVkzSnhUVkI0VFJDeUFSaWJBaWdCTWdtTlVvNG5LV2Rya2dF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-18T08:00:00.000Z",
+    "source_url": "https://appinventiv.com",
+    "source_name": "Appinventiv",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://appinventiv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ3Y0dsdWRtVnVkR2wyTG1OdmJTZ0FQAQ",
+    "related_topics": []
+  },
+  {
+    "title": "Bitcoin neared $90,000 in a new record high. What to know about crypto's post-election rally",
+    "link": "https://www.abc15.com/news/national/bitcoin-neared-90-000-in-a-new-record-high-what-to-know-about-cryptos-post-election-rally",
+    "snippet": "Bitcoin neared $90,000 in a new record high. What to know about crypto's post-election rally. Some investors see cryptocurrency as a “digital ...",
+    "photo_url": "https://ewscripps.brightspotcdn.com/dims4/default/e11b062/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F78%2F7e%2Ff4b21e3643318ca2e731c96dac69%2Fap20197839442180.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9kbTlJTW5CUVUwUXlWV05zVFJDakFSaTJBaWdCTWdtQkFJWWlFU1h3eFFJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-20T10:55:00.000Z",
+    "source_url": "https://www.abc15.com",
+    "source_name": "ABC15 Arizona in Phoenix",
+    "source_logo_url": "https://lh3.googleusercontent.com/D-3Cj0dJjpNtCTUzruPi4RTiGHXkjRi2kJp9T1RtY_KViqWtVRaXWdkbzLh1gmNi7pVdboLWaQ",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.abc15.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMI_-mgsw04izAw",
+    "related_topics": []
+  },
+  {
     "title": "You can earn crypto without actually buying or selling it. Here's how",
     "link": "https://qz.com/cryptocurrency-passive-income-staking-mining-lending-1851700731",
     "snippet": "Cryptocurrency investment has become an increasingly popular avenue for generating income and building long-term financial security.",
@@ -590,53 +632,6 @@
         "topic_name": "Vinamrata Chaturvedi"
       }
     ]
-  },
-  {
-    "title": "Bitcoin neared $90,000 in a new record high. What to know about crypto's post-election rally",
-    "link": "https://www.abc15.com/news/national/bitcoin-neared-90-000-in-a-new-record-high-what-to-know-about-cryptos-post-election-rally",
-    "snippet": "Bitcoin neared $90,000 in a new record high. What to know about crypto's post-election rally. Some investors see cryptocurrency as a “digital ...",
-    "photo_url": "https://ewscripps.brightspotcdn.com/dims4/default/e11b062/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F78%2F7e%2Ff4b21e3643318ca2e731c96dac69%2Fap20197839442180.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW9kbTlJTW5CUVUwUXlWV05zVFJDakFSaTJBaWdCTWdtQkFJWWlFU1h3eFFJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-20T10:55:00.000Z",
-    "source_url": "https://www.abc15.com",
-    "source_name": "ABC15 Arizona in Phoenix",
-    "source_logo_url": "https://lh3.googleusercontent.com/D-3Cj0dJjpNtCTUzruPi4RTiGHXkjRi2kJp9T1RtY_KViqWtVRaXWdkbzLh1gmNi7pVdboLWaQ",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.abc15.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMI_-mgsw04izAw",
-    "related_topics": []
-  },
-  {
-    "title": "Bitcoin is surging: Could it take over?",
-    "link": "https://www.newsnationnow.com/business/your-money/bitcoin-surging-take-over/",
-    "snippet": "The price of bitcoin is surging after Donald Trump's reelection. Could it replace the dollar? Here's what experts have said.",
-    "photo_url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2021/06/GettyImages-887657568-1.jpg?strip=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpaVXRPTTJOT1l6bFpSbTQwVFJDM0FSaVRBaWdCTWdZQkFZYXNzUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T23:37:36.000Z",
-    "source_url": "https://www.newsnationnow.com",
-    "source_name": "NewsNation Now",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsnationnow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMM20nQsw3r61Aw",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURaMGVXWnlNQklDWlc0b0FBUAE",
-        "topic_name": "Andrew Dorn"
-      }
-    ]
-  },
-  {
-    "title": "Trump team considers creating first-ever White House cryptocurrency role",
-    "link": "https://www.business-standard.com/world-news/trump-team-considers-creating-first-ever-white-house-cryptocurrency-role-124112100098_1.html",
-    "snippet": "President-elect Donald Trump's team is holding discussions with the digital asset industry about whether to create a new White House post solely ...",
-    "photo_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-11/15/full/1731662391-1183.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNSVkl3VUdKU2JrcEJXbmhIVFJDM0FSaVRBaWdCTWdhSmw1SkpNZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T02:49:59.000Z",
-    "source_url": "https://www.business-standard.com",
-    "source_name": "Business Standard",
-    "source_logo_url": "https://lh3.googleusercontent.com/AT8iZRL6eUcqE6QveDcDvxkWRmUmyT_OzkkVmZ20YRlylJqSMypckPekPjhINXiSTA47GzKicg",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMLC13Qowpt3RAQ",
-    "related_topics": []
   },
   {
     "title": "Toledo Museum of Art uses cryptocurrency to acquire digital art piece",
@@ -696,6 +691,20 @@
     ]
   },
   {
+    "title": "North Korea hackers behind 2019 $42 mln Ethereum heist, South Korea police say",
+    "link": "https://www.reuters.com/world/asia-pacific/north-korea-hackers-behind-2019-42-mln-ethereum-heist-south-korea-police-say-2024-11-21/",
+    "snippet": "South Korean police said on Thursday an investigation confirmed that hackers linked to North Korea's military intelligence agency were ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/5QF64BFMM5NRVC6CMVMBPMYI5Y.jpg?auth=10b545022ba2130989d14c91a311f711679d0f33694eaf4b1c12077e594f0972&height=1005&width=1920&quality=80&smart=true",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFiVGR5U2s1dlpGRmFNMHg1VFJDaUFSaTJBaWdCTWdZQkFJcXRzUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T06:31:09.000Z",
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": []
+  },
+  {
     "title": "Bitcoin Briefly Eclipses $99K—Why Investors Just Can't Get Enough",
     "link": "https://www.investopedia.com/bitcoin-briefly-eclipses-usd98k-as-investors-just-can-t-get-enough-8749345",
     "snippet": "Bitcoin-related stocks experienced the most trading volume in their history on Wednesday, with more than $50 billion in assets exchanging hands.",
@@ -711,25 +720,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1neWN6VmZYeElDWlc0b0FBUAE",
         "topic_name": "Kyle Torpey"
-      }
-    ]
-  },
-  {
-    "title": "Donald Trump could create first cryptocurrency role at White House",
-    "link": "https://www.telegraph.co.uk/us/politics/2024/11/20/donald-trump-considering-first-white-house-crypto-role/",
-    "snippet": "Donald Trump's team is considering creating a new White House role focused on cryptocurrency policy, according to reports.",
-    "photo_url": "https://www.telegraph.co.uk/content/dam/en-us/politics/2024/11/20/TELEMMGLPICT000401765292_17321383120390_trans_NvBQzQNjv4Bq4Mx7Bwpg2FT5X3UTcqhdZ09WDn8kYUfLgonc976C9zc.jpeg?imwidth=680",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlaVTB4TW5WR2FHOTVVbkptVFJDeEFSaWNBaWdCTWdhUkFJcUdDQXc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-20T21:38:00.000Z",
-    "source_url": "https://www.telegraph.co.uk",
-    "source_name": "The Telegraph",
-    "source_logo_url": "https://lh3.googleusercontent.com/j2SlMa3ZNNfh4j2BbryariOGa9vuLPBcczFcHvCPyYKw4WILAQx1PSUExVHNIu7lGV5-SKmE7A",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.telegraph.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBggKMJukejDCqgk",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OMmNtZGpkQklDWlc0b0FBUAE",
-        "topic_name": "Susie Coen"
       }
     ]
   },
@@ -767,25 +757,6 @@
     "related_topics": []
   },
   {
-    "title": "Charles Schwab Eyes Spot Crypto Trading Once Regulations Change",
-    "link": "https://finance.yahoo.com/news/charles-schwab-eyes-spot-crypto-204834225.html",
-    "snippet": "“We will get into spot crypto when the regulatory environment changes, and we do anticipate that it will change, and we're getting ready for ...",
-    "photo_url": "https://s.yimg.com/ny/api/res/1.2/j8B0Zr_PRoY51pZfSc5DfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyMw--/https://media.zenfs.com/en/bloomberg_markets_842/bd6b5ebb898f25f78baf0269a5417874",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNPRTlOVjFabWFuQjZTSEZUVFJDMkFSaVVBaWdCTWdrQklJd0hFV1RKTUFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T20:48:34.000Z",
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": "https://lh3.googleusercontent.com/L57n4HUzUS8lNXBPYNGQScsyxaqqx42Nym3-tUk8NzkTvMsa95NhzEqC8KMqVPFpAFpCuPFdlA",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAiEAcAd4fUu3kgFBTFqJNcqyoqFAgKIhAHAHeH1Lt5IBQUxaiTXKsq",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NM2VqTmZlaElDWlc0b0FBUAE",
-        "topic_name": "Paige Smith"
-      }
-    ]
-  },
-  {
     "title": "PCSD launching new initiative to curb losses from cryptocurrency scams",
     "link": "https://www.kold.com/video/2024/11/18/pcsd-launching-new-initiative-curb-losses-cryptocurrency-scams/",
     "snippet": null,
@@ -797,20 +768,6 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.kold.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAiEEqaXzOJ9xmMAGwfW8xyh0oqFAgKIhBKml8zifcZjABsH1vMcodK",
-    "related_topics": []
-  },
-  {
-    "title": "Bitcoin will ‘go up’: Market analyst on cryptocurrency surge",
-    "link": "https://www.foxbusiness.com/video/6365056780112",
-    "snippet": null,
-    "photo_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/396b4781-599e-406c-b975-e51f1d884da8/25ca3e79-fcb6-4ca6-9124-439d48281490/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpSalZGY0d4aVQybHNNalZoVFJDZkFSaS1BaWdCTWdhSlVZQUhMZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T17:47:43.000Z",
-    "source_url": "https://www.foxbusiness.com",
-    "source_name": "Fox Business",
-    "source_logo_url": "https://lh3.googleusercontent.com/RAFzyvmYyGgB2jIirGiddSZ1gmHO3A3MJ6wWUVwPbqOaQ4PmI4_BNIHNYMse3OnvN7yeZk25VFQ",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMJ_NqAswkdjAAw",
     "related_topics": []
   },
   {
@@ -828,6 +785,20 @@
     "related_topics": []
   },
   {
+    "title": "Bitcoin will ‘go up’: Market analyst on cryptocurrency surge",
+    "link": "https://www.foxbusiness.com/video/6365056780112",
+    "snippet": null,
+    "photo_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/396b4781-599e-406c-b975-e51f1d884da8/25ca3e79-fcb6-4ca6-9124-439d48281490/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpSalZGY0d4aVQybHNNalZoVFJDZkFSaS1BaWdCTWdhSlVZQUhMZ1k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T17:47:43.000Z",
+    "source_url": "https://www.foxbusiness.com",
+    "source_name": "Fox Business",
+    "source_logo_url": "https://lh3.googleusercontent.com/RAFzyvmYyGgB2jIirGiddSZ1gmHO3A3MJ6wWUVwPbqOaQ4PmI4_BNIHNYMse3OnvN7yeZk25VFQ",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMJ_NqAswkdjAAw",
+    "related_topics": []
+  },
+  {
     "title": "Cryptocurrency Trading in a Global Context: Market Adaptation Strategies of SILEGX Exchange",
     "link": "https://www.globenewswire.com/news-release/2024/11/18/2982411/0/en/Cryptocurrency-Trading-in-a-Global-Context-Market-Adaptation-Strategies-of-SILEGX-Exchange.html",
     "snippet": "Recently, SILEGX announced a series of market adaptation strategies to address the ever-changing economic environment and regulatory policies.",
@@ -839,6 +810,20 @@
     "source_logo_url": "https://lh3.googleusercontent.com/bAvtMR8HuT8953AWtAJzPM5zo9rdrPHSj2qkDem47iwG1yDv2aXdA5ToBHbe8OsQhSJWz9zzblk",
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAiEEK5uMK0X2lU4mP28uSsLH8qFAgKIhBCubjCtF9pVOJj9vLkrCx_",
+    "related_topics": []
+  },
+  {
+    "title": "Russia Bans Winter Cryptocurrency Mining in Siberia, North Caucasus and Occupied Ukraine",
+    "link": "https://www.themoscowtimes.com/2024/11/19/russia-bans-winter-cryptocurrency-mining-in-siberia-north-caucasus-and-occupied-ukraine-a87065",
+    "snippet": "Authorities in Russia announced Tuesday plans to ban cryptocurrency mining in several regions this winter to address electricity shortages.",
+    "photo_url": "https://static.themoscowtimes.com/image/article_1360/b4/344579-2.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVRSM0Y0VVdWVmVreHhXWHAyVFJDb0FSaXNBaWdCTWdraEFJeFREQ1ZzNHdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T14:14:27.000Z",
+    "source_url": "https://www.themoscowtimes.com",
+    "source_name": "The Moscow Times",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.themoscowtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJvWlcxdmMyTnZkM1JwYldWekxtTnZiU2dBUAE",
     "related_topics": []
   },
   {
@@ -894,17 +879,36 @@
     ]
   },
   {
-    "title": "Russia Bans Winter Cryptocurrency Mining in Siberia, North Caucasus and Occupied Ukraine",
-    "link": "https://www.themoscowtimes.com/2024/11/19/russia-bans-winter-cryptocurrency-mining-in-siberia-north-caucasus-and-occupied-ukraine-a87065",
-    "snippet": "Authorities in Russia announced Tuesday plans to ban cryptocurrency mining in several regions this winter to address electricity shortages.",
-    "photo_url": "https://static.themoscowtimes.com/image/article_1360/b4/344579-2.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVRSM0Y0VVdWVmVreHhXWHAyVFJDb0FSaXNBaWdCTWdraEFJeFREQ1ZzNHdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T14:14:27.000Z",
-    "source_url": "https://www.themoscowtimes.com",
-    "source_name": "The Moscow Times",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.themoscowtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFblJvWlcxdmMyTnZkM1JwYldWekxtTnZiU2dBUAE",
+    "title": "Trump Media explores crypto payment service to go along with Truth Social, filings show",
+    "link": "https://finance.yahoo.com/news/trump-media-explores-crypto-payment-164556190.html",
+    "snippet": "Trump Media is exploring the creation of a cryptocurrency payment platform called TruthFi, according to a trademark filing.",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/Msr2_RRkOiW_S9D.yV3kxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/fortune_175/7adb08838f3a1c6a5cf77a0a973b55c6",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDFXVlJrWm10eFExcHNWVlpNVFJDM0FSaVRBaWdCTWdZTmNwWVRxUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T23:03:08.000Z",
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": "https://lh3.googleusercontent.com/L57n4HUzUS8lNXBPYNGQScsyxaqqx42Nym3-tUk8NzkTvMsa95NhzEqC8KMqVPFpAFpCuPFdlA",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAiEAcAd4fUu3kgFBTFqJNcqyoqFAgKIhAHAHeH1Lt5IBQUxaiTXKsq",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWXpVNU9XTjVOQklDWlc0b0FBUAE",
+        "topic_name": "Paolo Confino"
+      }
+    ]
+  },
+  {
+    "title": "Bitcoin at $100k: Here's Jefferies' Chris Wood advice to cryptocurrency investors",
+    "link": "https://www.businesstoday.in/personal-finance/investment/story/bitcoin-at-100k-heres-jefferies-chris-wood-advice-to-cryptocurrency-investors-454676-2024-11-22",
+    "snippet": "As of Friday, Bitcoin (BTC) reached a high of $99,300, just shy of the anticipated $100,000 threshold following the US election.",
+    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202411/67403e2b7a0f0-even-with-the-recent-increase-in-price--wood-maintains-that-bitcoin-should-not-be-seen-as-a-replacem-221741782-16x9.jpg?size=948:533",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNjblZQVldOb1h6QlphRFJJVFJDb0FSaXNBaWdCTWdZZGxZek1NUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T08:20:52.000Z",
+    "source_url": "https://www.businesstoday.in",
+    "source_name": "Business Today",
+    "source_logo_url": "https://lh3.googleusercontent.com/bj4kVNBXXhPMnTj1l3nrI-Hia0ylTCxzt0reKbNeUBjgEnqdbNQJMxrGHd9sQ1NV7wnDRNARRZ8",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMKLk3Aow5fDOAQ",
     "related_topics": []
   },
   {
@@ -925,39 +929,6 @@
         "topic_name": "Carol Van Dam"
       }
     ]
-  },
-  {
-    "title": "Bullish Exchange to join CME CF Cryptocurrency Indices",
-    "link": "https://fxnewsgroup.com/forex-news/exchanges/bullish-exchange-to-join-cme-cf-cryptocurrency-indices/",
-    "snippet": "Effective December 30th, 2024, Bullish Exchange will begin contributing market data to the CME CF Bitcoin Reference Rate (BRR), CME CF Bitcoin ...",
-    "photo_url": "https://fxnewsgroup.com/wp-content/uploads/2020/05/cme-group-office-978x400.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXhTVkV6WjNseGFEbHNkRU5mVFJDUEFSamZBaWdCTWdNQkFCNA=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T14:13:37.000Z",
-    "source_url": "https://fxnewsgroup.com",
-    "source_name": "FX News Group",
-    "source_logo_url": "https://lh3.googleusercontent.com/zyaseJ9d4SDTEsCerWsnnFNMduOUXxDkfEBftd2wcY2UzpNIkSd20IidxxLdUdpX5O0_jQFNBQ",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fxnewsgroup.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMNi2ogswm8G6Aw",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TW5keU1EUTNlaElDWlc0b0FBUAE",
-        "topic_name": "Maria Nikolova"
-      }
-    ]
-  },
-  {
-    "title": "Bitcoin at $100k: Here's Jefferies' Chris Wood advice to cryptocurrency investors",
-    "link": "https://www.businesstoday.in/personal-finance/investment/story/bitcoin-at-100k-heres-jefferies-chris-wood-advice-to-cryptocurrency-investors-454676-2024-11-22",
-    "snippet": "As of Friday, Bitcoin (BTC) reached a high of $99,300, just shy of the anticipated $100,000 threshold following the US election.",
-    "photo_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202411/67403e2b7a0f0-even-with-the-recent-increase-in-price--wood-maintains-that-bitcoin-should-not-be-seen-as-a-replacem-221741782-16x9.jpg?size=948:533",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNjblZQVldOb1h6QlphRFJJVFJDb0FSaXNBaWdCTWdZZGxZek1NUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T08:20:52.000Z",
-    "source_url": "https://www.businesstoday.in",
-    "source_name": "Business Today",
-    "source_logo_url": "https://lh3.googleusercontent.com/bj4kVNBXXhPMnTj1l3nrI-Hia0ylTCxzt0reKbNeUBjgEnqdbNQJMxrGHd9sQ1NV7wnDRNARRZ8",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMKLk3Aow5fDOAQ",
-    "related_topics": []
   },
   {
     "title": "Cryptocurrency Investment Products See Record $33.5 Billion Year-to-Date Inflows",
@@ -993,6 +964,25 @@
     ]
   },
   {
+    "title": "New York Judge Allows Greenidge Cryptocurrency Mining To Continue in Finger Lakes",
+    "link": "https://nynow.wmht.org/blogs/politics/new-york-judge-allows-greenidge-cryptocurrency-mining-to-continue-in-finger-lakes/",
+    "snippet": "The cryptocurrency company Greenidge Generation has been allowed to continue to operate its power plant in Yates County for the time being, ...",
+    "photo_url": "https://image.pbs.org/bento3-prod/nynow-wmht/NYN_Blog_Images/b9422ea39e_Greenidge_Seneca_Crypto_April_2021.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhVMkZPUlZaRmFra3lWRzVqVFJDTUFSam9BaWdCTWdhNUFvWXpqUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-20T08:00:00.000Z",
+    "source_url": "https://nynow.wmht.org",
+    "source_name": "New York NOW",
+    "source_logo_url": "https://lh3.googleusercontent.com/asxnLzjuA0aQz78z-uCUN-YGxWrMRNBsbMv4xZ8XRr2dzSqe2Xois3_qfF_r2nZfQwVNcueWRQ",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nynow.wmht.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAiEMSwhAIMuRS8gO4BS5q2AlcqFAgKIhDEsIQCDLkUvIDuAUuatgJX",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4MWQzSnNjUklDWlc0b0FBUAE",
+        "topic_name": "Rebecca Redelmeier"
+      }
+    ]
+  },
+  {
     "title": "Best Crypto to Buy Now – The 10+ Top Cryptos of 2024",
     "link": "https://www.techopedia.com/cryptocurrency/best-crypto-to-buy",
     "snippet": "This guide is divided into two sections. First, we cover the big names like Bitcoin, Ethereum, and other established and popular cryptocurrencies.",
@@ -1012,40 +1002,35 @@
     ]
   },
   {
-    "title": "Wills, Trusts & Estates Prof Blog",
-    "link": "https://lawprofessors.typepad.com/trusts_estates_prof/2024/11/bequeathing-bitcoin-storing-and-transferring-cryptocurrency-upon-death.html",
-    "snippet": "Inheriting cryptocurrency presents several hurdles for heirs, including access issues, complex probate procedures, and security risks.",
-    "photo_url": "https://lawprofessors.typepad.com/.a/6a00d8341bfae553ef02c8d3c42028200c-pi",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdRMGxKTTNsNlFYSldSbGxpVFJDckFSaW5BaWdCTWdZQlVZN05OQVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-20T20:35:45.000Z",
-    "source_url": "https://lawprofessors.typepad.com",
-    "source_name": "Law Professor Blogs Network",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://lawprofessors.typepad.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqOAgKIjJDQklTSHdnTWFoc0tHV3hoZDNCeWIyWmxjM052Y25NdWRIbHdaWEJoWkM1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRFYyYm5Ga014SUNaVzRvQUFQAQ",
-        "topic_name": "Gerry W Beyer"
-      }
-    ]
+    "title": "Which Crypto To Buy Right Now? 10 Best Cryptocurrency Coins To Buy For the Bull Run",
+    "link": "https://bravenewcoin.com/insights/which-crypto-to-buy-right-now-10-best-cryptocurrency-coins-to-buy-for-the-bull-run",
+    "snippet": "10 Best Cryptocurrency Coins to Buy for the Bull Run: An Exploration · JetBolt (JBOLT) · Solana (SOL) · Sui (SUI) · Dogecoin (DOGE) · Kaspa (KAS).",
+    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2024/11/JetBolt-nov-22-1.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxSRnBsZUhwaVpWWTBZMWR4VFJDb0FSaXNBaWdCTWdZSllwSXBLUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T10:07:34.000Z",
+    "source_url": "https://bravenewcoin.com",
+    "source_name": "Brave New Coin Insights",
+    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
+    "related_topics": []
   },
   {
-    "title": "Who Let The DOGE Out? Why Is A Dogecoin At A $55 Billion Market Cap?",
-    "link": "https://www.forbes.com/sites/digital-assets/2024/11/19/who-let-the-doge-out-why-is-a-dogecoin-at-a-55-billion-market-cap/",
-    "snippet": "DogeCoin is at $55B market cap. It's used for paying bills, investing, and even Elon Musk has a new government department named after Doge.",
-    "photo_url": "https://imageio.forbes.com/specials-images/imageserve/673be94180bf5dda850cbf8a/JAPAN-INTERNET-CRYPTO-MEME-DOGE-WOW/960x0.jpg?format=jpg&width=960",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWtabEl4WDAxRWJWUk9SMDVRVFJDM0FSaVRBaWdCTWdzVkFZb0tOdVdwWnpvVmtR=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T13:00:00.000Z",
-    "source_url": "https://www.forbes.com",
-    "source_name": "Forbes",
-    "source_logo_url": "https://lh3.googleusercontent.com/NIjzR9QHtZJllEvJIVkODXFQ7_rbx1BMBXx2rNUbttjuu9YWLIp2_juQaI9jJ2rDtzi6snbZ",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBggKMK6pATCgRQ",
+    "title": "Donald Trump’s social media group in talks to buy crypto trading venue",
+    "link": "https://www.ft.com/content/d7f921d5-3668-4b6b-a98d-2681ad73610f",
+    "snippet": "Donald Trump's social media company is in advanced talks to buy Bakkt, a cryptocurrency trading venue owned by Intercontinental Exchange, ...",
+    "photo_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faad8ab3f-4a45-4836-ab01-8c3a268e2292.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVhkMEpVYWsxM1ZtNTFOV0prVFJDb0FSaXJBaWdCTWdtQk1KS1lrQ3JCcndF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-18T20:38:13.000Z",
+    "source_url": "https://www.ft.com",
+    "source_name": "Financial Times",
+    "source_logo_url": "https://lh3.googleusercontent.com/281oPpXmEcGU9cV4N2LudyLEG2aBqbqG2iDoMoXUXKl-SWD4AUdO5652KVTGNmcduSWZB_7j",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMPuH1gcw-M9I",
     "related_topics": [
       {
-        "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRGRyTkhZd2JSSUNaVzRvQUFQAQ",
-        "topic_name": "Sandy Carter"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OeWNIYzBheElDWlc0b0FBUAE",
+        "topic_name": "Philip Stafford"
       }
     ]
   },
@@ -1065,6 +1050,58 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoeGRtZDBNaElDWlc0b0FBUAE",
         "topic_name": "Chris Katje"
+      }
+    ]
+  },
+  {
+    "title": "Ready to Invest in Cryptocurrency? 3 Tips for Mitigating Risk and Building a Successful Portfolio",
+    "link": "https://www.fool.com/investing/2024/11/24/ready-to-invest-in-cryptocurrency-3-tips-for-mitig/",
+    "snippet": "Crypto investing can be thrilling, but these three risk management tips might save your portfolio.",
+    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F798395%2Fgettyimages-1450340186-600x400-bf06395.jpg&op=resize&w=400&h=400",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVWRUYwTFhSTWFXUjZZa1ZJVFJDM0FSaVRBaWdCTWdhNVk1WlNLUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-24T08:03:00.000Z",
+    "source_url": "https://www.fool.com",
+    "source_name": "The Motley Fool",
+    "source_logo_url": "https://lh3.googleusercontent.com/u___MImBqnU9wKX2S8izNzezTr5Mo8dtlLQmQZD2Z7NCzdolU7N-WCRETVow4DmQUy-squNXug",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBQgKMIB5MKAR",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWXpab1gydGllaElDWlc0b0FBUAE",
+        "topic_name": "Rj Fulton"
+      }
+    ]
+  },
+  {
+    "title": "Willbet.io Integrates Cryptocurrency into Online Gaming with Extensive Offerings",
+    "link": "https://decrypt.co/293145/willbet-io-integrates-cryptocurrency-into-online-gaming-with-extensive-offerings",
+    "snippet": "Willbet.io supports betting on various sports, such as soccer, basketball, tennis, and niche games like darts and volleyball. Esports ...",
+    "photo_url": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/WechatIMG721_1732278846PnWfLqi79I-gID_7.jpeg@webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWZiMEp3T0d4VGRUYzVUWFJFVFJDdUFSaWlBaWdCTWdNWkl3aw=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T17:34:34.000Z",
+    "source_url": "https://decrypt.co",
+    "source_name": "Decrypt",
+    "source_logo_url": "https://lh3.googleusercontent.com/cBw9539xkEI5mbN7le2ibNLWkQz6SipNCpxgWHDdobvuKJ77LZ93wsTz3tjIwxrHjiEMnkL6",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://decrypt.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMK2IkgswlLGnAw",
+    "related_topics": []
+  },
+  {
+    "title": "Who Let The DOGE Out? Why Is A Dogecoin At A $55 Billion Market Cap?",
+    "link": "https://www.forbes.com/sites/digital-assets/2024/11/19/who-let-the-doge-out-why-is-a-dogecoin-at-a-55-billion-market-cap/",
+    "snippet": "DogeCoin is at $55B market cap. It's used for paying bills, investing, and even Elon Musk has a new government department named after Doge.",
+    "photo_url": "https://imageio.forbes.com/specials-images/imageserve/673be94180bf5dda850cbf8a/JAPAN-INTERNET-CRYPTO-MEME-DOGE-WOW/960x0.jpg?format=jpg&width=960",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNWtabEl4WDAxRWJWUk9SMDVRVFJDM0FSaVRBaWdCTWdzVkFZb0tOdVdwWnpvVmtR=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T13:00:00.000Z",
+    "source_url": "https://www.forbes.com",
+    "source_name": "Forbes",
+    "source_logo_url": "https://lh3.googleusercontent.com/NIjzR9QHtZJllEvJIVkODXFQ7_rbx1BMBXx2rNUbttjuu9YWLIp2_juQaI9jJ2rDtzi6snbZ",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBggKMK6pATCgRQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRGRyTkhZd2JSSUNaVzRvQUFQAQ",
+        "topic_name": "Sandy Carter"
       }
     ]
   },
@@ -1102,25 +1139,6 @@
     "related_topics": []
   },
   {
-    "title": "Donald Trump’s social media group in talks to buy crypto trading venue",
-    "link": "https://www.ft.com/content/d7f921d5-3668-4b6b-a98d-2681ad73610f",
-    "snippet": "Donald Trump's social media company is in advanced talks to buy Bakkt, a cryptocurrency trading venue owned by Intercontinental Exchange, ...",
-    "photo_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faad8ab3f-4a45-4836-ab01-8c3a268e2292.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVhkMEpVYWsxM1ZtNTFOV0prVFJDb0FSaXJBaWdCTWdtQk1KS1lrQ3JCcndF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-18T20:38:13.000Z",
-    "source_url": "https://www.ft.com",
-    "source_name": "Financial Times",
-    "source_logo_url": "https://lh3.googleusercontent.com/281oPpXmEcGU9cV4N2LudyLEG2aBqbqG2iDoMoXUXKl-SWD4AUdO5652KVTGNmcduSWZB_7j",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMPuH1gcw-M9I",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OeWNIYzBheElDWlc0b0FBUAE",
-        "topic_name": "Philip Stafford"
-      }
-    ]
-  },
-  {
     "title": "Cryptocurrency Prices Plunge as Investors Sell Off Risky Assets",
     "link": "https://www.pymnts.com/cryptocurrency/2024/cryptocurrency-prices-plunge-as-investors-sell-off-risky-assets/",
     "snippet": "Bitcoin, the world's largest cryptocurrency, experienced a 15% drop in 24 hours, reaching its lowest level since February. Ether, the native ...",
@@ -1132,20 +1150,6 @@
     "source_logo_url": "https://lh3.googleusercontent.com/qnD_1Sjs9RVDS34RuwrXMkevrfpdam7nRppE8ebbsnjW9WSSgtYhQ_B709GtyUqtf4iE2_0x-2M",
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAiEJu-c9qXIWq8-2vdBInTGh4qFAgKIhCbvnPalyFqvPtr3QSJ0xoe",
-    "related_topics": []
-  },
-  {
-    "title": "Which Crypto To Buy Right Now? 10 Best Cryptocurrency Coins To Buy For the Bull Run",
-    "link": "https://bravenewcoin.com/insights/which-crypto-to-buy-right-now-10-best-cryptocurrency-coins-to-buy-for-the-bull-run",
-    "snippet": "10 Best Cryptocurrency Coins to Buy for the Bull Run: An Exploration · JetBolt (JBOLT) · Solana (SOL) · Sui (SUI) · Dogecoin (DOGE) · Kaspa (KAS).",
-    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2024/11/JetBolt-nov-22-1.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxSRnBsZUhwaVpWWTBZMWR4VFJDb0FSaXNBaWdCTWdZSllwSXBLUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T10:07:34.000Z",
-    "source_url": "https://bravenewcoin.com",
-    "source_name": "Brave New Coin Insights",
-    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
     "related_topics": []
   },
   {
@@ -1163,25 +1167,6 @@
     "related_topics": []
   },
   {
-    "title": "13 Canadian Crypto ETFs (Updated 2024)",
-    "link": "https://www.nasdaq.com/articles/13-canadian-crypto-etfs-updated-2024",
-    "snippet": "13 Canadian Crypto ETFs (Updated 2024) · 1. Purpose Bitcoin ETF (TSX:BTCC) · 2. CI Galaxy Bitcoin ETF (TSX:BTCX.B) · 3. Fidelity Advantage ...",
-    "photo_url": "https://www.nasdaq.com/sites/acquia.prod/files/investing_news_network/42f337826a8f7d45cbf6712a4695503dc3f58a0a-canada-flag-and-various-crypto-coins-including-bitcoin-and-ether.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxUM0JYV2xOTlIxUjJNRk5rVFJDZkFSaS1BaWdCTWdrQkFJaHlEQ1YwNHdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T21:30:00.000Z",
-    "source_url": "https://www.nasdaq.com",
-    "source_name": "Nasdaq",
-    "source_logo_url": "https://lh3.googleusercontent.com/obUo_H0W5xK1zxQROoKjSILqoGF8_hB6luclCgcakg3Ar6w8bDlZxsX-wcgP0MowaQVShVUibg",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nasdaq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAiEE-FQ2JsaWgze8uSb7HEvRYqFAgKIhBPhUNibGloM3vLkm-xxL0W",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYkhKeGNIWjVheElDWlc0b0FBUAE",
-        "topic_name": "Meagen Seatter"
-      }
-    ]
-  },
-  {
     "title": "Bitcoin Hits All-Time High of $94,000 as Post-Election Rally Continues",
     "link": "https://www.investopedia.com/bitcoin-hits-record-high-usd94-000-trump-cryptocurrency-8748171",
     "snippet": "Bitcoin hit a record high of just above $94,000 on Tuesday afternoon. The cryptocurrency has surged in the two weeks since Donald Trump's ...",
@@ -1193,34 +1178,6 @@
     "source_logo_url": "https://lh3.googleusercontent.com/0hYGbsOZWCCeqnb_p_iGTScksgVWK0ScH8qbaFrwqvUvwJFITE7jf-1HQZzWLuFOrEkDZuq8Aao",
     "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAiEGiPiiEpzjScjDzUrf3i0EwqFAgKIhBoj4ohKc40nIw81K394tBM",
-    "related_topics": []
-  },
-  {
-    "title": "Lewiston Police Warn of Cryptocurrency Scam Targeting Residents",
-    "link": "https://www.bigcountrynewsconnection.com/idaho/lewiston-police-warn-of-cryptocurrency-scam-targeting-residents/article_6626a0da-a782-11ef-8fc4-0fa96fce7aaa.html",
-    "snippet": "LEWISTON - The Lewiston Police Department has issued a warning about cryptocurrency scams targeting local residents.",
-    "photo_url": "https://bloximages.newyork1.vip.townnews.com/bigcountrynewsconnection.com/content/tncms/assets/v3/editorial/0/19/0198e6cc-a783-11ef-962e-ffa94795147f/673e4eef4bb2c.image.jpg?resize=400%2C272",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJSalZ4VHpoQmEyeGFTME13VFJDNUFSaVFBaWdCTWdhZGM0RE9zUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-20T20:59:00.000Z",
-    "source_url": "https://www.bigcountrynewsconnection.com",
-    "source_name": "Big Country News",
-    "source_logo_url": "https://lh3.googleusercontent.com/EdaPWdNiCBHlqFVBc89XQ6NkKKCZ6mSe4nw2IRC9whbUY9HAAkK0Om8qwdzql9M7JdlHZSYT",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bigcountrynewsconnection.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMLGm1gswycHtAw",
-    "related_topics": []
-  },
-  {
-    "title": "Willbet.io Integrates Cryptocurrency into Online Gaming with Extensive Offerings",
-    "link": "https://decrypt.co/293145/willbet-io-integrates-cryptocurrency-into-online-gaming-with-extensive-offerings",
-    "snippet": "Willbet.io supports betting on various sports, such as soccer, basketball, tennis, and niche games like darts and volleyball. Esports ...",
-    "photo_url": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/WechatIMG721_1732278846PnWfLqi79I-gID_7.jpeg@webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWZiMEp3T0d4VGRUYzVUWFJFVFJDdUFSaWlBaWdCTWdNWkl3aw=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T17:34:34.000Z",
-    "source_url": "https://decrypt.co",
-    "source_name": "Decrypt",
-    "source_logo_url": "https://lh3.googleusercontent.com/cBw9539xkEI5mbN7le2ibNLWkQz6SipNCpxgWHDdobvuKJ77LZ93wsTz3tjIwxrHjiEMnkL6",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://decrypt.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMK2IkgswlLGnAw",
     "related_topics": []
   },
   {
@@ -1239,6 +1196,72 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhvMGF6SnFlQklDWlc0b0FBUAE",
         "topic_name": "David Hollerith"
+      }
+    ]
+  },
+  {
+    "title": "Lewiston Police Warn of Cryptocurrency Scam Targeting Residents",
+    "link": "https://www.bigcountrynewsconnection.com/idaho/lewiston-police-warn-of-cryptocurrency-scam-targeting-residents/article_6626a0da-a782-11ef-8fc4-0fa96fce7aaa.html",
+    "snippet": "LEWISTON - The Lewiston Police Department has issued a warning about cryptocurrency scams targeting local residents.",
+    "photo_url": "https://bloximages.newyork1.vip.townnews.com/bigcountrynewsconnection.com/content/tncms/assets/v3/editorial/0/19/0198e6cc-a783-11ef-962e-ffa94795147f/673e4eef4bb2c.image.jpg?resize=400%2C272",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJSalZ4VHpoQmEyeGFTME13VFJDNUFSaVFBaWdCTWdhZGM0RE9zUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-20T20:59:00.000Z",
+    "source_url": "https://www.bigcountrynewsconnection.com",
+    "source_name": "Big Country News",
+    "source_logo_url": "https://lh3.googleusercontent.com/EdaPWdNiCBHlqFVBc89XQ6NkKKCZ6mSe4nw2IRC9whbUY9HAAkK0Om8qwdzql9M7JdlHZSYT",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bigcountrynewsconnection.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMLGm1gswycHtAw",
+    "related_topics": []
+  },
+  {
+    "title": "FBI pierces ‘anonymity’ of cryptocurrency, secret domain registrars in Scattered Spider probe",
+    "link": "https://www.csoonline.com/article/3610829/fbi-pierces-anonymity-of-cryptocurrency-secret-domain-registrars-in-scattered-spider-probe.html",
+    "snippet": "The attackers then reportedly used a domain registry called NameCheap, which dubs itself as offering “private domain registration” and touts, ...",
+    "photo_url": "https://www.csoonline.com/wp-content/uploads/2024/11/3610829-0-55591700-1732243735-hacker-handcuffs-laptop-cybercrime-cyber-crime-arrested-100937828-orig.jpg?quality=50&strip=all",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlPVFJaWkhSSk9VRlBPRkZsVFJDM0FSaVRBaWdCTWdZcFVaVHRKQWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T02:49:33.000Z",
+    "source_url": "https://www.csoonline.com",
+    "source_name": "CSO Online",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.csoonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV056YjI5dWJHbHVaUzVqYjIwb0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhseGRtcDRlQklDWlc0b0FBUAE",
+        "topic_name": "Evan Schuman"
+      }
+    ]
+  },
+  {
+    "title": "WisdomTree launches ETP focused on XRP cryptocurrency",
+    "link": "https://citywire.com/selector/news/wisdomtree-launches-etp-focused-on-xrp-cryptocurrency/a2454961",
+    "snippet": "The American asset management firm brings its suite of physically backed cryptocurrency ETPs to nine differentiated products.",
+    "photo_url": "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_7b607b9f-a13f-46eb-8506-cb9df89d996b_Large",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVhSR3MyVUdONmVIcHhjR2hZVFJDZkFSaS1BaWdCTWdtRlVZU0hXZU9aU0FJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T10:09:21.000Z",
+    "source_url": "https://citywire.com",
+    "source_name": "Citywire Selector",
+    "source_logo_url": "https://lh3.googleusercontent.com/FYBs-LUSjyWjuUfWA9ryaonqHQhhKnuRjtJiTm98x6MVKl-jSOZvn4jbPrQGgFy7XX9aBcf7",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://citywire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMJ-2wQswwdHYAw",
+    "related_topics": []
+  },
+  {
+    "title": "Charles Schwab Eyes Spot Crypto Trading Once Regulations Change",
+    "link": "https://finance.yahoo.com/news/charles-schwab-eyes-spot-crypto-204834225.html",
+    "snippet": "“We will get into spot crypto when the regulatory environment changes, and we do anticipate that it will change, and we're getting ready for ...",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/j8B0Zr_PRoY51pZfSc5DfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyMw--/https://media.zenfs.com/en/bloomberg_markets_842/bd6b5ebb898f25f78baf0269a5417874",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXNPRTlOVjFabWFuQjZTSEZUVFJDMkFSaVVBaWdCTWdrQklJd0hFV1RKTUFF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T20:48:34.000Z",
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": "https://lh3.googleusercontent.com/L57n4HUzUS8lNXBPYNGQScsyxaqqx42Nym3-tUk8NzkTvMsa95NhzEqC8KMqVPFpAFpCuPFdlA",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAiEAcAd4fUu3kgFBTFqJNcqyoqFAgKIhAHAHeH1Lt5IBQUxaiTXKsq",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NM2VqTmZlaElDWlc0b0FBUAE",
+        "topic_name": "Paige Smith"
       }
     ]
   },
@@ -1262,39 +1285,6 @@
     ]
   },
   {
-    "title": "Police claim NK hackers stole cryptocurrency worth W58b",
-    "link": "https://www.koreaherald.com/view.php?ud=20241121050098",
-    "snippet": "지드래곤의 프로필상 키와 같은 것으로 적혀있는 승리의 경우는 더했다. 163cm의 구혜선과 나란히 섰는데도 승리는 그리 큰 차이가 보이지 않았다. 프로필 ...",
-    "photo_url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=681&simg=%2Fcontent%2Fimage%2F2024%2F11%2F21%2F20241121050104_0.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxWMGN6VkhCS2FVSjZOV0ZqVFJEQ0FSaURBaWdCTWdZQlFaYWtvUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T08:37:11.000Z",
-    "source_url": "https://www.koreaherald.com",
-    "source_name": "The Korea Herald",
-    "source_logo_url": "https://lh3.googleusercontent.com/evQyykT0jHqpN2lGn6AGmWIEu5L_Q7HJVux3jEpQOXUBI7yELp5UvIuiIB7S-3iOtn78hDDY1w",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.koreaherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMJKC3QowmYDQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "Bitcoin Surpasses $95,000: A Milestone in Cryptocurrency Markets",
-    "link": "https://news.bitcoin.com/bitcoin-surpasses-95000-a-milestone-in-cryptocurrency-markets/",
-    "snippet": "The leading crypto asset bitcoin (BTC) reached an all-time high of $95023 on Bitstamp today, gaining 4% against the U.S. dollar.",
-    "photo_url": "https://static.news.bitcoin.com/wp-content/uploads/2024/11/moonshot.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpjMXBDV2xCRVRGWk5YMGR3VFJDb0FSaXNBaWdCTWdheE1aS1FMUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T01:43:43.000Z",
-    "source_url": "https://news.bitcoin.com",
-    "source_name": "Bitcoin.com News",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.bitcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNNdVltbDBZMjlwYmk1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWWpSdVkzbDJlaElDWlc0b0FBUAE",
-        "topic_name": "Jamie Leanna Redman"
-      }
-    ]
-  },
-  {
     "title": "Bitcoin at record highs, sets sights on $100,000",
     "link": "https://www.reuters.com/technology/bitcoin-record-highs-sets-sights-100000-2024-11-22/",
     "snippet": "After touching a fresh record high above $99,800 , bitcoin pulled back a touch to trade up 1.33% on the day, around $99,383. Still, the momentum ...",
@@ -1312,6 +1302,20 @@
         "topic_name": "Hannah Erin Lang"
       }
     ]
+  },
+  {
+    "title": "Police claim NK hackers stole cryptocurrency worth W58b",
+    "link": "https://www.koreaherald.com/view.php?ud=20241121050098",
+    "snippet": "지드래곤의 프로필상 키와 같은 것으로 적혀있는 승리의 경우는 더했다. 163cm의 구혜선과 나란히 섰는데도 승리는 그리 큰 차이가 보이지 않았다. 프로필 ...",
+    "photo_url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=681&simg=%2Fcontent%2Fimage%2F2024%2F11%2F21%2F20241121050104_0.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxWMGN6VkhCS2FVSjZOV0ZqVFJEQ0FSaURBaWdCTWdZQlFaYWtvUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T08:37:11.000Z",
+    "source_url": "https://www.koreaherald.com",
+    "source_name": "The Korea Herald",
+    "source_logo_url": "https://lh3.googleusercontent.com/evQyykT0jHqpN2lGn6AGmWIEu5L_Q7HJVux3jEpQOXUBI7yELp5UvIuiIB7S-3iOtn78hDDY1w",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.koreaherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMJKC3QowmYDQAQ",
+    "related_topics": []
   },
   {
     "title": "High schoolers donate $5,000 they made from cryptocurrency to Petaluma Health Center",
@@ -1333,42 +1337,37 @@
     ]
   },
   {
-    "title": "FBI pierces ‘anonymity’ of cryptocurrency, secret domain registrars in Scattered Spider probe",
-    "link": "https://www.csoonline.com/article/3610829/fbi-pierces-anonymity-of-cryptocurrency-secret-domain-registrars-in-scattered-spider-probe.html",
-    "snippet": "The attackers then reportedly used a domain registry called NameCheap, which dubs itself as offering “private domain registration” and touts, ...",
-    "photo_url": "https://www.csoonline.com/wp-content/uploads/2024/11/3610829-0-55591700-1732243735-hacker-handcuffs-laptop-cybercrime-cyber-crime-arrested-100937828-orig.jpg?quality=50&strip=all",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlPVFJaWkhSSk9VRlBPRkZsVFJDM0FSaVRBaWdCTWdZcFVaVHRKQWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T02:49:33.000Z",
-    "source_url": "https://www.csoonline.com",
-    "source_name": "CSO Online",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.csoonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV056YjI5dWJHbHVaUzVqYjIwb0FBUAE",
+    "title": "MicroStrategy Taps Stock Market to Fund Record Bitcoin Buy",
+    "link": "https://finance.yahoo.com/news/microstrategy-buys-4-6-billion-131526958.html",
+    "snippet": "(Bloomberg) -- MicroStrategy Inc. bought a record $4.6 billion in Bitcoin, making good on plans announced last month to tap capital markets ...",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/xELYIw3VXJ9Mtnv3kKHsvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/99e2730091a9b98fdb3d50b222c93895",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBYMFkzTXpCbU5raDZkMW8yVFJDM0FSaVRBaWdCTWdZaGhJaXR0UVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-18T21:33:06.000Z",
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": "https://lh3.googleusercontent.com/L57n4HUzUS8lNXBPYNGQScsyxaqqx42Nym3-tUk8NzkTvMsa95NhzEqC8KMqVPFpAFpCuPFdlA",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAiEAcAd4fUu3kgFBTFqJNcqyoqFAgKIhAHAHeH1Lt5IBQUxaiTXKsq",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhseGRtcDRlQklDWlc0b0FBUAE",
-        "topic_name": "Evan Schuman"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUROaWNubG9heElDWlc0b0FBUAE",
+        "topic_name": "Monique Mulima"
       }
     ]
   },
   {
-    "title": "New York Judge Allows Greenidge Cryptocurrency Mining To Continue in Finger Lakes",
-    "link": "https://nynow.wmht.org/blogs/politics/new-york-judge-allows-greenidge-cryptocurrency-mining-to-continue-in-finger-lakes/",
-    "snippet": "The cryptocurrency company Greenidge Generation has been allowed to continue to operate its power plant in Yates County for the time being, ...",
-    "photo_url": "https://image.pbs.org/bento3-prod/nynow-wmht/NYN_Blog_Images/b9422ea39e_Greenidge_Seneca_Crypto_April_2021.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhVMkZPUlZaRmFra3lWRzVqVFJDTUFSam9BaWdCTWdhNUFvWXpqUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-20T08:00:00.000Z",
-    "source_url": "https://nynow.wmht.org",
-    "source_name": "New York NOW",
-    "source_logo_url": "https://lh3.googleusercontent.com/asxnLzjuA0aQz78z-uCUN-YGxWrMRNBsbMv4xZ8XRr2dzSqe2Xois3_qfF_r2nZfQwVNcueWRQ",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nynow.wmht.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAiEMSwhAIMuRS8gO4BS5q2AlcqFAgKIhDEsIQCDLkUvIDuAUuatgJX",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4MWQzSnNjUklDWlc0b0FBUAE",
-        "topic_name": "Rebecca Redelmeier"
-      }
-    ]
+    "title": "This Could Be the Next Cryptocurrency to Turn $1000 into Millions: The New Shiba Inu (SHIB)",
+    "link": "https://bravenewcoin.com/insights/this-could-be-the-next-cryptocurrency-to-turn-1000-into-millions-the-new-shiba-inu-shib",
+    "snippet": "Shiba Inu attracted interest in the crypto space after its spectacular rise in 2020. SHIB moved from $0.00000006 to $0.00008845.",
+    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2024/11/Rexas-Finance-nov-23-1.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHpSR2RKTm5KeGFFb3hPVWxNVFJDcUFSaXBBaWdCTWdB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-23T15:30:25.000Z",
+    "source_url": "https://bravenewcoin.com",
+    "source_name": "Brave New Coin Insights",
+    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
+    "related_topics": []
   },
   {
     "title": "First cryptocurrency corruption case in China is former central bank official",
@@ -1409,40 +1408,21 @@
     ]
   },
   {
-    "title": "Canadian citizen sentenced in Cleveland to 4 years in prison for $8.2 million cryptocurrency scheme",
-    "link": "https://www.cleveland.com/court-justice/2024/11/canadian-citizen-sentenced-in-cleveland-to-4-years-in-prison-for-82-million-cryptocurrency-scheme.html",
-    "snippet": "Canadian citizen sentenced in Cleveland to 4 years in prison for $8.2 million cryptocurrency scheme · Updated: Nov. 21, 2024, 2:36 p.m. · | ...",
-    "photo_url": "https://www.cleveland.com/resizer/v2/FUO6S2BJHNGBLPSZVBJ4OIVZ4U.jpg?auth=8309acd567daf19413fe6ca48549580f0ff968d651cc6773b68a7f125dffcef1&width=1280&quality=90",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVdRemxNYlRsMmNXNUtUbHA2VFJDbkFSaXVBaWdCTWdNZFFodw=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T19:35:00.000Z",
-    "source_url": "https://www.cleveland.com",
-    "source_name": "cleveland.com",
+    "title": "Trump Media Eyeing Purchase of Cryptocurrency Platform Bakkt",
+    "link": "https://www.thedailybeast.com/trump-media-eyeing-purchase-of-cryptocurrency-platform-bakkt/",
+    "snippet": "The parent company of Donald Trump's Truth Social platform is engaged in talks to purchase a cryptocurrency trading platform, according to a ...",
+    "photo_url": "https://www.thedailybeast.com/resizer/v2/NOEQGLXY4ZCR3MTSGPP4IMJNOI.jpg?smart=true&auth=e7bd55897590bcaed643fbef2a07840fa3b9fec8d0a9a5ef24938f84780d20a4&width=1017&height=572",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpOMGgxT1RsWWNreHplRE5aVFJDb0FSaXNBaWdCTWdZZFJJNHFJZ2c=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T08:25:00.000Z",
+    "source_url": "https://www.thedailybeast.com",
+    "source_name": "The Daily Beast",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cleveland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMN6k_wowtbT4Ag",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thedailybeast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBggKMO7PATDQSA",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoek9EaHhheElDWlc0b0FBUAE",
-        "topic_name": "Adam Ferrise"
-      }
-    ]
-  },
-  {
-    "title": "Bitcoin surges to record high near $95,000",
-    "link": "https://www.reuters.com/technology/bitcoin-breaches-94000-first-time-2024-11-20/",
-    "snippet": "Bitcoin rose to a fresh record high just shy of $95000 after a report that Donald Trump's social media company was in talks to buy crypto ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/R2TCIFZNHFOJZLWOH2KEXCJUWM.jpg?auth=13228e6acc0d284956488344d3897882f27d5a57f9bb43f5b08d973dd2b16f4f&width=4000&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhXbDlKUzE4M09XRnZSVVY1VFJDeEFSaWNBaWdCTWdhQlpJYkxOUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-20T17:55:19.000Z",
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://lh3.googleusercontent.com/OzNZmYwP-Zl3sTWa8dzzyws9hou0ZihOGJ_-qanon-1iB5KwyqcHOwPxYZj54cGMZwD5qXui",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBggKMLegDDCwJg",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Ympaa2RuWTFNeElDWlc0b0FBUAE",
-        "topic_name": "Ankur Banerjee"
+        "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRzVqYkdZek5oSUNaVzRvQUFQAQ",
+        "topic_name": "Brett W. Bachman"
       }
     ]
   },
@@ -1466,25 +1446,6 @@
     ]
   },
   {
-    "title": "Trump Media Eyeing Purchase of Cryptocurrency Platform Bakkt",
-    "link": "https://www.thedailybeast.com/trump-media-eyeing-purchase-of-cryptocurrency-platform-bakkt/",
-    "snippet": "The parent company of Donald Trump's Truth Social platform is engaged in talks to purchase a cryptocurrency trading platform, according to a ...",
-    "photo_url": "https://www.thedailybeast.com/resizer/v2/NOEQGLXY4ZCR3MTSGPP4IMJNOI.jpg?smart=true&auth=e7bd55897590bcaed643fbef2a07840fa3b9fec8d0a9a5ef24938f84780d20a4&width=1017&height=572",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVpOMGgxT1RsWWNreHplRE5aVFJDb0FSaXNBaWdCTWdZZFJJNHFJZ2c=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T08:25:00.000Z",
-    "source_url": "https://www.thedailybeast.com",
-    "source_name": "The Daily Beast",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thedailybeast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBggKMO7PATDQSA",
-    "related_topics": [
-      {
-        "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRzVqYkdZek5oSUNaVzRvQUFQAQ",
-        "topic_name": "Brett W. Bachman"
-      }
-    ]
-  },
-  {
     "title": "VC VentureX Embraces the Future, Shifts Focus to Cryptocurrency",
     "link": "https://www.globenewswire.com/news-release/2024/11/21/2985053/0/en/VC-VentureX-Embraces-the-Future-Shifts-Focus-to-Cryptocurrency.html",
     "snippet": "VC VentureX seeks to accelerate the adoption of blockchain technology while producing substantial profits for its investors via the careful ...",
@@ -1499,18 +1460,23 @@
     "related_topics": []
   },
   {
-    "title": "Best Cryptocurrency to Invest Before Trump Presidency | Top 5 Crypto Coins Whales Are Buying",
-    "link": "https://bravenewcoin.com/insights/best-cryptocurrency-to-invest-before-trump-presidency-top-5-crypto-coins-whales-are-buying",
-    "snippet": "1. JetBolt (JBOLT). JetBolt is a young altcoin that's gaining massive traction. Here are a few reasons JetBolt is one of the top 5 crypto coins ...",
-    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2024/11/JetBolt-nov-21-3.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBOVkEyYkhaelZWaDRURlZCVFJDb0FSaXNBaWdCTWdZRkFKSjRvQWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T13:00:03.000Z",
-    "source_url": "https://bravenewcoin.com",
-    "source_name": "Brave New Coin Insights",
-    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
-    "related_topics": []
+    "title": "Bitcoin Surpasses $95,000: A Milestone in Cryptocurrency Markets",
+    "link": "https://news.bitcoin.com/bitcoin-surpasses-95000-a-milestone-in-cryptocurrency-markets/",
+    "snippet": "The leading crypto asset bitcoin (BTC) reached an all-time high of $95023 on Bitstamp today, gaining 4% against the U.S. dollar.",
+    "photo_url": "https://static.news.bitcoin.com/wp-content/uploads/2024/11/moonshot.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpjMXBDV2xCRVRGWk5YMGR3VFJDb0FSaXNBaWdCTWdheE1aS1FMUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T01:43:43.000Z",
+    "source_url": "https://news.bitcoin.com",
+    "source_name": "Bitcoin.com News",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.bitcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNNdVltbDBZMjlwYmk1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWWpSdVkzbDJlaElDWlc0b0FBUAE",
+        "topic_name": "Jamie Leanna Redman"
+      }
+    ]
   },
   {
     "title": "Printemps Now Accepts Cryptocurrency Payments",
@@ -1524,20 +1490,6 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theimpression.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWFJvWldsdGNISmxjM05wYjI0dVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "Crypto Down Under: Is New Zealand Becoming a Cryptocurrency Hotspot?",
-    "link": "https://bravenewcoin.com/insights/crypto-down-under-is-new-zealand-becoming-a-cryptocurrency-hotspot",
-    "snippet": "Notably, the Henley Crypto Adoption Index 2024 ranks New Zealand 14th globally, cementing its position as a country to watch in the crypto space ...",
-    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2024/11/New-Zealand-Crypto.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNabEYyUlhoWk5VeHlSbFJpVFJDeUFSaWJBaWdCTWdZbE5wUU1KZ2c=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T02:03:20.000Z",
-    "source_url": "https://bravenewcoin.com",
-    "source_name": "Brave New Coin Insights",
-    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
     "related_topics": []
   },
   {
@@ -1555,31 +1507,36 @@
     "related_topics": []
   },
   {
-    "title": "r/cryptocurrency on Reddit Launches First-Ever Onchain Domain For 8.8 Million Users",
-    "link": "https://www.accesswire.com/944436/rcryptocurrency-on-reddit-launches-first-ever-onchain-domain-for-88-million-users",
-    "snippet": "The new .MOON domain enables Reddit's vast community to expand beyond the platform and engage with the broader blockchain ecosystem.",
-    "photo_url": "https://storage.googleapis.com/accesswire/logos/subaccounts/share/40889.png?v=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpWbE55VVRGa1kxSlBVRWx4VFJDb0FSaXNBaWdCTWdZSmdKS3B0QVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-19T17:04:04.000Z",
-    "source_url": "https://www.accesswire.com",
-    "source_name": "AccessWire",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.accesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZqWTJWemMzZHBjbVV1WTI5dEtBQVAB",
-    "related_topics": []
+    "title": "Bitcoin surges to record high near $95,000",
+    "link": "https://www.reuters.com/technology/bitcoin-breaches-94000-first-time-2024-11-20/",
+    "snippet": "Bitcoin rose to a fresh record high just shy of $95000 after a report that Donald Trump's social media company was in talks to buy crypto ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/R2TCIFZNHFOJZLWOH2KEXCJUWM.jpg?auth=13228e6acc0d284956488344d3897882f27d5a57f9bb43f5b08d973dd2b16f4f&width=4000&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhXbDlKUzE4M09XRnZSVVY1VFJDeEFSaWNBaWdCTWdhQlpJYkxOUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-20T17:55:19.000Z",
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": "https://lh3.googleusercontent.com/OzNZmYwP-Zl3sTWa8dzzyws9hou0ZihOGJ_-qanon-1iB5KwyqcHOwPxYZj54cGMZwD5qXui",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBggKMLegDDCwJg",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Ympaa2RuWTFNeElDWlc0b0FBUAE",
+        "topic_name": "Ankur Banerjee"
+      }
+    ]
   },
   {
-    "title": "Logan Paul mocks the BBC with a double in a controversial cryptocurrency stunt",
-    "link": "https://www.marca.com/en/boxing/2024/11/21/673f7c8546163fa1198b457a.html",
-    "snippet": "Logan Paul mocks the BBC with a double in a controversial cryptocurrency stunt ... Logan Paul, the YouTuber-turned-WWE superstar, is no stranger ...",
-    "photo_url": "https://phantom-marca.unidadeditorial.es/f4bbac91d170d6e8b372f3323fb49655/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/21/17322136925484.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpMVU16YjBsWldXOVlXV2xNVFJDM0FSaVRBaWdCTWdZdE1vcU9uUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-21T18:33:46.000Z",
-    "source_url": "https://www.marca.com",
-    "source_name": "Marca.com",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marca.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzFoY21OaExtTnZiU2dBUAE",
+    "title": "Best Cryptocurrency to Invest Before Trump Presidency | Top 5 Crypto Coins Whales Are Buying",
+    "link": "https://bravenewcoin.com/insights/best-cryptocurrency-to-invest-before-trump-presidency-top-5-crypto-coins-whales-are-buying",
+    "snippet": "1. JetBolt (JBOLT). JetBolt is a young altcoin that's gaining massive traction. Here are a few reasons JetBolt is one of the top 5 crypto coins ...",
+    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2024/11/JetBolt-nov-21-3.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBOVkEyYkhaelZWaDRURlZCVFJDb0FSaXNBaWdCTWdZRkFKSjRvQWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-21T13:00:03.000Z",
+    "source_url": "https://bravenewcoin.com",
+    "source_name": "Brave New Coin Insights",
+    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
     "related_topics": []
   },
   {
@@ -1621,20 +1578,6 @@
     ]
   },
   {
-    "title": "Cryptocurrency markets post-election: A new era in global finance",
-    "link": "https://www.nationthailand.com/business/digital-assets/40043375",
-    "snippet": "The surge of Bitcoin to a new all-time high surpassing $88,000 following the U.S. primary elections marks more than just market optimism ...",
-    "photo_url": "https://media.nationthailand.com/uploads/images/md/2024/11/0Jmord2VMzNEFVVjKhnh.webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTBlVlZoTjFOd01EUnZTbXRRVFJDM0FSaVRBaWdCTWdtVk1weUlvaWhGcGdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-17T15:26:00.000Z",
-    "source_url": "https://www.nationthailand.com",
-    "source_name": "Nation Thailand",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nationthailand.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbTVoZEdsdmJuUm9ZV2xzWVc1a0xtTnZiU2dBUAE",
-    "related_topics": []
-  },
-  {
     "title": "Paramount Business Jets Now Accepting Cryptocurrency for Private Jet Charter Payments",
     "link": "https://www.prnewswire.com/news-releases/paramount-business-jets-now-accepting-cryptocurrency-for-private-jet-charter-payments-302312570.html",
     "snippet": "Clients can now pay for their luxury private jet travel using major cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), and USD Coin ( ...",
@@ -1649,12 +1592,45 @@
     "related_topics": []
   },
   {
+    "title": "r/cryptocurrency on Reddit Launches First-Ever Onchain Domain For 8.8 Million Users",
+    "link": "https://www.accesswire.com/944436/rcryptocurrency-on-reddit-launches-first-ever-onchain-domain-for-88-million-users",
+    "snippet": "The new .MOON domain enables Reddit's vast community to expand beyond the platform and engage with the broader blockchain ecosystem.",
+    "photo_url": "https://storage.googleapis.com/accesswire/logos/subaccounts/share/40889.png?v=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpWbE55VVRGa1kxSlBVRWx4VFJDb0FSaXNBaWdCTWdZSmdKS3B0QVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-19T17:04:04.000Z",
+    "source_url": "https://www.accesswire.com",
+    "source_name": "AccessWire",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.accesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZqWTJWemMzZHBjbVV1WTI5dEtBQVAB",
+    "related_topics": []
+  },
+  {
+    "title": "A Federal Agent’s Laptop Held the Keys to Seize $3.6 Billion in Stolen Bitcoin. Here’s How It Ended Up at the Smithsonian",
+    "link": "https://www.smithsonianmag.com/smithsonian-institution/a-federal-agents-laptop-held-the-keys-to-seize-36-billion-in-stolen-bitcoin-heres-how-it-ended-up-at-the-smithsonian-180985485/",
+    "snippet": "The laptop and the case around it reveal how our understanding of cryptocurrency has changed since its inception and why this evolution matters.",
+    "photo_url": "https://th-thumbnailer.cdn-si-edu.com/71StwxE9Pas6YgC9SIjzopUTQQk=/1000x750/filters:no_upscale():focal(3750x2821:3751x2822)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/e2/dce2bc48-6631-4906-9d02-2ca3b0aa2663/jn2024-01191.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNNRnB5VFRkTlRqWkhkekpHVFJEQ0FSaURBaWdCTWdZVlE0anFKUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-18T20:11:30.000Z",
+    "source_url": "https://www.smithsonianmag.com",
+    "source_name": "Smithsonian Magazine",
+    "source_logo_url": "https://lh3.googleusercontent.com/YGfO7Aqj3dPtWZMa_CgNa7Gx0pSA4-soYzBg8CU1f5hygglskCB97sLbfNVII_7ahwwGnTWbGA",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.smithsonianmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBggKMPPEBjDAWw",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTWpOcVluZHNYeElDWlc0b0FBUAE",
+        "topic_name": "Ellen R. Feingold"
+      }
+    ]
+  },
+  {
     "title": "Best Crypto to Buy Now - November 24, 2024 - Top Crypto to Invest In",
     "link": "https://cryptonews.com/cryptocurrency/best-crypto-to-buy/",
-    "snippet": "According to our research, the best cryptos to buy on November 23, 2024 are Bitcoin, Ethereum, XRP, Solana, BNB, Dogecoin, Cardano, and Notcoin.",
+    "snippet": "According to our research, the best cryptos to buy on November 24, 2024 are Bitcoin, Ethereum, XRP, Solana, BNB, Dogecoin, Cardano, and Notcoin. Bitcoin stands ...",
     "photo_url": "https://cimg.co/wp-content/uploads/2024/03/25174456/1711388696-best-crypto-to-buy-now.webp",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRURVJzZFVkVGMwOTJWSGxWVFJDMkFSaVZBaWdCTWdZaGRaRE1NUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-24T02:04:00.000Z",
+    "published_datetime_utc": "2024-11-24T07:30:00.000Z",
     "source_url": "https://cryptonews.com",
     "source_name": "Cryptonews",
     "source_logo_url": "https://lh3.googleusercontent.com/9v-48xZT00jSn5Us-COIAzLmw2sCsDrrpwxUT-epDZ1e5xKyelDoWIICX9Q85SdCY028FVlBBw",
@@ -1666,6 +1642,20 @@
         "topic_name": "Alan Draper"
       }
     ]
+  },
+  {
+    "title": "Top 10 Cryptocurrencies Price Analysis",
+    "link": "https://cointelegraph.com/category/top-10-cryptocurrencies",
+    "snippet": "Cointelegraph's cryptocurrencies analysis is the most efficient and swift way to keep track of the cryptocurrency market and its development.",
+    "photo_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=370/https://s3.cointelegraph.com/uploads/2024-11/019354e7-c52d-753e-97b3-03f3d81e787d",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNVJORXB3YW1GYWRWVnpUR1p2VFJDM0FSaVRBaWdCTWdzQkFJcGpGQ3BiWXlzd2V3=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T08:00:00.000Z",
+    "source_url": "https://cointelegraph.com",
+    "source_name": "Cointelegraph",
+    "source_logo_url": "https://lh3.googleusercontent.com/WU1LOF6YL7DwfsIWPt8hyDoWoYBwb5KiafzDgvcEZkXER32yltblFsW0y7OLQwaOTdAfAo6hMw",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cointelegraph.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMPSL_Aowz8SIAw",
+    "related_topics": []
   },
   {
     "title": "Finance ministry pledges to address cryptocurrency taxation issue",
@@ -1682,35 +1672,21 @@
     "related_topics": []
   },
   {
-    "title": "CoinFishing: The World’s First Web3.0 Fishing Game Supporting Cryptocurrency Payments",
-    "link": "https://markets.businessinsider.com/news/currencies/coinfishing-the-world-s-first-web3-0-fishing-game-supporting-cryptocurrency-payments-1034052027",
-    "snippet": "CoinFishing, a new Web3.0 fishing game supporting cryptocurrency payments, has been introduced to the global market. Positioned as a fresh ...",
-    "photo_url": "https://app.chainwire.org/storage/uploads/images/AD_4nXfbqRjv7ShJbVheqPzfPEOUrWwksvuVNmMoxUUF8-efCX_1732203460M5mDMrHNfH.jpeg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNZVXBCYlRsUFUyMXFVazV1VFJDdUFSaWlBaWdCTWdhSlVvd29LUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-22T02:49:33.000Z",
-    "source_url": "https://markets.businessinsider.com",
-    "source_name": "Markets Insider",
-    "source_logo_url": "https://lh3.googleusercontent.com/GrLzEVshM14jdX-xSW_otGgUbGewG0ZMsDuMBeY3h91G_ItjlWLZIr0rzXlm71crxFW_urDI8g",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://markets.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAiEOxYgQ4BSUBg7HqPBKuD9YYqFAgKIhDsWIEOAUlAYOx6jwSrg_WG",
-    "related_topics": []
-  },
-  {
-    "title": "Ready to Invest in Cryptocurrency? 3 Tips for Mitigating Risk and Building a Successful Portfolio",
-    "link": "https://www.fool.com/investing/2024/11/24/ready-to-invest-in-cryptocurrency-3-tips-for-mitig/",
-    "snippet": "Crypto investing can be thrilling, but these three risk management tips might save your portfolio.",
-    "photo_url": "https://g.foolcdn.com/editorial/images/798395/gettyimages-1450340186-600x400-bf06395.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVlV0ZKVmpaMVEzbzNVbmxTVFJDM0FSaVRBaWdCTWdhNWM1WlNLUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2024-11-24T08:03:00.000Z",
-    "source_url": "https://www.fool.com",
-    "source_name": "The Motley Fool",
-    "source_logo_url": "https://lh3.googleusercontent.com/u___MImBqnU9wKX2S8izNzezTr5Mo8dtlLQmQZD2Z7NCzdolU7N-WCRETVow4DmQUy-squNXug",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqBQgKMIB5MKAR",
+    "title": "Crypto You Can Mine From a Home Computer in 2024",
+    "link": "https://bravenewcoin.com/insights/crypto-assets-you-can-mine-from-a-home-computer",
+    "snippet": "Mining crypto at home with a CPU is possible with coins like Monero, Zcash and Byte, but it will be a slow process and the cost of electricity ...",
+    "photo_url": "https://bravenewcoin.com/wp-content/uploads/2023/11/Crypto_Mine_From_Home_Banner-min_1_.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iKkNnNXdRM2xqVWxrMVNqSlFiSFl5VFJCOUdKSURLQUV5QmhWUmtxMGxCdw=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2024-11-22T08:00:00.000Z",
+    "source_url": "https://bravenewcoin.com",
+    "source_name": "Brave New Coin Insights",
+    "source_logo_url": "https://lh3.googleusercontent.com/xs48dvNjIjaWEPrS8qZj87RwkkbnDXmLx_Mcop_r70ufg5RlnM17uxZ9_kdkqyLNlt8H5tl7",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bravenewcoin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqBwgKMI2njwsw5cGiAw",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWXpab1gydGllaElDWlc0b0FBUAE",
-        "topic_name": "Rj Fulton"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WnpWM2RqbDZPUklDWlc0b0FBUAE",
+        "topic_name": "Alex Lielacher"
       }
     ]
   }
