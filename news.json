@@ -3,8 +3,8 @@
     "title": "Justice Department will disband its team focused on cryptocurrency crimes",
     "link": "https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes",
     "snippet": "WASHINGTON (AP) — The Justice Department is disbanding a team of prosecutors who targeted cryptocurrency crimes and is shifting its focus ...",
-    "photo_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-08T123817Z_400408821_RC2KTV9XLKNV_RTRMADP_3_USA-TRUMP-JUSTICE-CRYPTOCURRENCY-425x287.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHhURUpoYmxwcmRGTlRNV1pNVFJDNEFSaVJBaWdCTWdrQkVJckVHT2REVWdF=-w200-h200-p-df-rw",
+    "photo_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-08T123817Z_400408821_RC2KTV9XLKNV_RTRMADP_3_USA-TRUMP-JUSTICE-CRYPTOCURRENCY-1024x692.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWlNeTF3WjJGWVowdHhNVWx6VFJESEF4aWlCU2dLTWdrQklJcWtHT2REVWdF=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-09T17:22:50.000Z",
     "authors": [
       "Alan Suderman",
@@ -47,28 +47,6 @@
     "related_topics": []
   },
   {
-    "title": "Justice Dept. Disbands Cryptocurrency Enforcement Unit",
-    "link": "https://www.nytimes.com/2025/04/08/us/politics/doj-disbands-crypto-unit.html",
-    "snippet": "The Trump administration is dialing back its enforcement of cryptocurrency, and criticizing Biden-era prosecutions.",
-    "photo_url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-crypto-topart-bgzw/08dc-crypto-topart-bgzw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJYMUpRTFcxNlZtSm9OMlo0VFJDUUF4allCQ2dLTWdZcFpaYk5LUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T19:30:10.000Z",
-    "authors": [
-      "Devlin Barrett"
-    ],
-    "source_url": "https://www.nytimes.com",
-    "source_name": "The New York Times",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTW5kemJYRjBOeElDWlc0b0FBUAE",
-        "topic_name": "Devlin Barrett"
-      }
-    ]
-  },
-  {
     "title": "Justice Dept. scales back crypto cases in line with Trump directives",
     "link": "https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement/",
     "snippet": "The Justice Department has directed prosecutors to limit their pursuit of certain cryptocurrency crimes, the latest example of the Trump ...",
@@ -97,6 +75,28 @@
       {
         "topic_id": "CAAqJAgKIh5DQkFTRUFvS0wyMHZNRE5qZG1aclh4SUNaVzRvQUFQAQ",
         "topic_name": "Carol D. Leonnig"
+      }
+    ]
+  },
+  {
+    "title": "Justice Dept. Disbands Cryptocurrency Enforcement Unit",
+    "link": "https://www.nytimes.com/2025/04/08/us/politics/doj-disbands-crypto-unit.html",
+    "snippet": "The Trump administration is disbanding a unit in the Justice Department that was responsible for investigating cryptocurrency crimes, ...",
+    "photo_url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-crypto-topart-bgzw/08dc-crypto-topart-bgzw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJYMUpRTFcxNlZtSm9OMlo0VFJDUUF4allCQ2dLTWdZcFpaYk5LUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T19:30:10.000Z",
+    "authors": [
+      "Devlin Barrett"
+    ],
+    "source_url": "https://www.nytimes.com",
+    "source_name": "The New York Times",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTW5kemJYRjBOeElDWlc0b0FBUAE",
+        "topic_name": "Devlin Barrett"
       }
     ]
   },
@@ -147,7 +147,7 @@
   {
     "title": "US Justice Dept disbands crypto enforcement team, citing Trump order",
     "link": "https://www.reuters.com/world/us/us-justice-dept-disbands-cryptocurrency-enforcement-unit-2025-04-08/",
-    "snippet": "But under President Donald Trump, whose family is building its own crypto enterprise, the U.S. government has been reversing course on crypto.",
+    "snippet": "Deputy Attorney General scraps national crypto enforcement unit · Orders prosecutors to focus on crypto use in terrorism, cartels · Accuses prior ...",
     "photo_url": "https://www.reuters.com/resizer/v2/HBKPK62VJFPE3KCTOVXE33GXEI.jpg?auth=aad53a3ac5323d2da48bfbce7c35b083c67354f3d3674bd04d4211a81bbbb1f3&width=3872&quality=80",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdYMU00VG5ORGNFRTBTbkEyVFJDMEF4akFCU2dLTWdhRmtvYUxUUU0=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-08T19:34:21.000Z",
@@ -270,21 +270,6 @@
     ]
   },
   {
-    "title": "Kauai residents warned of ongoing cryptocurrency scam",
-    "link": "https://spectrumlocalnews.com/hi/hawaii/news/2025/04/11/kauai-residents-warned-of-ongoing-cryptocurrency-scam",
-    "snippet": "Known as a “pig butchering” scam, scammers build trust over time with the victim to emotionally manipulate them into making financial decisions.",
-    "photo_url": "https://s7d2.scene7.com/is/image/TWCNews/Kauai_1920x1080-1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZlbVZFTFRoUFQyeExSWEUwVFJDb0FSaXNBaWdCTWdZaFZJcXRxUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-11T22:33:00.000Z",
-    "authors": [],
-    "source_url": "https://spectrumlocalnews.com",
-    "source_name": "Spectrum News",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://spectrumlocalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGWE53WldOMGNuVnRiRzlqWVd4dVpYZHpMbU52YlNnQVAB",
-    "related_topics": []
-  },
-  {
     "title": "Justice Department scraps crypto unit as Trump further loosens oversight of digital assets",
     "link": "https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/",
     "snippet": "The closure of the DOJ crypto enforcement unit is the Trump administration's latest regulatory pullback on digital assets. Previous measures ...",
@@ -309,7 +294,7 @@
   {
     "title": "1 Top Cryptocurrency to Buy Before It Soars 15,072%, According to MicroStrategy's Executive Chairman Michael Saylor",
     "link": "https://www.fool.com/investing/2025/04/06/1-top-cryptocurrency-to-buy-before-it-soars-15072/",
-    "snippet": "Strategy began buying Bitcoin in 2020 and hasn't stopped. It has paid off, and its stock has absolutely soared. The company has also been able ...",
+    "snippet": "Since late February, the market has sold off intensely, and cryptocurrencies have faltered as well, with Bitcoin trading at about $85,000 (as of ...",
     "photo_url": "https://g.foolcdn.com/editorial/images/813305/people-computer-1.jpg",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVPSFZDV2tWTk5GY3lXbFE0VFJERUF4aW1CU2dLTWdhVkk1QXBHZ28=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-06T10:00:00.000Z",
@@ -329,12 +314,12 @@
     ]
   },
   {
-    "title": "Best Free Cloud Mining Guide 2025: Earn Free Bitcoins with Cryptocurrency Mining Using HEXminer AI",
-    "link": "https://www.globenewswire.com/news-release/2025/04/05/3056295/0/en/Best-Free-Cloud-Mining-Guide-2025-Earn-Free-Bitcoins-with-Cryptocurrency-Mining-Using-HEXminer-AI.html",
-    "snippet": "With the ability to earn up to $3000 in daily profits, HEXminer is making it easier than ever for both new and experienced investors to take ...",
+    "title": "Cloud Mining App for Mobile Users: The Best Cryptocurrency Mining Software of 2025 to Earn Bitcoin from Home",
+    "link": "https://www.globenewswire.com/news-release/2025/04/06/3056377/0/en/Cloud-Mining-App-for-Mobile-Users-The-Best-Cryptocurrency-Mining-Software-of-2025-to-Earn-Bitcoin-from-Home.html",
+    "snippet": "Start earning real Bitcoin daily — all from your phone, with no technical skills or hardware required · Download the HEXminer App: Available for ...",
     "photo_url": "https://ml.globenewswire.com/Resource/Download/3a7df2c5-ad67-45af-bffe-f8284c8601e8?size=2",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhTbGxSUzAxRGFFODBkWGxzVFJEWEFSanFBU2dCTWdhWlpJYkxMUVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-05T17:12:20.000Z",
+    "published_datetime_utc": "2025-04-06T17:01:59.000Z",
     "authors": [],
     "source_url": "https://www.globenewswire.com",
     "source_name": "GlobeNewswire",
@@ -344,24 +329,24 @@
     "related_topics": []
   },
   {
-    "title": "Procter & Gamble Under EU Antitrust Scrutiny Alongside Coca-Cola Bottlers",
-    "link": "https://www.pymnts.com/cpi-posts/new-york-attorney-general-urges-federal-cryptocurrency-regulation/",
-    "snippet": "New York Attorney General Letitia James called on lawmakers to prioritize the creation of a federal framework for regulating crypto.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/Janover-cryptocurrency-digital-assets-investments.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXdkRkZNWXpRd2F6ZHFURkJ6VFJDdEF4akxCU2dLTWdzQllJU0ZOT05EYThvRk5R=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-10T19:15:40.000Z",
+    "title": "Kauai residents warned of ongoing cryptocurrency scam",
+    "link": "https://spectrumlocalnews.com/hi/hawaii/news/2025/04/11/kauai-residents-warned-of-ongoing-cryptocurrency-scam",
+    "snippet": "Known as a “pig butchering” scam, scammers build trust over time with the victim to emotionally manipulate them into making financial decisions.",
+    "photo_url": "https://s7d2.scene7.com/is/image/TWCNews/Kauai_1920x1080-1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZlbVZFTFRoUFQyeExSWEUwVFJDb0FSaXNBaWdCTWdZaFZJcXRxUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-11T22:33:00.000Z",
     "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
+    "source_url": "https://spectrumlocalnews.com",
+    "source_name": "Spectrum News",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://spectrumlocalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGWE53WldOMGNuVnRiRzlqWVd4dVpYZHpMbU52YlNnQVAB",
     "related_topics": []
   },
   {
     "title": "Bitcoin last down 5% at $78,892.92",
     "link": "https://www.reuters.com/technology/bitcoin-last-down-5-7889292-2025-04-06/",
-    "snippet": "April 6 (Reuters) - Bitcoin, the world's largest cryptocurrency by market value, was down by around 5% at $78,892.92 at 1855 GMT on Sunday.",
+    "snippet": "Bitcoin, the world's largest cryptocurrency by market value, was down by around 5% at $78892.92 at 1855 GMT on Sunday.",
     "photo_url": "https://www.reuters.com/resizer/v2/DWG5CPTRMNP2RIMXRPQEEKV2LE.jpg?auth=c1c2b84a6556ba63061498295bb7525acde38de8c296ca38b239454ca05ff5a7&width=4000&quality=80",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJRMTloWlVSeFYxSjJhMkpQVFJERUF4aW1CU2dLTWdhdEpJaXZtUU0=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-06T19:10:53.000Z",
@@ -401,12 +386,12 @@
     "related_topics": []
   },
   {
-    "title": "Cloud Mining App for Mobile Users: The Best Cryptocurrency Mining Software of 2025 to Earn Bitcoin from Home",
-    "link": "https://www.globenewswire.com/news-release/2025/04/06/3056377/0/en/Cloud-Mining-App-for-Mobile-Users-The-Best-Cryptocurrency-Mining-Software-of-2025-to-Earn-Bitcoin-from-Home.html",
-    "snippet": "Start earning real Bitcoin daily — all from your phone, with no technical skills or hardware required · Download the HEXminer App: Available for ...",
+    "title": "Best Free Cloud Mining Guide 2025: Earn Free Bitcoins with Cryptocurrency Mining Using HEXminer AI",
+    "link": "https://www.globenewswire.com/news-release/2025/04/05/3056295/0/en/Best-Free-Cloud-Mining-Guide-2025-Earn-Free-Bitcoins-with-Cryptocurrency-Mining-Using-HEXminer-AI.html",
+    "snippet": "With the ability to earn up to $3000 in daily profits, HEXminer is making it easier than ever for both new and experienced investors to take ...",
     "photo_url": "https://ml.globenewswire.com/Resource/Download/3a7df2c5-ad67-45af-bffe-f8284c8601e8?size=2",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhTbGxSUzAxRGFFODBkWGxzVFJEWEFSanFBU2dCTWdhWlpJYkxMUVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-06T17:01:59.000Z",
+    "published_datetime_utc": "2025-04-05T17:12:20.000Z",
     "authors": [],
     "source_url": "https://www.globenewswire.com",
     "source_name": "GlobeNewswire",
@@ -414,6 +399,28 @@
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2RzYjJKbGJtVjNjM2RwY21VdVkyOXRLQUFQAQ",
     "related_topics": []
+  },
+  {
+    "title": "Bitcoin sinks below $80,000 in line with stocks, but may prove more resilient",
+    "link": "https://www.usatoday.com/story/money/2025/04/07/bitcoin-falls-tariff-market-meltdown/82977143007/",
+    "snippet": "Bitcoin prices are off Monday, continuing a rout that left the cryptocurrency down about 15% in the year to date.",
+    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/07/USAT/82978175007-2206416246-1.jpg?crop=4999,2812,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFkR3M0YzNGc1gyMUROakpQVFJEekFoaVVCU2dLTWdZaE5JeU5vUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-07T18:25:03.000Z",
+    "authors": [
+      "Andrea Riquier"
+    ],
+    "source_url": "https://www.usatoday.com",
+    "source_name": "USA Today",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTJSd2NqTmpjaElDWlc0b0FBUAE",
+        "topic_name": "Andrea Riquier"
+      }
+    ]
   },
   {
     "title": "US crypto stocks slip as bitcoin hits new 2025 low",
@@ -438,9 +445,24 @@
     ]
   },
   {
+    "title": "Procter & Gamble Under EU Antitrust Scrutiny Alongside Coca-Cola Bottlers",
+    "link": "https://www.pymnts.com/cpi-posts/new-york-attorney-general-urges-federal-cryptocurrency-regulation/",
+    "snippet": "New York Attorney General Letitia James called on lawmakers to prioritize the creation of a federal framework for regulating crypto.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/Janover-cryptocurrency-digital-assets-investments.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXdkRkZNWXpRd2F6ZHFURkJ6VFJDdEF4akxCU2dLTWdzQllJU0ZOT05EYThvRk5R=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-10T19:15:40.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
     "title": "Will PayPal's Deepening Cryptocurrency Footprint Benefit the Stock?",
     "link": "https://finance.yahoo.com/news/paypals-deepening-cryptocurrency-footprint-benefit-144900814.html",
-    "snippet": "PYPL is doubling down on digital assets with the addition of Chainlink and Solana to its crypto suite.",
+    "snippet": "PayPal PYPL recently expanded its digital asset offerings to include Chainlink and Solana on both PayPal and Venmo platforms.",
     "photo_url": "https://media.zenfs.com/en/zacks.com/74dc483658e5fa8e60b24203b206e4da",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtSMTh6TVdVNVRFb3plRXRxVFJDRUF4anNCQ2dLTWdZUnBvNG9QZ1U=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-08T14:49:00.000Z",
@@ -475,50 +497,6 @@
     ]
   },
   {
-    "title": "Hirono, colleagues urge reinstatement of cryptocurrency prosecution team",
-    "link": "https://spectrumlocalnews.com/hi/hawaii/news/2025/04/11/hirono--colleagues-urge-restoration-of-cryptocurrency-prosecution-team",
-    "snippet": "U.S. Sen. Mazie Hirono and five Democratic colleagues are calling on U.S. deputy attorney general Todd Blanche to reverse recent decisions ...",
-    "photo_url": "https://s7d2.scene7.com/is/image/TWCNews/Donald_Trump_AP_HI_0410",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1jbEp3WjNwaWNqUktOMEZSVFJDb0FSaXJBaWdCTWdhcEJZRE5qUXM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-11T21:47:00.000Z",
-    "authors": [
-      "Michael Tsai"
-    ],
-    "source_url": "https://spectrumlocalnews.com",
-    "source_name": "Spectrum News",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://spectrumlocalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGWE53WldOMGNuVnRiRzlqWVd4dVpYZHpMbU52YlNnQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTW5vM1gxOWZiUklDWlc0b0FBUAE",
-        "topic_name": "Michael Tsai"
-      }
-    ]
-  },
-  {
-    "title": "Bitcoin sinks below $80,000 in line with stocks, but may prove more resilient",
-    "link": "https://www.usatoday.com/story/money/2025/04/07/bitcoin-falls-tariff-market-meltdown/82977143007/",
-    "snippet": "Bitcoin prices are off Monday, continuing a rout that left the cryptocurrency down about 15% in the year to date.",
-    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/07/USAT/82978175007-2206416246-1.jpg?crop=4999,2812,x0,y0&width=660&height=371&format=pjpg&auto=webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFkR3M0YzNGc1gyMUROakpQVFJEekFoaVVCU2dLTWdZaE5JeU5vUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-07T18:25:03.000Z",
-    "authors": [
-      "Andrea Riquier"
-    ],
-    "source_url": "https://www.usatoday.com",
-    "source_name": "USA Today",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTJSd2NqTmpjaElDWlc0b0FBUAE",
-        "topic_name": "Andrea Riquier"
-      }
-    ]
-  },
-  {
     "title": "This Could Be the Best Cryptocurrency to Buy Now and Hold Forever",
     "link": "https://www.fool.com/investing/2025/04/07/this-could-be-the-best-cryptocurrency-to-buy-now-a/",
     "snippet": "In Ark Invest's \"Big Ideas 2024\" report, Wood clearly laid out how Bitcoin has outperformed every major asset class over long time horizons.",
@@ -541,6 +519,21 @@
     ]
   },
   {
+    "title": "Cryptocurrencies and Crypto-Related Stocks Rise After Trump Pauses Tariffs",
+    "link": "https://www.pymnts.com/cryptocurrency/2025/cryptocurrencies-and-crypto-related-stocks-rise-after-trump-pauses-tariffs/",
+    "snippet": "The prices of cryptocurrencies and crypto-related stocks leapt after Trump paused the tariffs that he had placed on more than 75 countries.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/bitcoin-crypto-tariffs.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVZNREIxVUdFMmJsVTNMVUpoVFJDU0FoakpBeWdLTWdrUmNJN3lLS2R5YndF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-10T01:07:29.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
     "title": "Bitcoin, ether rout extends as tariff war pain batters cryptocurrency assets",
     "link": "https://www.scmp.com/tech/blockchain/article/3305476/bitcoin-ether-rout-extends-tariff-war-pain-batters-cryptocurrency-assets",
     "snippet": "Second-ranked token ether plummeted to US$1,538, an intraday low not seen since October 2023. Both bitcoin and ether later pared losses. The ...",
@@ -556,6 +549,58 @@
     "related_topics": []
   },
   {
+    "title": "Hirono, colleagues urge reinstatement of cryptocurrency prosecution team",
+    "link": "https://spectrumlocalnews.com/hi/hawaii/news/2025/04/11/hirono--colleagues-urge-restoration-of-cryptocurrency-prosecution-team",
+    "snippet": "U.S. Sen. Mazie Hirono and five Democratic colleagues are calling on U.S. deputy attorney general Todd Blanche to reverse recent decisions ...",
+    "photo_url": "https://s7d2.scene7.com/is/image/TWCNews/Donald_Trump_AP_HI_0410",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1jbEp3WjNwaWNqUktOMEZSVFJDb0FSaXJBaWdCTWdhcEJZRE5qUXM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-11T21:47:00.000Z",
+    "authors": [
+      "Michael Tsai"
+    ],
+    "source_url": "https://spectrumlocalnews.com",
+    "source_name": "Spectrum News",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://spectrumlocalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGWE53WldOMGNuVnRiRzlqWVd4dVpYZHpMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTW5vM1gxOWZiUklDWlc0b0FBUAE",
+        "topic_name": "Michael Tsai"
+      }
+    ]
+  },
+  {
+    "title": "Expect to see a lot less cryptocurrency fraud investigations",
+    "link": "https://www.washingtonpost.com/video/politics/expect-to-see-a-lot-less-cryptocurrency-fraud-investigations/2025/04/09/8730adfd-0c6a-4153-9eb4-95ff08e6f8ca_video.html",
+    "snippet": null,
+    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fd1i4t8bqe7zgj6.cloudfront.net%2F04-09-2025%2Ft_052460f651ef4040a6fe92c6c9ce409f_name_3___Vertical_Video_00_02_17_04_Still006.jpg&w=1080",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJaRVZ0YjB4WGVFNTBZekZHVFJEakJSaWZBeWdLTWdZQkJJenBwUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T19:40:00.000Z",
+    "authors": [],
+    "source_url": "https://www.washingtonpost.com",
+    "source_name": "The Washington Post",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+    "related_topics": []
+  },
+  {
+    "title": "When it comes to government regulation of cryptocurrency, do you think it should be...?",
+    "link": "https://today.yougov.com/topics/politics/survey-results/daily/2025/04/09/2115c/2",
+    "snippet": "When it comes to government regulation of cryptocurrency, do you think it should be...?",
+    "photo_url": "https://ygo-assets-entities-us.yougov.net/6923d760-37bb-11ea-8881-1fb5ae0e49ed.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5iblpNVkhWU1JXaGpUWEJ6VFJDaUFSaTNBaWdCTWdZSk1vak1MUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T20:35:21.000Z",
+    "authors": [],
+    "source_url": "https://today.yougov.com",
+    "source_name": "YouGov Today",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://today.yougov.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJ2WkdGNUxubHZkV2R2ZGk1amIyMG9BQVAB",
+    "related_topics": []
+  },
+  {
     "title": "Justice Department Scales Back Cryptocurrency Enforcement",
     "link": "https://www.bloomberg.com/news/articles/2025-04-08/justice-department-overhauls-cryptocurrency-enforcement",
     "snippet": "The US Justice Department will limit its cryptocurrency crime investigations to focus on cases related to terrorism, drug cartels, victimizing ...",
@@ -567,7 +612,7 @@
       "Muyao Shen"
     ],
     "source_url": "https://www.bloomberg.com",
-    "source_name": "Bloomberg.com",
+    "source_name": "Bloomberg",
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV0pzYjI5dFltVnlaeTVqYjIwb0FBUAE",
@@ -605,36 +650,6 @@
     ]
   },
   {
-    "title": "When it comes to government regulation of cryptocurrency, do you think it should be...?",
-    "link": "https://today.yougov.com/topics/politics/survey-results/daily/2025/04/09/2115c/2",
-    "snippet": "When it comes to government regulation of cryptocurrency, do you think it should be...?",
-    "photo_url": "https://ygo-assets-entities-us.yougov.net/6923d760-37bb-11ea-8881-1fb5ae0e49ed.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5iblpNVkhWU1JXaGpUWEJ6VFJDaUFSaTNBaWdCTWdZSk1vak1MUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T20:35:21.000Z",
-    "authors": [],
-    "source_url": "https://today.yougov.com",
-    "source_name": "YouGov Today",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://today.yougov.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJ2WkdGNUxubHZkV2R2ZGk1amIyMG9BQVAB",
-    "related_topics": []
-  },
-  {
-    "title": "Expect to see a lot less cryptocurrency fraud investigations",
-    "link": "https://www.washingtonpost.com/video/politics/expect-to-see-a-lot-less-cryptocurrency-fraud-investigations/2025/04/09/8730adfd-0c6a-4153-9eb4-95ff08e6f8ca_video.html",
-    "snippet": null,
-    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fd1i4t8bqe7zgj6.cloudfront.net%2F04-09-2025%2Ft_052460f651ef4040a6fe92c6c9ce409f_name_3___Vertical_Video_00_02_17_04_Still006.jpg&w=1080",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXJaRVZ0YjB4WGVFNTBZekZHVFJEakJSaWZBeWdLTWdZQkJJenBwUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T19:40:00.000Z",
-    "authors": [],
-    "source_url": "https://www.washingtonpost.com",
-    "source_name": "The Washington Post",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
-    "related_topics": []
-  },
-  {
     "title": "Mathematicians Uncover Hidden Patterns Behind $3.5 Billion Cryptocurrency Collapse",
     "link": "https://scitechdaily.com/mathematicians-uncover-hidden-patterns-behind-3-5-billion-cryptocurrency-collapse/",
     "snippet": "The research not only provides insights into the TerraUSD collapse but also introduces a powerful new tool for analyzing cryptocurrency markets.",
@@ -647,6 +662,21 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE5qYVhSbFkyaGtZV2xzZVM1amIyMG9BQVAB",
+    "related_topics": []
+  },
+  {
+    "title": "Bitcoin last down 5% at $78,892.92",
+    "link": "https://finance.yahoo.com/news/bitcoin-last-down-5-78-191053193.html",
+    "snippet": "(Reuters) - Bitcoin, the world's largest cryptocurrency by market value, was down by around 5% at $78,892.92 at 1855 GMT on Sunday.",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/6hz7ish0jsT8GJ9jI0IccQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/reuters.com/9727c15e2e5b0d64da2efc7a13bd3fab",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBXRXBOYTFCUmNHeDBURTlIVFJDckF4aUFCU2dLTWdhdEpJaXVtUU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-06T19:10:53.000Z",
+    "authors": [],
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
     "related_topics": []
   },
   {
@@ -672,18 +702,18 @@
     ]
   },
   {
-    "title": "Report: Justice Department to End ‘Regulation by Prosecution’ of Crypto-Related Activities",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/report-justice-department-to-end-regulation-by-prosecution-of-crypto-related-activities/",
-    "snippet": "The U.S. Justice Department will reportedly limit its cryptocurrency enforcement efforts to the use of digital assets in crimes.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/DOJ-cryptocurrency-regulation.jpg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVRVMmR1T1VGNVpVTlFiSEoxVFJDU0FoakpBeWdLTWdtVlVvbzBvU21pRXdF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T18:57:16.000Z",
+    "title": "Sen. Cruz Applauds Signing of Cryptocurrency Resolution into Law",
+    "link": "https://texasborderbusiness.com/sen-cruz-applauds-signing-of-cryptocurrency-resolution-into-law/",
+    "snippet": "This resolution overturns an Internal Revenue Service (IRS) rule on cryptocurrency that would have defined certain developers as “brokers” for ...",
+    "photo_url": "https://texasborderbusiness.com/wp-content/uploads/2025/04/Crypto.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWplSGRhVmtNd2JqVm9lV2RqVFJDWUF4andCU2dLTWdhUkVvWW9TUU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-11T16:29:35.000Z",
     "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
+    "source_url": "https://texasborderbusiness.com",
+    "source_name": "Texas Border Business",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://texasborderbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqNQgKIi9DQklTSFFnTWFoa0tGM1JsZUdGelltOXlaR1Z5WW5WemFXNWxjM011WTI5dEtBQVAB",
     "related_topics": []
   },
   {
@@ -702,26 +732,19 @@
     "related_topics": []
   },
   {
-    "title": "Trump signs bill to nullify expanded IRS crypto broker rule",
-    "link": "https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/",
-    "snippet": "It required digital asset brokers to send the forms to both the IRS and digital asset holders to assist with their tax preparation.",
-    "photo_url": "https://www.reuters.com/resizer/v2/2YYNEVO6XJM4FPQHD33GFNXS3M.jpg?auth=a9c6091bf793bdc61af82bfd6f218a7b557c680a0e9272b556622eb7f0e0793b&width=5500&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNSbVpUTVZKdlEzcDVkVk54VFJES0F4aWVCU2dLTWdZWk41UklHZ28=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-11T01:02:00.000Z",
-    "authors": [
-      "Hannah Lang"
-    ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
+    "title": "Report: Justice Department to End ‘Regulation by Prosecution’ of Crypto-Related Activities",
+    "link": "https://www.pymnts.com/cryptocurrency/2025/report-justice-department-to-end-regulation-by-prosecution-of-crypto-related-activities/",
+    "snippet": "The U.S. Justice Department will reportedly limit its cryptocurrency enforcement efforts to the use of digital assets in crimes.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/DOJ-cryptocurrency-regulation.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVRVMmR1T1VGNVpVTlFiSEoxVFJDU0FoakpBeWdLTWdtVlVvbzBvU21pRXdF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T18:57:16.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhOMFpISjJOQklDWlc0b0FBUAE",
-        "topic_name": "Hannah Lang"
-      }
-    ]
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
   },
   {
     "title": "Department of Justice shuts down National Cryptocurrency Enforcement Team",
@@ -737,6 +760,28 @@
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM1Z3YVM1amIyMG9BQVAB",
     "related_topics": []
+  },
+  {
+    "title": "Bitcoin, Crypto-Related Stocks Soar After Trump Announces Tariff Pause",
+    "link": "https://www.investopedia.com/bitcoin-crypto-related-stocks-soar-after-trump-announces-tariff-pause-11712194",
+    "snippet": "Shares of cryptocurrency-tied companies jumped along with the price of bitcoin Wednesday afternoon after President Donald Trump issued a ...",
+    "photo_url": "https://www.investopedia.com/thmb/o1zosHF0SJnLrDAM6zhfaaazLcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2209133056-1d346001722a4265a99ff568e1e4ff96.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTJXREZ1ZDB0NU5tTjNhMFZFVFJERkF4aWxCU2dLTWdNQkJ4UQ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T18:58:15.000Z",
+    "authors": [
+      "Aaron Rennie"
+    ],
+    "source_url": "https://www.investopedia.com",
+    "source_name": "Investopedia",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR2x1ZG1WemRHOXdaV1JwWVM1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyWmpONFpsOXFaaElDWlc0b0FBUAE",
+        "topic_name": "Aaron Rennie"
+      }
+    ]
   },
   {
     "title": "Bitcoin Drops to $77,000, Crypto Shares Slip",
@@ -759,21 +804,6 @@
         "topic_name": "Dave Marino-nachison"
       }
     ]
-  },
-  {
-    "title": "Sen. Cruz Applauds Signing of Cryptocurrency Resolution into Law",
-    "link": "https://texasborderbusiness.com/sen-cruz-applauds-signing-of-cryptocurrency-resolution-into-law/",
-    "snippet": "This resolution overturns an Internal Revenue Service (IRS) rule on cryptocurrency that would have defined certain developers as “brokers” for ...",
-    "photo_url": "https://texasborderbusiness.com/wp-content/uploads/2025/04/Crypto.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWplSGRhVmtNd2JqVm9lV2RqVFJDWUF4andCU2dLTWdhUkVvWW9TUU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-11T16:29:35.000Z",
-    "authors": [],
-    "source_url": "https://texasborderbusiness.com",
-    "source_name": "Texas Border Business",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://texasborderbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqNQgKIi9DQklTSFFnTWFoa0tGM1JsZUdGelltOXlaR1Z5WW5WemFXNWxjM011WTI5dEtBQVAB",
-    "related_topics": []
   },
   {
     "title": "'It Actually Is What Drove Us Toward Cryptocurrency.' Eric Trump Says Cancel Culture Caused Family Shift to Bitcoin",
@@ -837,7 +867,7 @@
   {
     "title": "Trump Boys Hook Dollar Bill Up To Potato To Make Cryptocurrency",
     "link": "https://theonion.com/trump-boys-hook-dollar-bill-up-to-potato-to-make-cryptocurrency/",
-    "snippet": "“Uncle Elon told us all about how crypto works, and now we've built a mining rig that's gonna make us free money!” a visibly excited Eric Trump ...",
+    "snippet": "Once the potato gets full of cryptocurrency, you stick the wire into your wallet to collect it. Just make sure the potato is fresh enough that ...",
     "photo_url": null,
     "thumbnail_url": null,
     "published_datetime_utc": "2025-04-09T13:00:00.000Z",
@@ -848,28 +878,6 @@
     "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://theonion.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFJvWlc5dWFXOXVMbU52YlNnQVAB",
     "related_topics": []
-  },
-  {
-    "title": "Cryptocurrency’s schemes on the rise as popularity increases",
-    "link": "https://www.wwlp.com/news/local-news/cryptocurrencys-schemes-on-the-rise-as-popularity-increases/",
-    "snippet": "As Cryptocurrency gains popularity, it also becomes a prime target for schemers.",
-    "photo_url": "https://www.wwlp.com/wp-content/uploads/sites/26/2025/02/67a13905a7cfd4.98021541.jpeg?strip=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZUbloyUXpWVlRERkRlVjg1VFJDN0F4aTFCU2dLTWdaSmtwTFZ0QVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T02:37:27.000Z",
-    "authors": [
-      "Kayleigh Thomas"
-    ],
-    "source_url": "https://www.wwlp.com",
-    "source_name": "WWLP",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wwlp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGQzYkhBdVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwTURaelptaHdNeElDWlc0b0FBUAE",
-        "topic_name": "Kayleigh Thomas"
-      }
-    ]
   },
   {
     "title": "The DOJ is no longer policing cryptocurrency fraud. Are Americans at risk?",
@@ -894,38 +902,11 @@
     ]
   },
   {
-    "title": "Bitcoin last down 5% at $78,892.92",
-    "link": "https://finance.yahoo.com/news/bitcoin-last-down-5-78-191053193.html",
-    "snippet": "(Reuters) - Bitcoin, the world's largest cryptocurrency by market value, was down by around 5% at $78,892.92 at 1855 GMT on Sunday.",
-    "photo_url": "https://s.yimg.com/ny/api/res/1.2/6hz7ish0jsT8GJ9jI0IccQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/reuters.com/9727c15e2e5b0d64da2efc7a13bd3fab",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBXRXBOYTFCUmNHeDBURTlIVFJDckF4aUFCU2dLTWdhdEpJaXVtUU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-06T19:10:53.000Z",
-    "authors": [
-      "Leslie Adler",
-      "Janaki Venugopalan"
-    ],
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUd4M2VWOW1aaElDWlc0b0FBUAE",
-        "topic_name": "Leslie Adler"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5WDNkM1ozUndZeElDWlc0b0FBUAE",
-        "topic_name": "Janaki Venugopalan"
-      }
-    ]
-  },
-  {
     "title": "Why is the crypto market down today?",
     "link": "https://cointelegraph.com/news/why-is-the-crypto-market-down-today",
     "snippet": "The cryptocurrency market is down today due to the escalating US-led trade war and investors' worries that a global recession looms.",
     "photo_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2024-08/8032812d-1d50-46ab-b965-a0cb6dd41a63",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFZVk5oVFRSa2FIZEhWbEpyVFJERUF4aW5CU2dLTWdrQkVZWnJTU094eFFJ=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXFZVk5oVFRSa2FIZEhWbEpyVFJDM0FSaVRBaWdCTWdrQkVZWnJTU094eFFJ=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-07T21:22:30.000Z",
     "authors": [
       "Nancy Lubale"
@@ -955,6 +936,21 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.fingerlakes1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1pwYm1kbGNteGhhMlZ6TVM1amIyMG9BQVAB",
+    "related_topics": []
+  },
+  {
+    "title": "Amongst Volatility in The Markets, More Organizations Embrace Bitcoin, Adding Cryptocurrency to Their Treasury",
+    "link": "https://www.globenewswire.com/news-release/2025/04/10/3059287/0/en/Amongst-Volatility-in-The-Markets-More-Organizations-Embrace-Bitcoin-Adding-Cryptocurrency-to-Their-Treasury.html",
+    "snippet": "The accelerating adoption of Bitcoin has prompted businesses to seriously consider integrating cryptocurrencies into their core treasury ...",
+    "photo_url": "https://ml.globenewswire.com/Resource/Download/f326183f-8829-42af-8851-525b1d7503ed?size=2",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFUekJmYW5ad1JEVjNWM1pLVFJDdEFSaXNBaWdLTWdZSlVvaG5MZ2c=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-10T13:03:56.000Z",
+    "authors": [],
+    "source_url": "https://www.globenewswire.com",
+    "source_name": "GlobeNewswire",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2RzYjJKbGJtVjNjM2RwY21VdVkyOXRLQUFQAQ",
     "related_topics": []
   },
   {
@@ -1002,28 +998,6 @@
     ]
   },
   {
-    "title": "Impact of Quantitative Easing and Tightening on Cryptocurrency Markets: What You Need to Know",
-    "link": "https://www.ccn.com/education/crypto/impact-of-quantitative-easing-and-tightening-on-cryptocurrency-markets/",
-    "snippet": "Quantitative easing (QE) and quantitative tightening (QT) significantly influence crypto market liquidity and investor sentiment.",
-    "photo_url": "https://www.ccn.com/wp-content/uploads/2025/04/Impact-of-Quantitative-Easing-1024x576.webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNTJhVUpmUVZORU4xOXFSV1UyVFJDZkF4ampCU2dLTWdzQk1JQ1dvT2RUZGxoVFZB=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T11:12:59.000Z",
-    "authors": [
-      "Alisha Bains"
-    ],
-    "source_url": "https://www.ccn.com",
-    "source_name": "CCN.com",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ccn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk5qYmk1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlhKa01UTjRheElDWlc0b0FBUAE",
-        "topic_name": "Alisha Bains"
-      }
-    ]
-  },
-  {
     "title": "Justice Dept. says it will pull back on litigating cryptocurrency fraud",
     "link": "https://www.detroitnews.com/story/business/2025/04/08/justice-dept-says-it-will-pull-back-on-litigating-cryptocurrency-fraud/82989307007/",
     "snippet": "The Justice Department has directed prosecutors to stop pursuing litigation against people committing fraud with digital currency, ...",
@@ -1042,109 +1016,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhSb1l6ZDNaQklDWlc0b0FBUAE",
         "topic_name": "Perry Stein"
-      }
-    ]
-  },
-  {
-    "title": "Cryptocurrency scams drive major spike in investment fraud",
-    "link": "https://www.wsbtv.com/news/cryptocurrency-scams-drive-major-spike-investment-fraud/2UOS6NBSQFMBTEI6L4ILQ5BIL4/",
-    "snippet": "Of particular concern is the rise in investment-related fraud, which accounted for nearly $4 billion in losses in 2023—approximately 71% of all ...",
-    "photo_url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/V27LAQVM7VNVJLY7XGJ7UYIVXE.jpg?smart=true&auth=f588582fe6eea54bd8f4d08a0ada6d7eae3b473237c25ddd1691aaaa8c8d9da1&width=1079&height=606",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBjMWRwWkhwelRXZzJYemxGVFJDb0FSaXNBaWdCTWdZTlVvVEVIZ28=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T16:30:00.000Z",
-    "authors": [
-      "Marco Dalla Stella"
-    ],
-    "source_url": "https://www.wsbtv.com",
-    "source_name": "WSB-TV",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wsbtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGR6WW5SMkxtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TlhGcVluRTRZaElDWlc0b0FBUAE",
-        "topic_name": "Marco Dalla Stella"
-      }
-    ]
-  },
-  {
-    "title": "Illinois legislature aims to regulate cryptocurrency companies",
-    "link": "https://finance.yahoo.com/news/illinois-legislature-aims-regulate-cryptocurrency-204646917.html",
-    "snippet": "SPRINGFIELD, Ill. (WCIA) — Lawmakers in the state are working on regulating the cryptocurrency industry to protect Illinoisans from fraud.",
-    "photo_url": "https://s.yimg.com/ny/api/res/1.2/j3lFrFc5mQFAwyguJqBs7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/wcia_champaign_articles_414/f737ea201be5efe6d8ed51b2a007ffec",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhaRlJWVmxSNFIxQkZPVGhwVFJDckF4aUFCU2dLTWdiQkFZUVZEUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T20:46:46.000Z",
-    "authors": [
-      "Danny Connolly"
-    ],
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWXpacWQzYzRiQklDWlc0b0FBUAE",
-        "topic_name": "Danny Connolly"
-      }
-    ]
-  },
-  {
-    "title": "Bitcoin, Crypto-Related Stocks Soar After Trump Announces Tariff Pause",
-    "link": "https://www.investopedia.com/bitcoin-crypto-related-stocks-soar-after-trump-announces-tariff-pause-11712194",
-    "snippet": "Shares of cryptocurrency-tied companies jumped along with the price of bitcoin Wednesday afternoon after President Donald Trump issued a ...",
-    "photo_url": "https://www.investopedia.com/thmb/o1zosHF0SJnLrDAM6zhfaaazLcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2209133056-1d346001722a4265a99ff568e1e4ff96.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTJXREZ1ZDB0NU5tTjNhMFZFVFJERkF4aWxCU2dLTWdNQkJ4UQ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T18:58:15.000Z",
-    "authors": [
-      "Aaron Rennie"
-    ],
-    "source_url": "https://www.investopedia.com",
-    "source_name": "Investopedia",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR2x1ZG1WemRHOXdaV1JwWVM1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyWmpONFpsOXFaaElDWlc0b0FBUAE",
-        "topic_name": "Aaron Rennie"
-      }
-    ]
-  },
-  {
-    "title": "Maryland considers regulations for cryptocurrency kiosks amid scam concerns",
-    "link": "https://www.kioskmarketplace.com/news/maryland-considers-regulations-for-cryptocurrency-kiosks-amid-scam-concerns/",
-    "snippet": "The Maryland General Assembly is considering a bill to regulate the state's more than 700 cryptocurrency kiosks due to their increasing use ...",
-    "photo_url": "https://nmgprod.s3.amazonaws.com/media/file/22/0b/1a6d1acc4b8ec96ce4e6026a4bdf/cover_image__KH0E35w4__AdobeStock_327979651.jpeg.960x540_q85_crop_upscale.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRRa1pEYXpaM1VrdHJUbVF3VFJDZkF4ampCU2dLTWdhRmtaVDBzQVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T12:56:22.000Z",
-    "authors": [],
-    "source_url": "https://www.kioskmarketplace.com",
-    "source_name": "Kiosk Marketplace",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kioskmarketplace.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR3RwYjNOcmJXRnlhMlYwY0d4aFkyVXVZMjl0S0FBUAE",
-    "related_topics": []
-  },
-  {
-    "title": "Trump administration disbands crypto regulations enforcement unit",
-    "link": "https://thehill.com/homenews/administration/5238617-trump-disband-crypto-enforcement-unit/",
-    "snippet": "The Trump administration disbanded the National Cryptocurrency Enforcement Team (NCET) according to a Monday memo issued by the Department ...",
-    "photo_url": "https://thehill.com/wp-content/uploads/sites/2/2025/03/AP25066784237715.jpg?strip=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUJYM1ZzTWsxcVQyZGxNM1ZCVFJERUF4aW1CU2dLTWdrQk1KQ3VwYWpZeGdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T19:05:00.000Z",
-    "authors": [
-      "Ashleigh Fields"
-    ],
-    "source_url": "https://thehill.com",
-    "source_name": "The Hill",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldocGJHd3VZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1KNWNIZHdhQklDWlc0b0FBUAE",
-        "topic_name": "Ashleigh Fields"
       }
     ]
   },
@@ -1186,6 +1057,87 @@
     "related_topics": []
   },
   {
+    "title": "From Fringe to Financial Infrastructure: How Blockchain Became Bankable",
+    "link": "https://www.pymnts.com/cryptocurrency/2025/from-fringe-to-financial-infrastructure-how-blockchain-became-bankable/",
+    "snippet": "The integration of AI tools offers the potential for enhancing crypto literacy, compliance and the fight against illicit financial activity.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/Chainalysis-crypto.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZVR1JWVFhJNFZucHpXVEJHVFJDdEF4akxCU2dLTWdZVlE1WnRJUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-07T08:05:01.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
+    "title": "Illinois legislature aims to regulate cryptocurrency companies",
+    "link": "https://finance.yahoo.com/news/illinois-legislature-aims-regulate-cryptocurrency-204646917.html",
+    "snippet": "SPRINGFIELD, Ill. (WCIA) — Lawmakers in the state are working on regulating the cryptocurrency industry to protect Illinoisans from fraud.",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/j3lFrFc5mQFAwyguJqBs7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/wcia_champaign_articles_414/f737ea201be5efe6d8ed51b2a007ffec",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhaRlJWVmxSNFIxQkZPVGhwVFJDckF4aUFCU2dLTWdiQkFZUVZEUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T20:46:46.000Z",
+    "authors": [
+      "Danny Connolly"
+    ],
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWXpacWQzYzRiQklDWlc0b0FBUAE",
+        "topic_name": "Danny Connolly"
+      }
+    ]
+  },
+  {
+    "title": "Trump signs bill to nullify expanded IRS crypto broker rule",
+    "link": "https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/",
+    "snippet": "It required digital asset brokers to send the forms to both the IRS and digital asset holders to assist with their tax preparation.",
+    "photo_url": "https://www.reuters.com/resizer/v2/2YYNEVO6XJM4FPQHD33GFNXS3M.jpg?auth=a9c6091bf793bdc61af82bfd6f218a7b557c680a0e9272b556622eb7f0e0793b&width=5500&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNSbVpUTVZKdlEzcDVkVk54VFJES0F4aWVCU2dLTWdZWk41UklHZ28=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-11T01:02:00.000Z",
+    "authors": [
+      "Hannah Lang"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhOMFpISjJOQklDWlc0b0FBUAE",
+        "topic_name": "Hannah Lang"
+      }
+    ]
+  },
+  {
+    "title": "Trump administration disbands crypto regulations enforcement unit",
+    "link": "https://thehill.com/homenews/administration/5238617-trump-disband-crypto-enforcement-unit/",
+    "snippet": "The Trump administration disbanded the National Cryptocurrency Enforcement Team (NCET) according to a Monday memo issued by the Department ...",
+    "photo_url": "https://thehill.com/wp-content/uploads/sites/2/2025/03/AP25066784237715.jpg?strip=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUJYM1ZzTWsxcVQyZGxNM1ZCVFJERUF4aW1CU2dLTWdrQk1KQ3VwYWpZeGdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T19:05:00.000Z",
+    "authors": [
+      "Ashleigh Fields"
+    ],
+    "source_url": "https://thehill.com",
+    "source_name": "The Hill",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldocGJHd3VZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1KNWNIZHdhQklDWlc0b0FBUAE",
+        "topic_name": "Ashleigh Fields"
+      }
+    ]
+  },
+  {
     "title": "Targeting the elderly, scammers nab $3M+ in Beaufort County in 2024 using new crypto ATMs",
     "link": "https://www.islandpacket.com/news/local/crime/article303406061.html",
     "snippet": "Residents near Hilton Head Island, SC lose over $3 million to cryptocurrency, Bitcoin fraud in 2024: How the financial scams work, ...",
@@ -1208,18 +1160,18 @@
     ]
   },
   {
-    "title": "Trump relaxes regulatory enforcement against crypto companies",
-    "link": "https://www.courthousenews.com/trump-relaxes-regulatory-enforcement-against-crypto-companies/",
-    "snippet": "The four-page memo disbands the Joe Biden-era National Cryptocurrency Enforcement Team, ends the Justice Department's enforcement of regulatory ...",
-    "photo_url": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2022/06/bitcoin-crypto.jpeg/w=1880,h=1253",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVVRVkIxZGpKMVJrbHlTSEZwVFJERUF4aW1CU2dLTWdrQllKQ0xwV2ZRY1FF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T17:06:11.000Z",
+    "title": "Do you approve or disapprove of Donald Trump launching his own cryptocurrency and personally profiting from it while serving as president?",
+    "link": "https://today.yougov.com/topics/politics/survey-results/daily/2025/04/09/2115c/3",
+    "snippet": "Do you approve or disapprove of Donald Trump launching his own cryptocurrency and personally profiting from it while serving as president?",
+    "photo_url": null,
+    "thumbnail_url": null,
+    "published_datetime_utc": "2025-04-09T20:35:21.000Z",
     "authors": [],
-    "source_url": "https://www.courthousenews.com",
-    "source_name": "Courthouse News",
+    "source_url": "https://today.yougov.com",
+    "source_name": "YouGov Today",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.courthousenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbU52ZFhKMGFHOTFjMlZ1WlhkekxtTnZiU2dBUAE",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://today.yougov.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJ2WkdGNUxubHZkV2R2ZGk1amIyMG9BQVAB",
     "related_topics": []
   },
   {
@@ -1238,24 +1190,9 @@
     "related_topics": []
   },
   {
-    "title": "Do you approve or disapprove of Donald Trump launching his own cryptocurrency and personally profiting from it while serving as president?",
-    "link": "https://today.yougov.com/topics/politics/survey-results/daily/2025/04/09/2115c/3",
-    "snippet": "Do you approve or disapprove of Donald Trump launching his own cryptocurrency and personally profiting from it while serving as president?",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2025-04-09T20:35:21.000Z",
-    "authors": [],
-    "source_url": "https://today.yougov.com",
-    "source_name": "YouGov Today",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://today.yougov.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSFJ2WkdGNUxubHZkV2R2ZGk1amIyMG9BQVAB",
-    "related_topics": []
-  },
-  {
     "title": "A $3.5 Billion Cryptocurrency Collapse Was Preceded By Suspicious Mathematical Patterns",
     "link": "https://www.iflscience.com/a-35-billion-cryptocurrency-collapse-was-preceded-by-suspicious-mathematical-patterns-78723",
-    "snippet": "Crypto markets rise and fall, but one of the largest crashes has mathematical traces indicating it was coordinated by a few players. Image ...",
+    "snippet": "A $3.5 Billion Cryptocurrency Collapse Was Preceded By Suspicious Mathematical Patterns · One of the biggest crashes in the crypto world didn't ...",
     "photo_url": "https://assets.iflscience.com/assets/articleNo/78723/aImg/83157/crypto-markets-s.jpg",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWFaMUZOVXpCbGRXYzVRM1pOVFJDNUFSaVFBeWdLTWdPSll4SQ=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-10T10:14:49.000Z",
@@ -1273,43 +1210,6 @@
         "topic_name": "Stephen Luntz"
       }
     ]
-  },
-  {
-    "title": "New cryptocurrency draws attention as potential alternative to Bitcoin: 'A game-changer in the blockchain industry'",
-    "link": "https://www.thecooldown.com/green-business/algorand-cryptocurrency-sustainable-energy-grid/",
-    "snippet": "New cryptocurrency draws attention as potential alternative to Bitcoin: 'A game-changer in the blockchain industry'. This new technology marks a ...",
-    "photo_url": "https://www.thecooldown.com/wp-content/uploads/2025/04/iStock-1471209365.jpg?w=876&h=576",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlaWGhCTURSMFVuTjVZMVZUVFJDZkF4ampCU2dLTWdZQmNZcnF4UVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T10:15:00.000Z",
-    "authors": [
-      "Elijah McKee"
-    ],
-    "source_url": "https://www.thecooldown.com",
-    "source_name": "The Cool Down",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thecooldown.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldOdmIyeGtiM2R1TG1OdmJTZ0FQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WDJ3eWVISTJNeElDWlc0b0FBUAE",
-        "topic_name": "Elijah McKee"
-      }
-    ]
-  },
-  {
-    "title": "Cryptocurrencies and Crypto-Related Stocks Rise After Trump Pauses Tariffs",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/cryptocurrencies-and-crypto-related-stocks-rise-after-trump-pauses-tariffs/",
-    "snippet": "The prices of cryptocurrencies and crypto-related stocks leapt after Trump paused the tariffs that he had placed on more than 75 countries.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/bitcoin-crypto-tariffs.jpg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVZNREIxVUdFMmJsVTNMVUpoVFJDU0FoakpBeWdLTWdrUmNJN3lLS2R5YndF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-10T01:07:29.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
-    "related_topics": []
   },
   {
     "title": "NY Attorney General Letitia James urges Congress to strengthen cryptocurrency regulations",
@@ -1344,7 +1244,7 @@
   {
     "title": "2 Cryptocurrency ETFs to Buy With $100 and Hold Forever",
     "link": "https://www.fool.com/investing/2025/04/09/cryptocurrency-etfs-to-buy-hold-forever-btc/",
-    "snippet": "The Grayscale Bitcoin Mini Trust charges an expense ratio of 0.15%. That's lower than many competing options and on par with many affordable ...",
+    "snippet": "For most people, however, an ETF is a balanced solution between ease and cost of ownership. That brings us to the second catch: cost. The ...",
     "photo_url": "https://g.foolcdn.com/editorial/images/813996/celebrating-party-around-casino-roulette-wheel-1924462913.jpg",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVphM2R1VFU5Wk1tRlBja3R2VFJERUF4aW1CU2dLTWdZQlVJeUFHd28=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-09T07:17:00.000Z",
@@ -1364,6 +1264,21 @@
     ]
   },
   {
+    "title": "Officials warn of cryptocurrency scam targeting kupuna",
+    "link": "https://www.hawaiinewsnow.com/video/2025/04/10/officials-warn-cryptocurrency-scam-targeting-kupuna/",
+    "snippet": null,
+    "photo_url": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F04-12-2025%2Ft_1fedd7a7634243e69a1f2d7085dee14e_name_file_1280x720_2000_v3_1_.jpg?auth=b216832f8b88aee0439499557959cd8dad811de33430f122e72acd517a99f8c6&width=1920&height=1080&smart=true",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVFVMEl0UlRoRGVUSkdOV0V6VFJDZkF4ampCU2dLTWdrUmM0SnN3U09pNndF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-10T21:00:00.000Z",
+    "authors": [],
+    "source_url": "https://www.hawaiinewsnow.com",
+    "source_name": "Hawaii News Now",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hawaiinewsnow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2hoZDJGcGFXNWxkM051YjNjdVkyOXRLQUFQAQ",
+    "related_topics": []
+  },
+  {
     "title": "World Food Program USA Now Accepts Cryptocurrencies",
     "link": "https://www.wfpusa.org/news-release/wfp-usa-now-accepts-cryptocurrencies/",
     "snippet": "Amid growing hunger, shrinking humanitarian budgets and the rise of crypto philanthropy, WFP USA now accepts 80+ types of cryptocurrencies.",
@@ -1377,6 +1292,28 @@
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wfpusa.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbmRtY0hWellTNXZjbWNvQUFQAQ",
     "related_topics": []
+  },
+  {
+    "title": "Cryptocurrency scams drive major spike in investment fraud",
+    "link": "https://omaha.com/news/nation-world/business/personal-finance/collection_67172379-ced6-5809-a35b-44a642385b82.html",
+    "snippet": null,
+    "photo_url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/a0/aa084af9-8875-59d2-8c97-046c4cf59d13/67f6ab532b060.image.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUNaRVJKTTNCa2QwMUhTbkpJVFJERUF4aW1CU2dLTWdrTlFvckZtbW8xMUFB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T17:28:16.000Z",
+    "authors": [
+      "Marco Dalla Stella"
+    ],
+    "source_url": "https://omaha.com",
+    "source_name": "Omaha World-Herald",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://omaha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzl0WVdoaExtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3TlhGcVluRTRZaElDWlc0b0FBUAE",
+        "topic_name": "Marco Dalla Stella"
+      }
+    ]
   },
   {
     "title": "Cryptohack Roundup: US Disbands Cryptocurrency Legal Team",
@@ -1401,6 +1338,28 @@
     ]
   },
   {
+    "title": "Palm Coast man, known as 'King Bob,' pleads guilty in cryptocurrency and phishing scam",
+    "link": "https://www.news-journalonline.com/story/news/courts/2025/04/08/noah-urban-pleads-guilty-cryptocurrency-theft-phishing/82975256007/",
+    "snippet": "Known as 'King Bob' to crypto enthusiasts, Urban faces up to 60 years in prison and owes more than $13 million in restitution.",
+    "photo_url": "https://www.news-journalonline.com/gcdn/authoring/authoring-images/2025/04/07/NDNJ/82980749007-noahurban.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBUalI0V1VaM2QzSmlhMmhPVFJEckJCanZBeWdLTWdZbFpaVE1xUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T09:10:23.000Z",
+    "authors": [
+      "Frank Fernandez"
+    ],
+    "source_url": "https://www.news-journalonline.com",
+    "source_name": "Daytona Beach News-Journal",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.news-journalonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqNAgKIi5DQklTSEFnTWFoZ0tGbTVsZDNNdGFtOTFjbTVoYkc5dWJHbHVaUzVqYjIwb0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZVRGdGQyTjJNQklDWlc0b0FBUAE",
+        "topic_name": "Frank Fernandez"
+      }
+    ]
+  },
+  {
     "title": "Attorneys face uphill battle in cryptocurrency fraud recovery",
     "link": "https://molawyersmedia.com/2025/04/10/crypto-fraud-legal-challenges-2025/",
     "snippet": "In 2023, crypto scams led to $5.6B in losses, posing new legal hurdles for attorneys in client loss recovery amid evolving regulations.",
@@ -1421,21 +1380,6 @@
         "topic_name": "Erin Achenbach"
       }
     ]
-  },
-  {
-    "title": "Amongst Volatility in The Markets, More Organizations Embrace Bitcoin, Adding Cryptocurrency to Their Treasury",
-    "link": "https://www.globenewswire.com/news-release/2025/04/10/3059287/0/en/Amongst-Volatility-in-The-Markets-More-Organizations-Embrace-Bitcoin-Adding-Cryptocurrency-to-Their-Treasury.html",
-    "snippet": "The accelerating adoption of Bitcoin has prompted businesses to seriously consider integrating cryptocurrencies into their core treasury ...",
-    "photo_url": "https://ml.globenewswire.com/Resource/Download/f326183f-8829-42af-8851-525b1d7503ed?size=2",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFUekJmYW5ad1JEVjNWM1pLVFJDcUFSaW9BaWdCTWdZSlVvaG5MZ2c=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-10T13:03:56.000Z",
-    "authors": [],
-    "source_url": "https://www.globenewswire.com",
-    "source_name": "GlobeNewswire",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2RzYjJKbGJtVjNjM2RwY21VdVkyOXRLQUFQAQ",
-    "related_topics": []
   },
   {
     "title": "Bitcoin Price Sinks Amid ‘Tariff-Driven Pullback’",
@@ -1475,28 +1419,6 @@
     ]
   },
   {
-    "title": "York County man accused in ‘complex cryptocurrency scheme’ pleads guilty",
-    "link": "https://www.abc27.com/local-news/york-county-man-accused-in-complex-cryptocurrency-scheme-pleads-guilty/",
-    "snippet": "Waylon Wilcox, 45, of Dillsburg, was charged in March with two counts of filing false income tax returns. According to the U.S. Attorney's ...",
-    "photo_url": "https://www.abc27.com/wp-content/uploads/sites/55/2024/01/gettyimages-925013506-2-e1697068242675.jpg?strip=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRWR1U1VG5KV2IyMDRhMHh2VFJERUF4aW5CU2dLTWdZSm9JWnVRUVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-12T02:37:49.000Z",
-    "authors": [
-      "Kaylee Lindenmuth"
-    ],
-    "source_url": "https://www.abc27.com",
-    "source_name": "ABC27",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abc27.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0ZpWXpJM0xtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZVRSeU5YUndaQklDWlc0b0FBUAE",
-        "topic_name": "Kaylee Lindenmuth"
-      }
-    ]
-  },
-  {
     "title": "CONSUMER ALERT: How to Avoid Cryptocurrency Kiosk Scams",
     "link": "https://neareport.com/2025/04/08/consumer-alert-how-to-avoid-cryptocurrency-kiosk-scams/",
     "snippet": "Scammers typically direct consumers to deposit money in cryptocurrency kiosks or 'Bitcoin ATMs,' which are ATM-like machines located in gas ...",
@@ -1519,26 +1441,41 @@
     ]
   },
   {
-    "title": "Forest Lake looks at cryptocurrency ATM registration after series of scams",
-    "link": "https://www.twincities.com/2025/04/09/forest-lake-cryptocurrency-atm-scams-registration/",
-    "snippet": "An elderly Forest Lake man lost almost $1 million after scammers persuaded him to withdraw cash from his bank and deposit it into a ...",
-    "photo_url": "https://i0.wp.com/www.twincities.com/wp-content/uploads/2025/03/STP-L-CRYPTO-0315-01.jpg?fit=620%2C9999px&ssl=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhVbTFoUVVWMlFTMUtOVUpTVFJDVEF4anNCQ2dLTWdhbFlZb092UVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T20:56:01.000Z",
+    "title": "York County man accused in ‘complex cryptocurrency scheme’ pleads guilty",
+    "link": "https://www.abc27.com/local-news/york-county-man-accused-in-complex-cryptocurrency-scheme-pleads-guilty/",
+    "snippet": "(WHTM) — A York County man accused of omitting more than $13 million in cryptocurrency income on his tax returns has pleaded guilty. Waylon ...",
+    "photo_url": "https://www.abc27.com/wp-content/uploads/sites/55/2024/01/gettyimages-925013506-2-e1697068242675.jpg?strip=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRWR1U1VG5KV2IyMDRhMHh2VFJERUF4aW5CU2dLTWdZSm9JWnVRUVE=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-12T02:37:49.000Z",
     "authors": [
-      "Mary Divine"
+      "Kaylee Lindenmuth"
     ],
-    "source_url": "https://www.twincities.com",
-    "source_name": "Pioneer Press",
+    "source_url": "https://www.abc27.com",
+    "source_name": "ABC27",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.twincities.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEblIzYVc1amFYUnBaWE11WTI5dEtBQVAB",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abc27.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV0ZpWXpJM0xtTnZiU2dBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpRM2NHczRNaElDWlc0b0FBUAE",
-        "topic_name": "Mary Divine"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZVRSeU5YUndaQklDWlc0b0FBUAE",
+        "topic_name": "Kaylee Lindenmuth"
       }
     ]
+  },
+  {
+    "title": "AG James urges Congress to strengthen cryptocurrency regulation",
+    "link": "https://suncommunitynews.com/news/117207/ag-james-urges-congress-to-strengthen-cryptocurrency-regulation/",
+    "snippet": "I am urging Congress to pass legislation that would strengthen federal regulations on the cryptocurrency industry to protect investors, ...",
+    "photo_url": "http://d2h7uomj8dvg5p.cloudfront.net/360_Sun_Live/0/0/0/0/88/645/88645_1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhNSEl3ZW1OdFpUUnpXakV6VFJEQ0FSaURBaWdCTWdZSnc0Z3BQZ1U=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-10T18:05:00.000Z",
+    "authors": [],
+    "source_url": "https://suncommunitynews.com",
+    "source_name": "Sun Community News",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://suncommunitynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGSE4xYm1OdmJXMTFibWwwZVc1bGQzTXVZMjl0S0FBUAE",
+    "related_topics": []
   },
   {
     "title": "Bitcoin struggles to be ‘digital gold’ as scared investors choose real gold instead",
@@ -1561,21 +1498,6 @@
         "topic_name": "Benjamin Weiss"
       }
     ]
-  },
-  {
-    "title": "AG James urges Congress to strengthen cryptocurrency regulation",
-    "link": "https://suncommunitynews.com/news/117207/ag-james-urges-congress-to-strengthen-cryptocurrency-regulation/",
-    "snippet": "In her letter, Attorney General James warns that the lack of strong federal regulations on cryptocurrencies increases the risk of fraud, ...",
-    "photo_url": "http://d2h7uomj8dvg5p.cloudfront.net/360_Sun_Live/0/0/0/0/88/645/88645_1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhNSEl3ZW1OdFpUUnpXakV6VFJEQ0FSaURBaWdCTWdZSnc0Z3BQZ1U=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-10T18:05:00.000Z",
-    "authors": [],
-    "source_url": "https://suncommunitynews.com",
-    "source_name": "Sun Community News",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://suncommunitynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGSE4xYm1OdmJXMTFibWwwZVc1bGQzTXVZMjl0S0FBUAE",
-    "related_topics": []
   },
   {
     "title": "Jack Truong Advocates for Cryptocurrency as a More Stable Investment Than Real Estate in Today’s Mobile Economy",
@@ -1615,28 +1537,6 @@
     ]
   },
   {
-    "title": "Eric Trump reveals why his family shifted to cryptocurrency amid cancel culture, opens up about his White House role",
-    "link": "https://www.hindustantimes.com/world-news/us-news/eric-trump-reveals-why-his-family-shifted-to-cryptocurrency-amid-cancel-culture-opens-up-about-his-white-house-role-101743846509414.html",
-    "snippet": "Eric Trump revealed what actually drove his family toward cryptocurrency, stating that they were “ the most canceled company, probably on Earth.",
-    "photo_url": "https://www.hindustantimes.com/ht-img/img/2025/04/05/550x309/GULF-TRUMP--0_1735068357087_1743848944302.JPG",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVVNRU5ZYlZkVFRWZGpZbXRyVFJDMUFoaWxCQ2dLTWdZcFpaVE5wUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-05T10:37:13.000Z",
-    "authors": [
-      "Shweta Kukreti"
-    ],
-    "source_url": "https://www.hindustantimes.com",
-    "source_name": "Hindustan Times",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbWhwYm1SMWMzUmhiblJwYldWekxtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzJOM09ERmZOQklDWlc0b0FBUAE",
-        "topic_name": "Shweta Kukreti"
-      }
-    ]
-  },
-  {
     "title": "Trump signs bill loosening cryptocurrency regulations",
     "link": "https://www.washingtontimes.com/news/2025/apr/10/trump-signs-bill-loosening-cryptocurrency-regulations/",
     "snippet": "President Trump on Thursday signed into law a bill that loosens cryptocurrency regulations by shielding decentralized finance (DeFi) ...",
@@ -1661,9 +1561,9 @@
   {
     "title": "Dogecoin Is Falling Today -- Is It Time to Buy the Cryptocurrency?",
     "link": "https://www.fool.com/investing/2025/04/08/dogecoin-is-falling-today-time-to-buy-crypto/",
-    "snippet": "Dogecoin (DOGE 0.55%) is heading lower again in Tuesday's trading. The cryptocurrency's token price was down 4% as of 5:30 p.m. ET.",
+    "snippet": "Dogecoin (DOGE 1.64%) is heading lower again in Tuesday's trading. The cryptocurrency's token price was down 4% as of 5:30 p.m. ET.",
     "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F814187%2Fshiba-inu-dog-doge-dogecoin.jpeg&op=resize&w=400&h=400",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhWVXhhUlZCNFEwbE1VbVJ3VFJDS0FoaVFBeWdLTWdZZFpaTE5yUWM=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhWVXhhUlZCNFEwbE1VbVJ3VFJDM0FSaVRBaWdCTWdZZFpaTE5yUWM=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-08T22:04:00.000Z",
     "authors": [
       "Keith Noonan"
@@ -1677,6 +1577,28 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTkdnMWNuRm1OUklDWlc0b0FBUAE",
         "topic_name": "Keith Noonan"
+      }
+    ]
+  },
+  {
+    "title": "Forest Lake looks at cryptocurrency ATM registration after series of scams",
+    "link": "https://www.twincities.com/2025/04/09/forest-lake-cryptocurrency-atm-scams-registration/",
+    "snippet": "Cryptocurrency ATMs are no different because of the amount of fraud running through the machines, the vulnerable population groups targeted and ...",
+    "photo_url": "https://i0.wp.com/www.twincities.com/wp-content/uploads/2025/03/STP-L-CRYPTO-0315-01.jpg?fit=620%2C9999px&ssl=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhVbTFoUVVWMlFTMUtOVUpTVFJDVEF4anNCQ2dLTWdhbFlZb092UVE=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T20:56:01.000Z",
+    "authors": [
+      "Mary Divine"
+    ],
+    "source_url": "https://www.twincities.com",
+    "source_name": "Pioneer Press",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.twincities.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEblIzYVc1amFYUnBaWE11WTI5dEtBQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpRM2NHczRNaElDWlc0b0FBUAE",
+        "topic_name": "Mary Divine"
       }
     ]
   },
@@ -1696,26 +1618,19 @@
     "related_topics": []
   },
   {
-    "title": "The DOJ is no longer policing cryptocurrency fraud. Are Americans at risk?",
-    "link": "https://www.yahoo.com/news/doj-no-longer-policing-cryptocurrency-202857641.html",
-    "snippet": "The Federal Bureau of Investigations reported that Americans lost over $5.6 billion in 2023 due to investment scams and cybercrimes associated ...",
-    "photo_url": "https://s.yimg.com/ny/api/res/1.2/l3NzjvKqImv4VfOI5nlLRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDI-/https://media.zenfs.com/en/deseret_news_992/07c7e0862fe9472b3ffa9637c11324c9",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWliVWd5VVVScFpsUTBSSFZRVFJDZ0F4amhCU2dLTWdZZE1Zd3FxZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T20:28:57.000Z",
-    "authors": [
-      "Sydney Jezik"
-    ],
-    "source_url": "https://www.yahoo.com",
-    "source_name": "Yahoo",
+    "title": "Groundbreaking tech promises to change the landscape of digital currency: 'Not every cryptocurrency is an energy guzzler'",
+    "link": "https://www.thecooldown.com/green-business/clean-cryptocurrency-cards-blockchain-financial-tech-green/",
+    "snippet": "Cryptocurrency cards, which work like your typical debit or credit card but are funded by digital currency, are showing up with a greener twist.",
+    "photo_url": "https://www.thecooldown.com/wp-content/uploads/2025/04/clean-cryptocurrency-cardsimage-recX6qt6p5EBKuKhl.jpg?w=876&h=576",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpjRzVyVDFaS1lVMWFNREJhVFJDZkF4ampCU2dLTWdhRkVaYXBKUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-10T10:15:00.000Z",
+    "authors": [],
+    "source_url": "https://www.thecooldown.com",
+    "source_name": "The Cool Down",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WDJ3eWVEY3haeElDWlc0b0FBUAE",
-        "topic_name": "Sydney Jezik"
-      }
-    ]
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thecooldown.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldOdmIyeGtiM2R1TG1OdmJTZ0FQAQ",
+    "related_topics": []
   },
   {
     "title": "'Effective Immediately': Justice Department Disbands National Cryptocurrency Enforcement Unit",
@@ -1740,24 +1655,9 @@
     ]
   },
   {
-    "title": "Groundbreaking tech promises to change the landscape of digital currency: 'Not every cryptocurrency is an energy guzzler'",
-    "link": "https://www.thecooldown.com/green-business/clean-cryptocurrency-cards-blockchain-financial-tech-green/",
-    "snippet": "Cryptocurrency cards, which work like your typical debit or credit card but are funded by digital currency, are showing up with a greener twist.",
-    "photo_url": "https://www.thecooldown.com/wp-content/uploads/2025/04/clean-cryptocurrency-cardsimage-recX6qt6p5EBKuKhl.jpg?w=876&h=576",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpjRzVyVDFaS1lVMWFNREJhVFJDZkF4ampCU2dLTWdhRkVaYXBKUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-10T10:15:00.000Z",
-    "authors": [],
-    "source_url": "https://www.thecooldown.com",
-    "source_name": "The Cool Down",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thecooldown.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldOdmIyeGtiM2R1TG1OdmJTZ0FQAQ",
-    "related_topics": []
-  },
-  {
     "title": "DOJ to disband its cryptocurrency enforcement unit",
     "link": "https://www.engadget.com/cybersecurity/doj-to-disband-its-cryptocurrency-enforcement-unit-200347077.html",
-    "snippet": "Deputy Attorney General Todd Blanche announced the end of the National Cryptocurrency Enforcement Team in a memo sent on Monday.",
+    "snippet": "The US Department of Justice has disbanded its unit focused on prosecuting cryptocurrency scams. Deputy Attorney General Todd Blanche ...",
     "photo_url": "https://s.yimg.com/ny/api/res/1.2/acAJqByj7zMJNEWipkNPaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2025-04/1ce6e1c0-14b3-11f0-bdff-2e379047aacb",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTJTMlY0VkdabFlXSlhZVmRHVFJDckF4aUFCU2dLTWdNQmtBQQ=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-04-08T20:03:47.000Z",
@@ -1777,39 +1677,24 @@
     ]
   },
   {
-    "title": "Biggest Cryptocurrency price crashes after 'first bitcoin president' slaps global tariffs. Here is what ha",
-    "link": "https://m.economictimes.com/news/international/us/biggest-cryptocurrency-price-crashes-after-first-bitcoin-president-slaps-global-tariffs-here-is-what-has-gone-wrong/articleshow/120066943.cms",
-    "snippet": "Bitcoin price fell below $78,000 on Sunday night. Bitcoin reached a record price of nearly $110,000 on January 20, 2025 when Trump took the oath ...",
-    "photo_url": "https://m.economictimes.com/thumb/msid-120066968,width-1200,height-900,resizemode-4,imgsize-414212/bitcoin-price.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVaMHhWYzJSM1NWTjFabVJZVFJEZ0F4aUFCU2dLTWdhdEpJaXVtUU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-07T13:05:56.000Z",
-    "authors": [],
-    "source_url": "https://m.economictimes.com",
-    "source_name": "The Economic Times",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "DOJ directs investigators away from cryptocurrency enforcement",
-    "link": "https://www.washingtonexaminer.com/policy/finance-and-economy/3374746/doj-directs-investigators-cryptocurrency-enforcement/",
-    "snippet": "The Department of Justice dismantled its National Cryptocurrency Enforcement Team to focus on targeting drug cartels and terrorist ...",
-    "photo_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/todd-blanche-768x512.webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZWR294V0U5UWEwdFRZM1p3VFJERUF4aW1CU2dLTWdZQmNKVEdyQWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-09T13:13:55.000Z",
+    "title": "New York bill proposes legalizing Bitcoin, crypto for state payments",
+    "link": "https://cointelegraph.com/news/new-york-bill-legalize-bitcoin-crypto-payments",
+    "snippet": "The bill seeks to legalize crypto payments for fines, civil penalties and taxes, including a potential state \"service fee\" for crypto ...",
+    "photo_url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2025-02/0194fc52-4365-7e03-abad-d25bbbd194b5",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdaRVIyYWt3MmFHSmtYM05KVFJDM0FSaVRBaWdCTWdhdE5ZcXZtUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-11T11:56:18.000Z",
     "authors": [
-      "Emily Hallas"
+      "Zoltan Vardai"
     ],
-    "source_url": "https://www.washingtonexaminer.com",
-    "source_name": "Washington Examiner",
+    "source_url": "https://cointelegraph.com",
+    "source_name": "Cointelegraph",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.washingtonexaminer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqNAgKIi5DQklTSEFnTWFoZ0tGbmRoYzJocGJtZDBiMjVsZUdGdGFXNWxjaTVqYjIwb0FBUAE",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cointelegraph.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV052YVc1MFpXeGxaM0poY0dndVkyOXRLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWTNGcVpqQmpjUklDWlc0b0FBUAE",
-        "topic_name": "Emily Hallas"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyZWpOaU1HTndNUklDWlc0b0FBUAE",
+        "topic_name": "Zoltan Vardai"
       }
     ]
   },
@@ -1851,6 +1736,50 @@
     ]
   },
   {
+    "title": "The DOJ is no longer policing cryptocurrency fraud. Are Americans at risk?",
+    "link": "https://www.yahoo.com/news/doj-no-longer-policing-cryptocurrency-202857641.html",
+    "snippet": "The Federal Bureau of Investigations reported that Americans lost over $5.6 billion in 2023 due to investment scams and cybercrimes associated ...",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/l3NzjvKqImv4VfOI5nlLRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDI-/https://media.zenfs.com/en/deseret_news_992/07c7e0862fe9472b3ffa9637c11324c9",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWliVWd5VVVScFpsUTBSSFZRVFJDZ0F4amhCU2dLTWdZZE1Zd3FxZ1k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T20:28:57.000Z",
+    "authors": [
+      "Sydney Jezik"
+    ],
+    "source_url": "https://www.yahoo.com",
+    "source_name": "Yahoo",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWGxoYUc5dkxtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WDJ3eWVEY3haeElDWlc0b0FBUAE",
+        "topic_name": "Sydney Jezik"
+      }
+    ]
+  },
+  {
+    "title": "DOJ directs investigators away from cryptocurrency enforcement",
+    "link": "https://www.washingtonexaminer.com/policy/finance-and-economy/3374746/doj-directs-investigators-cryptocurrency-enforcement/",
+    "snippet": "The Department of Justice dismantled its National Cryptocurrency Enforcement Team to focus on targeting drug cartels and terrorist ...",
+    "photo_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/todd-blanche-768x512.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZWR294V0U5UWEwdFRZM1p3VFJERUF4aW1CU2dLTWdZQmNKVEdyQWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T13:13:55.000Z",
+    "authors": [
+      "Emily Hallas"
+    ],
+    "source_url": "https://www.washingtonexaminer.com",
+    "source_name": "Washington Examiner",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.washingtonexaminer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqNAgKIi5DQklTSEFnTWFoZ0tGbmRoYzJocGJtZDBiMjVsZUdGdGFXNWxjaTVqYjIwb0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWTNGcVpqQmpjUklDWlc0b0FBUAE",
+        "topic_name": "Emily Hallas"
+      }
+    ]
+  },
+  {
     "title": "Mastercard and Kraken Team to Promote Crypto Payments in the EU and UK",
     "link": "https://www.pymnts.com/cryptocurrency/2025/mastercard-kraken-team-promote-crypto-payments-europe-united-kingdom/",
     "snippet": "Kraken customers in the United Kingdom and Europe can spend crypto assets at more than 150 million merchants that accept Mastercard.",
@@ -1863,6 +1792,21 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
+    "title": "Atua AI Builds on XRP Cryptocurrency Capabilities to Enhance Enterprise-Scale Automation",
+    "link": "https://markets.businessinsider.com/news/stocks/atua-ai-builds-on-xrp-cryptocurrency-capabilities-to-enhance-enterprisescale-automation-1034553727",
+    "snippet": "Expanded XRP Integration Drives Faster Transactions, Lower Costs, and Seamless AI Workflows for Web3 Businesses.",
+    "photo_url": "https://images.newsfilecorp.com/files/8833/247548_8b2dd64cc47d5b56_001.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpSalZ2UzJoM1dWazFSMjFmVFJDb0FSaXNBaWdCTWdZWllJcU1QUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-07T07:49:44.000Z",
+    "authors": [],
+    "source_url": "https://markets.businessinsider.com",
+    "source_name": "markets.businessinsider.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://markets.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHMjFoY210bGRITXVZblZ6YVc1bGMzTnBibk5wWkdWeUxtTnZiU2dBUAE",
     "related_topics": []
   },
   {
@@ -1884,28 +1828,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwWm5ocWFETmpOaElDWlc0b0FBUAE",
         "topic_name": "Anthony Clarke"
-      }
-    ]
-  },
-  {
-    "title": "Fact Check Team: Stablecoins gain traction as US lawmakers push for regulation",
-    "link": "https://ktxs.com/news/nation-world/stablecoins-gain-traction-as-us-lawmakers-push-for-regulation-bitcoin-cryptocurrency-digital-money-transactions",
-    "snippet": "The focus is on stablecoins, a type of cryptocurrency pegged to a specific reserve asset, often the U.S. dollar, which allows them to maintain a ...",
-    "photo_url": "https://ktxs.com/resources/media2/16x9/8640/986/0x450/90/1ecb46c2-49ba-471b-8a51-298f69494098-AP24347739456359.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUtVa1psVlV4TU9FY3pVRlI2VFJDZkF4amlCU2dLTWdrQk1JNkxvU2ZRVUFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-10T18:10:14.000Z",
-    "authors": [
-      "Emma Withrow"
-    ],
-    "source_url": "https://ktxs.com",
-    "source_name": "KTXS",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ktxs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3QwZUhNdVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5OeE4xODRjeElDWlc0b0FBUAE",
-        "topic_name": "Emma Withrow"
       }
     ]
   },
@@ -1932,36 +1854,6 @@
     ]
   },
   {
-    "title": "US Department of Justice, National Cryptocurrency Enforcement Unit Shuttered – Report",
-    "link": "https://www.crowdfundinsider.com/2025/04/238266-us-department-of-justice-national-cryptocurrency-enforcement-unit-shuttered-report/",
-    "snippet": "The NCET was created in February 2022 to address the growing challenges of illicit activity in the crypto sector. Eun Young Choi served as its ...",
-    "photo_url": "https://www.crowdfundinsider.com/wp-content/uploads/2025/04/Todd-Blanche-DOJ.jpeg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJVblZoTTBoTVNrMDRUWHA2VFJEcEF4anpCQ2dLTWdZZEo1Z3FJZ2s=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T12:28:19.000Z",
-    "authors": [],
-    "source_url": "https://www.crowdfundinsider.com",
-    "source_name": "Crowdfund Insider",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.crowdfundinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR055YjNka1puVnVaR2x1YzJsa1pYSXVZMjl0S0FBUAE",
-    "related_topics": []
-  },
-  {
-    "title": "SEC and Key Industry Players to Discuss Cryptocurrency Regulation",
-    "link": "https://insurancenewsnet.com/oarticle/sec-and-key-industry-players-to-discuss-cryptocurrency-regulation",
-    "snippet": "The Securities and Exchange Commission (SEC) has released a list of representatives from the largest cryptocurrency and financial services ...",
-    "photo_url": "https://innfeedjson-images-prd-tf.s3.amazonaws.com/2025-04-08/202504080926ACI_INFOBLOGS_EN_CODE_10009434_544973139464252084245010/w=880,h=495,fit=cover",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNDRPVTFNVGpGVGFVTm1VMnR6VFJDZkF4ampCU2dLTWdPVmVBdw=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-04-08T13:34:46.000Z",
-    "authors": [],
-    "source_url": "https://insurancenewsnet.com",
-    "source_name": "InsuranceNewsNet",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://insurancenewsnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR2x1YzNWeVlXNWpaVzVsZDNOdVpYUXVZMjl0S0FBUAE",
-    "related_topics": []
-  },
-  {
     "title": "Justice Department shutters cryptocurrency enforcement team and refocuses on drug cartels",
     "link": "https://mugglehead.com/justice-department-shutters-cryptocurrency-enforcement-team-and-refocuses-on-drug-cartels/",
     "snippet": "Justice Department shutters cryptocurrency enforcement team and refocuses on drug cartels, following Trump's crypto friendly regime.",
@@ -1982,5 +1874,118 @@
         "topic_name": "Joseph Morton"
       }
     ]
+  },
+  {
+    "title": "Understanding ADA Coin, the New DeFi-Focused Cryptocurrency",
+    "link": "https://trib.com/life-entertainment/article_dd87536f-7d17-5184-9b1b-6f4fc338db5c.html",
+    "snippet": "Cardano was established with a similar philosophy to Ethereum; it is intended as a platform for decentralized finance (DeFi) applications and ...",
+    "photo_url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/f/46/f46d4fa2-32f3-5619-a2ee-8da1d3b1718e/67f6debfdbb95.image.jpg?resize=1200%2C1431",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRMV1paUlc5dlYxSTFURlJqVFJEZEJCajdBeWdLTWdZRlFJTFFLQWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-09T20:56:00.000Z",
+    "authors": [
+      "Tom White"
+    ],
+    "source_url": "https://trib.com",
+    "source_name": "Casper Star-Tribune",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://trib.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSFJ5YVdJdVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6TVRselltSnlaQklDWlc0b0FBUAE",
+        "topic_name": "Tom White"
+      }
+    ]
+  },
+  {
+    "title": "Bitcoin breaks below $75,000 as crypto’s Trump rally fades amid tariff turmoil (BTC-USD:Cryptocurrency)",
+    "link": "https://seekingalpha.com/news/4429012-bitcoin-breaks-below-75000-as-cryptos-trump-rally-fades-amid-tariff-turmoil",
+    "snippet": "Bitcoin (BTC-USD) and major cryptocurrencies suffered a significant sell-off in early trade on Monday, with bitcoin sliding below $75000 ...",
+    "photo_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1294303261/image_1294303261.jpg?io=getty-c-w1280",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFRMVV5YW5KVFlsZFNVeTFLVFJEZ0F4aUFCU2dLTWdZUmRKU3RMUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-07T08:11:00.000Z",
+    "authors": [
+      "Preeti Singh"
+    ],
+    "source_url": "https://seekingalpha.com",
+    "source_name": "Seeking Alpha",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFSE5sWld0cGJtZGhiSEJvWVM1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNGM00yWTFaeElDWlc0b0FBUAE",
+        "topic_name": "Preeti Singh"
+      }
+    ]
+  },
+  {
+    "title": "EU markets watchdog warns of crypto-related financial stability risks",
+    "link": "https://www.reuters.com/technology/eu-markets-watchdog-warns-crypto-related-financial-stability-risks-2025-04-08/",
+    "snippet": "Funds focused on crypto make up less than 1% of the EU fund universe, and ESMA noted that 95% of EU banks do not engage in crypto activities.",
+    "photo_url": "https://www.reuters.com/resizer/v2/57QSJ6F7TFOVTATEZ4FB7X3LKI.jpg?auth=c99b24e1d86dd0818c34a6106ed88898438639ea22f6bf7f25296d5f08d763dc&width=4000&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW5OWEUxWlRnd1lXeFJSbW90VFJESEF4aWhCU2dLTWdrQklJcWtHT2REVWdF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T19:33:26.000Z",
+    "authors": [
+      "Tommy Reggiori Wilkes",
+      "Elizabeth Howcroft",
+      "Joe Bavier"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNrd00zRnVaeElDWlc0b0FBUAE",
+        "topic_name": "Tommy Reggiori Wilkes"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhoa00zQnNlQklDWlc0b0FBUAE",
+        "topic_name": "Elizabeth Howcroft"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6WDJoa2VEZzRiaElDWlc0b0FBUAE",
+        "topic_name": "Joe Bavier"
+      }
+    ]
+  },
+  {
+    "title": "U.S. DOJ disbands the National Cryptocurrency Enforcement Unit: report",
+    "link": "https://crypto.news/u-s-doj-disbands-the-national-cryptocurrency-enforcement-unit-report/",
+    "snippet": "The U.S. Department of Justice is disbanding the National Cryptocurrency Enforcement Unit, citing its reckless strategy in prosecuting ...",
+    "photo_url": "https://crypto.news/app/uploads/2024/01/crypto-news-trading-chart-front-side-view-Exchange-building-background-bright-neon-colors-option09.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5ibGRKUVRkdGN6WjJNMjlLVFJDc0F4ak5CU2dLTWdaQlFJU3p2QU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-08T12:35:18.000Z",
+    "authors": [
+      "Trisha Husada"
+    ],
+    "source_url": "https://crypto.news",
+    "source_name": "Crypto News",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://crypto.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk55ZVhCMGJ5NXVaWGR6S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY0TURKb1pIWjZNQklDWlc0b0FBUAE",
+        "topic_name": "Trisha Husada"
+      }
+    ]
+  },
+  {
+    "title": "Kauai Police Department warn public of cryptocurrency scam",
+    "link": "https://www.thegardenisland.com/2025/04/12/hawaii-news/kauai-police-department-warn-public-of-cryptocurrency-scam/",
+    "snippet": "LIHUE – The Kauai Police Department (KPD) is warning the public, especially kupuna, about a fast-growing cryptocurrency scam.",
+    "photo_url": "https://www.thegardenisland.com/wp-content/uploads/2025/04/web1_20250410abuse.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUlZV296UTJwc1dGZEJNa3N0VFJEdkF4anNCQ2dLTWdrQklJNkpMS1p6cEFJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-04-12T10:05:00.000Z",
+    "authors": [],
+    "source_url": "https://www.thegardenisland.com",
+    "source_name": "The Garden Island Newspaper",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thegardenisland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWldkaGNtUmxibWx6YkdGdVpDNWpiMjBvQUFQAQ",
+    "related_topics": []
   }
 ]
