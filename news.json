@@ -1,23 +1,23 @@
 [
   {
-    "title": "At a Dubai Conference, Trump’s Conflicts Take Center Stage",
-    "link": "https://www.nytimes.com/2025/05/01/us/politics/trump-cryptocurrency-usd1-dubai-conference-announcement.html",
-    "snippet": "MGX's use of the World Liberty stablecoin, USD1, brings a Trump family company into business with a venture firm backed by a foreign government.",
-    "photo_url": "https://static01.nyt.com/images/2025/05/01/multimedia/00dc-trump-crypto-lwmq/00dc-trump-crypto-lwmq-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXNURlZmYmw5MFUyNDRkazl6VFJDUUF4allCQ2dLTWdZZFU1YXRJUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-01T16:30:32.000Z",
+    "title": "Senate Democrats block first-of-its-kind bill regulating cryptocurrency amid concerns over Trump’s crypto dealings",
+    "link": "https://www.cnn.com/2025/05/08/politics/senate-crypto-bill-democrats-trump",
+    "snippet": "Senate Democrats blocked a first-of-its-kind bill aimed at regulating cryptocurrency in the US amid Democratic concerns over President ...",
+    "photo_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2128594835.jpg?c=16x9&q=h_833,w_1480,c_fill",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlZMU5DZFZveVFUQlZhV2gwVFJDZkF4amlCU2dLTWdZSmM1TE1zUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T18:30:00.000Z",
     "authors": [
-      "David Yaffe-Bellany"
+      "Morgan Rimmer"
     ],
-    "source_url": "https://www.nytimes.com",
-    "source_name": "The New York Times",
+    "source_url": "https://www.cnn.com",
+    "source_name": "CNN",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMk51Ymk1amIyMG9BQVAB",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKeFlqZHdOeElDWlc0b0FBUAE",
-        "topic_name": "David Yaffe-Bellany"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuZUhCMloydHpOeElDWlc0b0FBUAE",
+        "topic_name": "Morgan Rimmer"
       }
     ]
   },
@@ -68,7 +68,7 @@
   {
     "title": "Trump's crypto ventures cause tensions to bubble over as Democratic lawmaker scuttles key hearing",
     "link": "https://www.reuters.com/sustainability/boards-policy-regulation/trumps-crypto-ventures-cause-tensions-bubble-over-democratic-lawmaker-scuttles-2025-05-06/",
-    "snippet": "“President Trump is dedicated to making America the crypto capital of the world and revolutionizing our digital financial technology,\" she said.",
+    "snippet": "Tensions on Capitol Hill over President Donald Trump's various cryptocurrency ventures escalated on Tuesday and threatened to derail the ...",
     "photo_url": "https://www.reuters.com/resizer/v2/MYZTOZLOPVPXLJPIXYMXJLMNNE.jpg?auth=4164120c79feadb50a4ef5b9837752cdc38f3f036c881923dfa6930ba0aacc32&width=2200&quality=80",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWpRbkJ1ZVVzelNVRXlVelJtVFJERUF4aW1CU2dLTWdtcEZZYXUxV0p6NUFJ=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-05-06T19:14:54.000Z",
@@ -86,6 +86,21 @@
         "topic_name": "Hannah Erin Lang"
       }
     ]
+  },
+  {
+    "title": "Trump’s Newest Grift: Molly White on First Family’s Cryptocurrency Empire & Gutting of Regulations",
+    "link": "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics",
+    "snippet": "Donald Trump has raised nearly a billion dollars from his various cryptocurrency schemes, says researcher Molly White.",
+    "photo_url": "https://www.democracynow.org/images/story/67/77067/full_hd/SEG1_Trump.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZibXhyUlVWNldsbG1kVWRUVFJDb0FSaXNBaWdCTWdtRllaTGpwcWhqcmdF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T12:00:00.000Z",
+    "authors": [],
+    "source_url": "https://www.democracynow.org",
+    "source_name": "Democracy Now!",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.democracynow.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsYlc5amNtRmplVzV2ZHk1dmNtY29BQVAB",
+    "related_topics": []
   },
   {
     "title": "House Democrats storm out of cryptocurrency hearing, alleging Trump 'corruption'",
@@ -110,19 +125,31 @@
     ]
   },
   {
-    "title": "Trump’s Newest Grift: Molly White on First Family’s Cryptocurrency Empire & Gutting of Regulations",
-    "link": "https://www.democracynow.org/2025/5/6/molly_white_crypto_trump_memecoin_ethics",
-    "snippet": "Donald Trump has raised nearly a billion dollars from his various cryptocurrency schemes, says researcher Molly White.",
-    "photo_url": "https://www.democracynow.org/images/story/67/77067/full_hd/SEG1_Trump.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZibXhyUlVWNldsbG1kVWRUVFJDb0FSaXNBaWdCTWdtRllaTGpwcWhqcmdF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T12:00:00.000Z",
-    "authors": [],
-    "source_url": "https://www.democracynow.org",
-    "source_name": "Democracy Now!",
+    "title": "Crypto Bill Stalls in the Senate as Democrats Balk",
+    "link": "https://www.nytimes.com/2025/05/08/us/politics/crypto-bill-senate.html",
+    "snippet": "A first-of-its-kind bill to regulate parts of the cryptocurrency industry stalled in the Senate on Thursday, after Democrats blocked it amid ...",
+    "photo_url": "https://static01.nyt.com/images/2025/05/08/multimedia/08dc-crypto-fwzq/08dc-crypto-fwzq-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNWZXVmg2Y3psWVZEZHRaekJxVFJDbUJSakVBeWdLTWdB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T19:19:43.000Z",
+    "authors": [
+      "Michael Gold",
+      "Robert J."
+    ],
+    "source_url": "https://www.nytimes.com",
+    "source_name": "The New York Times",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.democracynow.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR1JsYlc5amNtRmplVzV2ZHk1dmNtY29BQVAB",
-    "related_topics": []
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjJad1pqRjZiQklDWlc0b0FBUAE",
+        "topic_name": "Michael Gold"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1OcmFqSTNjQklDWlc0b0FBUAE",
+        "topic_name": "Robert J."
+      }
+    ]
   },
   {
     "title": "Local expert decrypts cryptocurrency",
@@ -167,43 +194,6 @@
     ]
   },
   {
-    "title": "Sanders raises alarm on cryptocurrency bill",
-    "link": "https://www.wcax.com/2025/05/07/sanders-raises-alarm-cryptocurrency-bill/",
-    "snippet": "Vermont Senator Bernie Sanders is calling attention to a cryptocurrency regulation bill that he says would further enrich the president and ...",
-    "photo_url": "https://gray-wcax-prod.gtv-cdn.com/resizer/v2/W2WND2O26BGVREO73EXK26X4LE.jpg?auth=22125258142a4ebf9ff737d7f2a710af5e64c3e241117e86338eda84fefa5132&width=1200&height=600&smart=true",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVMWE5aTTBGMlRuZ3lSV1Z0VFJDSEF4aVBCaWdLTWdhQk5KYVBxUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T14:07:00.000Z",
-    "authors": [],
-    "source_url": "https://www.wcax.com",
-    "source_name": "WCAX",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wcax.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGRqWVhndVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "Congressional Democrats attack Donald Trump's 'corrupt' crypto connections",
-    "link": "https://www.usatoday.com/story/news/politics/2025/05/07/democrats-trump-corrupt-connections-crypto/83480328007/",
-    "snippet": "Democrats are investigating Trump's connections and derailing legislation that would legitimize digital currencies.",
-    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/30/USAT/83377158007-trump-crypto.jpg?crop=4999,2813,x0,y180&width=660&height=371&format=pjpg&auto=webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWxRakExTFZvMFozRmliRE5tVFJEekFoaVVCU2dLTWdrSkVJNmxycVlkVUFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T16:00:45.000Z",
-    "authors": [
-      "Riley Beggin"
-    ],
-    "source_url": "https://www.usatoday.com",
-    "source_name": "USA Today",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OeE9XTmpNQklDWlc0b0FBUAE",
-        "topic_name": "Riley Beggin"
-      }
-    ]
-  },
-  {
     "title": "Residents fight cryptocurrency mine zoning in Johnson City, BrightRidge silent on plans",
     "link": "https://wcyb.com/news/local/residents-fight-cryptocurrency-mine-zoning-in-johnson-city-brightridge-silent-on-plans",
     "snippet": "A group of Johnson City residents launched multiple petitions in opposition to Bitcoin mining as city commissioners consider zoning changes ...",
@@ -224,6 +214,21 @@
         "topic_name": "Caleb Perhne"
       }
     ]
+  },
+  {
+    "title": "Sanders raises alarm on cryptocurrency bill",
+    "link": "https://www.wcax.com/2025/05/07/sanders-raises-alarm-cryptocurrency-bill/",
+    "snippet": "Vermont Senator Bernie Sanders is calling attention to a cryptocurrency regulation bill that he says would further enrich the president and ...",
+    "photo_url": "https://gray-wcax-prod.gtv-cdn.com/resizer/v2/W2WND2O26BGVREO73EXK26X4LE.jpg?auth=22125258142a4ebf9ff737d7f2a710af5e64c3e241117e86338eda84fefa5132&width=1200&height=600&smart=true",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVMWE5aTTBGMlRuZ3lSV1Z0VFJDSEF4aVBCaWdLTWdhQk5KYVBxUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T14:07:00.000Z",
+    "authors": [],
+    "source_url": "https://www.wcax.com",
+    "source_name": "WCAX",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wcax.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGRqWVhndVkyOXRLQUFQAQ",
+    "related_topics": []
   },
   {
     "title": "WCSO warns of cryptocurrency scam targeting local users",
@@ -248,6 +253,36 @@
     ]
   },
   {
+    "title": "Trump said he's a big fan of cryptocurrency -- \"I want to keep it away from China.\" He said he favors it because \"otherwise China will take it over, just like AI, just like so many other industries, or whatever you want to call them. Crypto is very important.\"",
+    "link": "https://twitter.com/JenniferJJacobs/status/1919189731620872309",
+    "snippet": "Trump said he's a big fan of cryptocurrency -- \"I want to keep it away from China.\" He said he favors it because \"otherwise China will take ...",
+    "photo_url": "https://pbs.twimg.com/profile_images/1392970022788739076/onBovkzc_400x400.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpjR1JuUWpkUU16TnNjQzFRVFJDUUF4aVFBeWdLTWdZaFJwanJIUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-05T00:37:43.000Z",
+    "authors": [],
+    "source_url": "https://twitter.com",
+    "source_name": "X",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://twitter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1IzYVhSMFpYSXVZMjl0S0FBUAE",
+    "related_topics": []
+  },
+  {
+    "title": "Wood County Sheriff’s Department warning about cryptocurrency scam",
+    "link": "https://www.weau.com/2025/05/05/wood-county-sheriffs-department-warning-about-cryptocurrency-scam/",
+    "snippet": "Recently a cryptocurrency company has been attempting to bully the Wood County Sheriff's Department in their efforts to secure the stolen money.",
+    "photo_url": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/ONYGI2EJIVCG3LGANUCK7XJXOA.jpg?auth=1174406cdd2a41cde500b3c3e5f94af01c4af9680e6117a059ac75c5deea9d40&width=1200&height=600&smart=true",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxMVVZRWldGZlptNVJRa2hTVFJDSEF4aVBCaWdLTWdZVk00ekpHUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-05T19:13:00.000Z",
+    "authors": [],
+    "source_url": "https://www.weau.com",
+    "source_name": "WEAU",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.weau.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGRsWVhVdVkyOXRLQUFQAQ",
+    "related_topics": []
+  },
+  {
     "title": "Manitowoc businesses hosting cryptocurrency ATMs required to warn of scams under new ordinance",
     "link": "https://www.htrnews.com/story/news/local/2025/05/08/cryptocurrency-scams-in-manitowoc-prompt-new-ordinance-how-it-works/83347048007/",
     "snippet": "MANITOWOC – The city of Manitowoc is requiring businesses with cryptocurrency kiosks to post signs warning about their use in common scams.",
@@ -270,36 +305,6 @@
     ]
   },
   {
-    "title": "Wood County Sheriff’s Department warning about cryptocurrency scam",
-    "link": "https://www.weau.com/2025/05/05/wood-county-sheriffs-department-warning-about-cryptocurrency-scam/",
-    "snippet": "Recently a cryptocurrency company has been attempting to bully the Wood County Sheriff's Department in their efforts to secure the stolen money.",
-    "photo_url": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/ONYGI2EJIVCG3LGANUCK7XJXOA.jpg?auth=1174406cdd2a41cde500b3c3e5f94af01c4af9680e6117a059ac75c5deea9d40&width=1200&height=600&smart=true",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxMVVZRWldGZlptNVJRa2hTVFJDSEF4aVBCaWdLTWdZVk00ekpHUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T19:13:00.000Z",
-    "authors": [],
-    "source_url": "https://www.weau.com",
-    "source_name": "WEAU",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.weau.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSGRsWVhVdVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "Trump said he's a big fan of cryptocurrency -- \"I want to keep it away from China.\" He said he favors it because \"otherwise China will take it over, just like AI, just like so many other industries, or whatever you want to call them. Crypto is very important.\"",
-    "link": "https://twitter.com/JenniferJJacobs/status/1919189731620872309",
-    "snippet": "Trump said he's a big fan of cryptocurrency -- \"I want to keep it away from China.\" He said he favors it because \"otherwise China will take ...",
-    "photo_url": "https://pbs.twimg.com/profile_images/1392970022788739076/onBovkzc_400x400.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpjR1JuUWpkUU16TnNjQzFRVFJDUUF4aVFBeWdLTWdZaFJwanJIUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T00:37:43.000Z",
-    "authors": [],
-    "source_url": "https://twitter.com",
-    "source_name": "X",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://twitter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1IzYVhSMFpYSXVZMjl0S0FBUAE",
-    "related_topics": []
-  },
-  {
     "title": "New and Youthful Criminal Organizations Sprout Around Cryptocurrency",
     "link": "https://www.findlaw.com/legalblogs/law-and-life/new-and-youthful-criminal-organizations-sprout-around-cryptocurrency/",
     "snippet": "What started with a scam operation that netted close to $250 million in cryptocurrency ended with multiple arrests spread around the country ...",
@@ -318,6 +323,28 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1nM05IUnVOaElDWlc0b0FBUAE",
         "topic_name": "Joseph Fawbush"
+      }
+    ]
+  },
+  {
+    "title": "Congressional Democrats attack Donald Trump's 'corrupt' crypto connections",
+    "link": "https://www.usatoday.com/story/news/politics/2025/05/07/democrats-trump-corrupt-connections-crypto/83480328007/",
+    "snippet": "Democrats are investigating Trump's connections and derailing legislation that would legitimize digital currencies.",
+    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/30/USAT/83377158007-trump-crypto.jpg?crop=4999,2813,x0,y180&width=660&height=371&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWxRakExTFZvMFozRmliRE5tVFJEekFoaVVCU2dLTWdrSkVJNmxycVlkVUFF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T22:51:04.000Z",
+    "authors": [
+      "Riley Beggin"
+    ],
+    "source_url": "https://www.usatoday.com",
+    "source_name": "USA Today",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OeE9XTmpNQklDWlc0b0FBUAE",
+        "topic_name": "Riley Beggin"
       }
     ]
   },
@@ -386,6 +413,60 @@
     ]
   },
   {
+    "title": "Landmark cryptocurrency bill blocked over concerns about Trump's connections",
+    "link": "https://www.usatoday.com/story/news/politics/2025/05/08/senate-democrats-block-cryptocurrency-bill-genius-act/83517671007/",
+    "snippet": "WASHINGTON – Senate Democrats blocked a bipartisan bill to create a legal framework for cryptocurrency after concerns about President Donald ...",
+    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/05/08/USAT/83518450007-gty-2213782668.jpg?crop=4868,2739,x0,y254&width=660&height=371&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVFUR1pMTkhwT2NWRjRaVWhMVFJEekFoaVVCU2dLTWdB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T19:53:47.000Z",
+    "authors": [
+      "Riley Beggin"
+    ],
+    "source_url": "https://www.usatoday.com",
+    "source_name": "USA Today",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OeE9XTmpNQklDWlc0b0FBUAE",
+        "topic_name": "Riley Beggin"
+      }
+    ]
+  },
+  {
+    "title": "Thune open to changing Senate crypto bill to win over Dems",
+    "link": "https://www.politico.com/live-updates/2025/05/05/congress/thune-senate-crypto-bill-00330308",
+    "snippet": "Senate Majority Leader John Thune said Monday he is open to amending landmark cryptocurrency legislation that GOP leaders hope to pass in ...",
+    "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F54%2Fd3%2Fc68a4b7b47d5a6ef58a99881d1a0%2Fu-s-congress-33561.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZUa2R1U0V4eU5XUnZkVzEyVFJDM0FSaVRBaWdCTWdrcGdJak5xYWNlMWdB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T00:02:51.000Z",
+    "authors": [
+      "Katherine Tully-McManus",
+      "Jordain Carney",
+      "Jasper Goodman"
+    ],
+    "source_url": "https://www.politico.com",
+    "source_name": "Politico",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjIxM2NYZHFOaElDWlc0b0FBUAE",
+        "topic_name": "Katherine Tully-McManus"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTW1wck1uQTRNeElDWlc0b0FBUAE",
+        "topic_name": "Jordain Carney"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTld3M2EzSmpPQklDWlc0b0FBUAE",
+        "topic_name": "Jasper Goodman"
+      }
+    ]
+  },
+  {
     "title": "Trump's cryptocurrency moves raise ethical concerns",
     "link": "https://www.cbsnews.com/video/trumps-cryptocurrency-moves-raise-ethical-concerns/",
     "snippet": null,
@@ -398,21 +479,6 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5pYzI1bGQzTXVZMjl0S0FBUAE",
-    "related_topics": []
-  },
-  {
-    "title": "States Halting Efforts to Create Strategic Bitcoin Reserves",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/states-halting-efforts-to-create-strategic-bitcoin-reserves/",
-    "snippet": "Efforts to create bitcoin reserves have begun to flounder on the state level, with the latest example being Florida.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2024/01/SEC-bitcoin-ETF.jpg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtSV0pJZUdScVN6bElSRTlQVFJDU0FoakpBeWdLTWdZNTg0SXl6UUk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T12:54:44.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
@@ -431,26 +497,19 @@
     "related_topics": []
   },
   {
-    "title": "Kidnapped father of French crypto-millionaire rescued",
-    "link": "https://www.bbc.com/news/articles/c2ew98rllxyo",
-    "snippet": "French police have rescued the father of a cryptocurrency millionaire who had been kidnapped and held for ransom in a Paris suburb.",
-    "photo_url": "https://ichef.bbci.co.uk/news/1024/branded_news/43c5/live/317d73e0-28f1-11f0-9305-9155593c1dc1.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXBRMU14UjJFNU1VWTRhVVZuVFJDZkF4ampCU2dLTWdtVklJaHBqcW90OUFB=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-04T15:07:27.000Z",
-    "authors": [
-      "Henri Astier"
-    ],
-    "source_url": "https://www.bbc.com",
-    "source_name": "BBC",
+    "title": "States Halting Efforts to Create Strategic Bitcoin Reserves",
+    "link": "https://www.pymnts.com/cryptocurrency/2025/states-halting-efforts-to-create-strategic-bitcoin-reserves/",
+    "snippet": "Efforts to create bitcoin reserves have begun to flounder on the state level, with the latest example being Florida.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2024/01/SEC-bitcoin-ETF.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtSV0pJZUdScVN6bElSRTlQVFJDU0FoakpBeWdLTWdZNTg0SXl6UUk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T12:54:44.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5Y2pnM2JHWnRkQklDWlc0b0FBUAE",
-        "topic_name": "Henri Astier"
-      }
-    ]
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
   },
   {
     "title": "The Best Cryptocurrency to Buy During Trump's Tariff Battle",
@@ -475,6 +534,21 @@
     ]
   },
   {
+    "title": "Bitcoin Hits Record High Amidst Rising Cryptocurrency Market Activity",
+    "link": "https://finimize.com/content/bitcoin-hits-record-high-amidst-rising-cryptocurrency-market-activity",
+    "snippet": "Bitcoin's new milestone at $96292 accompanies a surge in trading volume, as the global crypto market touches $2.98 trillion.",
+    "photo_url": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252FM3372523_xml.jpeg%3Fixlib%3Dpython-3.1.2%26s%3Da78df6536653060195f86977487db2c1&w=3840&q=75",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1MWEowYjFoTVFqbFhPVVUxVFJDM0FSaVRBaWdCTWdhbFZJeXRKUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T13:06:11.000Z",
+    "authors": [],
+    "source_url": "https://finimize.com",
+    "source_name": "Finimize",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finimize.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER1pwYm1sdGFYcGxMbU52YlNnQVAB",
+    "related_topics": []
+  },
+  {
     "title": "Wood County Sheriff’s Office calls for cryptocurrency ATM laws",
     "link": "https://www.waow.com/news/wood-county-sheriff-s-office-calls-for-cryptocurrency-atm-laws/article_4daca54c-77d8-435a-8509-1b11c7e95336.html",
     "snippet": "They allow people to turn cash into crypto, which is then held in a digital wallet. Scammers can then steal that digital wallet and its contents ...",
@@ -497,8 +571,8 @@
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpabGwyTFZWRFgxWllURzEzVFJDZkF4ampCU2dLTWdZbEFKUk5FUWs=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-05-07T10:55:02.000Z",
     "authors": [
-      "Matthew-mary Caruchet",
-      "Bryan Quinn"
+      "Bryan Quinn",
+      "Matthew-mary Caruchet"
     ],
     "source_url": "https://www.france24.com",
     "source_name": "France 24",
@@ -507,34 +581,12 @@
     "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER1p5WVc1alpUSTBMbU52YlNnQVAB",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYzJvNGVXNTRjeElDWlc0b0FBUAE",
-        "topic_name": "Matthew-mary Caruchet"
-      },
-      {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUd4elozQnVPUklDWlc0b0FBUAE",
         "topic_name": "Bryan Quinn"
-      }
-    ]
-  },
-  {
-    "title": "Cryptoverse: As markets question US exceptionalism, bitcoin starts to shine",
-    "link": "https://www.reuters.com/markets/currencies/cryptoverse-markets-question-us-exceptionalism-bitcoin-starts-shine-2025-05-08/",
-    "snippet": "Bitcoin is up 33% from its April low in a surprising turn for the cryptocurrency, given how closely it has mimicked the performance of equity ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/TMEBFC72BJLS5PCHJ6AZBBZU3M.jpg?auth=c6c5e96ea2cd217c4cb4e73a0442fbf9aa8a3187b5a621d0134bbb04a8d4b81b&width=3000&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU5PVTFQTmpReGMyOHlTVk5PVFJERUF4aW1CU2dLTWdzQkFJeU1tU1NwQ0lySmVn=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T12:54:28.000Z",
-    "authors": [
-      "Lisa Pauline Mattackal"
-    ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
-    "related_topics": [
+      },
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWm1adGVXSTNOUklDWlc0b0FBUAE",
-        "topic_name": "Lisa Pauline Mattackal"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYzJvNGVXNTRjeElDWlc0b0FBUAE",
+        "topic_name": "Matthew-mary Caruchet"
       }
     ]
   },
@@ -603,11 +655,33 @@
     ]
   },
   {
+    "title": "Cryptoverse: As markets question US exceptionalism, bitcoin starts to shine",
+    "link": "https://www.reuters.com/markets/currencies/cryptoverse-markets-question-us-exceptionalism-bitcoin-starts-shine-2025-05-08/",
+    "snippet": "Bitcoin is up 33% from its April low in a surprising turn for the cryptocurrency, given how closely it has mimicked the performance of equity ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/TMEBFC72BJLS5PCHJ6AZBBZU3M.jpg?auth=c6c5e96ea2cd217c4cb4e73a0442fbf9aa8a3187b5a621d0134bbb04a8d4b81b&width=3000&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU5PVTFQTmpReGMyOHlTVk5PVFJERUF4aW1CU2dLTWdzQkFJeU1tU1NwQ0lySmVn=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T12:54:28.000Z",
+    "authors": [
+      "Lisa Pauline Mattackal"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxWm1adGVXSTNOUklDWlc0b0FBUAE",
+        "topic_name": "Lisa Pauline Mattackal"
+      }
+    ]
+  },
+  {
     "title": "Collinsville Authorities Urge Caution Amid Rising Cryptocurrency Fraud Cases",
     "link": "https://www.riverbender.com/news/details/collinsville-authorities-urge-caution-amid-rising-cryptocurrency-fraud-cases-82162.cfm",
     "snippet": "COLLINSVILLE — The Collinsville Police Department is warning residents to protect themselves from cryptocurrency scams after investigating ...",
     "photo_url": "https://static.riverbender.com/media/50625100931-Scam2.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iNkNnNXhTM2swVW1FelpHTjZTRkJDVFJDNEFSaVJBaWdCTWc0QklJakRvU2h6enpseXdXSmlLZw=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iNkNnNXhTM2swVW1FelpHTjZTRkJDVFJDd0F4aUFCU2dLTWc0QklJakRvU2h6enpseXdXSmlLZw=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-05-06T15:09:00.000Z",
     "authors": [
       "Dan Brannan"
@@ -625,6 +699,48 @@
     ]
   },
   {
+    "title": "Washoe County Sheriff's Office warns of scam targeting cryptocurrency owners",
+    "link": "https://www.2news.com/news/local/washoe-county-sheriffs-office-warns-of-scam-targeting-cryptocurrency-owners/article_299388d9-0c52-4dd8-b2a9-5ffac92d2942.html",
+    "snippet": "The Washoe County Sheriff's Office has released details on what appears to be a new texting scam targeting people who own cryptocurrency.",
+    "photo_url": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/6/4c/64ce312e-155a-4b98-9e2d-ba3ae818687c/681a621510a76.image.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpVMUZOTWpKVmNrcFpZemhWVFJEZkFoaVRCU2dLTWdZRklvckVHZ28=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T18:56:00.000Z",
+    "authors": [],
+    "source_url": "https://www.2news.com",
+    "source_name": "KTVN",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.2news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVEp1WlhkekxtTnZiU2dBUAE",
+    "related_topics": []
+  },
+  {
+    "title": "Bitcoin retakes $100,000 on global trade deal optimism",
+    "link": "https://www.reuters.com/markets/currencies/bitcoin-tops-100000-trade-deal-optimism-2025-05-08/",
+    "snippet": "By midday, bitcoin was trading at $101,329.97, a 4.7% gain on the day. The world's biggest cryptocurrency has clawed its way back into positive ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/ITNSLRU3KFLP7ABJFCV4MG6BBY.jpg?auth=718787e76bbede9c1dcbb0f6cf2394f4092d5b141145860ac07fb37f25961564&width=5316&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhja1pVWVd4SWRubG1hV2Q2VFJDX0F4aXVCU2dLTWdhbFVwSXlLUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T17:15:35.000Z",
+    "authors": [
+      "Tommy Reggiori Wilkes",
+      "Gertrude Chavez-Dreyfuss"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWDNrd00zRnVaeElDWlc0b0FBUAE",
+        "topic_name": "Tommy Reggiori Wilkes"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3WmpkeU5qTjZjUklDWlc0b0FBUAE",
+        "topic_name": "Gertrude Chavez-Dreyfuss"
+      }
+    ]
+  },
+  {
     "title": "How Many Bitcoins are there and How many are Left to Mine? (2025)",
     "link": "https://www.blockchain-council.org/cryptocurrency/bitcoins-are-left-to-mine/",
     "snippet": "How much is Bitcoin? · Limited Supply: Bitcoin's maximum supply is 21 million coins, and as of March 2023, more than 19 million have been mined.",
@@ -637,6 +753,21 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.blockchain-council.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqNAgKIi5DQklTSEFnTWFoZ0tGbUpzYjJOclkyaGhhVzR0WTI5MWJtTnBiQzV2Y21jb0FBUAE",
+    "related_topics": []
+  },
+  {
+    "title": "Why are the Democrats greenlighting Trump’s crypto plans? | Corey Frayer",
+    "link": "https://www.theguardian.com/commentisfree/2025/may/07/trump-crypto-democrats",
+    "snippet": "Dangerous bills could pave the way for Trump's own cryptocurrency to be used in government payments.",
+    "photo_url": "https://i.guim.co.uk/img/media/0ddb76e81a534405f65e2d9c87e2cadbdf08fa44/0_0_4662_2798/master/4662.jpg?width=465&dpr=1&s=none&crop=none",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVRWGxWYVhwNlFsbFBVVGx2VFJDWEFoalJBeWdLTWdrTlFZcUduaWhGVVFF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T09:30:00.000Z",
+    "authors": [],
+    "source_url": "https://www.theguardian.com",
+    "source_name": "The Guardian",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
     "related_topics": []
   },
   {
@@ -688,7 +819,7 @@
     "link": "https://www.realtor.com/advice/buy/how-to-buy-a-home-with-cryptocurrency/",
     "snippet": "Crypto Mortgages Are the New Way To Buy Second Homes ... Buying a second home isn't so far out of reach, if you're invested in cryptocurrency.",
     "photo_url": "https://na.rdcpix.com/07cc7fcb8fe88ad056270011a99ec393w-c1936722695xd-w928_q80.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUpXVzFVTURsNFEwcFpVa3R1VFJDZkF4ampCU2dLTWdtWk1JVHJUZUpqcUFF=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUpXVzFVTURsNFEwcFpVa3R1VFJDb0FSaXNBaWdCTWdtWk1JVHJUZUpqcUFF=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-05-03T09:40:07.000Z",
     "authors": [],
     "source_url": "https://www.realtor.com",
@@ -721,63 +852,40 @@
     ]
   },
   {
-    "title": "Washoe County Sheriff's Office warns of scam targeting cryptocurrency owners",
-    "link": "https://www.2news.com/news/local/washoe-county-sheriffs-office-warns-of-scam-targeting-cryptocurrency-owners/article_299388d9-0c52-4dd8-b2a9-5ffac92d2942.html",
-    "snippet": "The Washoe County Sheriff's Office has released details on what appears to be a new texting scam targeting people who own cryptocurrency.",
-    "photo_url": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/6/4c/64ce312e-155a-4b98-9e2d-ba3ae818687c/681a621510a76.image.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWpVMUZOTWpKVmNrcFpZemhWVFJEZkFoaVRCU2dLTWdZRklvckVHZ28=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T18:56:00.000Z",
-    "authors": [],
-    "source_url": "https://www.2news.com",
-    "source_name": "KTVN",
+    "title": "Democrats vote to reject Senate crypto bill",
+    "link": "https://www.politico.com/news/2025/05/08/cryptocurrency-legislation-senate-vote-00336381",
+    "snippet": "Senate Democrats on Thursday voted down a procedural motion that would allow the upper chamber to take up landmark GOP-led cryptocurrency ...",
+    "photo_url": "https://www.politico.com/dims4/default/3c3941b/2147483647/strip/true/crop/7351x4901+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F8a%2F7d%2F936641ab46429a3111e6145f9808%2Ftennessee-legislature-ag-day-21404.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNUtZMmhSVW1aM1pIcExUa1ZOVFJDM0FSaVRBaWdCTWdB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T18:31:42.000Z",
+    "authors": [
+      "Jasper Goodman"
+    ],
+    "source_url": "https://www.politico.com",
+    "source_name": "Politico",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.2news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVEp1WlhkekxtTnZiU2dBUAE",
-    "related_topics": []
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTld3M2EzSmpPQklDWlc0b0FBUAE",
+        "topic_name": "Jasper Goodman"
+      }
+    ]
   },
   {
-    "title": "Why are the Democrats greenlighting Trump’s crypto plans? | Corey Frayer",
-    "link": "https://www.theguardian.com/commentisfree/2025/may/07/trump-crypto-democrats",
-    "snippet": "Dangerous bills could pave the way for Trump's own cryptocurrency to be used in government payments.",
-    "photo_url": "https://i.guim.co.uk/img/media/0ddb76e81a534405f65e2d9c87e2cadbdf08fa44/0_0_4662_2798/master/4662.jpg?width=465&dpr=1&s=none&crop=none",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVRWGxWYVhwNlFsbFBVVGx2VFJDWEFoalJBeWdLTWdrTlFZcUduaWhGVVFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T09:30:00.000Z",
+    "title": "Congress prepares to discuss cryptocurrency as Dems split",
+    "link": "https://protos.com/congress-prepares-to-discuss-cryptocurrency-as-dems-split/",
+    "snippet": "The United States Congress was planning on a joint hearing to discuss cryptocurrency legislation, but democrat objections may interfere.",
+    "photo_url": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/05/06151658/Protos-Artwork-USSenateHearing-1200x675.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1lVlJOU2pCdmQwRkdVMjlhVFJDZkF4ampCU2dLTWdZaFpZek1yUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T13:55:34.000Z",
     "authors": [],
-    "source_url": "https://www.theguardian.com",
-    "source_name": "The Guardian",
+    "source_url": "https://protos.com",
+    "source_name": "Informed crypto news",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "Bitcoin Hits Record High Amidst Rising Cryptocurrency Market Activity",
-    "link": "https://finimize.com/content/bitcoin-hits-record-high-amidst-rising-cryptocurrency-market-activity",
-    "snippet": "Bitcoin's new milestone at $96292 accompanies a surge in trading volume, as the global crypto market touches $2.98 trillion.",
-    "photo_url": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252FM3372523_xml.jpeg%3Fixlib%3Dpython-3.1.2%26s%3Da78df6536653060195f86977487db2c1&w=3840&q=75",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1MWEowYjFoTVFqbFhPVVUxVFJDM0FSaVRBaWdCTWdhbFZJeXRKUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T20:15:02.000Z",
-    "authors": [],
-    "source_url": "https://finimize.com",
-    "source_name": "Finimize",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finimize.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER1pwYm1sdGFYcGxMbU52YlNnQVAB",
-    "related_topics": []
-  },
-  {
-    "title": "Video House to vote on cryptocurrency regulation that could impact Trump family",
-    "link": "https://abcnews.go.com/Politics/video/house-vote-cryptocurrency-regulation-impact-trump-family-121599939",
-    "snippet": null,
-    "photo_url": "https://i.abcnewsfe.com/a/9253faaf-09e4-427a-b2a9-0e6aa91ef7b3/250508_abcnl_10a_obrien_trump_crypto2_hpMain_16x9.jpg?w=992",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFjM0pqUlZWa2NuTllhRTU1VFJDZkF4ampCU2dLTWdhRklacnBHQW8=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T15:10:22.000Z",
-    "authors": [],
-    "source_url": "https://abcnews.go.com",
-    "source_name": "ABC News",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://protos.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkJ5YjNSdmN5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
@@ -803,18 +911,18 @@
     ]
   },
   {
-    "title": "Congress prepares to discuss cryptocurrency as Dems split",
-    "link": "https://protos.com/congress-prepares-to-discuss-cryptocurrency-as-dems-split/",
-    "snippet": "The United States Congress was planning on a joint hearing to discuss cryptocurrency legislation, but democrat objections may interfere.",
-    "photo_url": "https://protos-media.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/05/06151658/Protos-Artwork-USSenateHearing-1200x675.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1lVlJOU2pCdmQwRkdVMjlhVFJDZkF4ampCU2dLTWdZaFpZek1yUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T13:55:34.000Z",
+    "title": "Colle AI Enhances Cross-Chain NFT Mobility via XRP Cryptocurrency Layer Extensions",
+    "link": "https://www.newsfilecorp.com/release/251279/Colle-AI-Enhances-CrossChain-NFT-Mobility-via-XRP-Cryptocurrency-Layer-Extensions",
+    "snippet": "Upgrades include refined contract handling, dynamic metadata syncing, and optimized gas logic—all powered by Colle AI's real-time automation ...",
+    "photo_url": "https://images.newsfilecorp.com/files/8833/251279_324eeb9434d0a9f1_001.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWlXVVJrWWt4dlVWQmFSVEppVFJDb0FSaXNBaWdCTWdOVllBRQ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T07:03:00.000Z",
     "authors": [],
-    "source_url": "https://protos.com",
-    "source_name": "Informed crypto news",
+    "source_url": "https://www.newsfilecorp.com",
+    "source_name": "Newsfile",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://protos.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkJ5YjNSdmN5NWpiMjBvQUFQAQ",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsfilecorp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNObWFXeGxZMjl5Y0M1amIyMG9BQVAB",
     "related_topics": []
   },
   {
@@ -840,34 +948,68 @@
     ]
   },
   {
-    "title": "Colle AI Enhances Cross-Chain NFT Mobility via XRP Cryptocurrency Layer Extensions",
-    "link": "https://www.newsfilecorp.com/release/251279/Colle-AI-Enhances-CrossChain-NFT-Mobility-via-XRP-Cryptocurrency-Layer-Extensions",
-    "snippet": "Upgrades include refined contract handling, dynamic metadata syncing, and optimized gas logic—all powered by Colle AI's real-time automation ...",
-    "photo_url": "https://images.newsfilecorp.com/files/8833/251279_324eeb9434d0a9f1_001.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNWlXVVJrWWt4dlVWQmFSVEppVFJDb0FSaXNBaWdCTWdOVllBRQ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T07:03:00.000Z",
+    "title": "Video House to vote on cryptocurrency regulation that could impact Trump family",
+    "link": "https://abcnews.go.com/Politics/video/house-vote-cryptocurrency-regulation-impact-trump-family-121599939",
+    "snippet": null,
+    "photo_url": "https://i.abcnewsfe.com/a/9253faaf-09e4-427a-b2a9-0e6aa91ef7b3/250508_abcnl_10a_obrien_trump_crypto2_hpMain_16x9.jpg?w=992",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFjM0pqUlZWa2NuTllhRTU1VFJDZkF4ampCU2dLTWdhRklacnBHQW8=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T15:10:22.000Z",
     "authors": [],
-    "source_url": "https://www.newsfilecorp.com",
-    "source_name": "Newsfile",
+    "source_url": "https://abcnews.go.com",
+    "source_name": "ABC News",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsfilecorp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFRzVsZDNObWFXeGxZMjl5Y0M1amIyMG9BQVAB",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
     "related_topics": []
   },
   {
-    "title": "Kidnappers in France target cryptocurrency entrepreneurs for ransom",
-    "link": "https://www.abqjournal.com/business/article_a94ca92b-4fec-5a35-867c-db2d531e2ef6.html",
-    "snippet": null,
-    "photo_url": "https://bloximages.chicago2.vip.townnews.com/abqjournal.com/content/tncms/assets/v3/editorial/5/35/53552d06-d58b-5691-837d-3ceebd8bfd2e/6817f9fdb3b70.image.jpg?resize=400%2C267",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtkMEZXTTNacVRFd3hUR3RTVFJDTEFoaVFBeWdLTWdZTllZNW5NZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-04T12:20:00.000Z",
-    "authors": [],
-    "source_url": "https://www.abqjournal.com",
-    "source_name": "Albuquerque Journal",
+    "title": "Democrats block stablecoin bill as they raise concerns about Trump's crypto ventures",
+    "link": "https://finance.yahoo.com/news/democrats-block-stablecoin-bill-raise-201030330.html",
+    "snippet": "Senate Democrats have blocked legislation to regulate stablecoins, a form of cryptocurrency, after arguing that the bill needed stronger ...",
+    "photo_url": "https://s.yimg.com/ny/api/res/1.2/w2caup2wFT57HpNSoKgs7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/868449bda44cbd71d049d30c48d48da2",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDVjR2QxVlVjM1dWVmlabTF3VFJERUF4aW1CU2dLTWdtbEZZRHRGYXR6ZUFB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T20:10:30.000Z",
+    "authors": [
+      "Mary Clare Jalonick",
+      "Alan Suderman"
+    ],
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.abqjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpY1dwdmRYSnVZV3d1WTI5dEtBQVAB",
-    "related_topics": []
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTVY4MU5uUTVaQklDWlc0b0FBUAE",
+        "topic_name": "Mary Clare Jalonick"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTWpCNmNUSjRkeElDWlc0b0FBUAE",
+        "topic_name": "Alan Suderman"
+      }
+    ]
+  },
+  {
+    "title": "The Best Cryptocurrency to Buy During Trump's Tariff Battle",
+    "link": "https://www.fool.com/investing/2025/05/08/the-best-cryptocurrency-to-buy-during-trumps-tarif/",
+    "snippet": "Bitcoin as a potential reserve currency? ... On the surface, Bitcoin has very little to do with global trade, tariffs, imports, or exports.",
+    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817168%2Famerican-flag-computer-chip.jpg&op=resize&w=1200&h=630",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFaV1JCU2pkSlgzQXhTWGh5VFJERUF4aW1CU2dLTWdZWlpJNnFNUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T08:08:00.000Z",
+    "authors": [
+      "Dominic Basulto"
+    ],
+    "source_url": "https://www.fool.com",
+    "source_name": "The Motley Fool",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNwemJUQnhlaElDWlc0b0FBUAE",
+        "topic_name": "Dominic Basulto"
+      }
+    ]
   },
   {
     "title": "Democrats walk out of crypto hearing after tense moments",
@@ -895,8 +1037,8 @@
     "title": "Government Bitcoin Holdings Surge, While Most Cryptocurrency Projects And Altcoins Fail - Report",
     "link": "https://www.crowdfundinsider.com/2025/05/239254-government-bitcoin-holdings-surge-while-most-cryptocurrency-projects-and-altcoins-fail-report/",
     "snippet": "As of April 2025, governments worldwide hold 463,741 BTC, roughly 2.3% of Bitcoin's total supply, valued at approximately $42.9 billion, ...",
-    "photo_url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Double-Bitcoin.jpeg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5YMDlXYlhaQlJFOTROMk5rVFJEOUF4amFCQ2dLTWdhaHBJek11UVU=-w200-h200-p-df-rw",
+    "photo_url": null,
+    "thumbnail_url": null,
     "published_datetime_utc": "2025-05-06T11:41:32.000Z",
     "authors": [
       "Omar Faridi"
@@ -914,18 +1056,33 @@
     ]
   },
   {
-    "title": "Korea relaxes crypto sales rules for non profits, exchanges",
-    "link": "https://www.ledgerinsights.com/korea-relaxes-crypto-sales-rules-for-non-profits-exchanges/",
-    "snippet": "Any received cryptocurrencies must be traded on at least three Korean crypto exchanges and the non profit must implement a policy to cash out ...",
-    "photo_url": "https://www.ledgerinsights.com/wp-content/uploads/2025/05/korea-cryptocurrency.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXFVMjVVVWtodmFVVXhNREpGVFJDOUF4aXhCU2dLTWdhZFpJcnNxUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T09:18:25.000Z",
+    "title": "Solaxy ($SOLX) is a Popular Cryptocurrency to consider that is Breaking Records – $32M Raised, Tier-1 Listings, 130% Staking & Solana-Ethereum Integration",
+    "link": "https://www.cryptoninjas.net/news/solaxy-solx-is-a-popular-cryptocurrency-to-consider-that-is-breaking-records-32m-raised-tier-1-listings-130-staking-solana-ethereum-integration/",
+    "snippet": "Solaxy ($SOLX) is a Popular Cryptocurrency to consider that is Breaking Records – $32M Raised, Tier-1 Listings, 130% Staking & Solana-Ethereum ...",
+    "photo_url": "https://www.cryptoninjas.net/wp-content/uploads/solaxy-solx-is-a-popular-cryptocurrency-to-consider-that-is-breaking-records-32m-raised-tier-1-listings-130-staking-solana-ethereum-integration.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1aVmxOVTA1eVRtcDRkMnhtVFJDZUF4amtCU2dLTWdZTkpKRE5yUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T10:11:37.000Z",
     "authors": [],
-    "source_url": "https://www.ledgerinsights.com",
-    "source_name": "ledgerinsights.com",
+    "source_url": "https://www.cryptoninjas.net",
+    "source_name": "CryptoNinjas",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ledgerinsights.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbXhsWkdkbGNtbHVjMmxuYUhSekxtTnZiU2dBUAE",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cryptoninjas.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR055ZVhCMGIyNXBibXBoY3k1dVpYUW9BQVAB",
+    "related_topics": []
+  },
+  {
+    "title": "Derailed House Hearing Leaves Crypto Market Structure Hanging in Balance",
+    "link": "https://www.pymnts.com/cryptocurrency/2025/derailed-house-hearing-leaves-crypto-market-structure-hanging-in-balance/",
+    "snippet": "A House hearing on digital assets was derailed by a walkout protesting the Trump family's crypto industry connections.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2022/10/Congress.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURiV2RmYnpobGVVeE5abVoyVFJDU0FoakpBeWdLTWdhQmFJN2tyZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T03:47:52.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
@@ -988,41 +1145,63 @@
     "related_topics": []
   },
   {
-    "title": "The Best Cryptocurrency to Buy During Trump's Tariff Battle",
-    "link": "https://www.fool.com/investing/2025/05/08/the-best-cryptocurrency-to-buy-during-trumps-tarif/",
-    "snippet": "There's a simple reason Bitcoin has managed to eke out a 1% gain for the year: Investors are increasingly viewing it as a hedge against economic ...",
-    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F817168%2Famerican-flag-computer-chip.jpg&op=resize&w=1200&h=630",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFaV1JCU2pkSlgzQXhTWGh5VFJERUF4aW1CU2dLTWdZWlpJNnFNUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T08:08:00.000Z",
-    "authors": [
-      "Dominic Basulto"
-    ],
-    "source_url": "https://www.fool.com",
-    "source_name": "The Motley Fool",
+    "title": "Coinbase quarterly profit falls as expenses bites, shares down",
+    "link": "https://www.reuters.com/business/coinbase-quarterly-profit-falls-higher-expenses-2025-05-08/",
+    "snippet": "Total operating expenses soared 51% to $1.3 billion in the quarter, driven by increased marketing expenses as well as losses on crypto assets ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/7CLO3WASGNLOHGLA7RJPPTXG2U.jpg?auth=5ffc23ea8a30d3ef42577df9e4e32c7e19918e047f552a46aa8fa2c641701620&width=4000&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVhWV3ROTFVKcU5GOHpNbnBPVFJETEF4aWRCU2dLTWdrQlVZYlZxQ05aaWdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T21:35:30.000Z",
+    "authors": [],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": []
+  },
+  {
+    "title": "Celsius founder Alex Mashinsky gets 12 years prison for crypto fraud",
+    "link": "https://www.reuters.com/legal/celsius-founder-alex-mashinsky-gets-12-years-prison-crypto-fraud-2025-05-08/",
+    "snippet": "Alex Mashinsky, the founder and former chief executive of bankruptcy cryptocurrency lender Celsius Network, was sentenced on Thursday to 12 ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/LFKZ2DIP2NJXBAMEYYIWDHDMSQ.jpg?auth=d10414def1a081d4acf7257b0b79224ff0c320b333755e0c8e8aa0fab1c08368&width=3500&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVNaMmgyVXpreVN6VmZTVk5QVFJERUF4aW1CU2dLTWdhdFJJS3VKUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T20:53:00.000Z",
+    "authors": [
+      "Jonathan Stempel"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNwemJUQnhlaElDWlc0b0FBUAE",
-        "topic_name": "Dominic Basulto"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGemVUTjZjQklDWlc0b0FBUAE",
+        "topic_name": "Jonathan Stempel"
       }
     ]
   },
   {
-    "title": "Solaxy ($SOLX) is a Popular Cryptocurrency to consider that is Breaking Records – $32M Raised, Tier-1 Listings, 130% Staking & Solana-Ethereum Integration",
-    "link": "https://www.cryptoninjas.net/news/solaxy-solx-is-a-popular-cryptocurrency-to-consider-that-is-breaking-records-32m-raised-tier-1-listings-130-staking-solana-ethereum-integration/",
-    "snippet": "Solaxy ($SOLX) is a Popular Cryptocurrency to consider that is Breaking Records – $32M Raised, Tier-1 Listings, 130% Staking & Solana-Ethereum ...",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2025-05-06T10:11:37.000Z",
-    "authors": [],
-    "source_url": "https://www.cryptoninjas.net",
-    "source_name": "CryptoNinjas",
+    "title": "Gov. Katie Hobbs signs bill to create Bitcoin reserve days after vetoing other cryptocurrency legislation",
+    "link": "https://www.kgun9.com/news/local-news/gov-katie-hobbs-signs-bill-to-create-bitcoin-reserve-days-after-vetoing-other-crypto-legislation",
+    "snippet": "Gov. Katie Hobbs signed House Bill 2749 into law on Wednesday, establishing a state-managed Bitcoin and Digital Assets Reserve Fund — five ...",
+    "photo_url": "https://ewscripps.brightspotcdn.com/dims4/default/20ca963/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F71%2F06da083242e082d0d185bb66147b%2Fap22116506003982.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZUbnA2ZGtvNWVXWkJaWGhHVFJDb0FSaXNBaWdCTWdhTmtKS21OZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T02:32:20.000Z",
+    "authors": [
+      "Jason Barr"
+    ],
+    "source_url": "https://www.kgun9.com",
+    "source_name": "KGUN 9",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cryptoninjas.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR055ZVhCMGIyNXBibXBoY3k1dVpYUW9BQVAB",
-    "related_topics": []
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kgun9.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV3RuZFc0NUxtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGdWNXSndkQklDWlc0b0FBUAE",
+        "topic_name": "Jason Barr"
+      }
+    ]
   },
   {
     "title": "How XRP Became a Leading Cryptocurrency?",
@@ -1051,7 +1230,7 @@
     "link": "https://www.housingwire.com/articles/arizona-governor-katie-hobbs-vetoes-bill-bitcoin-cryptocurrency-retirement/",
     "snippet": "The bill would have allowed the state's retirement fund to invest in cryptocurrencies, but Gov. Katie Hobbs called them “untested ...",
     "photo_url": "https://www.housingwire.com/wp-content/uploads/2022/08/1200x700_Bitcon.jpg?w=1024",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZRazVWUmtWblUwOUVVVEZKVFJDbkF4alZCU2dLTWdhQlU0NnNLUVk=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhZWEo2WkhRMGQwNTVObmwzVFJDbkF4alZCU2dLTWdhQlU0NnNLUVk=-w200-h200-p-df-rw",
     "published_datetime_utc": "2025-05-06T21:11:35.000Z",
     "authors": [
       "Chris Clow"
@@ -1091,43 +1270,6 @@
     ]
   },
   {
-    "title": "'Jackpot!' How French police freed a cryptocurrency hostage whose finger was severed for ransom",
-    "link": "https://www.washingtonpost.com/business/2025/05/05/france-cryptocurrency-kidnapping/4cc68204-299b-11f0-a724-3bc879c9f843_story.html",
-    "snippet": "'Jackpot!' How French police freed a cryptocurrency hostage whose finger was severed for ransom. A French police commander has detailed 58 hours ...",
-    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVLWIMRI4II7BJZEHPEHTSPYIM.jpg&w=1200",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhhMFZIUTJkTFUzUjZVRmsyVFJERUF4aW1CU2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T17:25:43.000Z",
-    "authors": [
-      "John Leicester"
-    ],
-    "source_url": "https://www.washingtonpost.com",
-    "source_name": "The Washington Post",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJSdE1UaHlhQklDWlc0b0FBUAE",
-        "topic_name": "John Leicester"
-      }
-    ]
-  },
-  {
-    "title": "Derailed House Hearing Leaves Crypto Market Structure Hanging in Balance",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/derailed-house-hearing-leaves-crypto-market-structure-hanging-in-balance/",
-    "snippet": "A House hearing on digital assets was derailed by a walkout protesting the Trump family's crypto industry connections.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2022/10/Congress.jpg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURiV2RmYnpobGVVeE5abVoyVFJDU0FoakpBeWdLTWdhQmFJN2tyZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T03:47:52.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
-    "related_topics": []
-  },
-  {
     "title": "764K Trump Meme Coin Purchasers Reportedly Lost Money",
     "link": "https://www.pymnts.com/cryptocurrency/2025/764k-trump-meme-coin-purchasers-reportedly-lost-money/",
     "snippet": "Roughly 764000 wallets that purchased the Trump-branded $TRUMP meme coin introduced earlier this year have lost money on their investment.",
@@ -1143,50 +1285,18 @@
     "related_topics": []
   },
   {
-    "title": "Thune open to changing Senate crypto bill to win over Dems",
-    "link": "https://www.politico.com/live-updates/2025/05/05/congress/thune-senate-crypto-bill-00330308",
-    "snippet": "Her move will be the latest Democratic effort to derail GOP-led crypto legislation by highlighting potential conflicts of interest with the ...",
-    "photo_url": "https://www.politico.com/dims4/default/resize/1040/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fdb%2F30%2F300ed89f4bd19471d883270a0277%2F2025-0409-congress-francis-7-1.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUhjME56Y3pkbk1FTjFNRVp4VFJDM0FSaVRBaWdCTWdtRmNwVEVNdWRNU1FJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T23:06:28.000Z",
-    "authors": [
-      "Katherine Tully-McManus",
-      "Jordain Carney",
-      "Jasper Goodman"
-    ],
-    "source_url": "https://www.politico.com",
-    "source_name": "Politico",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWjIxM2NYZHFOaElDWlc0b0FBUAE",
-        "topic_name": "Katherine Tully-McManus"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTW1wck1uQTRNeElDWlc0b0FBUAE",
-        "topic_name": "Jordain Carney"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTld3M2EzSmpPQklDWlc0b0FBUAE",
-        "topic_name": "Jasper Goodman"
-      }
-    ]
-  },
-  {
-    "title": "Bitcoin tops $100,000 on trade deal optimism",
-    "link": "https://www.reuters.com/markets/currencies/bitcoin-tops-100000-trade-deal-optimism-2025-05-08/",
-    "snippet": "Bitcoin topped $100000 on Thursday for the first time since early February, bolstered by a wide-ranging deal between the United States and ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/ITNSLRU3KFLP7ABJFCV4MG6BBY.jpg?auth=718787e76bbede9c1dcbb0f6cf2394f4092d5b141145860ac07fb37f25961564&width=5316&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhja1pVWVd4SWRubG1hV2Q2VFJDX0F4aXVCU2dLTWdhbFVwSXlLUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T16:06:35.000Z",
+    "title": "Bitcoin price prediction: World's top Cryptocurrency is beating Gold, US stock market's S&P 500, Nasdaq",
+    "link": "https://m.economictimes.com/news/international/us/bitcoin-price-prediction-worlds-top-cryptocurrency-is-beating-gold-us-stock-markets-sp-500-nasdaq/articleshow/121001872.cms",
+    "snippet": "Bitcoin price prediction: World's top Cryptocurrency is beating Gold, US stock market's S&P 500, Nasdaq · Bitcoin Price Outlook for 2025 · FAQs.",
+    "photo_url": "https://m.economictimes.com/thumb/msid-121001947,width-1200,height-900,resizemode-4,imgsize-32448/bitcoin-price.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpjM2RUWW13eVZGRnpNSFZmVFJEZ0F4aUFCU2dLTWdhUmNwQk5zUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T14:24:57.000Z",
     "authors": [],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
+    "source_url": "https://m.economictimes.com",
+    "source_name": "The Economic Times",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
     "related_topics": []
   },
   {
@@ -1205,43 +1315,6 @@
     "related_topics": []
   },
   {
-    "title": "AI firm to buy $20M in Trump cryptocurrency 'to advocate' for U.S. trade policies",
-    "link": "https://www.belgrade-news.com/news/ai-firm-to-buy-20m-in-trump-cryptocurrency-to-advocate-for-u-s-trade-policies/article_0fe8222a-f1a3-46b5-8a34-7ddf4b4987c9.html",
-    "snippet": "An artificial intelligence and machine learning driven supply chain firm says it plans to buy $20 million in cryptocurrency backed by ...",
-    "photo_url": "https://bloximages.chicago2.vip.townnews.com/belgrade-news.com/content/tncms/assets/v3/editorial/0/fe/0fe8222a-f1a3-46b5-8a34-7ddf4b4987c9/681a3d764bdb8.cover.jpg?resize=400%2C267",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZibUo1ZW14M1gxUXlPVU0yVFJDTEFoaVFBeWdLTWdZeFJKaVBvUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T16:52:00.000Z",
-    "authors": [
-      "Mike Sunnucks"
-    ],
-    "source_url": "https://www.belgrade-news.com",
-    "source_name": "belgrade-news.com",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.belgrade-news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV0psYkdkeVlXUmxMVzVsZDNNdVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1OaU9IcG1aaElDWlc0b0FBUAE",
-        "topic_name": "Mike Sunnucks"
-      }
-    ]
-  },
-  {
-    "title": "Smart ways to learn about cryptocurrency",
-    "link": "https://www.spacedaily.com/reports/Smart_ways_to_learn_about_cryptocurrency_999.html",
-    "snippet": "As a crypto newbie, it's best to learn the fundamentals from established crypto providers, as they offer videos, articles and learning materials ...",
-    "photo_url": "https://www.spxdaily.com/images-lg/crypto-currency-bitcoin-marker-lg.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNTRaRWRLT1hsdFdrTnJkSFU1VFJETkFSajJBU2dCTWdB=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T03:08:03.000Z",
-    "authors": [],
-    "source_url": "https://www.spacedaily.com",
-    "source_name": "Space Daily",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.spacedaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbk53WVdObFpHRnBiSGt1WTI5dEtBQVAB",
-    "related_topics": []
-  },
-  {
     "title": "UK’s FCA Seeks Comment on Cryptoasset Trading Platforms Before Proposing Rules",
     "link": "https://www.pymnts.com/cryptocurrency/2025/uks-fca-seeks-comment-on-cryptoasset-trading-platforms-before-proposing-rules/",
     "snippet": "The U.K.'s Financial Conduct Authority (FCA) is seeking feedback on the regulation of cryptoasset trading platforms.",
@@ -1254,6 +1327,21 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
+    "title": "Kidnappers in France target cryptocurrency entrepreneurs",
+    "link": "https://cheddar.com/media/kidnappers-in-france-target-cryptocurrency-entrepreneurs/",
+    "snippet": "French police have rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid.",
+    "photo_url": "https://www.cheddar.com/resizer/v2/KFJXAT3XLFBGENKQKRYTSRDNNV.jpg?auth=39b1b8b4ee715743e71c399d44338d894fb2bc815785533ae779faebf8a5d2ba",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpUR0ZEVVRsbmJscHRaVTUwVFJERUF4aW1CU2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-05T19:37:25.000Z",
+    "authors": [],
+    "source_url": "https://cheddar.com",
+    "source_name": "cheddar.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cheddar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5vWldSa1lYSXVZMjl0S0FBUAE",
     "related_topics": []
   },
   {
@@ -1279,100 +1367,41 @@
     ]
   },
   {
-    "title": "Kidnappers in France target cryptocurrency entrepreneurs",
-    "link": "https://cheddar.com/media/kidnappers-in-france-target-cryptocurrency-entrepreneurs/",
-    "snippet": "French police have rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid.",
-    "photo_url": "https://www.cheddar.com/resizer/v2/KFJXAT3XLFBGENKQKRYTSRDNNV.jpg?auth=39b1b8b4ee715743e71c399d44338d894fb2bc815785533ae779faebf8a5d2ba",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpUR0ZEVVRsbmJscHRaVTUwVFJERUF4aW1CU2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T19:37:25.000Z",
+    "title": "What to Know as GENIUS Stablecoin Act Heads to Senate Vote",
+    "link": "https://www.pymnts.com/cryptocurrency/2025/what-you-should-know-about-genius-stablecoin-act-senate-vote/",
+    "snippet": "The GENIUS Act proposes a detailed framework for regulating stablecoins, emphasizing consumer protections, operational standards and anti-money ...",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2023/03/Senate.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFOblo2VlZNMU5XWlRlV1Z5VFJDU0FoakpBeWdLTWdZSlI1Sm1wZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T15:19:43.000Z",
     "authors": [],
-    "source_url": "https://cheddar.com",
-    "source_name": "cheddar.com",
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cheddar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk5vWldSa1lYSXVZMjl0S0FBUAE",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
-    "title": "Rise of the Crypto Keepers",
-    "link": "https://www.thenation.com/article/politics/crypto-trump-money-in-politics/",
-    "snippet": "In the 2024 political campaign cycle, crypto was the biggest donor by industry, raising more than $197 million. The crypto industry won nearly ...",
-    "photo_url": "https://www.thenation.com/wp-content/uploads/2025/05/Silverman-coin-diptych-1440x907-getty.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVJTM2RxY1hCVWFUSTRSWFJLVFJDM0F4aTZCU2dLTWdtRklZeWxHaWxGY0FF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T09:11:04.000Z",
+    "title": "UK court voices scepticism in cryptocurrency class action appeal hearing",
+    "link": "https://globalcompetitionreview.com/article/uk-court-voices-scepticism-in-cryptocurrency-class-action-appeal-hearing",
+    "snippet": "One of the UK's leading judges has questioned why holders of Bitcoin Satoshi Vision are entitled to damages because the company was stopped ...",
+    "photo_url": "https://d2qu5xmcgmzxnb.cloudfront.net/ewogICAgICAgICAgICAgICAgICAgICAgICAiYnVja2V0IjogImZpbGVzLmxici5jbG91ZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAicHVibGljLzIwMjUtMDUvc2h1dHRlcnN0b2NrXzEyODg0ODcxMzcuanBnIiwKICAgICAgICAgICAgICAgICAgICAgICAgImVkaXRzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICJyZXNpemUiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAid2lkdGgiOiA5NDUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaGVpZ2h0IjogNTI2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImZpdCI6ICJjb3ZlciIKICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUVSWFZUV1ZCRGNtcERXR3B3VFJDbkFSaXRBaWdCTWdhUlJZUXFwZ0k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T17:26:15.000Z",
     "authors": [
-      "Jacob Silverman"
+      "Francesca McClimont"
     ],
-    "source_url": "https://www.thenation.com",
-    "source_name": "The Nation",
+    "source_url": "https://globalcompetitionreview.com",
+    "source_name": "Global Competition Review",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJvWlc1aGRHbHZiaTVqYjIwb0FBUAE",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://globalcompetitionreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHMmRzYjJKaGJHTnZiWEJsZEdsMGFXOXVjbVYyYVdWM0xtTnZiU2dBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoMFlsODViUklDWlc0b0FBUAE",
-        "topic_name": "Jacob Silverman"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5T1dkNmNtdGtZeElDWlc0b0FBUAE",
+        "topic_name": "Francesca McClimont"
       }
     ]
-  },
-  {
-    "title": "Saylor's Strategy reports fifth consecutive quarterly loss, announces $21 billion equity offering",
-    "link": "https://www.reuters.com/business/saylors-strategy-reports-fifth-consecutive-quarterly-loss-announces-21-billion-2025-05-01/",
-    "snippet": "Michael Saylor's Strategy, formerly MicroStrategy, reported a quarterly loss of $5.91 billion from its digital assets due to a quarter-end ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/6YAPS3KVKJMPRDAWK4SJ3XVU4U.jpg?auth=7f393fcf4fd4f184fef26294b6e2c32ab58724036ca6b62ab812c50a3a5a53d0&width=480&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTFTbVZqZVVwbldrUk9WM2hyVFJEQUFoamdBeWdLTWdrQkFJeU1uU1N4Q0FJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-01T22:14:41.000Z",
-    "authors": [
-      "Atharva Singh"
-    ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZyY0doNmREbHJNUklDWlc0b0FBUAE",
-        "topic_name": "Atharva Singh"
-      }
-    ]
-  },
-  {
-    "title": "Coinbase to buy Deribit for $2.9 billion in landmark crypto deal",
-    "link": "https://finance.yahoo.com/news/coinbase-to-buy-deribit-for-29-billion-in-landmark-crypto-deal-145657483.html",
-    "snippet": "Coinbase Global has reached an agreement to acquire crypto options platform Deribit for $2.9 billion, one of the most significant deals ever ...",
-    "photo_url": "https://s.yimg.com/ny/api/res/1.2/waUr1GUZCsXwKoeDIvYxjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/ab47ba10-9cf4-11eb-afcf-27ed1e51b8e2",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpTazR3YjBVeE1sSXRTMnB3VFJERUF4aW5CU2dLTWdZeE5KU1BJUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T14:56:58.000Z",
-    "authors": [
-      "David Hollerith"
-    ],
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhvMGF6SnFlQklDWlc0b0FBUAE",
-        "topic_name": "David Hollerith"
-      }
-    ]
-  },
-  {
-    "title": "Wood County Sheriff's Department Calls for Regulation of Cryptocurrency Kiosks Amid Growing Scam Concerns",
-    "link": "https://www.onfocus.news/wood-county-sheriffs-department-calls-for-regulation-of-cryptocurrency-kiosks-amid-growing-scam-concerns/",
-    "snippet": "WOOD COUNTY, WI (OnFocus) – The Wood County Sheriff's Department is ramping up efforts to regulate cryptocurrency kiosks across Wisconsin, ...",
-    "photo_url": "https://www.onfocus.news/wp-content/uploads/2023/03/bitcoin-scam-wood-county.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZWbXB4YVhCMk1WVnhVSFpvVFJDRUF4aVdCaWdLTWdrQk1wQU5zYWJRUndJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T15:08:22.000Z",
-    "authors": [],
-    "source_url": "https://www.onfocus.news",
-    "source_name": "onfocus.news",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.onfocus.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzl1Wm05amRYTXVibVYzY3lnQVAB",
-    "related_topics": []
   },
   {
     "title": "Revolut and Lightspark Join Forces to Speed Bitcoin Payments",
@@ -1387,6 +1416,21 @@
     "source_logo_url": null,
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
+    "title": "The Rising Trend of Cryptocurrency Applications Among iPhone Users",
+    "link": "https://appleosophy.com/2025/05/08/the-rising-trend-of-cryptocurrency-applications-among-iphone-users/",
+    "snippet": "The digital finance landscape is experiencing a notable shift as iPhone users increasingly embrace cryptocurrency applications.",
+    "photo_url": "https://cdn.appleosophy.com/wp-content/uploads/2025/05/iphone-7479302_1920-1160x773.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURZV2RtVjBzeVpURjBSbk4yVFJERUF4aW1CU2dLTWdhQmdwSnZOUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T15:51:56.000Z",
+    "authors": [],
+    "source_url": "https://appleosophy.com",
+    "source_name": "Appleosophy",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://appleosophy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ3Y0d4bGIzTnZjR2g1TG1OdmJTZ0FQAQ",
     "related_topics": []
   },
   {
@@ -1406,7 +1450,7 @@
     "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVzlyYkdGb2IyMWhiaTVqYjIwb0FBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqJggKIiBDQkFTRWdvTUwyY3ZNVEZuZWpGb2NucDVFZ0psYmlnQVAB",
+        "topic_id": "CAAqIggKIhxDQkFTRHdvSkwyMHZNREkxTVhadEVnSmxiaWdBUAE",
         "topic_name": "Jeff Miller"
       }
     ]
@@ -1442,6 +1486,28 @@
     "related_topics": []
   },
   {
+    "title": "Rise of the Crypto Keepers",
+    "link": "https://www.thenation.com/article/politics/crypto-trump-money-in-politics/",
+    "snippet": "In the 2024 political campaign cycle, crypto was the biggest donor by industry, raising more than $197 million. The crypto industry won nearly ...",
+    "photo_url": "https://www.thenation.com/wp-content/uploads/2025/05/Silverman-coin-diptych-1440x907-getty.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVJTM2RxY1hCVWFUSTRSWFJLVFJDM0F4aTZCU2dLTWdtRklZeWxHaWxGY0FF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T09:11:04.000Z",
+    "authors": [
+      "Jacob Silverman"
+    ],
+    "source_url": "https://www.thenation.com",
+    "source_name": "The Nation",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJvWlc1aGRHbHZiaTVqYjIwb0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhoMFlsODViUklDWlc0b0FBUAE",
+        "topic_name": "Jacob Silverman"
+      }
+    ]
+  },
+  {
     "title": "How Congress Can Stop the Looming Crypto Disaster",
     "link": "https://www.justsecurity.org/110820/how-congress-can-stop-crypto-crash/",
     "snippet": "Legislative and administrative accommodation of the crypto industry pose fundamental challenges to control over money and credit.",
@@ -1457,19 +1523,26 @@
     "related_topics": []
   },
   {
-    "title": "Kidnappers in France target cryptocurrency entrepreneurs for ransom",
-    "link": "https://apnews.com/article/france-police-kidnapping-cryptocurrencies-hostages-technology-64af99f20d16ebdd08fe5e84ddd6bc64",
-    "snippet": "French police have rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid after he was taken hostage for ransom.",
-    "photo_url": "https://dims.apnews.com/dims4/default/de66710/2147483647/strip/true/crop/7145x4756+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F2a%2F4ec1805be4f4eaf439a6caf8c992%2F17c6b9b607b847c2bca3e6f70fb103cd",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5iMHhpVlhkTWFVWk9PVTgzVFJEVkFSakFBaWdLTWdhTllZNW5NZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-04T12:20:00.000Z",
-    "authors": [],
-    "source_url": "https://apnews.com",
-    "source_name": "AP News",
+    "title": "How much money did Trump make in first 100 days? Crypto deals raise questions",
+    "link": "https://www.usatoday.com/story/news/politics/2025/05/04/trumps-first-100-days-crypto-coin-profits/83323189007/",
+    "snippet": "Trump returned to the White House days after launching a cryptocurrency meme coin that analysts say is now worth a fortune.",
+    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/30/USAT/83377158007-trump-crypto.jpg?width=1733&height=1252&fit=crop&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXdNR2xxYXpkcWNuVXlNRWRZVFJEWEF4aU1CU2dLTWdrSkVJeW1LaWVxd3dJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-04T09:03:54.000Z",
+    "authors": [
+      "Josh Meyer"
+    ],
+    "source_url": "https://www.usatoday.com",
+    "source_name": "USA Today",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
-    "related_topics": []
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWW1KeE1YWnNhQklDWlc0b0FBUAE",
+        "topic_name": "Josh Meyer"
+      }
+    ]
   },
   {
     "title": "Wood County Sheriff's Department pushing for new legislation restricting cryptocurrency kiosks",
@@ -1516,46 +1589,76 @@
     ]
   },
   {
-    "title": "Gov. Katie Hobbs signs bill to create Bitcoin reserve days after vetoing other cryptocurrency legislation",
-    "link": "https://www.kgun9.com/news/local-news/gov-katie-hobbs-signs-bill-to-create-bitcoin-reserve-days-after-vetoing-other-crypto-legislation",
-    "snippet": "Gov. Katie Hobbs signed House Bill 2749 into law on Wednesday, establishing a state-managed Bitcoin and Digital Assets Reserve Fund — five ...",
-    "photo_url": "https://ewscripps.brightspotcdn.com/dims4/default/20ca963/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F71%2F06da083242e082d0d185bb66147b%2Fap22116506003982.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZUbnA2ZGtvNWVXWkJaWGhHVFJDb0FSaXNBaWdCTWdhTmtKS21OZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T02:32:20.000Z",
+    "title": "AI firm to buy $20M in Trump cryptocurrency 'to advocate' for U.S. trade policies",
+    "link": "https://www.belgrade-news.com/news/ai-firm-to-buy-20m-in-trump-cryptocurrency-to-advocate-for-u-s-trade-policies/article_0fe8222a-f1a3-46b5-8a34-7ddf4b4987c9.amp.html",
+    "snippet": "An artificial intelligence and machine learning driven supply chain firm says it plans to buy $20 million in cryptocurrency backed by ...",
+    "photo_url": "https://bloximages.chicago2.vip.townnews.com/belgrade-news.com/content/tncms/assets/v3/editorial/1/cd/1cd3cb63-77d8-4483-bca2-aafad9940e2a/681a36cc02b42.image.jpg?resize=1024%2C682",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1NMHRxU1RoS2RIZFVibVZDVFJDM0FSaVRBaWdCTWdhdE5KS3VLUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T17:23:29.000Z",
     "authors": [
-      "Jason Barr"
+      "Mike Sunnucks"
     ],
-    "source_url": "https://www.kgun9.com",
-    "source_name": "KGUN 9",
+    "source_url": "https://www.belgrade-news.com",
+    "source_name": "belgrade-news.com",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kgun9.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV3RuZFc0NUxtTnZiU2dBUAE",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.belgrade-news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV0psYkdkeVlXUmxMVzVsZDNNdVkyOXRLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYTNGdWNXSndkQklDWlc0b0FBUAE",
-        "topic_name": "Jason Barr"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1OaU9IcG1aaElDWlc0b0FBUAE",
+        "topic_name": "Mike Sunnucks"
       }
     ]
   },
   {
-    "title": "How much money did Trump make in first 100 days? Crypto deals raise questions",
-    "link": "https://www.usatoday.com/story/news/politics/2025/05/04/trumps-first-100-days-crypto-coin-profits/83323189007/",
-    "snippet": "Trump returned to the White House days after launching a cryptocurrency meme coin that analysts say is now worth a fortune.",
-    "photo_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/30/USAT/83377158007-trump-crypto.jpg?crop=4999,2813,x0,y180&width=660&height=371&format=pjpg&auto=webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWxRakExTFZvMFozRmliRE5tVFJEekFoaVVCU2dLTWdrSkVJNmxycVlkVUFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-04T09:03:54.000Z",
-    "authors": [
-      "Josh Meyer"
-    ],
-    "source_url": "https://www.usatoday.com",
-    "source_name": "USA Today",
+    "title": "Wood County Sheriff's Department Calls for Regulation of Cryptocurrency Kiosks Amid Growing Scam Concerns",
+    "link": "https://www.onfocus.news/wood-county-sheriffs-department-calls-for-regulation-of-cryptocurrency-kiosks-amid-growing-scam-concerns/",
+    "snippet": "WOOD COUNTY, WI (OnFocus) – The Wood County Sheriff's Department is ramping up efforts to regulate cryptocurrency kiosks across Wisconsin, ...",
+    "photo_url": "https://www.onfocus.news/wp-content/uploads/2023/03/bitcoin-scam-wood-county.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZWbXB4YVhCMk1WVnhVSFpvVFJDRUF4aVdCaWdLTWdrQk1wQU5zYWJRUndJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T15:08:22.000Z",
+    "authors": [],
+    "source_url": "https://www.onfocus.news",
+    "source_name": "onfocus.news",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESFZ6WVhSdlpHRjVMbU52YlNnQVAB",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.onfocus.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtERzl1Wm05amRYTXVibVYzY3lnQVAB",
+    "related_topics": []
+  },
+  {
+    "title": "Roswell becomes first city with Bitcoin reserve",
+    "link": "https://www.koat.com/article/new-mexico-first-cryptocurrency-city-bitcoin-reserve/64705877",
+    "snippet": "Roswell has made history in becoming the first city in the world to have its own cryptocurrency reserve. Cryptocurrency is a decentralized ...",
+    "photo_url": "https://hips.hearstapps.com/vidthumb/a75c0e68-f2c5-4d12-91bb-508844805ce6/3e2b4c2a-6d48-477b-a6c6-17c28f88255e.jpeg?crop=1xw%3A0.843338213763xh%3Bcenter%2Ctop&resize=810%3A*&quality=70",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhUM2x0V1doemVIRmlRemxFVFJDb0FSaXJBaWdCTWdZTnFJcW51Z1E=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T22:49:00.000Z",
+    "authors": [],
+    "source_url": "https://www.koat.com",
+    "source_name": "KOAT",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.koat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3R2WVhRdVkyOXRLQUFQAQ",
+    "related_topics": []
+  },
+  {
+    "title": "Father of cryptocurrency entrepreneur ‘had finger chopped off’ after being kidnapped for ransom",
+    "link": "https://www.independent.co.uk/news/world/europe/crypto-france-kidnap-finger-essone-paris-cryptocurrency-b2744639.html",
+    "snippet": "French police rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid after he was taken hostage for ransom, the latest ...",
+    "photo_url": "https://static.independent.co.uk/2025/05/04/13/France_Cryptocurrency_Kidnappings_24192.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxlWE5IVHpKSVZrOVVhMnRmVFJERUF4aW1CU2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-04T12:20:00.000Z",
+    "authors": [
+      "Will Kirby"
+    ],
+    "source_url": "https://www.independent.co.uk",
+    "source_name": "The Independent",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdWd1pXNWtaVzUwTG1OdkxuVnJLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWW1KeE1YWnNhQklDWlc0b0FBUAE",
-        "topic_name": "Josh Meyer"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym5Cc05EUjZYeElDWlc0b0FBUAE",
+        "topic_name": "Will Kirby"
       }
     ]
   },
@@ -1582,93 +1685,63 @@
     ]
   },
   {
-    "title": "Roswell becomes first city with Bitcoin reserve",
-    "link": "https://www.koat.com/article/new-mexico-first-cryptocurrency-city-bitcoin-reserve/64705877",
-    "snippet": "Roswell has made history in becoming the first city in the world to have its own cryptocurrency reserve. Cryptocurrency is a decentralized ...",
-    "photo_url": "https://hips.hearstapps.com/vidthumb/a75c0e68-f2c5-4d12-91bb-508844805ce6/3e2b4c2a-6d48-477b-a6c6-17c28f88255e.jpeg?crop=1xw%3A0.843338213763xh%3Bcenter%2Ctop&resize=810%3A*&quality=70",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhUM2x0V1doemVIRmlRemxFVFJDb0FSaXJBaWdCTWdZTnFJcW51Z1E=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T22:49:00.000Z",
-    "authors": [],
-    "source_url": "https://www.koat.com",
-    "source_name": "KOAT",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.koat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR3R2WVhRdVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "title": "MetaMask Card Adds $EURe & $GBPe",
-    "link": "https://www.altcoinbuzz.io/cryptocurrency-news/metamask-card-adds-eure-gbpe/",
-    "snippet": "Wallet service provider MetaMask has expanded its MetaMask card services, announcing support for $EURe and $GBPe.",
-    "photo_url": "https://www.altcoinbuzz.io/wp-content/uploads/2025/05/web_MetaMask-Card-Adds_EURe-GBPe.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWxOSE5mT1RoRVUwVnZObGhKVFJDUkF4ajhCU2dLTWdraE5JcHR4V1J6cHdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T08:25:44.000Z",
-    "authors": [
-      "Lawrence Mike"
-    ],
-    "source_url": "https://www.altcoinbuzz.io",
-    "source_name": "Altcoin Buzz",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.altcoinbuzz.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZzZEdOdmFXNWlkWHA2TG1sdktBQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZW5RNGJYRmlhaElDWlc0b0FBUAE",
-        "topic_name": "Lawrence Mike"
-      }
-    ]
-  },
-  {
-    "title": "Father of cryptocurrency entrepreneur ‘had finger chopped off’ after being kidnapped for ransom",
-    "link": "https://www.independent.co.uk/news/world/europe/crypto-france-kidnap-finger-essone-paris-cryptocurrency-b2744639.html",
-    "snippet": "French police rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid after he was taken hostage for ransom, the latest ...",
-    "photo_url": "https://static.independent.co.uk/2025/05/04/13/France_Cryptocurrency_Kidnappings_24192.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxlWE5IVHpKSVZrOVVhMnRmVFJERUF4aW1CU2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-04T12:20:00.000Z",
-    "authors": [
-      "Will Kirby"
-    ],
-    "source_url": "https://www.independent.co.uk",
-    "source_name": "The Independent",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1WkdWd1pXNWtaVzUwTG1OdkxuVnJLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym5Cc05EUjZYeElDWlc0b0FBUAE",
-        "topic_name": "Will Kirby"
-      }
-    ]
-  },
-  {
     "title": "Kidnappers in France target cryptocurrency entrepreneurs for ransom",
-    "link": "https://www.thealbertan.com/science-news/kidnappers-in-france-target-cryptocurrency-entrepreneurs-for-ransom-10611261",
-    "snippet": "PARIS (AP) — French police rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid after he was taken hostage for ...",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2025-05-04T12:21:43.000Z",
+    "link": "https://apnews.com/article/france-police-kidnapping-cryptocurrencies-hostages-technology-64af99f20d16ebdd08fe5e84ddd6bc64",
+    "snippet": "French police have rescued the father of a wealthy cryptocurrency entrepreneur in a nighttime raid after he was taken hostage for ransom.",
+    "photo_url": "https://dims.apnews.com/dims4/default/de66710/2147483647/strip/true/crop/7145x4756+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F2a%2F4ec1805be4f4eaf439a6caf8c992%2F17c6b9b607b847c2bca3e6f70fb103cd",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5iMHhpVlhkTWFVWk9PVTgzVFJEVkFSakFBaWdLTWdhTllZNW5NZ1k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-04T12:20:00.000Z",
     "authors": [],
-    "source_url": "https://www.thealbertan.com",
-    "source_name": "The Albertan",
+    "source_url": "https://apnews.com",
+    "source_name": "AP News",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thealbertan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldGc1ltVnlkR0Z1TG1OdmJTZ0FQAQ",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
-    "title": "Best New Cryptocurrency to Buy Now as Bitcoin is Predicted to Soar in the Coming Months",
-    "link": "https://en.cryptonomist.ch/2025/05/07/best-new-cryptocurrency-to-buy-now-as-bitcoin-is-predicted-to-soar-in-the-coming-months/",
-    "snippet": "Bitcoin shows signs of recovery, and top analysts have shared bullish predictions. This upward trend also supports growing interest in the ...",
-    "photo_url": "https://en.cryptonomist.ch/wp-content/uploads/2025/05/best-new-cryptocurrency-to-buy-now-bitcoin-is-predicted-to-soar.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdaa0p2VDIxRUxWRnVlV0ZUVFJDZkF4ampCU2dLTWdhUkFvWkxEUVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-07T13:52:40.000Z",
-    "authors": [],
-    "source_url": "https://en.cryptonomist.ch",
-    "source_name": "The Cryptonomist",
+    "title": "‘Jackpot!’ How French police freed a cryptocurrency hostage whose finger was severed for ransom",
+    "link": "https://www.courant.com/2025/05/05/france-cryptocurrency-kidnappings/",
+    "snippet": "'Jackpot!' How French police freed a cryptocurrency hostage whose finger was severed for ransom. The victim was the father of a man who made his ...",
+    "photo_url": "https://www.courant.com/wp-content/uploads/2025/05/France_Cryptocurrency_Kidnappings_24192_f14e6c.jpg?w=525",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhTVU40VlhWdGJrVm5UR3BrVFJEZEFoaU5CQ2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-05T16:02:21.000Z",
+    "authors": [
+      "John Leicester"
+    ],
+    "source_url": "https://www.courant.com",
+    "source_name": "Hartford Courant",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://en.cryptonomist.ch&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbVZ1TG1OeWVYQjBiMjV2YldsemRDNWphQ2dBUAE",
-    "related_topics": []
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.courant.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk52ZFhKaGJuUXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJSdE1UaHlhQklDWlc0b0FBUAE",
+        "topic_name": "John Leicester"
+      }
+    ]
+  },
+  {
+    "title": "Founder of crypto platform Celsius Network is sentenced to 12 years in prison",
+    "link": "https://abcnews.go.com/US/wireStory/founder-crypto-platform-celsius-network-sentenced-12-years-121617952",
+    "snippet": "The founder and former CEO of the cryptocurrency lending platform Celsius Network has been sentenced to 12 years in prison.",
+    "photo_url": "https://s.abcnews.com/images/US/wirestory_81bdbb8b0b445f1c4077b5eda7a4cc9e_16x9_1600.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlUVU4zZG01Q2RGbFFRemswVFJDZkF4ampCU2dLTWdheEJKeVBrUW8=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T20:58:51.000Z",
+    "authors": [
+      "Larry Neumeister"
+    ],
+    "source_url": "https://abcnews.go.com",
+    "source_name": "ABC News",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUZpWTI1bGQzTXVaMjh1WTI5dEtBQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhvemREZGtOaElDWlc0b0FBUAE",
+        "topic_name": "Larry Neumeister"
+      }
+    ]
   },
   {
     "title": "'Jackpot!' How French police freed a cryptocurrency hostage whose finger was severed for ransom",
@@ -1693,18 +1766,18 @@
     ]
   },
   {
-    "title": "Bitcoin price prediction: World's top Cryptocurrency is beating Gold, US stock market's S&P 500, Nasdaq",
-    "link": "https://m.economictimes.com/news/international/us/bitcoin-price-prediction-worlds-top-cryptocurrency-is-beating-gold-us-stock-markets-sp-500-nasdaq/articleshow/121001872.cms",
-    "snippet": "Bitcoin price prediction: World's top Cryptocurrency is beating Gold, US stock market's S&P 500, Nasdaq · Bitcoin Price Outlook for 2025 · FAQs.",
-    "photo_url": "https://m.economictimes.com/thumb/msid-121001947,width-1200,height-900,resizemode-4,imgsize-32448/bitcoin-price.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUpjM2RUWW13eVZGRnpNSFZmVFJEZ0F4aUFCU2dLTWdhUmNwQk5zUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T14:24:57.000Z",
+    "title": "Best New Cryptocurrency to Buy Now as Bitcoin is Predicted to Soar in the Coming Months",
+    "link": "https://en.cryptonomist.ch/2025/05/07/best-new-cryptocurrency-to-buy-now-as-bitcoin-is-predicted-to-soar-in-the-coming-months/",
+    "snippet": "Bitcoin shows signs of recovery, and top analysts have shared bullish predictions. This upward trend also supports growing interest in the ...",
+    "photo_url": "https://en.cryptonomist.ch/wp-content/uploads/2025/05/best-new-cryptocurrency-to-buy-now-bitcoin-is-predicted-to-soar.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdaa0p2VDIxRUxWRnVlV0ZUVFJDZkF4ampCU2dLTWdhUkFvWkxEUVE=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-07T13:52:40.000Z",
     "authors": [],
-    "source_url": "https://m.economictimes.com",
-    "source_name": "The Economic Times",
+    "source_url": "https://en.cryptonomist.ch",
+    "source_name": "The Cryptonomist",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1ZqYjI1dmJXbGpkR2x0WlhNdVkyOXRLQUFQAQ",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://en.cryptonomist.ch&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbVZ1TG1OeWVYQjBiMjV2YldsemRDNWphQ2dBUAE",
     "related_topics": []
   },
   {
@@ -1730,24 +1803,56 @@
     ]
   },
   {
-    "title": "Cryptocurrency investors are being targeted for ransom, kidnappings, and mutilations across France, with abductors demanding between $6M and $10M in crytpo funds",
-    "link": "https://www.pcgamer.com/hardware/cryptocurrency-investors-are-being-targeted-for-ransom-kidnappings-and-mutilations-across-france-with-abductors-demanding-between-usd6m-and-usd10m-in-crytpo-funds/",
-    "snippet": "Crypto-investors have become the target of a string of kidnappings taking place across France and Western Europe.",
-    "photo_url": "https://cdn.mos.cms.futurecdn.net/6kXPVAyfXwJyrM6MuxjMv9-1200-80.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFSVFJxVXpsVlUxQTRRbmN4VFJDb0FSaXNBaWdCTWdiRlVaYlZKQWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T10:19:22.000Z",
+    "title": "Senate vote to advance crypto bill fails after bipartisan talks stall",
+    "link": "https://www.nbcnews.com/politics/congress/senate-vote-advance-crypto-bill-bipartisan-talks-trump-rcna205328",
+    "snippet": "WASHINGTON — A vote to advance a major crypto regulation bill in the Senate failed Thursday, with Democrats uniting to block the measure after ...",
+    "photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-05/250508-schumer-thune-mb-1500-7f7087.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNWpYMnhZWDFka2JsbDNjMmhoVFJERUF4aW1CU2dLTWdrTlVwYW1xbWRGS2dJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T18:51:06.000Z",
     "authors": [
-      "Hope Corrigan"
+      "Kate Santaliz",
+      "Brennan Leach",
+      "Julie Tsirkin"
     ],
-    "source_url": "https://www.pcgamer.com",
-    "source_name": "PC Gamer",
+    "source_url": "https://www.nbcnews.com",
+    "source_name": "NBC News",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pcgamer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0JqWjJGdFpYSXVZMjl0S0FBUAE",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjVpWTI1bGQzTXVZMjl0S0FBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NeVptWTFZaElDWlc0b0FBUAE",
-        "topic_name": "Hope Corrigan"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYlRkNE4zWjVjQklDWlc0b0FBUAE",
+        "topic_name": "Kate Santaliz"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY0TVhKeVpIQjBPQklDWlc0b0FBUAE",
+        "topic_name": "Brennan Leach"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYUhOemRETXpZaElDWlc0b0FBUAE",
+        "topic_name": "Julie Tsirkin"
+      }
+    ]
+  },
+  {
+    "title": "AI firm to buy $20M in Trump cryptocurrency 'to advocate' for U.S. trade policies",
+    "link": "https://www.belgrade-news.com/news/ai-firm-to-buy-20m-in-trump-cryptocurrency-to-advocate-for-u-s-trade-policies/article_0fe8222a-f1a3-46b5-8a34-7ddf4b4987c9.html",
+    "snippet": "An artificial intelligence and machine learning driven supply chain firm says it plans to buy $20 million in cryptocurrency backed by ...",
+    "photo_url": "https://bloximages.chicago2.vip.townnews.com/belgrade-news.com/content/tncms/assets/v3/editorial/0/fe/0fe8222a-f1a3-46b5-8a34-7ddf4b4987c9/681a3d764bdb8.cover.jpg?resize=400%2C267",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZibUo1ZW14M1gxUXlPVU0yVFJDTEFoaVFBeWdLTWdZeFJKaVBvUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-06T19:52:30.000Z",
+    "authors": [
+      "Mike Sunnucks"
+    ],
+    "source_url": "https://www.belgrade-news.com",
+    "source_name": "belgrade-news.com",
+    "source_logo_url": null,
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.belgrade-news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV0psYkdkeVlXUmxMVzVsZDNNdVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWm1OaU9IcG1aaElDWlc0b0FBUAE",
+        "topic_name": "Mike Sunnucks"
       }
     ]
   },
@@ -1804,43 +1909,6 @@
     "related_topics": []
   },
   {
-    "title": "‘Jackpot!’ How French police freed a cryptocurrency hostage whose finger was severed for ransom",
-    "link": "https://www.morningjournal.com/2025/05/05/france-cryptocurrency-kidnappings/",
-    "snippet": "'Jackpot!' How French police freed a cryptocurrency hostage whose finger was severed for ransom. The victim was the father of a man who made his ...",
-    "photo_url": "https://www.morningjournal.com/wp-content/uploads/2025/05/France_Cryptocurrency_Kidnappings_24192_f14e6c.jpg?w=1200&resize=1200,900",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlZVlkyVldKek9HaDVWbUUzVFJEZ0F4aUFCU2dLTWdhSllJNkdNZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T15:58:09.000Z",
-    "authors": [
-      "John Leicester"
-    ],
-    "source_url": "https://www.morningjournal.com",
-    "source_name": "Morning Journal",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.morningjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbTF2Y201cGJtZHFiM1Z5Ym1Gc0xtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJSdE1UaHlhQklDWlc0b0FBUAE",
-        "topic_name": "John Leicester"
-      }
-    ]
-  },
-  {
-    "title": "The Rising Trend of Cryptocurrency Applications Among iPhone Users",
-    "link": "https://appleosophy.com/2025/05/08/the-rising-trend-of-cryptocurrency-applications-among-iphone-users/",
-    "snippet": "The digital finance landscape is experiencing a notable shift as iPhone users increasingly embrace cryptocurrency applications.",
-    "photo_url": "https://cdn.appleosophy.com/wp-content/uploads/2025/05/iphone-7479302_1920-1160x773.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNURZV2RtVjBzeVpURjBSbk4yVFJERUF4aW1CU2dLTWdhQmdwSnZOUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-08T15:51:56.000Z",
-    "authors": [],
-    "source_url": "https://appleosophy.com",
-    "source_name": "Appleosophy",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://appleosophy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ3Y0d4bGIzTnZjR2g1TG1OdmJTZ0FQAQ",
-    "related_topics": []
-  },
-  {
     "title": "Esports Cryptocurrency Partnerships",
     "link": "https://www.trendhunter.com/amp/trends/riot-games-coinbase",
     "snippet": "Riot Games has announced a partnership with Coinbase, naming the cryptocurrency exchange as the exclusive blockchain technology partner for ...",
@@ -1871,40 +1939,18 @@
     "related_topics": []
   },
   {
-    "title": "‘Jackpot!’ How French police freed a cryptocurrency hostage whose finger was severed for ransom",
-    "link": "https://www.trentonian.com/2025/05/05/france-cryptocurrency-kidnappings/",
-    "snippet": "'Jackpot!' How French police freed a cryptocurrency hostage whose finger was severed for ransom. The victim was the father of a man who made his ...",
-    "photo_url": "https://www.trentonian.com/wp-content/uploads/2025/05/France_Cryptocurrency_Kidnappings_24192_f14e6c.jpg?w=525",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhTVU40VlhWdGJrVm5UR3BrVFJEZEFoaU5CQ2dLTWdZTllZeG5NZ1k=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-05T15:58:31.000Z",
-    "authors": [
-      "John Leicester"
-    ],
-    "source_url": "https://www.trentonian.com",
-    "source_name": "Trentonian",
-    "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.trentonian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEblJ5Wlc1MGIyNXBZVzR1WTI5dEtBQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvWTJSdE1UaHlhQklDWlc0b0FBUAE",
-        "topic_name": "John Leicester"
-      }
-    ]
-  },
-  {
-    "title": "Coinbase partners with Riot Games across global League of Legends and VALORANT competitions",
-    "link": "https://www.coinbase.com/blog/coinbase-partners-with-riot-games-across-global-league-of-legends-and-valorant-competitions",
-    "snippet": "Coinbase is deepening its ties to the esports world, joining forces with Riot Games as the new exclusive cryptocurrency exchange and ...",
-    "photo_url": "https://images.ctfassets.net/sygt3q11s4a9/70CQWItF0E4FKxzh44fyrD/4132493905c78f08b296b6d82f4ce741/Coinbase_Blogpost.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdVMDEwYVVKVmNHOUtNVWxJVFJDb0FSaXNBaWdCTWdhWms1UnFOUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2025-05-06T13:01:52.000Z",
+    "title": "Huge Setback For Lummis As Her Landmark Cryptocurrency Bill Shot Down",
+    "link": "https://cowboystatedaily.com/2025/05/08/huge-setback-for-lummis-as-her-landmark-cryptocurrency-bill-shot-down/",
+    "snippet": "Landmark cryptocurrency legislation by U.S. Sen. Cynthia Lummis collapsed Thursday on the Senate floor despite exhaustive, 11th-hour efforts ...",
+    "photo_url": "https://cowboystatedaily.imgix.net/Lummis-on-Senate-floor-5.8.25.jpg?ixlib=js-3.8.0&q=75&auto=format%2Ccompress",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNaVzFOWkdsdE16RnFhWHBGVFJDb0FSaXNBaWdCTWdiRlVvNzBJQWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2025-05-08T20:53:00.000Z",
     "authors": [],
-    "source_url": "https://www.coinbase.com",
-    "source_name": "Coinbase",
+    "source_url": "https://cowboystatedaily.com",
+    "source_name": "Cowboy State Daily",
     "source_logo_url": null,
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.coinbase.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER052YVc1aVlYTmxMbU52YlNnQVAB",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cowboystatedaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR052ZDJKdmVYTjBZWFJsWkdGcGJIa3VZMjl0S0FBUAE",
     "related_topics": []
   }
 ]
