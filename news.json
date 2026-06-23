@@ -62,29 +62,6 @@
     ]
   },
   {
-    "article_id": "CBMitAFBVV95cUxNLWo3dnIta1VubUs5SWVmaHd4a0VmS2xFVUJxVWJLejJ0Zng0ODRpdUJqclVnY1F2ekpXNnBfc05VRHRUbFBCa1hyYmt2Wi1lWlNmWlpRdkZrNzg3MWpZSGRNRmxrbDhwRzU5eG5sMC1zcGhYMElvRV9BVkxzWDZ5MXdnSXFlYkNZZG5ldDA0TWl0eXBlVjlhRllUcHRqUno5Z2x6R3pVS2M0cEdaT09MNDloY0M",
-    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-    "snippet": "Microsoft says it has detected new self-propagating malware that spreads through USB drives in search of cryptocurrency credentials, ...",
-    "photo_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRSSGh6WTA4d1FsQXRNek52VFJEUEF4aVdCU2dLTWdZUmxaRHB0UVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T23:28:52.000Z",
-    "authors": [
-      "Dan Goodin"
-    ],
-    "source_url": "https://arstechnica.com",
-    "source_name": "Ars Technica",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ5YzNSbFkyaHVhV05oTG1OdmJTZ0FQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1SaWNUZHplUklDWlc0b0FBUAE",
-        "topic_name": "Dan Goodin"
-      }
-    ]
-  },
-  {
     "article_id": "CBMiygFBVV95cUxQZkxOZGdFXzd3N0NjNkRoTmVJUFZUalZTcVpGeld5Y0pmVF9YckRWOU85LUY5dzZ1dDJudFNfVVdhbWJ5UUlpLXpGSGJpd1FWMEhDdldLZl8xeUdqMWYwVU1CN3RPTzZfTHpfc01yTjhmVU04ZkdrdEF5U3RHbTRMb1FOcl9SaXQ3RFFLc3dDaUs5RnVGSlREbnlMcWg1N2hxdTc0aURUSG5McmRvakZ1T0VJLW9IMXdTSG81OVFjTm8zdVA1QnRVMWFR",
     "title": "New Georgia laws take effect July 1: HOA reforms, pimping penalties, cryptocurrency, more",
     "link": "https://www.atlantanewsfirst.com/2026/06/22/new-georgia-laws-take-effect-july-1-hoa-reforms-pimping-penalties-cryptocurrency-more/",
@@ -104,6 +81,29 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RMFpEWXdaQklDWlc0b0FBUAE",
         "topic_name": "Tim Darnell"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMitAFBVV95cUxNLWo3dnIta1VubUs5SWVmaHd4a0VmS2xFVUJxVWJLejJ0Zng0ODRpdUJqclVnY1F2ekpXNnBfc05VRHRUbFBCa1hyYmt2Wi1lWlNmWlpRdkZrNzg3MWpZSGRNRmxrbDhwRzU5eG5sMC1zcGhYMElvRV9BVkxzWDZ5MXdnSXFlYkNZZG5ldDA0TWl0eXBlVjlhRllUcHRqUno5Z2x6R3pVS2M0cEdaT09MNDloY0M",
+    "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+    "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "snippet": "Microsoft says it has detected new self-propagating malware that spreads through USB drives in search of cryptocurrency credentials, ...",
+    "photo_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRSSGh6WTA4d1FsQXRNek52VFJEUEF4aVdCU2dLTWdZUmxaRHB0UVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-18T23:28:52.000Z",
+    "authors": [
+      "Dan Goodin"
+    ],
+    "source_url": "https://arstechnica.com",
+    "source_name": "Ars Technica",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ5YzNSbFkyaHVhV05oTG1OdmJTZ0FQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1SaWNUZHplUklDWlc0b0FBUAE",
+        "topic_name": "Dan Goodin"
       }
     ]
   },
@@ -131,27 +131,43 @@
     ]
   },
   {
-    "article_id": "CBMioAFBVV95cUxQWVExd0NNcHV5SVJjNlIwa1VXQVBxd0lZemRicEtpeF9SWHVicW1WRFh3SzV1dlowQ1VzSUpYOVhEanZTSDByZjFKc2haX0tMU2oxYzEzS3ZIaFhDRFB2Q3l5OUtoc0xBTGM1VHVZVTBhZFdLOVo4X1JhQTJUNjJ5Y1J0NGFDWEZfMFAzREVjQmtvdFgyWVhxbUNOVnRobjZK",
-    "title": "Texas Brothers Plead Guilty in $8 Million Minnesota Crypto Robbery",
-    "link": "https://knsiradio.com/2026/06/18/texas-brothers-plead-guilty-in-8-million-minnesota-crypto-robbery/",
-    "snippet": "(KNSI) – Two Texas brothers have pleaded guilty to their roles in an armed home invasion in Minnesota that netted more than $8 million in ...",
-    "photo_url": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2421/files/2021/08/gavel.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpkVWx4VkhOeE4wWlhNSEZsVFJDa0F4ajJCQ2dLTWdZaE1vcXZJUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T23:47:07.000Z",
+    "article_id": "CBMi3gFBVV95cUxNaDBZaUFCeS14aUxySUl1NnVHb0V2R0RweVhmeWhYTGRzMGV5cS1USmYwQ295NlI5cnBHamdscmpGT1pFdWtjeTRKd0xaaE15QUZqcjJsdmhoaW9sTlpqRm1wby16NlpBMGRsNnZnbFNQYVkyZkYxdjRnOFJ6Tlk0c1ctaG5nZUJnVXRSQzBNeEU5SlBDOFJvSy1pYm10NkZEdkRkUFh4VGFRaVE4WVVvYUdJVkJyeHV5NkVXelZCeGpRZF85NUFGVEVPNGVoaTZrbTMzXy0zcW5MdWMwMWc",
+    "title": "Inflation run-up doesn't mean you should run toward cryptocurrency",
+    "link": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/23/bitcoin-investment-buzzes-as-an-inflation-hedge-but-is-it/90606419007/",
+    "snippet": "A burst of inflation in 2026 has reignited buzz that bitcoin and other cryptocurrency are a great hedge against inflation.",
+    "photo_url": "https://www.freep.com/gcdn/authoring/authoring-images/2026/04/22/USAT/89740754007-bitcoin.JPG?width=1733&height=1156&fit=crop&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1UbWhxVURReFowRTJWRUZKVFJERUF4aW1CU2dLTWdhQlpJeXVNUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T11:01:00.000Z",
     "authors": [
-      "Jackie Judd"
+      "Susan Tompor"
     ],
-    "source_url": "https://knsiradio.com",
-    "source_name": "KNSI",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://knsiradio.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://knsiradio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV3R1YzJseVlXUnBieTVqYjIwb0FBUAE",
+    "source_url": "https://www.freep.com",
+    "source_name": "Detroit Free Press",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV1p5WldWd0xtTnZiU2dBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpZEhsemFuRXhhQklDWlc0b0FBUAE",
-        "topic_name": "Jackie Judd"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKcWMyUTVYeElDWlc0b0FBUAE",
+        "topic_name": "Susan Tompor"
       }
     ]
+  },
+  {
+    "article_id": "CBMiogFBVV95cUxQY2lnWTZJNU9sa3lJQzFDNDc3Sk9ZVU9lTjFyb1BjQ3lFNEZieVlRZDI5UlBGcFBqTnF5N21QX3NQaWNrMWExTEFaUVhGREt5MlNUVzNRdzk3bFUyQUxwVnA2TVQxUUZUbi1BdXN0N2ZZZU13cDV3UzFKSk9qMVZjbFowckRGdHgtYjV0ZXpxMWdDUHRqa0Rhc3dTZzVidzRZQ3c",
+    "title": "Op-Ed: CLARITY for Whom? What the CLARITY Act Means for Black Wealth Creation",
+    "link": "https://jointcenter.org/op-ed-clarity-for-whom-what-the-clarity-act-means-for-black-wealth-creation/",
+    "snippet": null,
+    "photo_url": "https://jointcenter.org/wp-content/uploads/2026/06/iStock-2213006407-1024x576.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhiRTR6TnpJNVFXaEtlRXhaVFJDZkF4ampCU2dLTWdZMU1JcTFMQVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T17:13:39.000Z",
+    "authors": [],
+    "source_url": "https://jointcenter.org",
+    "source_name": "Joint Center",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://jointcenter.org&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://jointcenter.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMnB2YVc1MFkyVnVkR1Z5TG05eVp5Z0FQAQ",
+    "related_topics": []
   },
   {
     "article_id": "CBMitAFBVV95cUxNblJya0l2R2dURmxQeXlsTk9qbEQtMTRVT053TEduaWZVYXNFbzY4RGF4YjJ2TlVJNjdqYWVzZW91WTRzS2tNRnBEX2RKdGtMQnZzTkZHYVdWWkFoSjF3M2l0czEybmhlbW1TV2szNFhTYzlDbGlIeWprd0t0eVJmcWNxR1BpUWIzN3o0RU1GUXN4eXl0bE5YakdFRmZtQ011WGh3V2twai1jX3lISE9EVkNvbUE",
@@ -182,6 +198,29 @@
     ]
   },
   {
+    "article_id": "CBMimAFBVV95cUxPYWZnVDhDbUQ2YlV4WWd3U1pqa0FETGhKSm5ESFd4UnowcHNScFNBVlVzaU1DcGM1ekZoTWZyTHFEVlhtTGFydS1XdFAtbDR6UHNLdEFYSWd2aU1Xek1JUlFBam5vNFNDQjB2M3VrNFdqUkF2X3ZEbU4yNUxwNXlWaEN1NFdWOEx6YzV3VEhGeENGRFNsQTZpSw",
+    "title": "Institutional Investors Are Buying This Top Cryptocurrency Hand-Over-Fist, According to Coinbase",
+    "link": "https://www.fool.com/investing/2026/06/18/institutional-investors-are-buying-this-top-crypto/",
+    "snippet": "Bitcoin (BTC 2.91%) is in a bear market now on paper; it's still 47% down from its all-time high near $126,000 set in October 2025.",
+    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873965%2Fbitcoin-as-bars-of-gold.jpg&w=1200&op=resize",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXJSa2xOVkdVME1uaFBZVE42VFJERUF4aW5CU2dLTWdzQlFJeXRzYVlXcUFvNFRR=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-18T13:08:00.000Z",
+    "authors": [
+      "Alex Carchidi"
+    ],
+    "source_url": "https://www.fool.com",
+    "source_name": "The Motley Fool",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RSNmJUUnRZeElDWlc0b0FBUAE",
+        "topic_name": "Alex Carchidi"
+      }
+    ]
+  },
+  {
     "article_id": "CBMixgJBVV95cUxQNU8xeHFQdDB6Nm5vbmlmM0cxdVM5YlBaUURGS082T1AzSkpWanFyMFhjdHVQakpJNHNmWHV0TTJ0YXl0dXdVQ0JJZXc1WkhIRkFLTGk1MUljNTUtTVdzOGNsZHhUaWg5M09Lc0RIdjBKMnIyYW1pQ0lfbVdBakJJd2lpcHgxT3F6bU1Hd0R6cmp1TXg3SGVyWnFmQ2FscnpzMEZpaHBfWTZvOG1fcklBdjZwVEpmX0xjSU4yaTdvdThxMWREeG9jXzdhdmpCTXpuYnhEV2FJYlVYVllZWmNFZVdJMy1KRzlqYmpKZ0NnQkhOQ01OOU9BYnpfQk5sMWxWWWFMdnZMYng5bm4tSndhMDF6V2FpTThrTkcySWlleGo4bWxZeGFMMjBSdDlpVjcxdUd0SElEbnJXVjBrRDdhbjg1WGtmZw",
     "title": "FLOW Cryptocurrency Investor News: If You Have Suffered",
     "link": "https://www.globenewswire.com/news-release/2026/06/20/3314957/0/en/flow-cryptocurrency-investor-news-if-you-have-suffered-losses-in-flow-cryptocurrency-you-are-encouraged-to-contact-the-rosen-law-firm-about-your-rights.html",
@@ -196,52 +235,6 @@
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2RzYjJKbGJtVjNjM2RwY21VdVkyOXRLQUFQAQ",
     "related_topics": []
-  },
-  {
-    "article_id": "CBMikAFBVV95cUxQU0JPcDR4Y3k5UW9lbGdxSFNiel9nbURoSndEazdDUjE1WXNVZFdoMkN2QndxOUszeFM3Si0xRW1xRExRZFBXbWZuYlMzYXNQMHV2VDRoSF9WZkZwYWlQTkxyWnVCcEtscFl0R3U3YjBYZ09XZEQ2QXExWXcxZno3NVFKakhhU0VHcFB0NG4xMGk",
-    "title": "This Top AI Cryptocurrency Was Up 115% in May. But Is It a Buy?",
-    "link": "https://www.fool.com/investing/2026/06/20/this-top-ai-cryptocurrency-was-up-115-in-may/",
-    "snippet": "NEAR Protocol (NEAR 0.69%) gained 115% in May 2026, making it a top performer in the cryptocurrency space. After five years of relative ...",
-    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873967%2Fholographic-growth-chart-1425941216.jpg&w=1200&op=resize",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtlSGRLZERFMU9UTjROblY1VFJERUF4aW1CU2dLTWdZRmdZN3BRUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-21T00:19:00.000Z",
-    "authors": [
-      "Anders Bylund"
-    ],
-    "source_url": "https://www.fool.com",
-    "source_name": "The Motley Fool",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTXpjNVh6STJjUklDWlc0b0FBUAE",
-        "topic_name": "Anders Bylund"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMiZ0FVX3lxTE5wMThmQmRaV3ZDOF9QQ0xHVW5TemtPdnhtMGpLNEYtS1Bvci01bS1lNk1oa2hHX29ab016Sk9oRkpsM0U3MmFsY0hQdzh4TTN3ZjRjVy1DREFoT3dTTUUzQTE2YWdHczA",
-    "title": "Current price of Bitcoin for June 22, 2026",
-    "link": "https://fortune.com/article/price-of-bitcoin-06-22-2026/",
-    "snippet": "At 9 a.m. Eastern Time today, the price of Bitcoin (1 BTC) is $65,034.16. That marks a $998.01 increase from yesterday morning—and ...",
-    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Bitcoin-June-22.jpg?format=webp&w=1440&q=100",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9WSFZHYnpGdUxXZDBaSEZ6VFJERUF4aW1CU2dLTWdhQk1ZaXd6QU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T13:20:24.000Z",
-    "authors": [
-      "Joseph Hostetler"
-    ],
-    "source_url": "https://fortune.com",
-    "source_name": "Fortune",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
-        "topic_name": "Joseph Hostetler"
-      }
-    ]
   },
   {
     "article_id": "CBMigwFBVV95cUxObTBDRVdpWHIzcF84LVNlY2h1Rm5EcGFRTUdYcXhWc2NJWExKRXhOWm5PZkMzZkczUkp5cDRVMGl1aWJIQ0N5eks0b2Rsc2JsUXd5cmNWYW52dzVCRzQ0VFI2WG05cUMydEs0aHFmQUU4c2s5TUhUalV2bnRPSGtSN2d6QdIBiAFBVV95cUxQNjFxeVBueVhic042Yldrc2RoZWRoM09ONDIybmtmSGpUbjI3WjJlZEFiS2wwTzBKUDl5eTVCbl9PV3BISFhwMnJGQUxySVBPeHNMSm50NGNoZ2UySlFZZTcxcTNfczlGVDRGTXRrQWtOeXgybHlKQW5JRDVMRGkzRENlUHAtSHpH",
@@ -272,41 +265,48 @@
     ]
   },
   {
-    "article_id": "CBMioAFBVV95cUxPZnl3cjMyTVhqZ25NOWM1NkFtSjhmTE8zd3FsNVNtWElQdUNTcXo1VC1STzFWUXpTaG5PMTVrcWZCVjNQVmpQVzZqV3JydmNrVFpWWjFGelZmWkZZMUxtVUd2a0pfYVdEMHVGNGEtUXozN1VqYnBlXzM3VDdEWDdaMWUwUVVpZ09qQ1dleThPOUVrM19iZlpuMDd5b2tMeUN1",
-    "title": "Cryptocurrency Slip Ahead of Fed Announcement -- Market Talk",
-    "link": "https://www.moomoo.com/news/post/71675501/cryptocurrency-slip-ahead-of-fed-announcement-market-talk",
-    "snippet": "1136ET - Major cryptocurrencies are pulling back from recent gains ahead of the Federal Reserve's decision and guidance on the interest rate ...",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2026-06-17T15:36:00.000Z",
-    "authors": [],
-    "source_url": "https://www.moomoo.com",
-    "source_name": "Moomoo",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.moomoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.moomoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": null,
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMi3gFBVV95cUxNaDBZaUFCeS14aUxySUl1NnVHb0V2R0RweVhmeWhYTGRzMGV5cS1USmYwQ295NlI5cnBHamdscmpGT1pFdWtjeTRKd0xaaE15QUZqcjJsdmhoaW9sTlpqRm1wby16NlpBMGRsNnZnbFNQYVkyZkYxdjRnOFJ6Tlk0c1ctaG5nZUJnVXRSQzBNeEU5SlBDOFJvSy1pYm10NkZEdkRkUFh4VGFRaVE4WVVvYUdJVkJyeHV5NkVXelZCeGpRZF85NUFGVEVPNGVoaTZrbTMzXy0zcW5MdWMwMWc",
-    "title": "Inflation run-up doesn't mean you should run toward cryptocurrency",
-    "link": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/23/bitcoin-investment-buzzes-as-an-inflation-hedge-but-is-it/90606419007/",
-    "snippet": null,
-    "photo_url": "https://www.freep.com/gcdn/authoring/authoring-images/2026/04/22/USAT/89740754007-bitcoin.JPG?width=1733&height=1156&fit=crop&format=pjpg&auto=webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1UbWhxVURReFowRTJWRUZKVFJERUF4aW1CU2dLTWdhQlpJeXVNUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-23T11:01:00.000Z",
+    "article_id": "CBMiZ0FVX3lxTE5wMThmQmRaV3ZDOF9QQ0xHVW5TemtPdnhtMGpLNEYtS1Bvci01bS1lNk1oa2hHX29ab016Sk9oRkpsM0U3MmFsY0hQdzh4TTN3ZjRjVy1DREFoT3dTTUUzQTE2YWdHczA",
+    "title": "Current price of Bitcoin for June 22, 2026",
+    "link": "https://fortune.com/article/price-of-bitcoin-06-22-2026/",
+    "snippet": "At 9 a.m. Eastern Time today, the price of Bitcoin (1 BTC) is $65,034.16. That marks a $998.01 increase from yesterday morning—and ...",
+    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Bitcoin-June-22.jpg?format=webp&w=1440&q=100",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU9WSFZHYnpGdUxXZDBaSEZ6VFJERUF4aW1CU2dLTWdhQk1ZaXd6QU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T13:00:00.000Z",
     "authors": [
-      "Susan Tompor"
+      "Joseph Hostetler"
     ],
-    "source_url": "https://www.freep.com",
-    "source_name": "Detroit Free Press",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV1p5WldWd0xtTnZiU2dBUAE",
+    "source_url": "https://fortune.com",
+    "source_name": "Fortune",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKcWMyUTVYeElDWlc0b0FBUAE",
-        "topic_name": "Susan Tompor"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
+        "topic_name": "Joseph Hostetler"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiswFBVV95cUxOUHpZTTdUVVFxMUpWaTd0VWVGSXEzdEVMTHdRNDRERC1xTVh4d2ZyMkZFTlJEX3R1MzVjSjlnUW1SNktnbm5XUk5VRHRzbGpmaklkTWxLN0JkUWZCNTl0dmtsbFFMNGNlRzRsenJQTnRRdko5NWpOdlJRdFhPcjdrUERWSVBpMldiNF9oV2ZtaUo1UlhkRDJNOENIS0NkYjViV3hlUUNPQkhPdUxsMjJJX3J4d9IB1gFBVV95cUxPcEE1NXotTHRjejhQUEU1d3lrV1N2TDZMMVVzYVl6dkstcEwxWlJUcXB4SEdkSjd6a19xLXRqVTBPTldMUVZkRkJzdldSak9DSWhNMWUxcnRVUXhveEFyZ2FEeVMxWnVCVjlUMzdRTUxpaGg3Q2t6ZnYxMGNBWXgwNzEzMk9Mc0V5eU8wa2ZENkNPejJabnNOU2xXMkhOZGEwamc3UUZ6Z2p2WjB4cmNCX1ZoekdpMVFJTWp6SGZJNmdaM0d3aWM4V3BsSWMzR2NiVFZxWjRR",
+    "title": "Texas Brothers Plead Guilty in $8 Million Cryptocurrency Kidnapping Of Minnesota Family",
+    "link": "https://patch.com/minnesota/minneapolis/texas-brothers-plead-guilty-8-million-cryptocurrency-kidnapping-minnesota",
+    "snippet": "Isiah and Raymond Garcia held a Minnesota family at gunpoint for more than 8 hours and forced them to transfer millions in digital assets.",
+    "photo_url": "https://patch.com/img/cdn20/users/22887410/20260619/082610/styles/patch_image/public/frmhandle___19082259131.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBWRFo0TXpGNU9URmFNRUYzVFJDOUF4alJCQ2dLTWdhcFpaTE5LUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-19T12:26:12.000Z",
+    "authors": [
+      "William Bornhoft"
+    ],
+    "source_url": "https://patch.com",
+    "source_name": "Patch",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWEJoZEdOb0xtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsNWJUZDNOUklDWlc0b0FBUAE",
+        "topic_name": "William Bornhoft"
       }
     ]
   },
@@ -357,15 +357,15 @@
     ]
   },
   {
-    "article_id": "CBMimAFBVV95cUxPYWZnVDhDbUQ2YlV4WWd3U1pqa0FETGhKSm5ESFd4UnowcHNScFNBVlVzaU1DcGM1ekZoTWZyTHFEVlhtTGFydS1XdFAtbDR6UHNLdEFYSWd2aU1Xek1JUlFBam5vNFNDQjB2M3VrNFdqUkF2X3ZEbU4yNUxwNXlWaEN1NFdWOEx6YzV3VEhGeENGRFNsQTZpSw",
-    "title": "Institutional Investors Are Buying This Top Cryptocurrency Hand-Over-Fist, According to Coinbase",
-    "link": "https://www.fool.com/investing/2026/06/18/institutional-investors-are-buying-this-top-crypto/",
-    "snippet": "Bitcoin (BTC +1.00%) is in a bear market now on paper; it's still 47% down from its all-time high near $126,000 set in October 2025.",
-    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873965%2Fbitcoin-as-bars-of-gold.jpg&w=1200&op=resize",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXJSa2xOVkdVME1uaFBZVE42VFJERUF4aW5CU2dLTWdzQlFJeXRzYVlXcUFvNFRR=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T13:08:00.000Z",
+    "article_id": "CBMikAFBVV95cUxQU0JPcDR4Y3k5UW9lbGdxSFNiel9nbURoSndEazdDUjE1WXNVZFdoMkN2QndxOUszeFM3Si0xRW1xRExRZFBXbWZuYlMzYXNQMHV2VDRoSF9WZkZwYWlQTkxyWnVCcEtscFl0R3U3YjBYZ09XZEQ2QXExWXcxZno3NVFKakhhU0VHcFB0NG4xMGk",
+    "title": "This Top AI Cryptocurrency Was Up 115% in May. But Is It a Buy?",
+    "link": "https://www.fool.com/investing/2026/06/20/this-top-ai-cryptocurrency-was-up-115-in-may/",
+    "snippet": "NEAR Protocol (NEAR 8.67%) gained 115% in May 2026, making it a top performer in the cryptocurrency space. After five years of relative ...",
+    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873967%2Fholographic-growth-chart-1425941216.jpg&w=1200&op=resize",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtlSGRLZERFMU9UTjROblY1VFJERUF4aW1CU2dLTWdZRmdZN3BRUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-21T00:19:00.000Z",
     "authors": [
-      "Alex Carchidi"
+      "Anders Bylund"
     ],
     "source_url": "https://www.fool.com",
     "source_name": "The Motley Fool",
@@ -374,8 +374,8 @@
     "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RSNmJUUnRZeElDWlc0b0FBUAE",
-        "topic_name": "Alex Carchidi"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTXpjNVh6STJjUklDWlc0b0FBUAE",
+        "topic_name": "Anders Bylund"
       }
     ]
   },
@@ -384,8 +384,8 @@
     "title": "1 Top Cryptocurrency to Buy Before It Soars 123%, According to Analysts",
     "link": "https://www.fool.com/investing/2026/06/18/1-top-cryptocurrency-to-buy-before-it-soars-123-ac/",
     "snippet": "Hyperliquid runs a decentralized exchange (DEX) for perpetual futures contracts, a type of financial derivative that tracks the price of an ...",
-    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874023%2Finvestor-looks-at-phone-in-cafe-while-drinking-espresso.jpg&w=1200&op=resize",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFTV0pUYm5WMFZuRndTREl6VFJERUF4aW1CU2dLTWdhcGRJYXZxUWM=-w200-h200-p-df-rw",
+    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874023%2Finvestor-looks-at-phone-in-cafe-while-drinking-espresso.jpg&w=3840&op=resize",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBVa0kwYmxKbU5tbGhXVWN3VFJERUF4aW1CU2dLTWdhcGRJYXZxUWM=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-06-18T10:00:00.000Z",
     "authors": [
       "Alex Carchidi"
@@ -442,22 +442,6 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMiqAFBVV95cUxNb1JBejhXSFBTYk5EZUVwbl9EdlQ0dUc4VXZ1eEYwTm5kQ2RqT0RPM1ZicnMtTy1tdnJXbjBPUnFrZ1djWjNQWTFzN1dlSjdZZUtIS3E4eE8xU2JwRFJhUFd0T01EeXpmYVJoT1ZqYzNSSlFTbHhZRHpoc2tXcDgtT2VjRW9QemRxb2ZSeGNoTEhDZnFhOE1nLXBRc1NKTU05WGx5QjBHaHc",
-    "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
-    "link": "https://www.pymnts.com/cryptocurrency/2026/cryptos-future-may-depend-on-lawyers-who-think-like-operators/",
-    "snippet": "The crypto industry is shifting from regulatory avoidance to responsible building. Most serious companies today want to innovate within emerging ...",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png?w=1000&h=600&crop=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5XVGwwUkdRek1HSkVVSE5TVFJDdEF4akxCU2dLTWdZQk1KekduUW8=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T08:04:23.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
-    "related_topics": []
-  },
-  {
     "article_id": "CBMihgJBVV95cUxOTkJmWFpfejNqdkg5YmlQc1JOQXlWVVpEb2QyaVg5UXNsRWxnbW0yMUNaM05Ub0U4TUtuRzUtb1pOWmpIQ1pudFpRbWJFZFNSNEFyWDNuZ3JDN1RPaXF3aTBxMDIwSk9JcXp3aXhJeXZfQnBOYVJtcmNwamItSC1MSGxkTXNJMUFMMXZCMVI1czBVVmNBLWNQWXFLNEE1M2dwdlliNENNVW8tNWpoMW05M3dpd05wb1hmOFdKLTI2T2FwZ0RUcFdkNkhhV1U4VnBOWlJBWnNiejQ1OGNKOVk0S05ud2tQbkpfTy1jSzdYSDNLblRwZWdpenVpem1rd1AxQzVlaW5n",
     "title": "FLOW Cryptocurrency Investor News: If You Have Suffered Losses in FLOW Cryptocurrency, You Are ...",
     "link": "https://www.caledonianrecord.com/flow-cryptocurrency-investor-news-if-you-have-suffered-losses-in-flow-cryptocurrency-you-are/article_64611b5b-8230-5741-af07-26c7e7fdf6f2.html",
@@ -472,52 +456,6 @@
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.caledonianrecord.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqMQgKIitDQklTR2dnTWFoWUtGR05oYkdWa2IyNXBZVzV5WldOdmNtUXVZMjl0S0FBUAE",
     "related_topics": []
-  },
-  {
-    "article_id": "CBMiZ0FVX3lxTE9ESHl4YnhLaFJZN0IyTFNMNndFbXhGeUJ4VEcxRWRqQ1d6OHg3a3hkX2IwaWNBUWpMdmZLeExBdFFyblBUbFFvWmFxNFRlcjRzS3RTNFEwNHc3dlNmYzQ1dmRIbGlWaGM",
-    "title": "Current price of Bitcoin for June 18, 2026",
-    "link": "https://fortune.com/article/price-of-bitcoin-06-18-2026/",
-    "snippet": "At 8:45 a.m. Eastern Time on June 18, 2026, the going rate for one Bitcoin (BTC) is $64,198.39. That's $741.60 lower than yesterday ...",
-    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Bitcoin-June-18.jpg?format=webp&w=1440&q=100",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZORmxNVGtsQ2NIVnZTbXBYVFJERUF4aW1CU2dLTWdZeEFJZXd6QU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T12:49:00.000Z",
-    "authors": [
-      "Joseph Hostetler"
-    ],
-    "source_url": "https://fortune.com",
-    "source_name": "Fortune",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
-        "topic_name": "Joseph Hostetler"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMimwFBVV95cUxPb1VKSEhKVFVhWGt0TEplVjREaHJpTDJaYjEwUEZXbzYzeDdRbDBuRlZWOUVZOHJnYXdDRmZPbFdiX0VHUzl5VjJvZURROG5sNGJ3OWFXZV9RMkVPclpQcUN4R0szekNmU0dXSzNQNTZNZTM3VG42SF9QMDk0bDNaaEZhM0hzbjFXUTA4X1FMX3k1X3B3SEpqQTIzTQ",
-    "title": "The Crypto Industry Makes Its Biggest Midterm Bet Yet",
-    "link": "https://www.nytimes.com/2026/06/16/us/politics/crypto-barry-moore-fairshake-alabama-senate.html",
-    "snippet": "The cryptocurrency industry's biggest bet of the midterm election cycle so far has flown mostly under the radar.",
-    "photo_url": "https://static01.nyt.com/images/2026/06/16/multimedia/16pol-ala-crypto-spending-tzfb/16pol-ala-crypto-spending-tzfb-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU5lSGxVWVVWNFVtTlNWMk5OVFJDUUF4allCQ2dLTWdtQmxJeXVNYWZJY0FF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-16T23:23:26.000Z",
-    "authors": [
-      "Theodore Schleifer"
-    ],
-    "source_url": "https://www.nytimes.com",
-    "source_name": "The New York Times",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhZMFh6SXlheElDWlc0b0FBUAE",
-        "topic_name": "Theodore Schleifer"
-      }
-    ]
   },
   {
     "article_id": "CBMikwFBVV95cUxORFlBWWNhZmVrTVVGZnUxWjVYdmRRaTFxQy1yQklhbWM5OGJPQzlhT2VscmhrSWxPOC1mS1ZvcnpCajBmWnhxc0g3ZGZfS05kOENhQzVNci1HMUVrdGVDNHRDemkwbS1LbWd4enYtT1FnaGE3UW5jR1lZWF9hdWQxV3ZGWFRLZXRHZElVX2lpLVdGa0k",
@@ -555,29 +493,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKa2JIbDZjeElDWlc0b0FBUAE",
         "topic_name": "Cedric Rouquette"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMiswFBVV95cUxOUHpZTTdUVVFxMUpWaTd0VWVGSXEzdEVMTHdRNDRERC1xTVh4d2ZyMkZFTlJEX3R1MzVjSjlnUW1SNktnbm5XUk5VRHRzbGpmaklkTWxLN0JkUWZCNTl0dmtsbFFMNGNlRzRsenJQTnRRdko5NWpOdlJRdFhPcjdrUERWSVBpMldiNF9oV2ZtaUo1UlhkRDJNOENIS0NkYjViV3hlUUNPQkhPdUxsMjJJX3J4d9IB1gFBVV95cUxPcEE1NXotTHRjejhQUEU1d3lrV1N2TDZMMVVzYVl6dkstcEwxWlJUcXB4SEdkSjd6a19xLXRqVTBPTldMUVZkRkJzdldSak9DSWhNMWUxcnRVUXhveEFyZ2FEeVMxWnVCVjlUMzdRTUxpaGg3Q2t6ZnYxMGNBWXgwNzEzMk9Mc0V5eU8wa2ZENkNPejJabnNOU2xXMkhOZGEwamc3UUZ6Z2p2WjB4cmNCX1ZoekdpMVFJTWp6SGZJNmdaM0d3aWM4V3BsSWMzR2NiVFZxWjRR",
-    "title": "Texas Brothers Plead Guilty in $8 Million Cryptocurrency Kidnapping Of Minnesota Family",
-    "link": "https://patch.com/minnesota/minneapolis/texas-brothers-plead-guilty-8-million-cryptocurrency-kidnapping-minnesota",
-    "snippet": "Isiah and Raymond Garcia held a Minnesota family at gunpoint for more than 8 hours and forced them to transfer millions in digital assets.",
-    "photo_url": "https://patch.com/img/cdn20/users/22887410/20260619/082610/styles/patch_image/public/frmhandle___19082259131.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBWRFo0TXpGNU9URmFNRUYzVFJDOUF4alJCQ2dLTWdhcFpaTE5LUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-19T12:26:12.000Z",
-    "authors": [
-      "William Bornhoft"
-    ],
-    "source_url": "https://patch.com",
-    "source_name": "Patch",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDWEJoZEdOb0xtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhsNWJUZDNOUklDWlc0b0FBUAE",
-        "topic_name": "William Bornhoft"
       }
     ]
   },
@@ -690,6 +605,29 @@
     ]
   },
   {
+    "article_id": "CBMiZ0FVX3lxTFA1M2JxRTNUZHVEMFJlM0tSeG1wc3BsOFg3a29LbmI2dzFUN3BTX1hmcDU2ajNHcEU3THRkbHZ3aG5nYS1sODhVRHEzeVBYb0c5eTA2VFQydEVja3FTSTh2aFdFZDljOW8",
+    "title": "Current price of Bitcoin for June 23, 2026",
+    "link": "https://fortune.com/article/price-of-bitcoin-06-23-2026/",
+    "snippet": "At 9 a.m. Eastern Time today, the price of Bitcoin (1 BTC) is $62,249.65. That represents a $2,784.51 decrease from yesterday morning and ...",
+    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Bitcoin-June-23.jpg?format=webp&w=1440&q=100",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZOekEzY0Zaa1ZXaEplalozVFJERUF4aW1CU2dLTWdheDRJaXd6QU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T13:02:00.000Z",
+    "authors": [
+      "Joseph Hostetler"
+    ],
+    "source_url": "https://fortune.com",
+    "source_name": "Fortune",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
+        "topic_name": "Joseph Hostetler"
+      }
+    ]
+  },
+  {
     "article_id": "CBMihwFBVV95cUxQSjZzc2NCck9ydlRrWmlvOFNqVEhaUmVzY2toZGN0ckdNZ0RuMHZ5V0dVdDdXRnJCeHF5X2pSUEt3bmJDTlotdDJKWXFzWG9PQl8za2xjTmc0aUJPM0h5ZXBVcG91d25sQXMtUFppcklWNzlpYVdxeVU3RV8zQnhCT1EwRTYxNFk",
     "title": "2 plead guilty after stealing $8M in cryptocurrency from family",
     "link": "https://www.yahoo.com/news/us/articles/2-plead-guilty-stealing-8m-220316274.html",
@@ -713,6 +651,22 @@
     ]
   },
   {
+    "article_id": "CBMigwFBVV95cUxPcWxpT0s3WDBkZnRWVXpWZUZCbzlLNU9zTjlUaVN4QUVCZ3ZvYkZMQ3k1aDlUYV9mNnFrelNtTmQ4QjFObjZLUXBkNGdmM1I3SWdmN0NIS21GTm1zaE5OSjh0eXdfZm1JU2xZRTBNWjdRc1ZWa1ZGcEttbVIwdWg1ZVpUaw",
+    "title": "Bitcoin slides below $62,000 and Ethereum plunges 6% as crypto markets face $700M in liquidations today",
+    "link": "https://eciks.org/10415-59494-cryptocurrency-trading-bitcoin-ethereum-decline",
+    "snippet": "Cryptocurrency trading markets tumbled on June 23, 2026, with Bitcoin dipping below $62,000 and Ethereum falling 6%, as persistent outflows ...",
+    "photo_url": "https://eciks.org/wp-content/uploads/2026/06/78624-cryptocurrency-trading-markets-tumble-as-bitcoin-dips-below-62k-ethereum-falls-6.jpg-scaled.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNVhORXB3VFV0S1NubHpVbUpRVFJERUF4aW1CU2dLTWdNRkV3NA=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T11:34:00.000Z",
+    "authors": [],
+    "source_url": "https://eciks.org",
+    "source_name": "eciks.org",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eciks.org&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eciks.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV1ZqYVd0ekxtOXlaeWdBUAE",
+    "related_topics": []
+  },
+  {
     "article_id": "CBMi1gFBVV95cUxQWE53a2FTcFJOb2hGWWFtcUhFZW9ub3plVXJVaFdLWS15aDMtT2VET2FoZk9WV1c4bE9sMHE4M2pZU0hYTzZ4aFhPaDBDUTRNbFVWa2xvT1lJUjBQdExfcmduMlM2M21BM3ZCcFJlcURLX0w3elU1LVNpS2I1SHRnclpyeGtQZ1N4RFJYY3I2akRtREFrZmpTVUNWYzVIbnpjcTFvQU1yYUhRQXgzdl8yZEREcEV0YjhKdlN4T2tCT25sMFZrakpDUnladGNDcjZGQ2VwUkJn",
     "title": "Brothers Plead Guilty in $8 Million Armed Cryptocurrency Kidnapping Case",
     "link": "https://www.redlakenationnews.com/story/2026/06/22/news/brothers-plead-guilty-in-8-million-armed-cryptocurrency-kidnapping-case/141045.html",
@@ -727,39 +681,6 @@
     "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.redlakenationnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqMggKIixDQklTR3dnTWFoY0tGWEpsWkd4aGEyVnVZWFJwYjI1dVpYZHpMbU52YlNnQVAB",
     "related_topics": []
-  },
-  {
-    "article_id": "CBMixgFBVV95cUxQdGE2UlVKWF90dTFvY0w1eDFlTEJMVFBYRnBULXB2d0NfajdKVllRS2dOLURKTVQ4M0RTOUFXTVFtaXU3R3ZXX2tMMXJLa0p1MlpQWVoybHY2VkVfZkItVHVIZnRzajF1N3lUVE83MWdwMFRGbWt4SGlzWXFibmZ0ZmQwWFRyYkEyRF9Kem5MZE85WXVvQ2VJbHotRy1BanZ4amFSdUE4ZnZzRHZsODJxT0JjaGRvQ0VJTnhQQTN0OTlsT0Q3SFE",
-    "title": "Binance set to lose permission to operate in EU, sources say",
-    "link": "https://www.reuters.com/business/finance/binance-set-lose-eu-licence-bid-permission-offer-services-bloc-sources-say-2026-06-16/",
-    "snippet": "Binance, the world's largest crypto exchange, is set to ‌lose permission to serve European Union clients from next month because its licence ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/SD3BIUQNDZOULGADNZAPJJWKV4.jpg?auth=3483fe4aca5d7bb03f13f7e220c73cb602b7dcc21f1afa30d0da8bd8022280d8&width=1200&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNHhZbFJuYzBkME9YRnhNekV4VFJDN0FSaU9BaWdCTWdrRmNJb0xKaWRrY1FF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-16T13:30:00.000Z",
-    "authors": [
-      "lefteris Papadimas",
-      "John O'Donnell",
-      "Elizabeth Howcroft"
-    ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZWpOc1l6WXplQklDWlc0b0FBUAE",
-        "topic_name": "lefteris Papadimas"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sd1pHMW9keElDWlc0b0FBUAE",
-        "topic_name": "John O'Donnell"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhoa00zQnNlQklDWlc0b0FBUAE",
-        "topic_name": "Elizabeth Howcroft"
-      }
-    ]
   },
   {
     "article_id": "CBMipAFBVV95cUxPSWNLbkdEQi03cFJXQ19MTTVNd0NldG9qemFnM2o5eVV0WU5ZcnJDNmlQdTBlcTF0NDhEdDZZTXE2WFIxOENSOHpQZUV6M3hzUWtNbElrckhEWVoxWWVwbjJjODRScENLVFNWbkRid3dYbnY4N3A4c0NsLTZhZlpVY1g1cEJyMFU4bTVrSmdVYVdDcGdMbFpTNWtVRm1fTlRhUmNBRg",
@@ -801,20 +722,66 @@
     ]
   },
   {
-    "article_id": "CBMiqwFBVV95cUxQcVNpMDNCdGxsdnlFNUlOMTFaRWNybTlKY3l0aHROS2UwT3A0S3c1OHVObUQ4Nkc3RDNfcXJWbzlVNGQ5eXlTSWFHN2x3M0FXS190cU9hWkhuLUxQbDhYbFRHQ0dEalR6UmxJakpFdXNqTDNvVjdtTmZNNHNMOEFkOUU2QUw0cC1iTkF0RGZITE1jSnV6RkZMRnU1bTBnVGs3X3ptZHdkNmVzY1k",
-    "title": "OFAC Targets ISIS Crypto Financing Network, Including Bitcoin Xchange",
-    "link": "https://www.trmlabs.com/resources/blog/ofac-targets-isis-crypto-financing-network-including-bitcoin-xchange",
-    "snippet": "OFAC designated three individuals and six entities today for facilitating ISIS financial flows, including Bitcoin Xchange — a Syria-based money ...",
-    "photo_url": "https://cdn.prod.website-files.com/6082dc5b670562507b3587b4/6a39877fe9c837d54ecc5fa2_7e5ecc66.jpeg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdTRWwyUVdFMGJrWjBVWGxuVFJDaUFSaTJBaWdCTWdZaFE0eHVwUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T19:30:47.000Z",
+    "article_id": "CBMinwFBVV95cUxQdHFLUjRyTGxEalozMFlPU0tGbFpnZnA1enRQZlpMeWNpOXhqZTBPVHNKNkxzOWE1SlFXdlFKOHZWNFJ0UjZ6bFk1dGFmNHdCNGNpSV9YOEZ1QlFVY0xVYURHbWJMbUJaM0s3UzJHa3c3S2syMTRCWlZRdTdGZjAwX25ISlFqZTB1NzdKdVVpRDRzVndyRS1mVDFTNE8zMjg",
+    "title": "Fomo Raises $75 Million for Consumer Crypto Trading App",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/fomo-raises-75-million-for-consumer-crypto-trading-app/",
+    "snippet": "The year-old consumer-focused cryptocurrency trading app fomo has raised $75 million after marking more than $4 billion in trading volume.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/06/Fomo-cryptocurrency-1.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU5iMkZJTjFSR1FYSnhXWEpxVFJDU0FoakpBeWdLTWdzQkFJYUhOS1FzWmlyeXdB=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T20:29:28.000Z",
     "authors": [],
-    "source_url": "https://www.trmlabs.com",
-    "source_name": "TRM Labs",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.trmlabs.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.trmlabs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1J5Yld4aFluTXVZMjl0S0FBUAE",
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
     "related_topics": []
+  },
+  {
+    "article_id": "CBMilgFBVV95cUxOeHYybEVJNmJRaDh2Rl9IYWNEYkRKc2xvaFBHWnhtN2Y1S2d0Y0tiUFE3NWVSSmZEYkZJYmFxd0pCNWNHMWl4cHhNUUFLT3pHd0tmRmVpeUc2cHFvb0ppSUxVeXFKSkpORTRZSmx6QWc0eEluUUtvNThxcUk5TGluaWlqV0daLUo1b01aTldfLVRLU0lEYVE",
+    "title": "Congress Set to Ban Digital Dollar. What It Means for Crypto Stocks.",
+    "link": "https://www.barrons.com/articles/cryptocurrency-digital-dollar-stablecoin-congress-46c113c0",
+    "snippet": "Congress is poised to pass a bill banning the Federal Reserve from issuing a digital dollar until 2031. New Fed Chairman Kevin Warsh has said ...",
+    "photo_url": "https://images.barrons.com/im-37334226?width=700&height=466",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhTMHRtYkRBd2IwTm5lSGhGVFJERUF4aW5CU2dLTWdhTk5KS3RzUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T16:37:00.000Z",
+    "authors": [
+      "Joe Light"
+    ],
+    "source_url": "https://www.barrons.com",
+    "source_name": "Barron's",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMkpoY25KdmJuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YXpreGQySnVlUklDWlc0b0FBUAE",
+        "topic_name": "Joe Light"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiaEFVX3lxTE1xYUtIbWxaSDktME5wUHpWOEViVkVINWkwc2tCZklUUDBxeVltVHM0M0o5alpscnpFMW1BRnhnRGsyOHpQa3V2MlI3RjRDV21BS2RIWWhETlQtTHRwc0c3YURQZXAtTy16",
+    "title": "Current price of Ethereum for June 23, 2026",
+    "link": "https://fortune.com/article/price-of-ethereum-06-23-2026/",
+    "snippet": "At 9 a.m. Eastern Time today, one Ethereum (ETH) is priced at $1,653.96. That marks a $106.30 drop from yesterday morning and approximately ...",
+    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Ethereum-June-23.jpg?format=webp&w=1440&q=100",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRkVWxtWkhGWk1YUmtha3hsVFJERUF4aW1CU2dLTWdZWjRZancwQU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T13:02:00.000Z",
+    "authors": [
+      "Joseph Hostetler"
+    ],
+    "source_url": "https://fortune.com",
+    "source_name": "Fortune",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
+        "topic_name": "Joseph Hostetler"
+      }
+    ]
   },
   {
     "article_id": "CBMipgFBVV95cUxPanhDcjVXMXViQjRQMG5pbVVLVzhXT3JnSnRRT0RDNVlPNDJLUkdscGJCbXNUM1JBcnphTUU3bnNDR3dYN0RuNm93WlZYX1k5ZDBDT2Z1MFlDUS1RUDZtRG51b05ZRERPOGhtTWpOT19DRHp2MVdEajNIR2dLaE0xRDNDSWh4cU1XcVplV25KckxpMkE1aHg0eWRsaGxMYldXUVgtX0NB",
@@ -853,6 +820,45 @@
     "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theglobeandmail.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theglobeandmail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWldkc2IySmxZVzVrYldGcGJDNWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMingFBVV95cUxNV3FsaGNZazQzaVRFWTJsYVdtRVM4aHhGaW1nVFo5WkIyMnR3NjFTdkNsY0drRnZIdGdWNHdNRkdsMFRBZzdMN0Jjc25nRC1tYjB0NXMtNlZ2UGI5N3pUaGhuVkhPQTIyRGp2aDdyaGI1Qk5ZUnB6a1pET0hHY1F6WUNuTmRXMFBTWGxGS29MRzczRzEzUXNHY28yMkxWZw",
+    "title": "This Cryptocurrency Bounty Game Is a Little Too 'Black Mirror'",
+    "link": "https://www.extremetech.com/internet/this-cryptocurrency-bounty-game-is-a-little-too-black-mirror",
+    "snippet": "Pump.fun, a memecoin launchpad on Solana, has a new marketplace called GO where users can pay others in crypto for various tasks; ...",
+    "photo_url": "https://i.extremetech.com/imagery/content-types/01YgyWs1ei7C3oGKWlZg9oQ/hero-image.fit_lim.v1782173895.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVVWE5MYldGeVFVTjRRbXBSVFJDZkF4ampCU2dLTWdhWkJZak51UVE=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T12:00:00.000Z",
+    "authors": [
+      "Devesh Beri"
+    ],
+    "source_url": "https://www.extremetech.com",
+    "source_name": "extremetech.com",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.extremetech.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.extremetech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMlY0ZEhKbGJXVjBaV05vTG1OdmJTZ0FQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TjNoNU5IWnFhQklDWlc0b0FBUAE",
+        "topic_name": "Devesh Beri"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMihAFBVV95cUxQTFBNd0VCLUFkVXV6bzZ1X1o4alF1a3hCOUdpc3c5cDQtV3NsUmV0VTVlT0xQcVhfNE51YzdKekR2MEFJRW96X1hiNXpBRTZzaGZfLWZ6TkdaTjVQMkxtSHJBVkdTX1c1elFMc1ppeGJOdGMySTJmd0JWZ0I0bHpMWmZRQjU",
+    "title": "Leading AI cryptocurrency quant trading platforms in 2026",
+    "link": "https://crypto.news/leading-ai-cryptocurrency-quant-trading-platforms-in-2026/",
+    "snippet": "AI-powered crypto trading platforms are gaining traction in 2026 as investors seek automated strategies, risk controls, and data-driven ...",
+    "photo_url": "https://media.crypto.news/2025/09/crypto-news-The-silent-quantum-crisis-option01-1380x820.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRPRGhhWkZjNFkwRk1aVTFGVFJDckF4alBCU2dLTWdZTllJUXBwZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T14:54:30.000Z",
+    "authors": [],
+    "source_url": "https://crypto.news",
+    "source_name": "crypto.news",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://crypto.news&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://crypto.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk55ZVhCMGJ5NXVaWGR6S0FBUAE",
     "related_topics": []
   },
   {
@@ -895,6 +901,39 @@
     "related_topics": []
   },
   {
+    "article_id": "CBMizgFBVV95cUxQbURiM0IzVUJ6NFVESHlIdy05Ynp0ejRTa3EyMGZYZDNVcnlNd3YyUXppQk94RlpucTlFaG56VnBhbklSUHlkTFF3azY2c0hqc2xmdUZsV0hzMHEtT0JGYXZTenp5aG1CT0hsVkFrQzdfenNrUVBKeGNkdndvcFJwZTN5MW5CeFJ2N1NRX0hCbEpMR2xoZlN6a25wNW1sT1BTajhKczJZUGpYS2dEOVkxdzBtMkQ0NFpGLWxOLXlpbkt5RnZHaXhhNGJHbEp5UQ",
+    "title": "Farage trying to block ‘Britcoin’ plans that could be costly for billionaire donor | Nigel Farage",
+    "link": "https://www.theguardian.com/politics/2026/jun/18/nigel-farage-trying-block-britcoin-crypto-plans-bank-of-england-christopher-harborne",
+    "snippet": "Reform UK leader used private meeting at Bank of England to urge governor to drop plans for state-run cryptocurrency.",
+    "photo_url": "https://i.guim.co.uk/img/media/10683ae9e076e0011b37fd054df61e49e173f63b/0_0_6121_4899/master/6121.jpg?width=465&dpr=1&s=none&crop=none",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZaemRaUkdNek5tNVRYMkl4VFJEMEFoalJBeWdLTWdZdFVvaE9yUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-18T20:00:00.000Z",
+    "authors": [
+      "Rowena Mason",
+      "Tom Burgis",
+      "Henry Dyer"
+    ],
+    "source_url": "https://www.theguardian.com",
+    "source_name": "The Guardian",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpRemNXaGpkQklDWlc0b0FBUAE",
+        "topic_name": "Rowena Mason"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpTmpCa1lqaDVkQklDWlc0b0FBUAE",
+        "topic_name": "Tom Burgis"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSeU4yaDJaQklDWlc0b0FBUAE",
+        "topic_name": "Henry Dyer"
+      }
+    ]
+  },
+  {
     "article_id": "CBMiggFBVV95cUxQNXdNT2R5WE5FYlFaREpzYnQ5WjRGcDNDTlpOUERtUFlPdUVMSXluRGs3ZDVBTG5xdUtKSmVuWC1GTXM4dzk4aS1TZkdnY0V4Y0pUaTJGYlBqLTIwS2VIeV9LaHFQZ3lBd2VvSFo0NC1xV2hxX3JpdTR4eUVqbTJVV2RB",
     "title": "Crypto trading rebounds as search interest surges despite June market correction",
     "link": "https://eciks.org/10183-86436-crypto-trading-search-volume-rebound-june-2026",
@@ -916,22 +955,6 @@
         "topic_name": "Chris Martin"
       }
     ]
-  },
-  {
-    "article_id": "CBMiowFBVV95cUxOeUxaMm1adDYycTA4Zk9aYmdxcGJoNVZiajdxTlR0dDZMYl9BRmhLclpHbDFPRVRwbnBBLTRQYWphSGtjU0tCd0ZmNzVsTFVDbE14c0xBR1FYUFNMQzVZRV9QVE4yWmpqdXhYY0Z3RllILWZkZURrQk82WHVtcGV6R3VtNk9IeWw0ZDlwZHJ0N0FteHZlU0ZZUXYtRGpBRV92bWlF0gGjAUFVX3lxTE55TFoybVp0NjJxMDhmT1piZ3FwYmg1VmJqN3FOVHR0NkxiX0FGaEtyWkdsMU9FVHBucEEtNFBhamFIa2NTS0J3RmY3NWxMVUNsTXhzTEFHUVhQU0xDNVlFX1BUTjJaamp1eFhjRndGWUgtZmRlRGtCTzZYdW1wZXpHdW02T0h5bDRkOXBkcnQ3QW14dmVTRllRdi1EakFFX3ZtaUU",
-    "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
-    "link": "https://www.cnbc.com/amp/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
-    "snippet": "CoinDesk's president of indices and data has a message for investors: Don't count out bitcoin.",
-    "photo_url": "https://image.cnbcfm.com/api/v1/image/108322199-2ED3-ETF-SEG-1-061526.jpg?v=1781556949?&w=720&h=405",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXlRamxVWmkwNVVXaHlWMWhvVFJDVkF4alFCU2dLTWdhWlZJRE9vUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-20T15:00:01.000Z",
-    "authors": [],
-    "source_url": "https://www.cnbc.com",
-    "source_name": "CNBC",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
-    "related_topics": []
   },
   {
     "article_id": "CBMitAFBVV95cUxNZnVqRlJnUGVCTDdXM2RLNzVQcDgyUVM3emlFWnV6b3htZU9QMFRoZlI1MDh0ektDSzdKZzktVGllYllDX3hQT2dWWko4VmFnVlJzaTgtekZJUmJHR3VxLVdEajBEaHd4a0ZiNVFlQTJ3MXA2dklodnU5VlNWbXA5S0hvY2l0bE1wLWRWWmt0cUxub0wtZEdJczg2Xy1yRUZXYmJnRjhuanpqUHExQXY5MmJHeTg",
@@ -973,52 +996,6 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMisAFBVV95cUxQQ0szYktMdTd5MkVLeXoyM2RSWENSN1BLUDNYalhtMkVoVzlhbmlubWdnREhtRmxwUF9DZ0FLRFdRdnEtYnZocHdzZTFqWlZUSHJsN2QtV0E2NFphOWNlbXUwbDl4T0xFZHdCaHRuZ25lMnVhS2JxLWhsZ1NiVTF4WnRwMEFCYXZzMWNYak9xVUROY2V3UU9UN0xvbEJLcDFMaC10UkY3aVIwYWZtQ1dRY9IBtgFBVV95cUxOQ29PQUpsS254ZEY1TzhxVUFzSjhZSFFEWkZpSmo3Z19acGxuVVdGNUlXR2xqUXJ1YmtaYzNEVVc1MVhUaDR2S29zNi1HMnprb0tOdy1lQ1Zzc3Nidy0wVVFoZ082blRGUEZIcFo0TFhQVXluTGRLX2lIbUxNeENKRWxmMG9jMTdDMU9reXhqU21Vc0t5a0dqNWVVQnBxT3ZIcXV2c0hPSDJVUnc2S3VHVzhXajNSZw",
-    "title": "Milei’s Cabinet chief claims to be the crypto investor nobody knew",
-    "link": "https://www.batimes.com.ar/news/economy/mileis-cabinet-chief-claims-to-be-the-crypto-investor-nobody-knew.phtml",
-    "snippet": "Argentina's well-established crypto community is struggling to buy Manuel Adorni's explanation to rebut allegations of illicit enrichment.",
-    "photo_url": "https://fotos.perfil.com/2026/06/17/cropped/696/696/center/bitcoin-signage-outside-a-cryptocurrency-exchange-house-in-buenos-aires-2262999.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDBPRXRQY1dkbFRqQmFjVFptVFJDcUJCaXFCQ2dLTWdrdEFJb1FGS3RiOGdB=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-17T17:30:08.000Z",
-    "authors": [
-      "Ignacio Olivera"
-    ],
-    "source_url": "https://www.batimes.com.ar",
-    "source_name": "Buenos Aires Times",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.batimes.com.ar&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.batimes.com.ar&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUpoZEdsdFpYTXVZMjl0TG1GeUtBQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkhoZmJYZHRaeElDWlc0b0FBUAE",
-        "topic_name": "Ignacio Olivera"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMiakFVX3lxTE1ZTElCSXRiZlBRTGxJUVlDbzNId3JyRnhrZWhVYU5wcDFnaUcyNWo1M0dEcWZ6Z2hLQzJJcV9nZ0o1SmxVSzJKSkpVcW5fQ0NUeEdIMHB6Z2dyUkpiUHpkckRZeFZHQUZqTUE",
-    "title": "Crypto Bill Offers Potentially Huge Tax Benefits To Trump Family",
-    "link": "https://therevolvingdoorproject.org/trump-sons-crypto-tax/",
-    "snippet": "A bill stands to offer Donald Trump's sons huge tax breaks on their cryptocurrency mining enterprise. Recipients of crypto cash will decide.",
-    "photo_url": "https://therevolvingdoorproject.org/wp-content/uploads/2024/07/Untitled-design-18-1024x1024.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXhlVjgyYldaWU4zcG9SbkpZVFJDcUJCaXFCQ2dLTWdtUndJeTJST1dwY0FF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T14:19:51.000Z",
-    "authors": [
-      "Henry Burke"
-    ],
-    "source_url": "https://therevolvingdoorproject.org",
-    "source_name": "Revolving Door Project",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://therevolvingdoorproject.org&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://therevolvingdoorproject.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqOggKIjRDQklTSVFnTWFoMEtHM1JvWlhKbGRtOXNkbWx1WjJSdmIzSndjbTlxWldOMExtOXlaeWdBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZUhkM2VuUXhlaElDWlc0b0FBUAE",
-        "topic_name": "Henry Burke"
-      }
-    ]
-  },
-  {
     "article_id": "CBMipAFBVV95cUxPNzNWZnZOaGpQOHMyaUJDVHhEZFFRa0lVZkxvZWpsaWdPdllrMTQzUWtSN2tnRmVGQnkzVWlHV3ByRkV0ZG12V0tvdnNPX05LN3UwREsxLUh6bUNmX3FYZlA2NnR4djhVUVlZazRsd3FSYUFrcVFKZlQzWjhGcmFfUW1TWHpUenctR05UejVlaHJxR1NtZkN3SDZiN2p4XzI3b3NnRg",
     "title": "a16z crypto: The cryptocurrency industry has entered an era of 'seeing is believing.'",
     "link": "https://news.futunn.com/en/post/74753623/a16z-crypto-the-cryptocurrency-industry-has-entered-an-era-of",
@@ -1040,22 +1017,6 @@
         "topic_name": "Paul Cafiero"
       }
     ]
-  },
-  {
-    "article_id": "CBMirAFBVV95cUxNLVI5bWFVSnUtWFZNMTBYQ0p5ekpBWmRHdXdfT09IS1RWMFNCeWpzel9GdDk0QmdfY1o4Z0xZSXMwUUkxXzlWQTNLOEl0V3ZMRkpmNWtMNElZWWR1WWgxZzF5SlJxX3M4OE52cHJrYUFRTUtpTFdTMTJUTGhjak56d1NON2pQakJwUFM5Z005Zk5mWjdtdldnWlJHS3lDVERIYlVFSjFrd1hsenV5",
-    "title": "Cryptocurrency Market Retreats Ahead of Fed Rate Decision",
-    "link": "https://www.gurufocus.com/news/8921055/cryptocurrency-market-retreats-ahead-of-fed-rate-decision?mobile=true",
-    "snippet": "Bitcoin BTC has decreased by 0.9% to $65,177, while Ethereum has fallen by 2.1% to $1,758. XRP is down 1.8% at $1.20, and Solana has declined by ...",
-    "photo_url": "https://userupload.gurufocus.com/2067280194011570176.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRNMnR1Ym1SNGRXaEVSMFoxVFJESUFSajhBU2dCTWdZbEJaU3VNUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-17T20:44:50.000Z",
-    "authors": [],
-    "source_url": "https://www.gurufocus.com",
-    "source_name": "GuruFocus",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gurufocus.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gurufocus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV2QxY25WbWIyTjFjeTVqYjIwb0FBUAE",
-    "related_topics": []
   },
   {
     "article_id": "CBMinwFBVV95cUxQeGtrdTRPdnk0MllHT2V5ZFVwNjgzM0x5RW1jV2g1V01Oa3pnZlV0SXFtdTJaSlZYSWY2MDlfeGg4YU9LTHlpVUlxVXhmQUlsMzA4ejdYUm9FOVhWNDZCaU5zUHhiOVZ0akIwN0N1TEpfSTQzRWd1cGZxcXFpTVYtM3FJWVRBekt2a0FxMHN2cXFySHFyUV9ucmRXcUEwNzg",
@@ -1081,29 +1042,6 @@
     ]
   },
   {
-    "article_id": "CBMi6wFBVV95cUxOX2dpN0pFNXhxc1pqcURJZEE2cXBaRjNyNElDQXlLNEdXWWItR1VnMUxJcUpnMUkzMVlNcTFwMHVVTVpKR3YwOGpwT3YzbFVjZzNOWW1NS1NHUHExYnZieEp6TllQcHRmMXpveV9TU1FTZ290bzM3M3NEc0o3T010bEtHMjYtalFDX3NzRDFaelVxTG55X3RiWlpEWkVnR2t5Y1lreVM5YWxPUlRMaG8wRlZXbWNPV0FJbFotRnp1Z1NnTlFzd0RXSDNETGhXeXBVcDJITHNZaFotQ3pNYmE0czN3Nzc2RTdRTzk0",
-    "title": "FBI says that flirtatious person online could be a crypto fraudster",
-    "link": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/22/fbi-says-crypto-fraud-was-the-top-way-for-michiganders-to-lose-cash/90586154007/",
-    "snippet": "'Pig butchering' is a scheme where scammers fatten up the targeted victim with false flattery and promises before the financial slaughter.",
-    "photo_url": "https://www.freep.com/gcdn/authoring/authoring-images/2026/06/16/PDTF/90572178007-fraud-061526-06-mw.jpg?crop=2399,1351,x0,y124&width=660&height=371&format=pjpg&auto=webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxPRmRxYTJFMFZucE9lVGR1VFJDb0FSaXNBaWdCTWdZbEVKeU9FUXM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T18:14:00.000Z",
-    "authors": [
-      "Susan Tompor"
-    ],
-    "source_url": "https://www.freep.com",
-    "source_name": "Detroit Free Press",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV1p5WldWd0xtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKcWMyUTVYeElDWlc0b0FBUAE",
-        "topic_name": "Susan Tompor"
-      }
-    ]
-  },
-  {
     "article_id": "CBMigwJBVV95cUxOcU9EbHYycl8taXBXZW1BcHFRbVpLd1lWVHhUTXdidHdITnA5WXFRWExMYWo4NjNnZDVwOFZlTmlOQXVxM1Y1VUpydEo1aGxIY056QURiRWtsRzVNS2FLV01kYVo1XzhvbWs5ZW56MFE1VUZKWEdSVzBmTjJfeDVYLVZ4YVdJQW1EMmQ5QUZkcTg2MzFkZks0a3gtal9iSktJTFVuQWEyN2dCWXNGU0t5aWNjX2lTVXlHd0Fmc0RrMHIzNEpEazhLLVJtbWRSTC1NTHlNY0R6dHZvNF9JbGl3VTNlMnVxTFU1SjNlNzU5Vm5HYXlteDVfY0dtS2JZT2Z4T0pF",
     "title": "Which Cryptocurrency Fund is the better Bet? Fidelity Bitcoin Fund or iShares Ethereum ETF",
     "link": "https://www.theglobeandmail.com/investing/markets/stocks/FIS/pressreleases/2540446/which-cryptocurrency-fund-is-the-better-bet-fidelity-bitcoin-fund-or-ishares-ethereum-etf/",
@@ -1120,27 +1058,20 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMilgFBVV95cUxOeHYybEVJNmJRaDh2Rl9IYWNEYkRKc2xvaFBHWnhtN2Y1S2d0Y0tiUFE3NWVSSmZEYkZJYmFxd0pCNWNHMWl4cHhNUUFLT3pHd0tmRmVpeUc2cHFvb0ppSUxVeXFKSkpORTRZSmx6QWc0eEluUUtvNThxcUk5TGluaWlqV0daLUo1b01aTldfLVRLU0lEYVE",
-    "title": "Congress Set to Ban Digital Dollar. What It Means for Crypto Stocks.",
-    "link": "https://www.barrons.com/articles/cryptocurrency-digital-dollar-stablecoin-congress-46c113c0",
-    "snippet": "Congress is poised to pass a bill banning the Federal Reserve from issuing a digital dollar until 2031. New Fed Chairman Kevin Warsh has said ...",
-    "photo_url": "https://images.barrons.com/im-37334226?width=700&height=466",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXhTMHRtYkRBd2IwTm5lSGhGVFJERUF4aW5CU2dLTWdhTk5KS3RzUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T16:37:00.000Z",
-    "authors": [
-      "Joe Light"
-    ],
-    "source_url": "https://www.barrons.com",
-    "source_name": "Barron's",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMkpoY25KdmJuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YXpreGQySnVlUklDWlc0b0FBUAE",
-        "topic_name": "Joe Light"
-      }
-    ]
+    "article_id": "CBMiqAFBVV95cUxNb1JBejhXSFBTYk5EZUVwbl9EdlQ0dUc4VXZ1eEYwTm5kQ2RqT0RPM1ZicnMtTy1tdnJXbjBPUnFrZ1djWjNQWTFzN1dlSjdZZUtIS3E4eE8xU2JwRFJhUFd0T01EeXpmYVJoT1ZqYzNSSlFTbHhZRHpoc2tXcDgtT2VjRW9QemRxb2ZSeGNoTEhDZnFhOE1nLXBRc1NKTU05WGx5QjBHaHc",
+    "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/cryptos-future-may-depend-on-lawyers-who-think-like-operators/",
+    "snippet": "The crypto industry is shifting from regulatory avoidance to responsible building. Most serious companies today want to innovate within emerging ...",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png?w=1000&h=600&crop=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5XVGwwUkdRek1HSkVVSE5TVFJDdEF4akxCU2dLTWdZQk1KekduUW8=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-18T08:04:23.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
   },
   {
     "article_id": "CBMihgFBVV95cUxPU0l2NGl2R2RVcWFoblNLbHdlNkU1N3RsRWxsY0tCWWY3Wjl4WkFTdUROejM2VWJBOE14ekNld1J3U1kwZjJ6bmluSENwaU42UFVkWEo5d3gxSmdXRzY1VkU1Rk9DZUZuOEIxb0FHS1UtUE5NZGRqcURUVEVuRXNtUUxEMDh4QQ",
@@ -1194,6 +1125,68 @@
     ]
   },
   {
+    "article_id": "CBMifEFVX3lxTE5TaTNyaUpmMUMxSmF4M3FJWW4zWE1rcDAtVmVRS2ZSRUwyUElnMzlrV1h6dTlpdl9EY2Z1OWwtN1B5dVhiNS1CTmJwQWt3Q293bGYySkpqR0N4cVVhb3BkZXVDU2EyUHlDZ2RLYnFjMDBJY1RKSzNyZ1Rlamc",
+    "title": "FDIC Oversight Gaps Widen as Crypto Risks Mount",
+    "link": "https://legis1.com/news/fdic-crypto-oversight-falling-behind-on-critical",
+    "snippet": null,
+    "photo_url": "https://legis1.com/_next/image?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F10899667%2Fpexels-photo-10899667.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D650%26w%3D940&w=3840&q=75",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNUpXVFZOU21GRE1tNXNaRk5UVFJDM0FSaVRBaWdCTWdNQmNBSQ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T17:21:19.000Z",
+    "authors": [
+      "Zarrin Tasnim Ahmed"
+    ],
+    "source_url": "https://legis1.com",
+    "source_name": "Legis1",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://legis1.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://legis1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": null,
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1NMU9ESnhiQklDWlc0b0FBUAE",
+        "topic_name": "Zarrin Tasnim Ahmed"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMi6wFBVV95cUxOX2dpN0pFNXhxc1pqcURJZEE2cXBaRjNyNElDQXlLNEdXWWItR1VnMUxJcUpnMUkzMVlNcTFwMHVVTVpKR3YwOGpwT3YzbFVjZzNOWW1NS1NHUHExYnZieEp6TllQcHRmMXpveV9TU1FTZ290bzM3M3NEc0o3T010bEtHMjYtalFDX3NzRDFaelVxTG55X3RiWlpEWkVnR2t5Y1lreVM5YWxPUlRMaG8wRlZXbWNPV0FJbFotRnp1Z1NnTlFzd0RXSDNETGhXeXBVcDJITHNZaFotQ3pNYmE0czN3Nzc2RTdRTzk0",
+    "title": "FBI says that flirtatious person online could be a crypto fraudster",
+    "link": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/22/fbi-says-crypto-fraud-was-the-top-way-for-michiganders-to-lose-cash/90586154007/",
+    "snippet": "'Pig butchering' is a scheme where scammers fatten up the targeted victim with false flattery and promises before the financial slaughter.",
+    "photo_url": "https://www.freep.com/gcdn/authoring/authoring-images/2026/06/16/PDTF/90572178007-fraud-061526-06-mw.jpg?crop=2399,1351,x0,y124&width=660&height=371&format=pjpg&auto=webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWxPRmRxYTJFMFZucE9lVGR1VFJEekFoaVVCU2dLTWdZbEVKeU9FUXM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T18:14:00.000Z",
+    "authors": [
+      "Susan Tompor"
+    ],
+    "source_url": "https://www.freep.com",
+    "source_name": "Detroit Free Press",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV1p5WldWd0xtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWjNKcWMyUTVYeElDWlc0b0FBUAE",
+        "topic_name": "Susan Tompor"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiogFBVV95cUxQa3p3dC1oWTZhTFBoYnFWQ2loc05PZC1Pbkd6MG9oaU15TTVjLS1xbDJkSm1mSFlWdUZ0TjlYR3J6S0g4eDB4MEtMbzVXbUtLNFRIZGtYZGhERXc1Mm40Q1hqLXlTUVV0TmpHTmZaQjh0LUZsSG1Wald4RHVvaENZaGh1T3dXNHBYX2JaMllSdGVrc0lVemIxQlB2VkItRFRCLUE",
+    "title": "Regulatory update: GENIUS Act passes Senate, CLARITY Act advances out of House committees",
+    "link": "https://a16zcrypto.com/posts/article/regulatory-update-genius-act-passes-senate-clarity-act-advances",
+    "snippet": null,
+    "photo_url": "https://dwt2zme5yrom6.cloudfront.net/uploads/2025/03/RegUpdates_Crypto_X-FB-2-28-3-14-25.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhiV0pJUkhKMldVMHlZMnN4VFJDUkF4ajhCU2dLTWdZSlZJS21VUU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T17:54:59.000Z",
+    "authors": [],
+    "source_url": "https://a16zcrypto.com",
+    "source_name": "a16z crypto",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://a16zcrypto.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://a16zcrypto.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUV4Tm5wamNubHdkRzh1WTI5dEtBQVAB",
+    "related_topics": []
+  },
+  {
     "article_id": "CBMixgFBVV95cUxNeGxiNEFJQWJnbk94eF9BbHdmYXFrZXRqbUp0MVpTcEMwam9jNUloeWM5SHhObFpCdlliZ0RDNE9KejZCdGk5V1dlVGk1bXdiX1JqalE2RVdTdDdXRlZSMkRBRVBrUnVBUzBNQUl0LVhHS0kwaDVwVE5oQ1VLSkx3WlpySVQ2emRQWi14MlpfdUJaZDd3MzYwdHVjQXBvLUdVclRla09HQ2ViZkxpanRsVTdCa3RaRUVTU0pCRjNOeGVPSnJrb2c",
     "title": "Franklin Templeton proposes new funds that turn dividends into BTC: Crypto Daily",
     "link": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
@@ -1233,53 +1226,36 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMihAFBVV95cUxQTFBNd0VCLUFkVXV6bzZ1X1o4alF1a3hCOUdpc3c5cDQtV3NsUmV0VTVlT0xQcVhfNE51YzdKekR2MEFJRW96X1hiNXpBRTZzaGZfLWZ6TkdaTjVQMkxtSHJBVkdTX1c1elFMc1ppeGJOdGMySTJmd0JWZ0I0bHpMWmZRQjU",
-    "title": "Leading AI cryptocurrency quant trading platforms in 2026",
-    "link": "https://crypto.news/leading-ai-cryptocurrency-quant-trading-platforms-in-2026/",
-    "snippet": "AI-powered crypto trading platforms are gaining traction in 2026 as investors seek automated strategies, risk controls, and data-driven ...",
-    "photo_url": "https://media.crypto.news/2025/09/crypto-news-The-silent-quantum-crisis-option01-1380x820.webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRPRGhhWkZjNFkwRk1aVTFGVFJDckF4alBCU2dLTWdZTllJUXBwZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T14:54:30.000Z",
+    "article_id": "CBMimwFBVV95cUxNUXY2YzdtRHNkQTF2eTdXNVNfZU1QZW9JMkhvVDhZU3RudHBZR2Nvbl9KNlUzUV9rZUtNbWNBY0VrVDdlRUpiaGpteUVSZUVlU09kRlJZSW9QZi1pWENidFEyQVMyS3dEOFVieWZHdDJlanppY0xTNU5LSDVmcmlQclZvNnFDLWxEVFZQN3Btb05PZ0c1TzgzWjAtOA",
+    "title": "OCC Applies Bank Secrecy Act to Stablecoin Issuers",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/occ-applying-bank-secrecy-act-to-stablecoin-issuers/",
+    "snippet": "The OCC issued a proposed rulemaking that would require permitted payment stablecoin issuers to comply with the Bank Secrecy Act.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2025/04/Office-of-the-Comptroller-of-the-Currency-OCC-1.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU9ZV1pmUmpkSFJYUkpTRTkwVFJDU0FoakpBeWdLTWdtZEZJQnNZYUdTUlFJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T20:04:28.000Z",
     "authors": [],
-    "source_url": "https://crypto.news",
-    "source_name": "crypto.news",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://crypto.news&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://crypto.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMk55ZVhCMGJ5NXVaWGR6S0FBUAE",
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
-    "article_id": "CBMizgFBVV95cUxQbURiM0IzVUJ6NFVESHlIdy05Ynp0ejRTa3EyMGZYZDNVcnlNd3YyUXppQk94RlpucTlFaG56VnBhbklSUHlkTFF3azY2c0hqc2xmdUZsV0hzMHEtT0JGYXZTenp5aG1CT0hsVkFrQzdfenNrUVBKeGNkdndvcFJwZTN5MW5CeFJ2N1NRX0hCbEpMR2xoZlN6a25wNW1sT1BTajhKczJZUGpYS2dEOVkxdzBtMkQ0NFpGLWxOLXlpbkt5RnZHaXhhNGJHbEp5UQ",
-    "title": "Farage trying to block ‘Britcoin’ plans that could be costly for billionaire donor | Nigel Farage",
-    "link": "https://www.theguardian.com/politics/2026/jun/18/nigel-farage-trying-block-britcoin-crypto-plans-bank-of-england-christopher-harborne",
-    "snippet": "Reform UK leader used private meeting at Bank of England to urge governor to drop plans for state-run cryptocurrency.",
-    "photo_url": "https://i.guim.co.uk/img/media/10683ae9e076e0011b37fd054df61e49e173f63b/0_0_6121_4899/master/6121.jpg?width=465&dpr=1&s=none&crop=none",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVZaemRaUkdNek5tNVRYMkl4VFJEMEFoalJBeWdLTWdZdFVvaE9yUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T20:00:00.000Z",
-    "authors": [
-      "Rowena Mason",
-      "Henry Dyer",
-      "Tom Burgis"
-    ],
-    "source_url": "https://www.theguardian.com",
-    "source_name": "The Guardian",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWnpRemNXaGpkQklDWlc0b0FBUAE",
-        "topic_name": "Rowena Mason"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTURSeU4yaDJaQklDWlc0b0FBUAE",
-        "topic_name": "Henry Dyer"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpTmpCa1lqaDVkQklDWlc0b0FBUAE",
-        "topic_name": "Tom Burgis"
-      }
-    ]
+    "article_id": "CBMinAFBVV95cUxNck9YSGRwbmd1eU9vYzQ0S0REYVdvZTdua0V0bmZfeTJaWFlYbEJrM19UbllsUjdRWFBPbVo1YkhvZFJuR1ZuNWVlTkw5Qm1qZTk1VHphVWVfa21vSnF6cDg4VjVTU194Q3VRRHdOTjZsWE52SEI0T1RWQlNGMFBBcVZrSkJGZHpVRmZPMkc4c3pEeEgwMW0wcHNWejE",
+    "title": "Study Finds Stablecoins Need a Better Elevator Pitch",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/study-finds-stablecoins-need-a-better-elevator-pitch/",
+    "snippet": "PYMNTS Intelligence finds the larger challenge with stablecoins may be that consumers struggle to understand what they are.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/06/stablecoin-confusion-1.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdXV2RxY2xVdFJGOUJhVVZ5VFJDU0FoakpBeWdLTWdhTmdvQkhRZ00=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T08:04:06.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
   },
   {
     "article_id": "CBMigAFBVV95cUxPanpIcVQzWGpXdk5JYVUyTXBWZzFTM0tFZnZkUDZURExkbVVDN0JTZEl1ZmVCbmZBc0JrR1lPNGR6aVJ2RWF6Vi1JOE40eGVJVWdxMWNUdU1SWHZvS2hraDcybXY0OEdTaEtQMnFsdTdibERNMHREYlRsSzd0OEo4YQ",
@@ -1298,6 +1274,22 @@
     "related_topics": []
   },
   {
+    "article_id": "CBMizAFBVV95cUxOUFppMWxpekpFcGRDNGdyUThwMWI3VXpEUVBENVFmSk4wME96TllJcUxaekxvOGpjUGpvYWZ5MXhSc2x3V2wzY1M0OGtzRGdFNUo2OTExcmF4LW9KdzZwZDlmSTFSN1NCV01qXzh1RXJDZlhHM0JkMlpKd2d0Y3dWUl93dEdzSG1qTlM2YjlFTXNfZHBCYk0yYTFlSTV1SjFLM0dua3VoMHhtY3hrNUNjTHQ2VDlUN0Z2ZURlb0JUMnF2WXBJMnNOTTljN3M",
+    "title": "Chinese fentanyl network suspected of crypto fraud via Japan base",
+    "link": "https://asia.nikkei.com/economy/trade-war/fentanyl-s-hidden-routes/chinese-fentanyl-network-suspected-of-crypto-fraud-via-japan-base",
+    "snippet": "The organization suspected of involvement in financial crimes in Japan centers on Chinese chemical manufacturer Hubei Amarvel Biotech. American ...",
+    "photo_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F7%2F3%2F12633737-1-eng-GB%2F7751ea33fa8d-photo_SXM2026061800013674.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXdiazFhWW10NWRVczVjbHBoVFJDZkF4amtCU2dLTWdZQllwQ1FLUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-21T17:00:00.000Z",
+    "authors": [],
+    "source_url": "https://asia.nikkei.com",
+    "source_name": "Nikkei Asia",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://asia.nikkei.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://asia.nikkei.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMkZ6YVdFdWJtbHJhMlZwTG1OdmJTZ0FQAQ",
+    "related_topics": []
+  },
+  {
     "article_id": "CBMib0FVX3lxTE9vNUVyaVp2VmFNT2l2SFlGVXZIdkx0a2JDdmtjdG11NGM4TVVRdmwwQWdTSEZRcy1ZejY4c3c4ZTEwSlQ3ZHd5Nm44SmNFMUk5eUMxdkpuMEhKakpmNEhlWGNDamNQSDNEVVk4YlFpZw",
     "title": "G7 leaders call for coordinated action against North Korea’s cryptocurrency thefts",
     "link": "https://cryptobriefing.com/g7-north-korea-crypto-theft-action/",
@@ -1311,6 +1303,22 @@
     "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cryptobriefing.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cryptobriefing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbU55ZVhCMGIySnlhV1ZtYVc1bkxtTnZiU2dBUAE",
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMijAJBVV95cUxQSS1kVWdpeTk3U1dCZnA0YUxQRnljdjlNV3JUV1NOREhSVl9YOVZRaklSTlFCZ2p6eUhpNm04QjhWTGNuRVdpX3AwcHZ6cnpWdVZEV0NxNURTSnltcnRKQVRFYVZqNTFNc3VGRkE4YlFPRi1tWXJGMmtDeXNMSWVXU0EtWkN0dmJGSUNTNXJnZEltSEdPM0dfclZHOGt4bHc3YlNib0lOSTZIY3lOdThSWWZyM09UTEpWRHBiUzhPUW83STNySmMzRFVhMm9BdUtueVdIT3Fwckh2N2hKNHhlbHFOWlliamNueE5LNE5xS1JZSHA1cWxERUwxSHUzSlNyQWxqcVN0MFNQZkhY",
+    "title": "Best Crypto Recovery Law Firms in 2026: Leading Cryptocurrency Lawyers for Asset Recovery, Fraud Investigations and Digital Asset Disputes",
+    "link": "https://www.insidermonkey.com/blog/best-crypto-recovery-law-firms-in-2026-leading-cryptocurrency-lawyers-for-asset-recovery-fraud-investigations-and-digital-asset-disputes-1785354/",
+    "snippet": "This guide highlights five law firms that have established reputations within cryptocurrency recovery, digital asset investigations, blockchain ...",
+    "photo_url": "https://d2w7kw43nye0pi.cloudfront.net/fvqWrRcScpqTRQYwc_RgCDe2u84z7TVvVbta9kdCMZk/resize:fit:480:178:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/06/19152619/Crypto-Legal.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5Na2RPTnpGUVpWZHhUVWM0VFJDeUFSamZBeWdLTWdZSmNwSU11UWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-19T19:33:49.000Z",
+    "authors": [],
+    "source_url": "https://www.insidermonkey.com",
+    "source_name": "Insider Monkey",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.insidermonkey.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.insidermonkey.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ",
     "related_topics": []
   },
   {
@@ -1334,8 +1342,8 @@
     "title": "Microsoft discovers USB worm for stealing cryptocurrency in Windows",
     "link": "https://coinspot.io/en/cryptocurrencies/microsoft-discovers-usb-worm-for-stealing-cryptocurrency/",
     "snippet": "Microsoft has discovered a USB worm designed to steal cryptocurrency: the malicious Crypto Clipper program spreads via removable drives, ...",
-    "photo_url": "https://coinspot.io/wp-content/uploads/2026/06/maykrosoft-obnaruzhila-yu-es-bi-chervya-dlya-krazhi-kriptovalyut-898392.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtMVTlTY2tWNldqaHhSbHBPVFJERUF4aW1CU2dLTWdZWlZwWUtJZ2c=-w200-h200-p-df-rw",
+    "photo_url": "https://coinspot.io/wp-content/uploads/2026/06/maykrosoft-obnaruzhila-yu-es-bi-chervya-dlya-krazhi-kriptovalyut-468841-1-690x315.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNTNZWFoyUVdSUlIyNXNaR3d0VFJDN0FoaXlCU2dLTWdNZEZBSQ=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-06-22T07:49:45.000Z",
     "authors": [],
     "source_url": "https://coinspot.io",
@@ -1381,10 +1389,10 @@
     "article_id": "CBMihgFBVV95cUxPVDlQWkc5WGtTVmZwQmU5MkhQazJKQTVkSmYzaWxmQzVGMUpaX280dGVKci04YVVXSTgtS2cya3Bidl9LbnFHdTVHRjU1SF91ZVVlSjVMYlRuMXJObDdwRS1XM1RjWGx4a3hpN09vbjhxQXQ0MUFadEJYbkNMWF9WaDlZQVNtdw",
     "title": "Helping older people avoid costly scams in a digital world",
     "link": "https://www.axios.com/local/columbus/2026/06/23/seniors-scams-schemes-ohio-help",
-    "snippet": null,
+    "snippet": "AI, cryptocurrency and digital communication are making scams harder to prevent, spot and track.",
     "photo_url": "https://images.axios.com/sJHppU9AIGQ25Zoa1YN-5iCnrfo=/2024/03/18/213757-1710797877923.jpg",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJNSFV0Tld0elJ5MXFWM2h1VFJDZkF4ampCU2dLTWdhaE5Zd05vZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-23T10:22:07.000Z",
+    "published_datetime_utc": "2026-06-23T10:22:38.000Z",
     "authors": [
       "Andrew King"
     ],
@@ -1417,73 +1425,6 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMixgFBVV95cUxNSjJBb3prbVdDeVlDLXBCZmptLTlUTDhiYlhlNUQwSEJwMENBVmNTUlpMcUY2bnBOc2xSaEt1OU8xTmY5ZXg2QzM5ZVdqT1BwUTNUdWllMnVmZ0ItbkZ1VHFYckNvcUxpenlsVXhjVzR0SGdrdVZsMkRDYnBIZ3liWERLdnpmSGFBcnVUOEZzTHd6cXdlR1RNbEY3Mkx4bkdnTkFsSFJFSlhPTEctN2FLblFjNWUzQlRNbURKWk9FMGlsOURXZnc",
-    "title": "The Trump official trying to cut a crypto deal that could crack down on Trump",
-    "link": "https://www.politico.com/news/2026/06/23/the-trump-official-trying-to-cut-a-crypto-deal-that-could-crack-down-on-trump-00969911",
-    "snippet": null,
-    "photo_url": "https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2Fdf%2F0d%2Fa9e7807747b0bb93c2100718ff11%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2264415155",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDJOVVJoVURaU1lqaGlVbXhSVFJDM0FSaVRBaWdCTWdhcFJaYnRvUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-23T08:45:00.000Z",
-    "authors": [
-      "Jasper G. Goodman"
-    ],
-    "source_url": "https://www.politico.com",
-    "source_name": "Politico",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtESEJ2YkdsMGFXTnZMbU52YlNnQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxTld3M2EzSmpPQklDWlc0b0FBUAE",
-        "topic_name": "Jasper G. Goodman"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMijAJBVV95cUxQSS1kVWdpeTk3U1dCZnA0YUxQRnljdjlNV3JUV1NOREhSVl9YOVZRaklSTlFCZ2p6eUhpNm04QjhWTGNuRVdpX3AwcHZ6cnpWdVZEV0NxNURTSnltcnRKQVRFYVZqNTFNc3VGRkE4YlFPRi1tWXJGMmtDeXNMSWVXU0EtWkN0dmJGSUNTNXJnZEltSEdPM0dfclZHOGt4bHc3YlNib0lOSTZIY3lOdThSWWZyM09UTEpWRHBiUzhPUW83STNySmMzRFVhMm9BdUtueVdIT3Fwckh2N2hKNHhlbHFOWlliamNueE5LNE5xS1JZSHA1cWxERUwxSHUzSlNyQWxqcVN0MFNQZkhY",
-    "title": "Best Crypto Recovery Law Firms in 2026: Leading Cryptocurrency Lawyers for Asset Recovery, Fraud Investigations and Digital Asset Disputes",
-    "link": "https://www.insidermonkey.com/blog/best-crypto-recovery-law-firms-in-2026-leading-cryptocurrency-lawyers-for-asset-recovery-fraud-investigations-and-digital-asset-disputes-1785354/",
-    "snippet": "This guide highlights five law firms that have established reputations within cryptocurrency recovery, digital asset investigations, blockchain ...",
-    "photo_url": "https://d2w7kw43nye0pi.cloudfront.net/fvqWrRcScpqTRQYwc_RgCDe2u84z7TVvVbta9kdCMZk/resize:fit:480:178:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/06/19152619/Crypto-Legal.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW5Na2RPTnpGUVpWZHhUVWM0VFJDeUFSamZBeWdLTWdZSmNwSU11UWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-19T19:33:49.000Z",
-    "authors": [],
-    "source_url": "https://www.insidermonkey.com",
-    "source_name": "Insider Monkey",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.insidermonkey.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.insidermonkey.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMihwFBVV95cUxOT0g0TzV2WHlYU1NVUnhCTlg2Sm1uUWpETTRjNzFRV1RGeEFkb3RtSjNidWphck40RDVzM0tKb2pCenNCN3dEVm5Pc0RoOEs0S0t5bHBnZkdtVFpDSzNLTlZYRmpEVWVEcFhPSlpQZ1k5ckt5MFJGQkZ0R1hhQ0NucjVHUGwwMzg",
-    "title": "Crypto Market Update: US Agencies Propose Verification Rules for Stablecoin Issuers",
-    "link": "https://investingnews.com/cryptocurrency-market-recap-19062026-stablecoin-rules/",
-    "snippet": "Today's crypto news to know · US regulators propose verification rules for stablecoin issuers · Ethereum exodus continues with co-director ...",
-    "photo_url": "https://investingnews.com/media-library/gold-stablecoin-against-stock-ticker-backdrop.jpg?id=66969891&width=1200&height=800&quality=70&coordinates=0%2C0%2C0%2C0",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlWRXhzYkVSbmQyNU1ObHBMVFJERUF4aW1CU2dLTWdhbGNKU3RNUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-19T21:05:00.000Z",
-    "authors": [
-      "Giann Liguid",
-      "Meagen Seatter"
-    ],
-    "source_url": "https://investingnews.com",
-    "source_name": "Investing News Network",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://investingnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://investingnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV2x1ZG1WemRHbHVaMjVsZDNNdVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyZVhrM1pHWTNNaElDWlc0b0FBUAE",
-        "topic_name": "Giann Liguid"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyYkhKeGNIWjVheElDWlc0b0FBUAE",
-        "topic_name": "Meagen Seatter"
-      }
-    ]
-  },
-  {
     "article_id": "CBMijgFBVV95cUxQNzJ4aUVCUGVVV1d3Vng2emZRZGZrTDZjOXZEVS01YWduNWdVdExaakN6aW80V0RmeURya1ZyckZzWUJWVkVPQWVxT3RiMng1cjZzb0VubzZwMkgyX3Bla0xkeXdtM2hRb3BrLWRNZXNta0VkQ3MySmJXLUVxdm0zSnBuREotNGdjTmkxVkl3",
     "title": "Cybercriminals abused GitHub, YouTube and VirusTotal to push crypto-stealing malware",
     "link": "https://www.helpnetsecurity.com/2026/06/19/fake-github-stars-crypto-stealing-malware/",
@@ -1491,35 +1432,12 @@
     "photo_url": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/18102134/scams-1500-1.webp",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTFiSE5UVFc1amVuWTNlR2cxVFJDYkF4anJCU2dLTWdZQk5JeWdJUWc=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-06-19T12:11:44.000Z",
-    "authors": [
-      "Sinisa Markovic"
-    ],
+    "authors": [],
     "source_url": "https://www.helpnetsecurity.com",
     "source_name": "Help Net Security",
     "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMmhsYkhCdVpYUnpaV04xY21sMGVTNWpiMjBvQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1Yld0eU16WTBkQklDWlc0b0FBUAE",
-        "topic_name": "Sinisa Markovic"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMi5gFBVV95cUxQYVZkamFoSEk0a0dkbE9HbVNGQy1qdnpaY1N1Si1RRExaeGJCVHNBWEJWRUUxLXFLU3FiZUpBQXpnRllhcjQ3UjllVXRLZS1CMG9DbVJqV2g3TndjOWtEY0dGZWk5NGV1QkF1Z05kLTRYN25mbmdzNnlUb29RMXVKZjQ0V1pybmlzLVpDOUZqQmpSQ0Y3ZEk0ZUxleEFrSEdSVmJxXzN1dDhQNmpLbmZGdUFXeERFUGZPNC11T3c0VktkTG1IbW1YbV9GY2wyRTcyM19zOXBhV2Zoc1U0UF9IdkNpd3JKdw",
-    "title": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
-    "link": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison",
-    "snippet": "Brothers Isiah and Raymond Garcia pleaded guilty to an armed $8 million crypto robbery and kidnapping in Minnesota.",
-    "photo_url": "https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2021/07/20210714_UK_Police_Seizures-1200x675.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9ZVU00VG1Kc2VXdzBWVmRaVFJDZkF4ampCU2dLTWdZQk1Jd1FIUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-19T13:48:30.000Z",
-    "authors": [],
-    "source_url": "https://www.theblock.co",
-    "source_name": "The Block",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldKc2IyTnJMbU52S0FBUAE",
     "related_topics": []
   },
   {
@@ -1539,13 +1457,29 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMijgFBVV95cUxOSHA1cFVwWkRSMXkxQl9VRXJrSWtkZmY2dVZUUjl0eGpXWDgtb0I4YXNQOUpZZWZOLWtWdXVCVXh0QVhoMU81LTVGNDl3MjNCVUt0Z0p3MnZjTUlIWlJUZjl1LXdGeVBMZzFJRktMT09DTjNfSDF6dVRoWGg4YUxpVm1heFZTV3JGZnR0T3dB",
-    "title": "CPI | Illinois Enacts First-of-Its-Kind Digital Asset Tax",
-    "link": "https://www.pymnts.com/cpi-posts/illinois-enacts-first-of-its-kind-digital-asset-tax/",
-    "snippet": "Illinois has become the first state in the nation to impose a transaction-based tax on digital asset activity, a move that supporters say ...",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/05/stablecoins-regulations-digital-assets.jpeg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTZiWFpWV1V0VVNsQlNUME13VFJDdEF4akxCU2dLTWdrQlFvNHhzV2FwWndJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T21:02:37.000Z",
+    "article_id": "CBMi5gFBVV95cUxQYVZkamFoSEk0a0dkbE9HbVNGQy1qdnpaY1N1Si1RRExaeGJCVHNBWEJWRUUxLXFLU3FiZUpBQXpnRllhcjQ3UjllVXRLZS1CMG9DbVJqV2g3TndjOWtEY0dGZWk5NGV1QkF1Z05kLTRYN25mbmdzNnlUb29RMXVKZjQ0V1pybmlzLVpDOUZqQmpSQ0Y3ZEk0ZUxleEFrSEdSVmJxXzN1dDhQNmpLbmZGdUFXeERFUGZPNC11T3c0VktkTG1IbW1YbV9GY2wyRTcyM19zOXBhV2Zoc1U0UF9IdkNpd3JKdw",
+    "title": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
+    "link": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison",
+    "snippet": "Brothers Isiah and Raymond Garcia pleaded guilty to an armed $8 million crypto robbery and kidnapping in Minnesota.",
+    "photo_url": "https://www.tbstat.com/cdn-cgi/image/f=avif,q=50/wp/uploads/2021/07/20210714_UK_Police_Seizures-1200x675.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9ZVU00VG1Kc2VXdzBWVmRaVFJDZkF4ampCU2dLTWdZQk1Jd1FIUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-19T13:48:30.000Z",
+    "authors": [],
+    "source_url": "https://www.theblock.co",
+    "source_name": "The Block",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldKc2IyTnJMbU52S0FBUAE",
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMitAFBVV95cUxNa2oya0FpNTNDUUZ6cGVBMk1jNFpTaFNGcEpxSzJPeFZISEZHLXNCRXNZZnJ3NXZDNW1fWi0xdHBuUTZKNmRoR2JKY2tIRENjY1RBVWkzdkNHemxGNi1tcDNuOGgyRC13T0l0NGxqcjJkQjk3QXh2SHg5ZFk1YkREY0YtV3lzUXQ2elA5RnhrVVhDLUV1OVhLRFo5djFab1U4N01mRUlpbkJISVZmLUJnYUNLM1A",
+    "title": "Andrew Cuomo Chairing OKX-Intercontinental Exchange Blockchain Project",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/andrew-cuomo-chairing-okx-intercontinental-exchange-blockchain-project/",
+    "snippet": "Blockchain company OKX has launched a joint venture with New York Stock Exchange owner Intercontinental Exchange.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2024/09/OKX.jpg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVWa3huYkRGQ1dUSXlkak01VFJDU0FoakpBeWdLTWdhdFpJNlFMUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T15:05:12.000Z",
     "authors": [],
     "source_url": "https://www.pymnts.com",
     "source_name": "PYMNTS.com",
@@ -1568,22 +1502,6 @@
     "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://greenstreetnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://greenstreetnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": null,
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMinAFBVV95cUxNck9YSGRwbmd1eU9vYzQ0S0REYVdvZTdua0V0bmZfeTJaWFlYbEJrM19UbllsUjdRWFBPbVo1YkhvZFJuR1ZuNWVlTkw5Qm1qZTk1VHphVWVfa21vSnF6cDg4VjVTU194Q3VRRHdOTjZsWE52SEI0T1RWQlNGMFBBcVZrSkJGZHpVRmZPMkc4c3pEeEgwMW0wcHNWejE",
-    "title": "Study Finds Stablecoins Need a Better Elevator Pitch",
-    "link": "https://www.pymnts.com/cryptocurrency/2026/study-finds-stablecoins-need-a-better-elevator-pitch/",
-    "snippet": "PYMNTS Intelligence finds the larger challenge with stablecoins may be that consumers struggle to understand what they are.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/06/stablecoin-confusion-1.jpg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdXV2RxY2xVdFJGOUJhVVZ5VFJDU0FoakpBeWdLTWdhTmdvQkhRZ00=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-23T08:03:45.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
     "related_topics": []
   },
   {
@@ -1619,20 +1537,27 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMijwFBVV95cUxNTG9XRTRhRkhBVDZwRUM0eFlaanVacV8tbGJ6UXhzbjQxMmNOdjA3ei1fbTFROFRNajNBQTU3Vy1ERk83dnc4cWNEZjJXRVVYUmRVODExdGdBeHJhUm84YkliM2d4TEZsekNjUTJicUwtLWI2aXNPZGRXRlMyMEM1bFg3WlgxMkNjZEEyNU9aZw",
-    "title": "Cryptocurrency prices mostly decline with Bitcoin at $64,699 and Ethereum at $1,765.",
-    "link": "https://pluang.com/en/news-feed/uniswap-melonjak-standar-chartered-target-100-uni-2030",
-    "snippet": "Cryptocurrency markets saw a general decline with Bitcoin dropping 2.78% to $64,699 and Ethereum falling 1.74% to $1,765.50.",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2026-06-17T14:43:23.000Z",
-    "authors": [],
-    "source_url": "https://pluang.com",
-    "source_name": "Pluang",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pluang.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pluang.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": null,
-    "related_topics": []
+    "article_id": "CBMidkFVX3lxTE1qOWJSeFpVcFJTaVA5MHlLQkVLWmM1NVYxUmFTUUJoc2N6Si04dXpPMmtpY0VpejIyYWZVdkhOQVhQX3dXcnFQMC1kUDZVQ0NlSzJTdGs3eFpFYThWd0x0R0JDUFI0eTVEb2lEY3BlX3k0UU1vUWc",
+    "title": "GTA 6 early access offers are taking gamers’ crypto",
+    "link": "https://www.helpnetsecurity.com/2026/06/23/gta-6-early-access-scam/",
+    "snippet": "GTA 6 early access offers asking for crypto are scams that deliver no game. Learn how the trick works and where to buy GTA 6 safely.",
+    "photo_url": "https://img2.helpnetsecurity.com/posts2026/GTA_6_early_access_scam.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdlbk4zUW0xNk9VMXdlVGhZVFJESUJCaU5CQ2dLTWdhWlJJYXRUUU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T10:31:55.000Z",
+    "authors": [
+      "Mirko Zorz"
+    ],
+    "source_url": "https://www.helpnetsecurity.com",
+    "source_name": "Help Net Security",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFMmhsYkhCdVpYUnpaV04xY21sMGVTNWpiMjBvQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhremFuZ3hOQklDWlc0b0FBUAE",
+        "topic_name": "Mirko Zorz"
+      }
+    ]
   },
   {
     "article_id": "CBMijAFBVV95cUxNcDdXSDJjRU42QXZVU1lBOXpqb3FOMGtnRUxnNHRkSjgza2xYNTZZNTZ3cU5OZ196UlFCWUplS2J4dzV6WjJFVmctdHZKRlZvSlJQa21VVUZ2VTMwZFZBejhxRzVjbDZzTzRLMGlON3E1a01KeXRYdmxGa3lrSHlrd2YtSXRiblNFTFlHOA",
@@ -1651,59 +1576,27 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMigwFBVV95cUxNZnFWYjhNR0I2VERmN0JRRlR5ZE5fNURrNFUtMDNEaUZFR3ZoNGhuTzc3X1ozWU9mSF90ckJiYWtfZ2pfcTdsVGtuU2ZRSTlSMDd4Qm0tUnJ1Tm1xaHIzZEhaVHBzMTU0dUtNTVpNckxNNDlSVHRkRC11T3FIV2x5UDRNTQ",
-    "title": "Bitcoin Rodney enters guilty plea in $1.8B cryptocurrency fraud scheme",
-    "link": "https://cryptorank.io/news/feed/92dda-bitcoin-rodney-guilty-plea-crypto-fraud",
-    "snippet": "Rodney Burton, popularly known as “Bitcoin Rodney,” pleaded guilty for his role in the $1.8 billion HyperFund cryptocurrency fraud in a federal ...",
-    "photo_url": "https://www.cryptopolitan.com/wp-content/uploads/2026/06/Bitcoin-Rodney-enters-guilty-plea-in-1.8B-cryptocurrency-fraud-scheme.webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXZVMmRoZDNsdU1uQXhiekJTVFJDZkF4ampCU2dLTWdhcGRJNnRMUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-17T20:01:45.000Z",
+    "article_id": "CBMiwAFBVV95cUxQaHZtcHBMRnJIZXRTaE5UWDRBZGZKeFFqRHlFczBSMFhCa3NodXZ0QjJ5Z1J1TVNCSlVITHJvNVRBTWNQaWxLMy1CVmZnalVaT2ZpSDE2RHBIel9uOXZmMV9DbnZrQUJKMDZINUI2U2tmSXZ3RmdqVlBmUVZNRjcxTDRzNnp5V3NKVVJpWVROQ000OElBQ21pZ1pmakZwS29fdk1RSlZ1UzlIeUhMSnFrM1BqOEtlRkpZcWt2SU5GNEU",
+    "title": "New DeFi Education Fund coalition seeks to harden crypto against cybersecurity threats",
+    "link": "https://www.theblock.co/amp/post/405698/new-defi-education-fund-coalition-seeks-harden-crypto-against-cybersecurity-threats",
+    "snippet": "The DeFi Education Fund launched a cybersecurity coalition as part of an effort to bolster itself against bad actors across the blockchain.",
+    "photo_url": null,
+    "thumbnail_url": null,
+    "published_datetime_utc": "2026-06-23T13:05:02.000Z",
     "authors": [
-      "Hannah Collymore"
+      "Sarah Wynn"
     ],
-    "source_url": "https://cryptorank.io",
-    "source_name": "CryptoRank",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cryptorank.io&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cryptorank.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV055ZVhCMGIzSmhibXN1YVc4b0FBUAE",
+    "source_url": "https://www.theblock.co",
+    "source_name": "The Block",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theblock.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM1JvWldKc2IyTnJMbU52S0FBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4WW1oNU5EVTRhQklDWlc0b0FBUAE",
-        "topic_name": "Hannah Collymore"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUd4aU1EZDZOUklDWlc0b0FBUAE",
+        "topic_name": "Sarah Wynn"
       }
     ]
-  },
-  {
-    "article_id": "CBMimgJBVV95cUxORU92RDV6emJIWGhQY1Q2RDVha2lkNThhcDByODNjNGJONmdyUDZRWVA4akVVLTVwYnVhNkl4QTY5amZULTdZZVRWS1J0Z2ttMVJLanFDODN4YmxSQzVrODdnSDlCNkpVYUhERDl2ZUJDOVpzcThFTldxaWNWWXJ3WmJET25xN1QtYXlMdzJJV0JuajdEX1Q1UEREclJCNFk4YVU0NEExNmJsNER3UEhsdlQyUDdmQW40Nnp2cnBQRmllejJ2ZDVZWk1YMlJMM0dNdnFybjF5VU12RmZIdkVBb0RYZjZIQnpRVUpLSUhZVjU5V0lSYjdMaW5USzF4MnJyaXhfT083MEtHSHhNcjhhVnpCcl9SQlk5Umc",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide Further Amid Fed's Hawkish Shift: Analyst Paints This Upside Target For BTC If It Holds $64,000 As Support",
-    "link": "https://www.sahmcapital.com/news/content/bitcoin-ethereum-xrp-dogecoin-slide-further-amid-feds-hawkish-shift-analyst-paints-this-upside-target-for-btc-if-it-holds-64000-as-support-2026-06-19",
-    "snippet": "Leading cryptocurrencies fell, while stocks rebounded on Thursday as investors parsed the hawkish pivot in the Federal Reserve's policy.",
-    "photo_url": "https://cdn.benzinga.com/files/images/story/2026/06/18/London--Uk---January-26--2024-Photograph.jpeg?width=250&height=187",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVBNWGRuZGxsa1lsZGhia1ZGVFJDb0FSajZBU2dLTWdhTklZYk5RUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-18T07:00:00.000Z",
-    "authors": [],
-    "source_url": "https://www.sahmcapital.com",
-    "source_name": "Sahm",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sahmcapital.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sahmcapital.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM05oYUcxallYQnBkR0ZzTG1OdmJTZ0FQAQ",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMinwFBVV95cUxQdHFLUjRyTGxEalozMFlPU0tGbFpnZnA1enRQZlpMeWNpOXhqZTBPVHNKNkxzOWE1SlFXdlFKOHZWNFJ0UjZ6bFk1dGFmNHdCNGNpSV9YOEZ1QlFVY0xVYURHbWJMbUJaM0s3UzJHa3c3S2syMTRCWlZRdTdGZjAwX25ISlFqZTB1NzdKdVVpRDRzVndyRS1mVDFTNE8zMjg",
-    "title": "Fomo Raises $75 Million for Consumer Crypto Trading App",
-    "link": "https://www.pymnts.com/cryptocurrency/2026/fomo-raises-75-million-for-consumer-crypto-trading-app/",
-    "snippet": "The year-old consumer-focused cryptocurrency trading app fomo has raised $75 million after marking more than $4 billion in trading volume.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/06/Fomo-cryptocurrency-1.jpg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU5iMkZJTjFSR1FYSnhXWEpxVFJDU0FoakpBeWdLTWdzQkFJYUhOS1FzWmlyeXdB=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-22T20:29:28.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
-    "related_topics": []
   },
   {
     "article_id": "CBMikAFBVV95cUxPTE9wYW5ndmcxS3ZHS3Z4RHR2aWxaanFwbXducVZCZUl2cW5qc2R4RUdCVHlPM1JZbGxMcG11YnM4S0p4NlhhOXRya09tWXNpaVlxYTlzdVZXV1dvUFZ1SW50c2JGeUVaSzVBcThhVXlIbWNEN0NzQUVMSUd6VHhOejJMT2FzVkZFYlk0Tmo3QjI",
@@ -1743,6 +1636,22 @@
         "topic_name": "Neil Hodge"
       }
     ]
+  },
+  {
+    "article_id": "CBMiqAFBVV95cUxPVEk1c3Z1TU9UM3pJUzM2dDd2M0wyTWtNcHlCRllXelhUVnVwNW5Qcl9HOGxuSHdWM243QzRLYy1zRTl1cTU4Z0RLU01mVEJsMXotbVdLTmRMdHhMZnRHUWZmZTM0U29fenpjUGVzdGFjTFJmVzdRZ1kzSU9TMlFGMy1CT0JUdk9fZmlfbUNVRU5yOWRZLVFqTHhXdHNpaHlCc0dIOTFkR2I",
+    "title": "Cryptocurrency lobbying groups urged the U.S. Congress to pass the mining and staking tax bill directly without further amendments.",
+    "link": "https://news.futunn.com/en/post/74949450/cryptocurrency-lobbying-groups-urged-the-us-congress-to-pass-the",
+    "snippet": "Cryptocurrency lobbying groups urged the U.S. Congress to pass the mining and staking tax bill directly without further amendments. Cryptocurrency lobbying ...",
+    "photo_url": "https://pubimg.futunn.com/2022050900000183801109a1f4d.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iNkNnNU5ZblJ3T0Y5cFpuZHRaR3B6VFJDS0FoaVFBeWdLTWc2QkFZUmdVbUp6V05oZTJHWlNMZw=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-23T05:15:00.000Z",
+    "authors": [],
+    "source_url": "https://news.futunn.com",
+    "source_name": "富途牛牛",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.futunn.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.futunn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": null,
+    "related_topics": []
   },
   {
     "article_id": "CBMipgFBVV95cUxQZVdNckJpWGkzbjZZd21RQjFaZVNvX0UwMDJEY2J0NVR2dHlwYnVLX0hYQXp2SE81Zms5NnZVamtpX3JiY1NxSGxjeDdtYWpFSEIzVGM4WWdWS2kxWWJ3UWM2SU52ckVmVnRxRW4wRXdhRHpodS1IQ05mb1NmdWo2U3ZZNkdkcmlpaWxaRy1CcjNUajFVcjZobkFndkN1aXFXdllMV2hR",
@@ -1793,22 +1702,6 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMi6AFBVV95cUxNOVV0Nmd5R3lZU1otYTRhck1NS2RiUW5EY2F5d19hQU9SYlRWWkdEamVrYmE1ME8zZWtFMy1TN2ctMW9zZUpjVjJnZWdYeFJ5TkwySHhFOVpaRnRCc0xuYmlmVXBuZDVhTVhTc0NTRDFWcHdEU3VZMmFNelQtQXpUbUZOX1ROZXBKbjM0b0pqSTJYaVJhWFVFYWR1TnVrTDFWMWpnMGE5VDJjeGFtbEhsUGFVSEc3ZWMyMVM0YUlCOWdFM2tBQXUxR0JTZ0paY0hMQTFqVkhxcF9LWWEyNS1NZmZxQmdGSnFz",
-    "title": "Commentary: Crypto bill is bad for small businesses",
-    "link": "https://www.postandcourier.com/opinion/commentary/clarity-act-small-businesses-cryptocurrency-companies/article_c92d178f-1038-4236-9d31-ecced3d874a2.html",
-    "snippet": "Now, the cryptocurrency companies want to drain banks, credit unions and CDFIs of the funds they lend to small businesses to start and grow.",
-    "photo_url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/71/87136d4d-9e80-4eb7-a475-322c5069da26/6a33f451dadf1.image.jpg?crop=1233%2C1017%2C0%2C216&resize=1200%2C990&order=crop%2Cresize",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWlSMTl5TlZNNU5VRnhWM0pXVFJEM0F4amlCQ2dLTWdZaGRJS3ROUVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-21T21:15:00.000Z",
-    "authors": [],
-    "source_url": "https://www.postandcourier.com",
-    "source_name": "Post and Courier",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.postandcourier.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.postandcourier.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbkJ2YzNSaGJtUmpiM1Z5YVdWeUxtTnZiU2dBUAE",
-    "related_topics": []
-  },
-  {
     "article_id": "CBMic0FVX3lxTE5CaGx0ZHJRSGxkTWpOZ1BfaWRWd0pNcWo4elkzMGxPOE5UTDFMbGpyaXZOaGhCeGp1NXI0eTRIcnc2cU9SVmYzTlg2Y2hlVzYtRU96bHJyV053Zi05bElybV9jeWN1NmQyRGxodUVsUXVYWEE",
     "title": "SBF Claims He Will Launch a New Cryptocurrency After Prison Release",
     "link": "https://cryptorank.io/news/feed/b520b-sbf-new-coin-prison-release",
@@ -1822,22 +1715,6 @@
     "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cryptorank.io&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cryptorank.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV055ZVhCMGIzSmhibXN1YVc4b0FBUAE",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMiqAFBVV95cUxPVEk1c3Z1TU9UM3pJUzM2dDd2M0wyTWtNcHlCRllXelhUVnVwNW5Qcl9HOGxuSHdWM243QzRLYy1zRTl1cTU4Z0RLU01mVEJsMXotbVdLTmRMdHhMZnRHUWZmZTM0U29fenpjUGVzdGFjTFJmVzdRZ1kzSU9TMlFGMy1CT0JUdk9fZmlfbUNVRU5yOWRZLVFqTHhXdHNpaHlCc0dIOTFkR2I",
-    "title": "Cryptocurrency lobbying groups urged the U.S. Congress to pass the mining and staking tax bill directly without further amendments.",
-    "link": "https://news.futunn.com/en/post/74949450/cryptocurrency-lobbying-groups-urged-the-us-congress-to-pass-the",
-    "snippet": null,
-    "photo_url": "https://pubimg.futunn.com/2022050900000183801109a1f4d.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iNkNnNU5ZblJ3T0Y5cFpuZHRaR3B6VFJDS0FoaVFBeWdLTWc2QkFZUmdVbUp6V05oZTJHWlNMZw=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-23T09:00:43.000Z",
-    "authors": [],
-    "source_url": "https://news.futunn.com",
-    "source_name": "富途牛牛",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.futunn.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.futunn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": null,
     "related_topics": []
   },
   {
@@ -1892,29 +1769,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuT1hJM056WjBOeElDWlc0b0FBUAE",
         "topic_name": "Brendan Coffey"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMikAFBVV95cUxNSTBWbzkyOGpSWVZCRll6LXMtTjFndldsd1R1S0FveDd6RGF3OWRmLWRBTEtSLVFVUHhSOHEtc1k2bV9sNmpxQl93Y2l5Y215N25XTXRvM3lCSjhwenZTOXZPaGlNV1QwNGw5eTg3aUVkVHp5UFlENWl2WE40VkFOUWQ1MDFOMzM0eEIxaWM1bU8",
-    "title": "Morgan Stanley quietly buys Bitcoin amid selloff",
-    "link": "https://www.thestreet.com/crypto/markets/morgan-stanley-quietly-doubles-down-on-bitcoin",
-    "snippet": "We have seen a Bitcoin (BTC) sell-off this whole June, and the price is way below $70,000 for the past few days. In the third week of June, ...",
-    "photo_url": "https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_2122%2Cy_1212/MjIzNzgxMzMwNjM3MzAwODQ1/morgan-stanley.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVhPVzVDZFV4dlp6Um1ka0YxVFJEZ0F4aUFCU2dLTWdhVmdwZ3dzUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-06-19T15:24:25.000Z",
-    "authors": [
-      "Pooja Rajkumari"
-    ],
-    "source_url": "https://www.thestreet.com",
-    "source_name": "thestreet.com",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJvWlhOMGNtVmxkQzVqYjIwb0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1Ym5ad2RqZGpPQklDWlc0b0FBUAE",
-        "topic_name": "Pooja Rajkumari"
       }
     ]
   },
@@ -1995,5 +1849,129 @@
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pluang.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": null,
     "related_topics": []
+  },
+  {
+    "article_id": "CBMiuwFBVV95cUxOZWs3U2RzQW5FWTNpbWkzenlrdlpCUXE4NEk5MjdWWkljWXZLZnpvUnQ4bmFuV25DV2pERmxpeU9xQXdHVTY2YTZSUkFkamh6clBjSHlnazMxUjRHQW9PR0FsVlQya0pUUEF0ampweWNBZWNHRXJiUHlRZFpzX3g3cEEwUXlHdFBkWlRQY0I0SEEyeGNyNlV0VzBIQTFqS2dybUZYVUJpVUd0LWt6Nkh0aHRwM2dhYjJYOFhn",
+    "title": "New European License Boosts Cryptocurrency Market in Italy",
+    "link": "https://www.arabictrader.com/en/news/cryptocurrencies/220454/new-european-license-boosts-cryptocurrency-market-in-italy",
+    "snippet": "Observers believe that the MiCAR regulation has become a key factor in reshaping the European cryptocurrency market, pushing companies to comply with unified ...",
+    "photo_url": "https://www.arabictrader.com/cdn/atcop/imgs/caching/103705-crypto%20win%204-384x255.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNTNaRlpMV0d4UFJWZGlZVUYxVFJEX0FSaUFBeWdLTWdrQmtKQ05NU1kxendF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-17T18:03:54.000Z",
+    "authors": [],
+    "source_url": "https://www.arabictrader.com",
+    "source_name": "arabictrader.com",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.arabictrader.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.arabictrader.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLAgKIiZDQklTRmdnTWFoSUtFR0Z5WVdKcFkzUnlZV1JsY2k1amIyMG9BQVAB",
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMivgFBVV95cUxPOTgxbHlmd3FoZzVYVDY3d0hzMXBOVVNyM1JUM0d6RVBJRlJsV2VjTTVtakx4RU9TTmRaTS01Smg0ZmxmYXF2ZXk5ZElyU1V2akYxenZQdUN0SUdid2ttQnlURzVsZXJFS25iZ3NpZDZoRDIwY0t6cFo4VHNwcFFMcV9ub3N0WGt3TV9ndWFIM2NkTWc1bE14OXlpQ3A3UUM2UEMyUmZIMTktVXVpMGk5cXBtSnNUck9WbnV6eXJR0gG-AUFVX3lxTE85ODFseWZ3cWhnNVhUNjd3SHMxcE5VU3IzUlQzR3pFUElGUmxXZWNNNW1qTHhFT1NOZFpNLTVKaDRmbGZhcXZleTlkSXJTVXZqRjF6dlB1Q3RJR2J3a21CeVRHNWxlckVLbmJnc2lkNmhEMjBjS3pwWjhUc3BwUUxxX25vc3RYa3dNX2d1YUgzY2RNZzVsTXg5eWlDcDdRQzZQQzJSZkgxOS1VdWkwaTlxcG1Kc1RyT1ZudXp5clE",
+    "title": "Arthur Hayes Dumps Every Altcoin While Other Analysts Say Altcoin Bull Market Has Started",
+    "link": "https://coinpedia.org/news/arthur-hayes-dumps-every-altcoin-while-other-analysts-say-altcoin-bull-market-has-started/amp/",
+    "snippet": "Explore Arthur Hayes' market views as he sells all altcoin holdings amid changing investment dynamics.",
+    "photo_url": "https://image.coinpedia.org/wp-content/uploads/2026/06/19132403/Arthur-Hayes-Says-AI-Took-Money-From-Bitcoin-Explains-What-Happens-When-It-Crashes-1.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU5PVWwyU0VsRE4ycExUVkl4VFJDUUF4ai1CU2dLTWdrVlU1WXlJU21xS3dJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-22T07:52:29.000Z",
+    "authors": [
+      "Debashree Patra"
+    ],
+    "source_url": "https://coinpedia.org",
+    "source_name": "Coinpedia",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://coinpedia.org&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://coinpedia.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEV052YVc1d1pXUnBZUzV2Y21jb0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzYURsMmNYYzBOaElDWlc0b0FBUAE",
+        "topic_name": "Debashree Patra"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiowFBVV95cUxPZXl6Sll6cW5qN1l6VnVZZGlPUTZXd2JqdHAzS01kUzFlbmVFYXBWYjduaHlmM1VjSmY0SWQ4NEk5NlFPSS1VSzc2bkxNNUU4M2ZONW4tVHRlcEFmTXc2TFR5NUR3MUJQUXhOVTR5QW9COW1SN0NUVmpnQ3NXZUJnSDJJeHJjV3hXbzdleC1PWkVTRGdQdzBiWV9sNkkyNTBJeTlv",
+    "title": "Cryptocurrency prices show mixed movements with Bitcoin above $63,800 and notable gains in Solana and AAVE.",
+    "link": "https://pluang.com/en/news-feed/aktivitas-jaringan-bitcoin-naik-saat-harga-btc-turun-hampir-50-persen",
+    "snippet": "Cryptocurrency markets display varied price changes, with Bitcoin trading above $63,800, up 1.08%, and Ethereum also rising by 1.51%.",
+    "photo_url": "https://image-cdn.pluang.com/web/compressed/fundamentals.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNUMnBDTjFwaFZHczRZMFpWVFJDSEF4aVBCaWdLTWdZQmNJYW9yQVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-20T15:28:36.000Z",
+    "authors": [],
+    "source_url": "https://pluang.com",
+    "source_name": "Pluang",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pluang.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pluang.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": null,
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMiW0FVX3lxTE5SSFN4VGRSeEp1dWlhdmh6UFZTMllSNm5mNGd3ck5aZDJvd013bGJDNi1RelRoN1djMzduSFRqZ003VmgySXl3YVk4c3RUcFN5eS0zeEhIOWNudlk",
+    "title": "#btc #stockmarket #crash #gold #bitcoin #cryptocurrency #trading #xauusd #ethereum #solana Neymar (sCB2wei9e6)",
+    "link": "https://mshale.com/e1cf094b/cae6b0cdxEm915_xEHM",
+    "snippet": "Welcome to the Ultimate Bitcoin Live Trading Experience! Join us as we dive deep into the world of cryptocurrency with live trading ...",
+    "photo_url": null,
+    "thumbnail_url": null,
+    "published_datetime_utc": "2026-06-19T09:25:10.000Z",
+    "authors": [
+      "Tom Gitaa"
+    ],
+    "source_url": "https://mshale.com",
+    "source_name": "Mshale",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mshale.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mshale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbTF6YUdGc1pTNWpiMjBvQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5ReGQzcHdhQklDWlc0b0FBUAE",
+        "topic_name": "Tom Gitaa"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMimAFBVV95cUxOT2FTcEpJV0prcHBMTVBRdTZTVEJEVmtKR2QxOF9ka3pzeTRnVUVtOXhHZ0VzT0FVMnZFWDJ0aXRTb3NMVk9BTW9hVjFMQUtpSVJrWGVTWE13akFDWW9YSng0a091S2ZQeTc4dHI3bDdaMTAyZ2k0YmNld2NaWjEycVFuYUR4ZUo2T1JXQkRDU2Q5RkphVnkybw",
+    "title": "Institutional Investors Are Buying This Top Cryptocurrency Hand-Over-Fist, According to Coinbase",
+    "link": "https://www.aol.com/articles/institutional-investors-buying-top-cryptocurrency-122800000.html",
+    "snippet": "Bitcoin(CRYPTO: BTC) is in a bear market now on paper; it's still 47% down from its all-time high near $126,000 set in October 2025. But John D'Agostino, head ...",
+    "photo_url": "https://hermes.media.static.aol.com/media/2026/06/18/6f4a2531-54d8-35fe-a1c0-39ca868edc50/8f256dbf-01af-412a-aeb7-140a88bcdca7.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNXhSazFvVkdKVGMxUnRVbmt4VFJERUF4aW5CU2dLTWdzQlFJeXRzYVlXaUFvNFRR=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-18T15:49:47.000Z",
+    "authors": [
+      "Alex Carchidi"
+    ],
+    "source_url": "https://www.aol.com",
+    "source_name": "AOL.com",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aol.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkZ2YkM1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RSNmJUUnRZeElDWlc0b0FBUAE",
+        "topic_name": "Alex Carchidi"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMif0FVX3lxTE5jMy1wRGdBUEk0T0ZLWENoVUxCX0NSQ240SlBmWGN2SUFqNVp3akZKXy1ISmJNSVA2eVh2Z3d6ckZEZ2NHSXJZdWtBTURnd0Vva1BpcUdNdGo1Y3lVUW1lRDdsR2dwOE5NV1lRRzVyX1AwY2M0MnRBa3ZtalRpZkE",
+    "title": "1 Top Cryptocurrency to Buy Before It Soars 123%, According to Analysts",
+    "link": "https://www.aol.com/articles/1-top-cryptocurrency-buy-soars-092000168.html",
+    "snippet": "Hyperliquid runs a decentralized exchange (DEX) for perpetual futures contracts, a type of financial derivative that tracks the price of an underlying asset and ...",
+    "photo_url": "https://s.yimg.com/lo/mysterio/api/8417117B777189EDDADB434C47EC992C672E65D8AD0A2C285759A6F389844848/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_the_motley_fool_392%2F9834dd4bb9fa5cdb294b4c58cbfc82b7",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxSelpuVnpWd0xVVXdZMEZFVFJERUF4aW1CU2dLTWdhcGRJYXZLUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-06-18T09:32:27.000Z",
+    "authors": [
+      "Alex Carchidi"
+    ],
+    "source_url": "https://www.aol.com",
+    "source_name": "AOL.com",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aol.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkZ2YkM1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RSNmJUUnRZeElDWlc0b0FBUAE",
+        "topic_name": "Alex Carchidi"
+      }
+    ]
   }
 ]
