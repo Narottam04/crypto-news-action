@@ -1,33 +1,5 @@
 [
   {
-    "article_id": "CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c",
-    "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-    "link": "https://www.reuters.com/technology/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-2026-10-30/",
-    "snippet": "Cryptocurrency prices fell on Friday after Binance reported a potential security issue and said more than $2.5 billion in assets had been ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/J4UVQ5OUGJM5NAMCHW76M2VVYI.jpg?auth=7467b16644af72ad7be62ae6d275e6e96e7e8001e85bdcc8afa9bf2996adcc69&width=1920&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDJOa2h3U1RobmVsZzJSMVZGVFJETkF4aVpCU2dLTWdrRmNJb0xKaWRrY1FF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-30T00:35:00.000Z",
-    "authors": [
-      "Tom Westbrook",
-      "Thomas Derpinghaus"
-    ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RM2EyUmtaeElDWlc0b0FBUAE",
-        "topic_name": "Tom Westbrook"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsM05YZDRZaElDWlc0b0FBUAE",
-        "topic_name": "Thomas Derpinghaus"
-      }
-    ]
-  },
-  {
     "article_id": "CBMiWkFVX3lxTE41eXZCYVB1MGRuVTgwNXMwcmJwMU1DenZtSGxyNlBZTU40OUxtT0JBbjZtZ3NKUXFmZTM2R2swZTJudGNZTV9GaVBsM05jRjBUZ0ctSy1rMDd0UQ",
     "title": "From Bitcoin to Binance: Crypto terms and what they mean",
     "link": "https://www.bbc.com/news/articles/cy5w2k5k5ylo",
@@ -61,10 +33,38 @@
     ]
   },
   {
+    "article_id": "CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c",
+    "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+    "link": "https://www.reuters.com/technology/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-2026-10-30/",
+    "snippet": "Cryptocurrency prices fell on Friday after Binance reported a potential security issue and said more than $2.5 billion in assets had been ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/J4UVQ5OUGJM5NAMCHW76M2VVYI.jpg?auth=7467b16644af72ad7be62ae6d275e6e96e7e8001e85bdcc8afa9bf2996adcc69&width=1920&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNDJOa2h3U1RobmVsZzJSMVZGVFJETkF4aVpCU2dLTWdrRmNJb0xKaWRrY1FF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-30T00:35:00.000Z",
+    "authors": [
+      "Tom Westbrook",
+      "Thomas Derpinghaus"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5RM2EyUmtaeElDWlc0b0FBUAE",
+        "topic_name": "Tom Westbrook"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsM05YZDRZaElDWlc0b0FBUAE",
+        "topic_name": "Thomas Derpinghaus"
+      }
+    ]
+  },
+  {
     "article_id": "CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV95cUxNR3lRVHNvRWxOY21XeW9NZnFCb2JxRlpSbUxaRXM5NldrMWdIVmJCejhWZ0NZZ21VMWR0d0ZMQUNZTlM5Y3lKZjBKeDJYTkhpaVl5NE5ZZ2hSalhSU0JFemlFdmF5aTZIUjZfUkUySUVEUHhTRkxNZGJCQXk3Rml2S1gyUWw3TmVQR3l1Z2hBQUNTU09Pa1hWcEtWVXhxYTYxa01xSjZxQ3NhZw",
     "title": "Bitcoin tumbles as Binance hack rattles crypto markets",
     "link": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
-    "snippet": "Bitcoin fell on Friday after a $6.3 billion hack at cryptocurrency exchange Binance rattled digital asset markets.",
+    "snippet": "Bitcoin fell on Friday after a $6.3 billion hack at cryptocurrency exchange Binance rattled digital asset markets. Cryptocurrency firms froze ...",
     "photo_url": "https://image.cnbcfm.com/api/v1/image/108373743-1791342277720-gettyimages-2296543585-img_3420.jpeg?v=1793320464&w=1600&h=900",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVFORFJuVEd3dGFWaE1WV1IwVFJDZkF4ampCU2dLTWdZMU1vNXd1UVU=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-10-30T00:32:00.000Z",
@@ -139,34 +139,6 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0",
-    "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-    "link": "https://apnews.com/article/binance-cryptocurrency-security-hack-north-korea-550e9b876550f71f07098494fe735beb",
-    "snippet": "Binance, the world's biggest cryptocurrency exchange, says hackers stole more than $6 billion in what appears to be the largest ...",
-    "photo_url": "https://dims.apnews.com/dims4/default/58132a2/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F6b%2F2d9dbcb6838c0c5f7062ed8434f5%2F0d3897c9038841358ebcbce5534d9875",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXFhVU00Ums1VU9FbElTRWgxVFJDUEF4alhCQ2dLTWdNSll3dw=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-31T12:00:00.000Z",
-    "authors": [
-      "Kaitlyn Huamani",
-      "Thomas Chan Ho-him"
-    ],
-    "source_url": "https://apnews.com",
-    "source_name": "AP News",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTVRCc2VEazVhaElDWlc0b0FBUAE",
-        "topic_name": "Kaitlyn Huamani"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5TTJSeWFHczVPUklDWlc0b0FBUAE",
-        "topic_name": "Thomas Chan Ho-him"
-      }
-    ]
-  },
-  {
     "article_id": "CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWDlvaFF5aFB1RHQxQVpaSFdqRA",
     "title": "Massive crypto hack probably the largest theft of digital currencies in history",
     "link": "https://www.washingtonpost.com/technology/2026/10/29/suspected-binance-hack-sets-off-scramble-lock-down-billions-crypto/",
@@ -222,35 +194,12 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMitAFBVV95cUxOVFlYZ2lnMkNlbVREV25fR1VZbUhvWTZqbGtwRkZRS2lmWGhWemF2YXlRRkhucE5GUVJkanlCV055eWFsb1R3eS15aTMtZXRwSTR6eXE4LUlHZW5RZ1FxbTNqTDhiQUJEbXJHVk1fUlFvWTgtNFcxQ3ZpVE9kTHVvUGhNZ21FbkRBNjVoem1nUnd3ZkQ0Q0g4Z1FVejlFUzRXSFBxbXdZdmlIZ0c1MlQ0andzcUg",
-    "title": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/prediction-cryptocurrency-outperform-bitcoin-2027-093300609.html",
-    "snippet": "Up 200% year to date, this AI cryptocurrency could skyrocket even higher in 2027. NEAR Protocol (CRYPTO: NEAR) is up 173% over the past 90 days ...",
-    "photo_url": "https://s.yimg.com/lo/mysterio/api/2c250d52dd3f3a8870b569a7b29187028987af4ea2604c042f44e21600aa240a/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe859edac2901e8a0b47a732abfe7dce8.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtZV1pKY0hCVmFrTlBRV2gzVFJDZkF4ampCU2dLTWdZeGM0U1ByUVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-29T09:33:00.000Z",
-    "authors": [
-      "Dominic Basulto"
-    ],
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNwemJUQnhlaElDWlc0b0FBUAE",
-        "topic_name": "Dominic Basulto"
-      }
-    ]
-  },
-  {
     "article_id": "CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc",
     "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
     "link": "https://investingnews.com/cryptocurrency-market-recap/",
     "snippet": "Bitcoin (BTC) was priced at US$81,541.46, trading 1.6 percent lower over the past 24 hours.",
-    "photo_url": "https://investingnews.com/media-library/image.jpg?id=68576703&width=2000&height=1500&coordinates=282%2C0%2C282%2C0",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNVVNRkZrZDFSV016Y3hNa3B5VFJEZ0F4aUFCU2dLTWdrRlVJalJLS2RxOGdB=-w200-h200-p-df-rw",
+    "photo_url": "https://investingnews.com/media-library/silver-and-gold-bitcoin-coins-scattered-over-us-100-bills.jpg?id=33987382&width=1200&height=800&quality=70&coordinates=0%2C0%2C0%2C0",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iMkNnNU9kMVkwYUROUGVHNDFZV2x3VFJERUF4aW1CU2dLTWdzQkFJU2tUYU1sekhtcWFR=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-11-02T20:05:00.000Z",
     "authors": [
       "Giann Liguid"
@@ -264,6 +213,29 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYyZVhrM1pHWTNNaElDWlc0b0FBUAE",
         "topic_name": "Giann Liguid"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMitAFBVV95cUxOVFlYZ2lnMkNlbVREV25fR1VZbUhvWTZqbGtwRkZRS2lmWGhWemF2YXlRRkhucE5GUVJkanlCV055eWFsb1R3eS15aTMtZXRwSTR6eXE4LUlHZW5RZ1FxbTNqTDhiQUJEbXJHVk1fUlFvWTgtNFcxQ3ZpVE9kTHVvUGhNZ21FbkRBNjVoem1nUnd3ZkQ0Q0g4Z1FVejlFUzRXSFBxbXdZdmlIZ0c1MlQ0andzcUg",
+    "title": "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/prediction-cryptocurrency-outperform-bitcoin-2027-093300609.html",
+    "snippet": "Bitcoin (CRYPTO: BTC), which soared more than 40% in Q3, NEAR Protocol (CRYPTO: NEAR) is up 173% over the past 90 days, and nearly 200% for the ...",
+    "photo_url": "https://s.yimg.com/lo/mysterio/api/04c16fac4347ff028f2f289cf552338031c72ec9e956e68aabbe82fdd3c1eb54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe859edac2901e8a0b47a732abfe7dce8.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWthV3BqYlRrdGEzTlhURVprVFJDZkF4ampCU2dLTWdZdGM0U1ByUVE=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-29T09:33:00.000Z",
+    "authors": [
+      "Dominic Basulto"
+    ],
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNwemJUQnhlaElDWlc0b0FBUAE",
+        "topic_name": "Dominic Basulto"
       }
     ]
   },
@@ -330,6 +302,80 @@
     ]
   },
   {
+    "article_id": "CBMimAFBVV95cUxQNGV5cWJNWTZhR25sblhkZlBwTklKc3hYMHNtaGtFSG9ndHZCYjFEbXNTQzI4OWVIRHFzWEhqN3Z4MXNpUlN4ekgtT3lEVXc0X2JFeFJFUUZsbzJsbHppaVB0T1JyX0hPaG1SVUZsbmZ4UzJYNXNLOXZPeEpKTUs4VEV0VkUxakJFVEJWVWlGelN3RlJLRkNhUtIBngFBVV95cUxOMHB6ZnhSd1hCdHA4Tk1GZWUxV1FocVdRUVZLak1jWm82Q200dnlsaGpVVk95QWJFM293ejlIYW5EemtzQWYzbUZEcThJZUQwYWRib1VkZUptUHA4US1wd0pBOWxuYmcxY1pTM0NGVDVkNWhReG5zeTI2eGtUd3l4VUlTVFBJRUtuY0FCcmx6MHV0b1ZMTnU1amVNT3E1QQ",
+    "title": "What Democrats' midterm victory means for your crypto investments, according to experts",
+    "link": "https://www.cnbc.com/make-it/2026/11/04/democrats-congress-crypto-regulation-clarity-act.html",
+    "snippet": "Democrats' takeover of Congress could bring greater scrutiny and stronger oversight of the cryptocurrency industry.",
+    "photo_url": "https://image.cnbcfm.com/api/v1/image/108342430-1793820973616-108342430-1785418479513-gettyimages-2278582300-dsc09016.jpeg?v=1793821023&w=1600&h=900",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUhZMDh4VjBsV1dIcElYMnR6VFJDZkF4ampCU2dLTWdZQmRJYU9zUU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T20:18:21.000Z",
+    "authors": [
+      "Mike Winters"
+    ],
+    "source_url": "https://www.cnbc.com",
+    "source_name": "CNBC",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ3ZHpZNGNuUXpjaElDWlc0b0FBUAE",
+        "topic_name": "Mike Winters"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ",
+    "title": "Crypto tracks stocks higher after Democrat midterm wins",
+    "link": "https://www.reuters.com/business/finance/crypto-dips-democrat-midterm-wins-binance-hack-dent-optimism-2026-11-04/",
+    "snippet": "Cryptocurrencies briefly dipped on Wednesday as Democrats won majorities in both the Senate and the House in the US midterm elections.",
+    "photo_url": "https://www.reuters.com/resizer/v2/3MW5DAEVVVL5DB77G4NKIKGOGY.jpg?auth=62115df14435e9d5c86829c8878a5051311300fd40ef35f4aa6ade9f5be06255&height=1920&width=1920&quality=80&smart=true",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHlVRTVIZGtOVE4ycDVTVEF4VFJDcUJCaXFCQ2dLTWdhWmhZN01zUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T07:35:00.000Z",
+    "authors": [
+      "Amanda Cooper",
+      "Jiaxing Li"
+    ],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlhFeFluQmZkeElDWlc0b0FBUAE",
+        "topic_name": "Amanda Cooper"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0YkhZMWFHMHlhQklDWlc0b0FBUAE",
+        "topic_name": "Jiaxing Li"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB",
+    "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
+    "link": "https://www.britannica.com/money/cryptocurrency-etf-investing",
+    "snippet": "A crypto spot price ETF directly owns a cryptocurrency, such as Bitcoin or Ethereum, and sells shares in the ETF to investors. Each share ...",
+    "photo_url": "https://cdn.britannica.com/52/258652-004-82E9F29E/ETF-tile-on-abstract-digital-matrix-background.jpg?w=385",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1jMGd3TFZKM05XVmFWeTFzVFJDb0FSaXNBaWdCTWdZQklwQVFzUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-31T07:00:00.000Z",
+    "authors": [
+      "Allie Grace Garnett"
+    ],
+    "source_url": "https://www.britannica.com",
+    "source_name": "Britannica",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUp5YVhSaGJtNXBZMkV1WTI5dEtBQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OcmMyaHpkaElDWlc0b0FBUAE",
+        "topic_name": "Allie Grace Garnett"
+      }
+    ]
+  },
+  {
     "article_id": "CBMizgFBVV95cUxPamY3Mk11cHc4Sm1FcjFUaGxnMzJsVlBTQ29SZHBfLW5OZEk4b01IT2xmMExvYkV3cjlrNFBiNC1LV0NYSVk5WG5FejRtVXoydlF1SVVfN0g3bndRRHhBdjNPOUFUZUdyQWpERGJIVHBwSXJveFB3NXl5Yl8tcDdZTnZWZk5HVXZvZEo0bUhGZVl6dmh4TS1wT19XRlB0YVl1MmhwY0JzUHg4UmJMb3ZRZnQwclJySG5SemdSZkpuZkNWck45ZlMyWW1oMkIwUQ",
     "title": "Binance says outflows normalised as North Korea rejects US allegation over heist",
     "link": "https://www.reuters.com/world/asia-pacific/north-korea-says-claims-linking-it-binance-heist-are-absurd-rhetoric-kcna-says-2026-11-02/",
@@ -359,52 +405,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5YzJOM1kyWXplQklDWlc0b0FBUAE",
         "topic_name": "Rae Wee"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMibkFVX3lxTE1GcnNPZEJqdFNvRlR3VUMwSFV3Szk3NGxMeHNHSWoxQnZqMmtaQnFfTUdIbzh4Y2M1M3lfQ055T0xGdndrRDhmTTVRb0NyaVc4cXpJejZJa2NndjBHRDRpZkE3dkdhUHRwMmVtOEtB",
-    "title": "Cryptocurrency ETFs: How Do They Work & Should You Invest?",
-    "link": "https://www.britannica.com/money/cryptocurrency-etf-investing",
-    "snippet": "Bitcoin exchange-traded funds (ETFs) set the crypto markets buzzing in early 2024, when the first batch of spot price ETFs received approval ...",
-    "photo_url": "https://cdn.britannica.com/52/258652-004-82E9F29E/ETF-tile-on-abstract-digital-matrix-background.jpg?w=385",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU1jMGd3TFZKM05XVmFWeTFzVFJDb0FSaXNBaWdCTWdZQklwQVFzUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-31T07:00:00.000Z",
-    "authors": [
-      "Allie Grace Garnett"
-    ],
-    "source_url": "https://www.britannica.com",
-    "source_name": "Britannica",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbUp5YVhSaGJtNXBZMkV1WTI5dEtBQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4Ym1OcmMyaHpkaElDWlc0b0FBUAE",
-        "topic_name": "Allie Grace Garnett"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT",
-    "title": "Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist",
-    "link": "https://www.reuters.com/legal/government/binance-resumes-bitcoin-withdrawals-after-covering-bulk-stolen-63-billion-2026-11-01/",
-    "snippet": "Binance customers pulled $3.64 billion, or 2.1% of its assets, as the world's biggest cryptocurrency exchange went back online on Sunday",
-    "photo_url": "https://www.reuters.com/resizer/v2/4RUNJJDKPJPPXFJA576UW6YJEU.jpg?auth=d803947368d2c3d0ea1585957a160f2dd2f29907d69523bc7918b71b3b25a92e&width=1080&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdZVTVoV25oWVNuSkhVWHBoVFJETkF4aVpCU2dLTWdZQlJJeXNzUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-01T17:23:43.000Z",
-    "authors": [
-      "Shubham Kalia"
-    ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1wMGNUTmlNeElDWlc0b0FBUAE",
-        "topic_name": "Shubham Kalia"
       }
     ]
   },
@@ -455,30 +455,25 @@
     ]
   },
   {
-    "article_id": "CBMiswFBVV95cUxPMUFUdUF2M1VTUGNuNjdfek4xeXZfV0ZOd2lzTEZWQ0p4ZW1xRHlpYTYxamhrTF81Qm5fdVQyZGlEVjFLck5YU01kMkZwTEFXZlVpSk9RRHVVVEN2Y05ja29QVHA4Z2tBRXhLS1g2X1lmb1NFclZWZnFueC0tNURqamN0TUxyWExHV1BuN3lmc2hVOUhaNG5Ga3g5MGxUWDBuMEFaZ0ZXV1lGRTMwdWVnM3EwSQ",
-    "title": "Crypto tracks stocks higher after Democrat midterm wins",
-    "link": "https://www.reuters.com/business/finance/crypto-dips-democrat-midterm-wins-binance-hack-dent-optimism-2026-11-04/",
-    "snippet": "Cryptocurrencies recovered on Wednesday from overnight losses triggered by the Democrats winning control of both houses of the US ‌Congress ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg?auth=d9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20&height=1005&width=1920&quality=80&smart=true",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUROa0l3UmxCVFVtaDRhMDVRVFJDUUF4ai1CU2dLTWdrQkVvcHdHV25RQ2dJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-04T07:35:00.000Z",
+    "article_id": "CBMiekFVX3lxTE5JRWdCcXZGN09kampnMmRmVXZocFpZTjM5UHBWY2xrc21jTGxuTzR5T3lzSE1MaWROSjk1SnFYanVLYW01SWhvNnB4cVNlZTBDQlYwNERBYW42ZzVPbXhWMGZJVmEydkRXam1sRnQ3MUVHOGwzRy1jTndn",
+    "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+    "link": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+    "snippet": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer's work ...",
+    "photo_url": "https://static01.nyt.com/images/2026/11/03/business/03biz-binance-sub/03biz-binance-sub-articleLarge.jpg?quality=75&auto=avif&disable=upscale",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVUVXgxVWtKdlpHNW1ZV05pVFJDUUF4allCQ2dLTWdhaFFwQnRxUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T15:57:29.000Z",
     "authors": [
-      "Amanda Cooper",
-      "Jiaxing Li"
+      "Emmy Martin"
     ],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "source_url": "https://www.nytimes.com",
+    "source_name": "The New York Times",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TlhFeFluQmZkeElDWlc0b0FBUAE",
-        "topic_name": "Amanda Cooper"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0YkhZMWFHMHlhQklDWlc0b0FBUAE",
-        "topic_name": "Jiaxing Li"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5WW1wdGVHY3diQklDWlc0b0FBUAE",
+        "topic_name": "Emmy Martin"
       }
     ]
   },
@@ -532,7 +527,7 @@
     "article_id": "CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE",
     "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog",
     "link": "https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?syn-25a6b1a6=1",
-    "snippet": "Venture linked to billionaire Trump backer Justin Sun sued by FCA for 'unlawfully promoting crypto asset services'",
+    "snippet": "The court case was the first by the FCA against a crypto company under the UK's financial promotion rules, under which digital asset businesses ...",
     "photo_url": "https://images.ft.com/v3/image/raw/ftcms%3A07047876-6b2e-4aeb-ab1a-68461dbec26d?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXZTSFpaZGtWS1NXUmtVazlYVFJDZkF4ampCU2dLTWdtbFFvcHVvYWx6TXdF=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-10-29T12:12:38.000Z",
@@ -545,25 +540,30 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMigwFBVV95cUxObEpvZTJESmtzMW9TVV9TSTl2bkhjdGRYLWh0SF9PaW5nYlpZTVZqRXVTN1NybEg0VGU4ZGRfYjR0aWpZdjdtQS1VN21SSW5KWlZpT2dQS0YybmptdGlNTEVnclY1dmgwUlc1VGE2cWcyQkRVaGFVSlp4WVlvVTFVUzZGMA",
-    "title": "Hackers Exploit BTCPay Server Flaw to Steal Cryptocurrency",
-    "link": "https://www.infosecurity-magazine.com/news/btcpay-server-flaw-cryptocurrency/",
-    "snippet": "Hackers have stolen cryptocurrency from hot wallets on outdated BTCPay Server instances, with blockchain analysis tracing about $1.63m in ...",
-    "photo_url": "https://assets.infosecurity-magazine.com/webpage/og/2f911fc2-9a9e-4b17-bf59-36b5e807e43a.jpeg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBNMnBFUlc1b1IxTnRaRWhUVFJDc0FoaXNBaWdLTWdZQlk1Um5MUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T14:30:00.000Z",
+    "article_id": "CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0",
+    "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+    "link": "https://apnews.com/article/binance-cryptocurrency-security-hack-north-korea-550e9b876550f71f07098494fe735beb",
+    "snippet": "Binance, the world's biggest cryptocurrency exchange, says hackers stole more than $6 billion in what appears to be the largest ...",
+    "photo_url": "https://dims.apnews.com/dims4/default/58132a2/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F6b%2F2d9dbcb6838c0c5f7062ed8434f5%2F0d3897c9038841358ebcbce5534d9875",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iJ0NnNXFhVU00Ums1VU9FbElTRWgxVFJDUEF4alhCQ2dLTWdNSll3dw=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-31T12:00:00.000Z",
     "authors": [
-      "Alessandro Mascellino"
+      "Kaitlyn Huamani",
+      "Thomas Chan Ho-him"
     ],
-    "source_url": "https://www.infosecurity-magazine.com",
-    "source_name": "Infosecurity Magazine",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infosecurity-magazine.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infosecurity-magazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqOAgKIjJDQklTSHdnTWFoc0tHV2x1Wm05elpXTjFjbWwwZVMxdFlXZGhlbWx1WlM1amIyMG9BQVAB",
+    "source_url": "https://apnews.com",
+    "source_name": "AP News",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsM01HSjROaElDWlc0b0FBUAE",
-        "topic_name": "Alessandro Mascellino"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTVRCc2VEazVhaElDWlc0b0FBUAE",
+        "topic_name": "Kaitlyn Huamani"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5TTJSeWFHczVPUklDWlc0b0FBUAE",
+        "topic_name": "Thomas Chan Ho-him"
       }
     ]
   },
@@ -591,6 +591,29 @@
     ]
   },
   {
+    "article_id": "CBMigwFBVV95cUxObEpvZTJESmtzMW9TVV9TSTl2bkhjdGRYLWh0SF9PaW5nYlpZTVZqRXVTN1NybEg0VGU4ZGRfYjR0aWpZdjdtQS1VN21SSW5KWlZpT2dQS0YybmptdGlNTEVnclY1dmgwUlc1VGE2cWcyQkRVaGFVSlp4WVlvVTFVUzZGMA",
+    "title": "Hackers Exploit BTCPay Server Flaw to Steal Cryptocurrency",
+    "link": "https://www.infosecurity-magazine.com/news/btcpay-server-flaw-cryptocurrency/",
+    "snippet": "Hackers have stolen cryptocurrency from hot wallets on outdated BTCPay Server instances, with blockchain analysis tracing about $1.63m in ...",
+    "photo_url": "https://assets.infosecurity-magazine.com/webpage/og/2f911fc2-9a9e-4b17-bf59-36b5e807e43a.jpeg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTBNMnBFUlc1b1IxTnRaRWhUVFJDc0FoaXNBaWdLTWdZQlk1Um5MUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T14:30:00.000Z",
+    "authors": [
+      "Alessandro Mascellino"
+    ],
+    "source_url": "https://www.infosecurity-magazine.com",
+    "source_name": "Infosecurity Magazine",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infosecurity-magazine.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infosecurity-magazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqOAgKIjJDQklTSHdnTWFoc0tHV2x1Wm05elpXTjFjbWwwZVMxdFlXZGhlbWx1WlM1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsM01HSjROaElDWlc0b0FBUAE",
+        "topic_name": "Alessandro Mascellino"
+      }
+    ]
+  },
+  {
     "article_id": "CBMi3gFBVV95cUxPN3Nib1c2OXNTZmMtQ0p2QkFFcW5zVHBHUVplbGo3SXotV2pJUnlWTzFxaFVLaUhWMXp3ZGU5QnloMklIalVHY3U0YmthTExvelNUNWlQajlyMm01N3FnRUgtQkFwaHIzc1JQQVgyb1FYQjBJRHlyNkhXZXNheW53N1FBaW5aU0c3M210OVJVT1ZMdnZURktYaS1WTXEwcEh1U2Q5ZnpyRkc3bks4TGpvV2xQLXNXTVhTeE0xTF84TDJ0WVdRUkIydEFDdHAxUXBUS0JHZ3U2cnZtaVpEN3c",
     "title": "The US$6.3 billion Binance hack is the biggest heist ever – it should be a wake up call for cryptocurrency users",
     "link": "https://theconversation.com/the-us-6-3-billion-binance-hack-is-the-biggest-heist-ever-it-should-be-a-wake-up-call-for-cryptocurrency-users-295623",
@@ -610,6 +633,34 @@
       {
         "topic_id": "CAAqJggKIiBDQkFTRWdvTUwyY3ZNVEV6ZEROeWVucHRFZ0psYmlnQVAB",
         "topic_name": "Iwa Salami"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMirAFBVV95cUxOMXRxNkdHbzFvRy1hczJULWxvQ0FsOG15R052N0U5eXFqNTBTM0pZeERoRmZTYnR0RzIzYjdYSzBNVlBxSlRMRjVxNG9SM2VhZlY0UUlMcXdyaUdNSDMtNFRYRURCTzNuNU5mY25rZ1FSUkZ1cGo5YWhSSTlBYi1HQm5GX1VRUVdQZFRrVE15S2NFYlNXdHJCbTlxeVpfVG8tdm5qenhCRHF1d3ZO0gGyAUFVX3lxTE9HTkk5N1dEdjR2ZVd1WWVvVlhFeHlRQjk0a2hCQ2JMNnFEV3RobGQyRUZFV290WmVhTlIzNU1tTmZ3OHdzVkZBQ3FoLUI1TzJaOGZOME9uQmozZW1MMmcybFhWRG5JYUJxR1A3dEhXSEhFRWxDdEpvSlUyZERRQ3dhLVl5NDZtcWFBd0FPMlVkeUQ5elJDVzFjRHRFQjVMeEdaem1FNW5fMEZFR0NUVFRveVE",
+    "title": "$6.3 billion Binance hack is largest crypto theft on record",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "snippet": "Binance said Friday that a security incident impacted about $6.3 billion in client assets, with around $3 billion frozen on-chain, marking the ...",
+    "photo_url": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1600&h=900",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZYM1JUYjNCaVVVMXJTR3Q1VFJDZkF4ampCU2dLTWdZWmRJNnFMUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-29T22:01:00.000Z",
+    "authors": [
+      "Liz Napolitano",
+      "Davis Giangiulio"
+    ],
+    "source_url": "https://www.cnbc.com",
+    "source_name": "CNBC",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzWXpocU9YRnFaQklDWlc0b0FBUAE",
+        "topic_name": "Liz Napolitano"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1WjNRNGJtcDJjaElDWlc0b0FBUAE",
+        "topic_name": "Davis Giangiulio"
       }
     ]
   },
@@ -637,38 +688,10 @@
     ]
   },
   {
-    "article_id": "CBMirAFBVV95cUxOMXRxNkdHbzFvRy1hczJULWxvQ0FsOG15R052N0U5eXFqNTBTM0pZeERoRmZTYnR0RzIzYjdYSzBNVlBxSlRMRjVxNG9SM2VhZlY0UUlMcXdyaUdNSDMtNFRYRURCTzNuNU5mY25rZ1FSUkZ1cGo5YWhSSTlBYi1HQm5GX1VRUVdQZFRrVE15S2NFYlNXdHJCbTlxeVpfVG8tdm5qenhCRHF1d3ZO0gGyAUFVX3lxTE9HTkk5N1dEdjR2ZVd1WWVvVlhFeHlRQjk0a2hCQ2JMNnFEV3RobGQyRUZFV290WmVhTlIzNU1tTmZ3OHdzVkZBQ3FoLUI1TzJaOGZOME9uQmozZW1MMmcybFhWRG5JYUJxR1A3dEhXSEhFRWxDdEpvSlUyZERRQ3dhLVl5NDZtcWFBd0FPMlVkeUQ5elJDVzFjRHRFQjVMeEdaem1FNW5fMEZFR0NUVFRveVE",
-    "title": "$6.3 billion Binance hack is largest crypto theft on record",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "snippet": "Binance said Friday that a security incident impacted about $6.3 billion in client assets, with around $3 billion frozen on-chain, marking the ...",
-    "photo_url": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1600&h=900",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUZYM1JUYjNCaVVVMXJTR3Q1VFJDZkF4ampCU2dLTWdZWmRJNnFMUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-29T22:01:00.000Z",
-    "authors": [
-      "Liz Napolitano",
-      "Davis Giangiulio"
-    ],
-    "source_url": "https://www.cnbc.com",
-    "source_name": "CNBC",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR051WW1NdVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYzWXpocU9YRnFaQklDWlc0b0FBUAE",
-        "topic_name": "Liz Napolitano"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1T0dNeFh6WjRlaElDWlc0b0FBUAE",
-        "topic_name": "Davis Giangiulio"
-      }
-    ]
-  },
-  {
     "article_id": "CBMib0FVX3lxTE5iaWJIRHFwWDB2Mk5KMDBaNzhHdWtVOG5sUEhuaGxPdmpKZFRzb3VwVVlrbGpKaWgtSEhVMUFwUEFudll1NE5YcGJKNWxNaFRSeDRXRXVjYVUxWEdvbjhGQ0ZRTlhzVTlvZGZ1RjRRTQ",
     "title": "Binance says $6.3B US hacked in what could be largest cryptocurrency theft ever",
     "link": "https://www.cbc.ca/news/business/binance-north-korea-9.7402446",
-    "snippet": "A U.S.-based blockchain intelligence firm says North Korean hackers were likely behind the theft of $6.3 billion US — nearly $9 billion Cdn — on ...",
+    "snippet": "North Korean hackers were likely behind the theft of $6.3 billion US — nearly $9 billion Cdn — on Binance, the world's largest cryptocurrency ...",
     "photo_url": "https://i.cbc.ca/ais/6130e084-1790-445c-bd5e-6b8f0dd85a29,1793358518038/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C133%2C5330%2C2998%29%3B",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNSRzVyU2psWWRITktNWE5pVFJDZkF4ampCU2dLTWdhcFpZYk5LUWc=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-10-30T16:32:13.000Z",
@@ -748,19 +771,19 @@
     ]
   },
   {
-    "article_id": "CBMihwFBVV95cUxNNm9yeUVlVkVwM3RFNm1tMGFnMEVWellmVDZQQ2lGQ2hRR3VsMUVuSFVEN29BRHZ3Wnk0b0k2SVFpUk5WcGRYRW1Kck0tR3lSeDdiTy1LdTNMZGNBcGpndUUwNkRDRl9NNmRsZFZhWkhqa3VOY3VJcGdXU0k5d2dydThGc183cGM",
-    "title": "Mapping the Market: Bitcoin could extend losses",
-    "link": "https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/",
-    "snippet": "Bitcoin has struggled this year, falling more than 40% from peak to trough. Though it's now down only about 11% since the start of 2026, ...",
-    "photo_url": "https://www.reuters.com/resizer/v2/6QVT62SFQVOCRFUYRQ6K62PWKY.jpg?auth=79c17a5b939a4a226795570bfb171a389e1c4891a71c721d9c55145d4e9d161d&width=1920&quality=80",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlha0U0ZVhsUGMzWmtkamxxVFJERUF4aW5CU2dLTWdZQkVJNk5NUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-04T11:06:09.000Z",
+    "article_id": "CBMiT0FVX3lxTE9jaGJ1dEJHT0dkRFFQUlQxS3JXaGJLWTBVbHRCeVBEV1d0NmVVMXkyUVNvTTdjRVZtSVdsQjdmaEF2dU9tcU9IWWpUSEg0dW8",
+    "title": "8 Best Crypto Wallets of November 2026",
+    "link": "https://money.com/best-crypto-wallets/",
+    "snippet": "Own crypto—and bank, borrow, invest—all in one app. Access cryptocurrencies like Bitcoin, Ethereum, Solana, and over 30 more coins. OKX Wallet ...",
+    "photo_url": "https://money.com/wp-content/uploads/2023/12/Best-Crypto-Wallet.jpg?quality=60",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtiRUkyVG1RMmNYcGthMlZHVFJERUF4aW1CU2dLTWdZbE5Zck5JUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-02T08:00:00.000Z",
     "authors": [],
-    "source_url": "https://www.reuters.com",
-    "source_name": "Reuters",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "source_url": "https://money.com",
+    "source_name": "MONEY",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://money.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://money.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzF2Ym1WNUxtTnZiU2dBUAE",
     "related_topics": []
   },
   {
@@ -787,20 +810,27 @@
     ]
   },
   {
-    "article_id": "CBMiT0FVX3lxTE9jaGJ1dEJHT0dkRFFQUlQxS3JXaGJLWTBVbHRCeVBEV1d0NmVVMXkyUVNvTTdjRVZtSVdsQjdmaEF2dU9tcU9IWWpUSEg0dW8",
-    "title": "8 Best Crypto Wallets of November 2026",
-    "link": "https://money.com/best-crypto-wallets/",
-    "snippet": "Own crypto—and bank, borrow, invest—all in one app. Access cryptocurrencies like Bitcoin, Ethereum, Solana, and over 30 more coins. OKX Wallet ...",
-    "photo_url": "https://money.com/wp-content/uploads/2023/12/Best-Crypto-Wallet.jpg?quality=60",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWtiRUkyVG1RMmNYcGthMlZHVFJERUF4aW1CU2dLTWdZbE5Zck5JUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T08:00:00.000Z",
-    "authors": [],
-    "source_url": "https://money.com",
-    "source_name": "MONEY",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://money.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://money.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzF2Ym1WNUxtTnZiU2dBUAE",
-    "related_topics": []
+    "article_id": "CBMiqwFBVV95cUxNVkZDN1pkXzlfcFZheDQ1LTROaVVTdDA2bGI3LVdmRmhNa3BtVnFkVGNKcWczemJEWVRDUHRlTGpJckVQZUI3YVBSU243U21ESkZ0Sng5UTFvbWwtOVdEVFBFN3I4VTZxWWdIc0dYa3hTWjN1bDhyVDByblZxZmk0TGMyZFUzVWNHempVbnNTWjZSdTJUdkM4QU9xSGxCN0lHQ2pXWGZ5TTNmUVE",
+    "title": "Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/googles-cryptocurrency-reason-buy-ethereum-123500300.html",
+    "snippet": "There will soon be a new crypto security service offered by Alphabet (NASDAQ: GOOGL), and it could well provide a mild boost for Ethereum ...",
+    "photo_url": "https://s.yimg.com/lo/mysterio/api/0518578aba13a9cb78588bd331b9ddebf971adf86e1e31838ffb8ae4eea467b9/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4498f75adccd3b018494b25e3f97d5e5.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUNObVJKY2tGMWJVRjVTa2RxVFJERUF4aW1CU2dLTWdZSmNaVFROQWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T12:35:00.000Z",
+    "authors": [
+      "Alex Carchidi"
+    ],
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZxY0RSNmJUUnRZeElDWlc0b0FBUAE",
+        "topic_name": "Alex Carchidi"
+      }
+    ]
   },
   {
     "article_id": "CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU",
@@ -833,6 +863,29 @@
     "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://13wham.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDakV6ZDJoaGJTNWpiMjBvQUFQAQ",
     "related_topics": []
+  },
+  {
+    "article_id": "CBMihwFBVV95cUxPWEhnY1ZiaThvU0NwQWQ2djhnZHFESEgzekkySmlIU2Qwa19ndVd4V3cydGVyQmZ1a3FXU3hJRzVibkY0ck1tS05qZ2lQNDdqa1d0QXNzRjZpZVBqcUlhdEJZaFAzZDhibmppODhJT3Fhcy1KRHJWX3FqU0dwWmNldVktazI4dUk",
+    "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
+    "link": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+    "snippet": "The cryptocurrency exchange saw an immediate uptick in customer withdrawals, following the theft of $6.3 billion in tokens that has been linked ...",
+    "photo_url": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-articleLarge.jpg?quality=75&auto=avif&disable=upscale",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtZakpOZVhwellVbFJVM2xoVFJDUUF4allCQ2dLTWdhRkNZUEZVZ00=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-01T18:28:25.000Z",
+    "authors": [
+      "Kate Conger"
+    ],
+    "source_url": "https://www.nytimes.com",
+    "source_name": "The New York Times",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTWpCNE1qQTVOUklDWlc0b0FBUAE",
+        "topic_name": "Kate Conger"
+      }
+    ]
   },
   {
     "article_id": "CBMilgFBVV95cUxPQ0RmQVc3MW0yVTJUNjJBc1RZY2RtcmQ2RnczX3diT05MZ0RlQmVVNkNpeDRtS2tmVmo0c0k4aUxkUWdUUEt4ZllNbEFiTG5nbnZLRUJNemd2ZVJLNDQ1ZHREanV3SFRiU3lnYXBVTE9PYjBsQzFSUTVqdmZfbHEtdGgwcENDbGhUY0FVNldMOTdZT0JZTEE",
@@ -877,9 +930,9 @@
     "article_id": "CBMilwFBVV95cUxQX1BodjA4TXY0ZG1sSGtQRmVSM3pHRG5DZ1Fib0ZYWnN0OEFWQ1RwUnFZaEo4Sjc0eGNpTndJUVlxci1LZTZZZVFJblhhMlZmYkZrUFREV0ZUaXB3d0FKLVNxRWRJTHAxbGZJYmlYNThpVnE1a21rMWg3WVFTQTA2RjlyYzhtcWJpM3NOMWJ0MUZKR2hVYXJB",
     "title": "Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?",
     "link": "https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/",
-    "snippet": "There will soon be a new crypto security service offered by Alphabet (GOOGL +0.37%), and it could well provide a mild boost for Ethereum ...",
+    "snippet": "There will soon be a new crypto security service offered by Alphabet (GOOGL +3.18%), and it could well provide a mild boost for Ethereum ...",
     "photo_url": "https://g.foolcdn.com/editorial/images/893137/googl-and-eth.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNHhiVUpuTkdFeVFXMUlMVU5tVFJERUF4aW1CU2dLTWdB=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhiVUpuTkdFeVFXMUlMVU5tVFJERUF4aW1CU2dLTWdZRmNaU3pOQWM=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-11-04T12:15:00.000Z",
     "authors": [
       "Alex Carchidi"
@@ -895,45 +948,6 @@
         "topic_name": "Alex Carchidi"
       }
     ]
-  },
-  {
-    "article_id": "CBMilgFBVV95cUxPLWlLVHV0OHNUWEFzRmVNSEFLbVZ5aUVGV1FkLW1ESHVpNDZScE1qU0ZMTVJ4ZmNyc1NRanc2NjcyVk56dk5jWkFoY3ZfV0pjcUo4elJSS25pNUhHUEFqVllWVlNkelpIb2RsQW9KX0ZjNTZiTDlZSThCYVU2akF0SkcxS2pQRFZUX21QeVZUOUVwWlpZMHc",
-    "title": "Could Buying This 1 Cryptocurrency Make You Rich?",
-    "link": "https://www.fool.com/investing/2026/11/04/could-buying-this-1-cryptocurrency-make-you-rich/",
-    "snippet": "Venice Token has skyrocketed in value this year. Venice Token is up 1,250% for the year. That makes it the top-performing cryptocurrency with a ...",
-    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892906%2Fai-chip-blue.jpg&w=1200&op=resize",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtVREl4UWtvd01HZzBUMHRVVFJDZkF4ampCU2dLTWdhQlVwTE1KUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-04T07:30:00.000Z",
-    "authors": [
-      "Dominic Basulto"
-    ],
-    "source_url": "https://www.fool.com",
-    "source_name": "The Motley Fool",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNwemJUQnhlaElDWlc0b0FBUAE",
-        "topic_name": "Dominic Basulto"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMiqwFBVV95cUxQMVRMYkxXTG5qcS1PLTVXdDBqMnZPOVAxV1Nyb29vM1cySEJXaEJKb19KM1BucUpFSFk5QVloMzl3aFBxX1EzakFpQnN6emxoazhNalkxQzAyVW80Zk5wd1hRekJRSHdkcUh0d1lTQjI0cmpxSzJ5ejhIeGctSURmNkJfUC1XbTh0LTg0Z1ZRT2JHMXNUQkYtRjMwMERVeERtUUx3eUdoeVA2c3M",
-    "title": "World's largest cryptocurrency exchange hit by $6.3 billion hack",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/worlds-largest-cryptocurrency-exchange-hit-073358239.html",
-    "snippet": "The world's largest cryptocurrency exchange, Binance, has been hit by a cyberattack affecting an estimated $6.3 billion in digital assets, ...",
-    "photo_url": "https://s.yimg.com/lo/mysterio/api/5b3cdde9745d1856033549b03eb682c4ec2912627b0a6ddb0e60f3a27232dd59/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1f8ee3187b44c783f1276a73ecb5f553.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVZMHRzTnkxblUydHRNVVJWVFJERUF4aW1CU2dLTWdZQllKRHFNUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-30T07:33:58.000Z",
-    "authors": [],
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
-    "related_topics": []
   },
   {
     "article_id": "CBMigwFBVV95cUxPNUVuZU1Ea0ZDdlp4bjVCbVV6MGRxcEo1TU5XR0gyRTg0VVVkaWU0WVdUVkpyWHlQcWQtcUJWTm5LVjZRNENGaXZ0eHVaN2tNdTJxbnZtSEdWWUlra0Q3U25yYXNGanM3VDFoWmU2S1dVUjB2QUJTelE0ZllZWUI0YlNHNA",
@@ -959,30 +973,25 @@
     ]
   },
   {
-    "article_id": "CBMi2wFBVV95cUxQRkhfT0dKM2RkX010SXdvMEZYRzU2dkZsZThTMUp6ZzJ0aVU5TTBHWFU1LVlnNjFocXlEcEVpcGJyVERIYmpfem15c0puaksxSHBtb0lfWTIzM2h2ZHkzb3NIdHFKUWVfRWRaeXRyTzNFMkJlS0xKYWhMR0UyNFY5OXZndmV1aUxXZnNGVnRCb1BzZi00cFU2b1RidnNaS3E3QjR0dUFEM3QxUkhwSmxwYWNFb2hMTlcxY3NTSXI0UkFQUG04OEctRVU2U0RnZU9MZ2hycTdrU1Q3dVk",
-    "title": "Inside Gaming: Strip casino now accepts cryptocurrency for gaming",
-    "link": "https://www.reviewjournal.com/business/business-columns/inside-gaming/inside-gaming-strip-casino-now-accepts-cryptocurrency-for-gaming-3908874/",
-    "snippet": "The casino is using BurraPay to let customers exchange Bitcoin, Ethereum and Litecoin for chips, tickets and other gaming funds,",
-    "photo_url": "https://www.reviewjournal.com/wp-content/uploads/2026/11/22254806_web1_NORTH-STRIP-APR20-25-010.jpg?w=360&h=240&crop=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWZNamhXYVZjMk4zbDNTazlZVFJEd0FSam9BaWdLTWdZQlVJYUpKQVE=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T13:45:44.000Z",
+    "article_id": "CBMilgFBVV95cUxPLWlLVHV0OHNUWEFzRmVNSEFLbVZ5aUVGV1FkLW1ESHVpNDZScE1qU0ZMTVJ4ZmNyc1NRanc2NjcyVk56dk5jWkFoY3ZfV0pjcUo4elJSS25pNUhHUEFqVllWVlNkelpIb2RsQW9KX0ZjNTZiTDlZSThCYVU2akF0SkcxS2pQRFZUX21QeVZUOUVwWlpZMHc",
+    "title": "Could Buying This 1 Cryptocurrency Make You Rich?",
+    "link": "https://www.fool.com/investing/2026/11/04/could-buying-this-1-cryptocurrency-make-you-rich/",
+    "snippet": "Venice Token has skyrocketed in value this year. Venice Token is up 1,250% for the year. That makes it the top-performing cryptocurrency with a ...",
+    "photo_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893299%2Ftoy-spaceship-with-bitcoin-logo-launching.jpg&w=3840&op=resize",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUdORjh3WkdWV1dHcFFOa3hWVFJDZEF4am5CU2dLTWdhVk40Z3JuZ2s=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T07:30:00.000Z",
     "authors": [
-      "David Danzis",
-      "Richard Velotta"
+      "Dominic Basulto"
     ],
-    "source_url": "https://www.reviewjournal.com",
-    "source_name": "Las Vegas Review-Journal",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reviewjournal.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reviewjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWEpsZG1sbGQycHZkWEp1WVd3dVkyOXRLQUFQAQ",
+    "source_url": "https://www.fool.com",
+    "source_name": "The Motley Fool",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDR1p2YjJ3dVkyOXRLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpkdWNuY3hOaElDWlc0b0FBUAE",
-        "topic_name": "David Danzis"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsblpqRnhkaElDWlc0b0FBUAE",
-        "topic_name": "Richard Velotta"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTTNwemJUQnhlaElDWlc0b0FBUAE",
+        "topic_name": "Dominic Basulto"
       }
     ]
   },
@@ -1010,6 +1019,22 @@
     ]
   },
   {
+    "article_id": "CBMihwFBVV95cUxNNm9yeUVlVkVwM3RFNm1tMGFnMEVWellmVDZQQ2lGQ2hRR3VsMUVuSFVEN29BRHZ3Wnk0b0k2SVFpUk5WcGRYRW1Kck0tR3lSeDdiTy1LdTNMZGNBcGpndUUwNkRDRl9NNmRsZFZhWkhqa3VOY3VJcGdXU0k5d2dydThGc183cGM",
+    "title": "Mapping the Market: Bitcoin could extend losses",
+    "link": "https://www.reuters.com/technology/global-markets-technicals-graphic-2026-11-04/",
+    "snippet": "Bitcoin has struggled this year, falling more than 40% from peak to trough. Though it's now down only about 11% since the start of 2026, ...",
+    "photo_url": "https://www.reuters.com/resizer/v2/6QVT62SFQVOCRFUYRQ6K62PWKY.jpg?auth=79c17a5b939a4a226795570bfb171a389e1c4891a71c721d9c55145d4e9d161d&width=1920&quality=80",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlha0U0ZVhsUGMzWmtkamxxVFJERUF4aW5CU2dLTWdZQkVJNk5NUVU=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T11:06:09.000Z",
+    "authors": [],
+    "source_url": "https://www.reuters.com",
+    "source_name": "Reuters",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM0psZFhSbGNuTXVZMjl0S0FBUAE",
+    "related_topics": []
+  },
+  {
     "article_id": "CBMiuAFBVV95cUxOaGh1UUl0dFZVVV9EbHRBZWdTSmdrUWcwRm5iTmlTd3NfZWJCQ2Z4ZVJJelA3Nnd2YUdMbjZ5d2V3T3ZHTEk1RFpWNVZrU005QXowd2JkRGdfMnliT1lHc2JKSzVIMHo5VFN1MklIeDRlMHcyTEhDanJYQXlxbE4tZXJvclgyZ3AyZnA1N1Z0RkstRV9WeWIyZkpkZHpMUlF5NWJjM01abzdEX1hITVhWaFNrSTdpRVQ2",
     "title": "Binance says it has covered 95% of crypto assets taken in record $6.3B hack",
     "link": "https://www.washingtonpost.com/business/2026/11/02/binance-has-covered-95-crypto-assets-taken-record-63-billion-hack/",
@@ -1029,29 +1054,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwY0RCeWMyUTBaeElDWlc0b0FBUAE",
         "topic_name": "Miriam Waldvogel"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMingFBVV95cUxNMlVPZmV3MjVIUUtKSTUwdGo3UDhINUI3TWdUQzUwSHJVRFljSDFpZVpzSVN2Ml9jZWpFdHNDNzFGX1BzdnJBTUkxNVJ1U1NWMzkxVXRsbGdXeC1rSGFMQk91eXNrOXFBWlEwRk9XMV9fSW1zWlZ2aG1kSXh1cVR3b2ZnM0l3U21TWlVQUkprOThCb2NtSVMwd2g1RDVxQQ",
-    "title": "Binance Suspends Withdrawals After $6.3 Billion Cryptocurrency Hack as Bitcoin and Crypto Stocks Fall",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/binance-suspends-withdrawals-6-3-102432013.html",
-    "snippet": "Binance temporarily suspended withdrawals after reporting a security breach involving approximately $6.3 billion in stolen digital assets, ...",
-    "photo_url": "https://s.yimg.com/lo/mysterio/api/a13bad0b666fb1c1467427fb2c81586764db7149add3056f44f2f15be0111cad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fdd1bf7658dcb5189976b05ad530ec040.png",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9ia2xsVEVSVlh6bFhjRnBEVFJDYUF4anJCU2dLTWdZSlpaQ2xLZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-30T10:24:32.000Z",
-    "authors": [
-      "Fiona Craig"
-    ],
-    "source_url": "https://finance.yahoo.com",
-    "source_name": "Yahoo Finance",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY0TVhKM2MyUTFaQklDWlc0b0FBUAE",
-        "topic_name": "Fiona Craig"
       }
     ]
   },
@@ -1084,7 +1086,7 @@
     "link": "https://www.globaltrademag.com/how-global-economic-trends-are-reshaping-the-cryptocurrency-market/",
     "snippet": "International trade developments can influence financial markets by changing economic expectations, currency demand and investor confidence.",
     "photo_url": "https://i0.wp.com/www.globaltrademag.com/wp-content/uploads/2019/11/cryptocurrency.jpg?fit=757%2C393&ssl=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5TMWRTUXpRd1EzbEdWR3d0VFJDSkF4ajFCU2dLTWdZSlU0cU5JUWc=-w200-h200-p-df-rw",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNU5TMWRTUXpRd1EzbEdWR3d0VFJDSkF4ajFCU2dLTWdhSlU0eU9JUWc=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-11-04T10:19:24.000Z",
     "authors": [],
     "source_url": "https://www.globaltrademag.com",
@@ -1095,48 +1097,81 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMidkFVX3lxTE1UOEwxYldKekxybzEwVHRMNXJHdkk4c0hNemd3NGV6NWlxOTZYMWNsY1pPUFhDWXUtLUlreVN0LXRaQlhOaVhUNlV4b0I0NkNFelhISkhtTDJpeG1wc010Z2tIRUxTSHF1OURFbm1pQ1JzWWRaV0E",
-    "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
-    "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
-    "snippet": "Brazilian cryptocurrency platform Mercado Bitcoin suspended all deposits and withdrawals after a cybersecurity incident on Monday morning.",
-    "photo_url": "https://cms.therecord.media/uploads/small_mercado_bitcoin_92ae590f6f.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNkVmd3VGt0TVJISlRiMVZQVFJDckFSaW5BaWdCTWdhVmdwUU1NUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T21:54:03.000Z",
+    "article_id": "CBMingFBVV95cUxNMlVPZmV3MjVIUUtKSTUwdGo3UDhINUI3TWdUQzUwSHJVRFljSDFpZVpzSVN2Ml9jZWpFdHNDNzFGX1BzdnJBTUkxNVJ1U1NWMzkxVXRsbGdXeC1rSGFMQk91eXNrOXFBWlEwRk9XMV9fSW1zWlZ2aG1kSXh1cVR3b2ZnM0l3U21TWlVQUkprOThCb2NtSVMwd2g1RDVxQQ",
+    "title": "Binance Suspends Withdrawals After $6.3 Billion Cryptocurrency Hack as Bitcoin and Crypto Stocks Fall",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/binance-suspends-withdrawals-6-3-102432013.html",
+    "snippet": "Binance temporarily suspended withdrawals after reporting a security breach involving approximately $6.3 billion in stolen digital assets, ...",
+    "photo_url": "https://s.yimg.com/lo/mysterio/api/a13bad0b666fb1c1467427fb2c81586764db7149add3056f44f2f15be0111cad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fdd1bf7658dcb5189976b05ad530ec040.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW9ia2xsVEVSVlh6bFhjRnBEVFJDYUF4anJCU2dLTWdZSlpaQ2xLZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-30T10:24:32.000Z",
     "authors": [
-      "Jonathan Greig"
+      "Fiona Craig"
     ],
-    "source_url": "https://therecord.media",
-    "source_name": "The Record from Recorded Future News",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://therecord.media&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://therecord.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWlhKbFkyOXlaQzV0WldScFlTZ0FQAQ",
+    "source_url": "https://finance.yahoo.com",
+    "source_name": "Yahoo Finance",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV1pwYm1GdVkyVXVlV0ZvYjI4dVkyOXRLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUc1b2VXMXpNaElDWlc0b0FBUAE",
-        "topic_name": "Jonathan Greig"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY0TVhKM2MyUTFaQklDWlc0b0FBUAE",
+        "topic_name": "Fiona Craig"
       }
     ]
   },
   {
-    "article_id": "CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z",
-    "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-    "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-    "snippet": "The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has ...",
-    "photo_url": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=465&dpr=1&s=none&crop=none",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW5lbmREU0RORWMxOUNWVTB5VFJEMEFoalJBeWdLTWdrQmtZNER2aVZVemdF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T19:17:00.000Z",
+    "article_id": "CBMi2wFBVV95cUxQRkhfT0dKM2RkX010SXdvMEZYRzU2dkZsZThTMUp6ZzJ0aVU5TTBHWFU1LVlnNjFocXlEcEVpcGJyVERIYmpfem15c0puaksxSHBtb0lfWTIzM2h2ZHkzb3NIdHFKUWVfRWRaeXRyTzNFMkJlS0xKYWhMR0UyNFY5OXZndmV1aUxXZnNGVnRCb1BzZi00cFU2b1RidnNaS3E3QjR0dUFEM3QxUkhwSmxwYWNFb2hMTlcxY3NTSXI0UkFQUG04OEctRVU2U0RnZU9MZ2hycTdrU1Q3dVk",
+    "title": "Inside Gaming: Strip casino now accepts cryptocurrency for gaming",
+    "link": "https://www.reviewjournal.com/business/business-columns/inside-gaming/inside-gaming-strip-casino-now-accepts-cryptocurrency-for-gaming-3908874/",
+    "snippet": "The casino is using BurraPay to let customers exchange Bitcoin, Ethereum and Litecoin for chips, tickets and other gaming funds,",
+    "photo_url": "https://www.reviewjournal.com/wp-content/uploads/2026/11/22254806_web1_NORTH-STRIP-APR20-25-010.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRjV1F5TkhNelJFTnZhalpFVFJESkF4aWZCU2dLTWdZQlVJU0pwQU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T13:30:00.000Z",
     "authors": [
-      "Dan Milmo"
+      "David Danzis",
+      "Richard Velotta"
     ],
-    "source_url": "https://www.theguardian.com",
-    "source_name": "The Guardian",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
+    "source_url": "https://www.reviewjournal.com",
+    "source_name": "Las Vegas Review-Journal",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reviewjournal.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reviewjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFWEpsZG1sbGQycHZkWEp1WVd3dVkyOXRLQUFQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4M2RqWmZlaElDWlc0b0FBUAE",
-        "topic_name": "Dan Milmo"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTmpkdWNuY3hOaElDWlc0b0FBUAE",
+        "topic_name": "David Danzis"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhsblpqRnhkaElDWlc0b0FBUAE",
+        "topic_name": "Richard Velotta"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiogFBVV95cUxPd01qenNHeE1ZZXNRUl9yYTdyNzh0VU0wVWJEcUJZRElxXzJud05CeUhJb1o2MjNvTVQ4bTVjOXFySGlqRnRqWU1pT3Vwdmx6MFhqSlV6OVBXSU5rNEtkWWRIdTBfVU1tUHhKYmduU2U0U3RxVTBGSHJTT00zM19td3FiYzk1VzdjWnpzZmVPVENBcGZjdzZKU3NwaDBiUnNxelE",
+    "title": "North Korea denies involvement in Binance hack and criticizes FBI probe as 'a trite provocation'",
+    "link": "https://apnews.com/article/north-korea-binance-cryptocurrency-heist-01c9b80d938dd67c747e268c410f265d",
+    "snippet": "North Korea on Tuesday denied its involvement in the recent cryptocurrency heist at Binance, announcement that North Korean hackers were behind ...",
+    "photo_url": "https://dims.apnews.com/dims4/default/f2b0ffd/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2Fe1%2F5ac38a46e8c2890ec9f34ef78d8d%2Ff4923c4f1dd649fb99f9895028e0e241",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBNREZwZUVWV2FtczNPVmRXVFJDM0FSaVRBaWdCTWdZWlFKcEpvUWs=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-02T23:57:00.000Z",
+    "authors": [
+      "Hyung-jin Kim",
+      "Kim Tong"
+    ],
+    "source_url": "https://apnews.com",
+    "source_name": "AP News",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TTNSelgzcDRheElDWlc0b0FBUAE",
+        "topic_name": "Hyung-jin Kim"
+      },
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYm5OdE9XdHhNUklDWlc0b0FBUAE",
+        "topic_name": "Kim Tong"
       }
     ]
   },
@@ -1164,30 +1199,25 @@
     ]
   },
   {
-    "article_id": "CBMiogFBVV95cUxPd01qenNHeE1ZZXNRUl9yYTdyNzh0VU0wVWJEcUJZRElxXzJud05CeUhJb1o2MjNvTVQ4bTVjOXFySGlqRnRqWU1pT3Vwdmx6MFhqSlV6OVBXSU5rNEtkWWRIdTBfVU1tUHhKYmduU2U0U3RxVTBGSHJTT00zM19td3FiYzk1VzdjWnpzZmVPVENBcGZjdzZKU3NwaDBiUnNxelE",
-    "title": "North Korea denies involvement in Binance hack and criticizes FBI probe as 'a trite provocation'",
-    "link": "https://apnews.com/article/north-korea-binance-cryptocurrency-heist-01c9b80d938dd67c747e268c410f265d",
-    "snippet": "North Korea on Tuesday denied its involvement in the recent cryptocurrency heist at Binance, announcement that North Korean hackers were behind ...",
-    "photo_url": "https://dims.apnews.com/dims4/default/f2b0ffd/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2Fe1%2F5ac38a46e8c2890ec9f34ef78d8d%2Ff4923c4f1dd649fb99f9895028e0e241",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBNREZwZUVWV2FtczNPVmRXVFJDM0FSaVRBaWdCTWdZWlFKcEpvUWs=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T23:57:00.000Z",
+    "article_id": "CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z",
+    "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+    "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+    "snippet": "The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has ...",
+    "photo_url": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=465&dpr=1&s=none&crop=none",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNW5lbmREU0RORWMxOUNWVTB5VFJEMEFoalJBeWdLTWdrQmtZNER2aVZVemdF=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T19:17:00.000Z",
     "authors": [
-      "Kim Tong",
-      "Hyung-jin Kim"
+      "Dan Milmo"
     ],
-    "source_url": "https://apnews.com",
-    "source_name": "AP News",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbUZ3Ym1WM2N5NWpiMjBvQUFQAQ",
+    "source_url": "https://www.theguardian.com",
+    "source_name": "The Guardian",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWldkMVlYSmthV0Z1TG1OdmJTZ0FQAQ",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtYm5OdE9XdHhNUklDWlc0b0FBUAE",
-        "topic_name": "Kim Tong"
-      },
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TTNSelgzcDRheElDWlc0b0FBUAE",
-        "topic_name": "Hyung-jin Kim"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUY4M2RqWmZlaElDWlc0b0FBUAE",
+        "topic_name": "Dan Milmo"
       }
     ]
   },
@@ -1205,61 +1235,6 @@
     "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalpost.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbWRzYjJKaGJIQnZjM1F1WTI5dEtBQVAB",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMiekFVX3lxTE5JRWdCcXZGN09kampnMmRmVXZocFpZTjM5UHBWY2xrc21jTGxuTzR5T3lzSE1MaWROSjk1SnFYanVLYW01SWhvNnB4cVNlZTBDQlYwNERBYW42ZzVPbXhWMGZJVmEydkRXam1sRnQ3MUVHOGwzRy1jTndn",
-    "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
-    "link": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
-    "snippet": "In 2023, Binance pleaded guilty to breaking U.S. anti-money-laundering laws and paid $4.3 billion in penalties. Binance's founder, the crypto ...",
-    "photo_url": "https://static01.nyt.com/images/2026/11/03/business/03biz-binance-sub/03biz-binance-sub-articleLarge.jpg?quality=75&auto=avif&disable=upscale",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVUVXgxVWtKdlpHNW1ZV05pVFJDUUF4allCQ2dLTWdhaFFwQnRxUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T15:57:29.000Z",
-    "authors": [
-      "Emmy Martin"
-    ],
-    "source_url": "https://www.nytimes.com",
-    "source_name": "The New York Times",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ5WW1wdGVHY3diQklDWlc0b0FBUAE",
-        "topic_name": "Emmy Martin"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMi1gFBVV95cUxQOHV2eVNXd29YVk1abW1OekJIelU4RHhzNi11NUdNMnRUOTgtY1FKUjVqZ0Vqb1pFTTVPQkljU1BFbDU5MEFvRnhPNG9fNEFBcThDS3FlRVdnbHJtSzBtaWg0Z2VyWWEzSGxybklPdnZyVVJuV01ycUZwVXdpTHZaZzkzZ0dKdHBpRE5NcVNIaTdIbERmQ1hTbThmNTlYdnZReEY0Ylo4dEhIRldhWGhnTUkwUGZRZkhjWWI3ZDktWTZkZC1SN0pMYVhWZWJHOXR0MUFzaEFR",
-    "title": "Binance withdrawals spike as exchange returns online after US$6.3 billion hack",
-    "link": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack",
-    "snippet": "The cryptocurrency exchange has begun to allow withdrawals after last week's theft which the FBI believes came from North Korea.",
-    "photo_url": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/11/02/60e108b7-0cb6-44ed-b288-627120359d56_372c1ba5.jpg?itok=BCNqQVJw&v=1793562717",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBTbGxQYmpaMVZVeE5iMEZXVFJERUF4aW1CU2dLTWdZSk1KYkdMZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-01T19:53:28.000Z",
-    "authors": [],
-    "source_url": "https://www.scmp.com",
-    "source_name": "South China Morning Post",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIQgKIhtDQklTRGdnTWFnb0tDSE5qYlhBdVkyOXRLQUFQAQ",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMiqwFBVV95cUxNZHNTcV9OM1RhZXJUd3Z6bWZGTXZQVklYWXN0NkFmWG1yNUhPVWZBZmw0ZnI4MUl3dk5VVDg1Q2JZLTJqNFp5TkhkZ3hhSll6OWx1UWliNnNxV19ZV2Y3YjR2UERKWFRxM3hzMmFzeXh4aEdWRFljdVJqbm56S1AxeU4wMHBXM09RODFoRHNLdTNjNllqVW01TzVRUkd3dkJIWFZ1aWVwdU5LUDg",
-    "title": "What the Binance heist reveals about how North Korea exploits the seams",
-    "link": "https://www.scworld.com/perspective/what-the-binance-heist-reveals-about-how-north-korea-exploits-the-seams",
-    "snippet": "According to TRM Labs, an attacker moved approximately $6.36 billion from Binance wallets across 10 blockchains on October 29, with most of the ...",
-    "photo_url": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2024%2F09%2F091314_cryptocurrency.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUxTM1J6YVZsUFJqTlVUV0pzVFJERUF4aW1CU2dLTWdtVkFZYUtGU1JWRVFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T15:00:16.000Z",
-    "authors": [],
-    "source_url": "https://www.scworld.com",
-    "source_name": "SC Media",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": null,
     "related_topics": []
   },
   {
@@ -1299,9 +1274,9 @@
     "title": "12 Best Crypto Wallets Of 2026",
     "link": "https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/",
     "snippet": "Cryptocurrency wallets help keep your assets safe from online threats and theft. 12 best crypto wallets— stake, buy and sell crypto directly in ...",
-    "photo_url": "https://thumbor.forbes.com/thumbor/fit-in/480x/https://www.forbes.com/advisor/wp-content/uploads/2022/10/best_crypto_wallets.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTRZVlIwWWsxVU5tZHhWblpzVFJDT0FoamdBeWdLTWdZVllvNW9LZ2M=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T09:08:00.000Z",
+    "photo_url": "https://thumbor.forbes.com/thumbor/fit-in/475x/https://www.forbes.com/advisor/wp-content/uploads/2022/10/best_crypto_wallets.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWFWemg0WldsRkxVazVhRmc0VFJDTEFoamJBeWdLTWdZVllvNW9LZ2M=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T18:42:00.000Z",
     "authors": [
       "Farran Powell"
     ],
@@ -1314,52 +1289,6 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTUhwNGVuWnhPQklDWlc0b0FBUAE",
         "topic_name": "Farran Powell"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMiW0FVX3lxTE5uWlZyM1lGS2ctMFdQTEowd01Yb3BIVlhabG9MQ3JROGxjaFV6WWdEVm9KUkdfTWpFX3pvZmtuX0p2RnpSbDlyOVEtd2FJYVVMWTBTNDIwQmZ5dzQ",
-    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "link": "https://www.bbc.com/news/articles/ck5ynwz9gy67o",
-    "snippet": "Hackers who stole a record $6.3bn (£4.7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.",
-    "photo_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg.webp",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHpRbkpTVFVObmIwMXpiMWQ1VFJDTkFoamdBeWdLTWdZbHRZN01QUVU=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T16:19:29.000Z",
-    "authors": [
-      "Liv Mcmahon"
-    ],
-    "source_url": "https://www.bbc.com",
-    "source_name": "BBC",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCMkppWXk1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1T0Roek16bDBiaElDWlc0b0FBUAE",
-        "topic_name": "Liv Mcmahon"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMihgFBVV95cUxOVmZSZkJNVmlCSHVlbElVV2ZVbUkzUnJYN1NFakFnWko2ci1zcUNQcEEwYV9Nb1RxMzJkRk5UMmpHbDZNdnpZVDgyU2NzbmJFZXdQdmwwWG5jTnJ2XzlVY2Q3ZHZJbExRbWNRSWp3OE01WDhpV1FGOWVqX3JjSEU3dFpUM3FLQdIBmgFBVV95cUxONExSSWtUbnlSeDNYWDdacFpfbGhBalYtQmFJTzVCc1Z5SmNTWEw3Wi1lWURGVV9seHNyZU5sRGI5RnVHbG03TzdMVVVvUE5CS2J1NzVhbWtuemR5bXc5cmthVDRLdThYZEgxTGdFclVSekRSeDJkUVpxQUJKWnlDWjlRSWl4cS1fdnZjSFF2VmhXME01ZjdNYmtR",
-    "title": "North Korea denies involvement in Binance hack and criticizes FBI probe as 'a trite provocation'",
-    "link": "https://www.kiro7.com/news/world/north-korea-denies/ZLIZQ7OK3I3XZCWCICNMWWGJ6U/",
-    "snippet": "North Korea has denied its involvement in the recent cryptocurrency heist at Binance, trite provocation”",
-    "photo_url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH6LACQRJEE4NRKCNAXKYFZ54KA.jpg?auth=3d7163125014f212d1646b3381796258977f40f5ad364ba447870a20e4619919&width=1200&height=630&smart=true",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUxVbkUyVW5jMFR6bHJlSEZJVFJDUkF4ajhCU2dLTWdhWllKUXBxUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T23:57:53.000Z",
-    "authors": [
-      "Hyung-jin Kim"
-    ],
-    "source_url": "https://www.kiro7.com",
-    "source_name": "KIRO 7 News Seattle",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.kiro7.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.kiro7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDV3RwY204M0xtTnZiU2dBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY1TTNSelgzcDRheElDWlc0b0FBUAE",
-        "topic_name": "Hyung-jin Kim"
       }
     ]
   },
@@ -1387,29 +1316,6 @@
     ]
   },
   {
-    "article_id": "CBMiZ0FVX3lxTFA2SWNYaTZyMG0yNGdoTE1oWGVJSEZ6a0lGQm5tSzdXNUZTTUhjVjFaWWtkWnFsQkJRUk56NjJ4QU5HZWdnamY5ZTRWZUNJdWxaTEY5X2ZBaW0yd25lV0hhenNQbE5BaGM",
-    "title": "Current price of Bitcoin for Nov. 4, 2026",
-    "link": "https://fortune.com/article/price-of-bitcoin-11-04-2026/",
-    "snippet": "At 7 a.m. Eastern Time today, one Bitcoin (BTC) is priced at $78,520.27. That's up $1,524.87 from where it stood yesterday morning and ...",
-    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-4.jpg?format=webp&w=1440&quality=75",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNjMnhpVTJaT1ZqWmplVU5IVFJERUF4aW1CU2dLTWdhdFVZalB6QU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-04T12:15:00.000Z",
-    "authors": [
-      "Joseph Hostetler"
-    ],
-    "source_url": "https://fortune.com",
-    "source_name": "Fortune",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
-        "topic_name": "Joseph Hostetler"
-      }
-    ]
-  },
-  {
     "article_id": "CBMirwFBVV95cUxQejVxam1pOHZ2OFdkaHYwLVhNcThiMERBQ1RhYnUzcGxfeGxfVEdfNkkycWhwVmZ6X3ExOHotcGxEWXdzdURpQ3l1YkhnbU43cmJCem1NZ1NoOFlBOGhwblJ2bzI1UFRTajNrREdZeGJWUlRpVDdVZzFUZEJZWGxJWHphRlh1YlUydlBNSGlBei1xODhsa2RvQjJMZEx0UndGUkRPTHdrMW4yVHN3aVhB",
     "title": "You've stolen $6.3 billion in cryptocurrency. Now what?",
     "link": "https://www.rte.ie/brainstorm/2026/1102/1597580-binance-cryptocurrency-hack-security-blockchain-investigation/",
@@ -1433,36 +1339,13 @@
     ]
   },
   {
-    "article_id": "CBMihwFBVV95cUxPWEhnY1ZiaThvU0NwQWQ2djhnZHFESEgzekkySmlIU2Qwa19ndVd4V3cydGVyQmZ1a3FXU3hJRzVibkY0ck1tS05qZ2lQNDdqa1d0QXNzRjZpZVBqcUlhdEJZaFAzZDhibmppODhJT3Fhcy1KRHJWX3FqU0dwWmNldVktazI4dUk",
-    "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
-    "link": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
-    "snippet": "The cryptocurrency exchange saw an immediate uptick in customer withdrawals, following the theft of $6.3 billion in tokens that has been linked ...",
-    "photo_url": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-binance/01biz-binance-articleLarge.jpg?quality=75&auto=avif&disable=upscale",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUtZakpOZVhwellVbFJVM2xoVFJDUUF4allCQ2dLTWdhRkNZUEZVZ00=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-01T18:28:25.000Z",
-    "authors": [
-      "Kate Conger"
-    ],
-    "source_url": "https://www.nytimes.com",
-    "source_name": "The New York Times",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMjU1ZEdsdFpYTXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTWpCNE1qQTVOUklDWlc0b0FBUAE",
-        "topic_name": "Kate Conger"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMiZ0FVX3lxTE56cC1MX29TTGQ0eGJ5Q2lrSHVTcUEzV3d3TXRRTlVwZ3E3Tks4TjI3YzdMQVUxMEMzSTFpVTNXdTNTT1FIcHlWOEZKMUYwOHlXamttQUtZU1RmcHRqNEhiTlZ3ZWliZGM",
-    "title": "Current price of Bitcoin for November 3, 2026",
-    "link": "https://fortune.com/article/price-of-bitcoin-11-03-2026/",
-    "snippet": "At 6:45 a.m. Eastern Time today, the price of Bitcoin (1 BTC) is $76,995.40. That represents a $755 decrease from yesterday morning and about a ...",
-    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-3.jpg?format=webp&w=1440&quality=75",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUlVbk5CTjFweFNuUnhhM2N4VFJERUF4aW1CU2dLTWdZeDRJYXd6QU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T16:02:38.000Z",
+    "article_id": "CBMiZ0FVX3lxTFA2SWNYaTZyMG0yNGdoTE1oWGVJSEZ6a0lGQm5tSzdXNUZTTUhjVjFaWWtkWnFsQkJRUk56NjJ4QU5HZWdnamY5ZTRWZUNJdWxaTEY5X2ZBaW0yd25lV0hhenNQbE5BaGM",
+    "title": "Current price of Bitcoin for November 4, 2026",
+    "link": "https://fortune.com/article/price-of-bitcoin-11-04-2026/",
+    "snippet": "At 7 a.m. Eastern Time today, one Bitcoin (BTC) is priced at $78,520.27. That's up $1,524.87 from where it stood yesterday morning and ...",
+    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Bitcoin-Nov-4.jpg?format=webp&w=1440&quality=75",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTNjMnhpVTJaT1ZqWmplVU5IVFJERUF4aW1CU2dLTWdhdFVZalB6QU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T12:15:00.000Z",
     "authors": [
       "Joseph Hostetler"
     ],
@@ -1477,22 +1360,6 @@
         "topic_name": "Joseph Hostetler"
       }
     ]
-  },
-  {
-    "article_id": "CBMitwFBVV95cUxNVU1BcTA4UlVWZ09WWFV4MDgxMHg3SS1MUHhjSDhtTW1JZnFBbFJoSFVVVjFmUnVMa2lrSjFpX2tXVUpHbHcwend6UXJla2daRjluVjUwT0NjZjk2Y09kb01pRER3ZjYzOHg5S2pBZVRPOGxBTnM4VzRVX0tmVThaTk1QNXNrVUFyVHkxVXVWRDdBeG5fYkE1dS1UZnlCSzJaVzdLN0xZVWY0Rzg0UHFwT1Q1MG95MVE",
-    "title": "AG Bonta Announces Action on Cryptocurrency, Sextortion Fraud – Increasingly Targeting Gen-Z",
-    "link": "https://blackpressusa.com/ag-bonta-announces-action-on-cryptocurrency-sextortion-fraud-increasingly-targeting-gen-z/",
-    "snippet": "California Attorney General Rob Bonta warned residents about rising cryptocurrency fraud and online sextortion scams, urging Californians to ...",
-    "photo_url": "https://blackpressusa.com/wp-content/uploads/2026/11/nnpa-x-hero-919fd1.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBkMk5oTlVkNFUzazBSVE5OVFJDUkF4ajlCU2dLTWdhUlVwSnJMUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T20:12:22.000Z",
-    "authors": [],
-    "source_url": "https://blackpressusa.com",
-    "source_name": "BlackPressUSA",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blackpressusa.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blackpressusa.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV0pzWVdOcmNISmxjM04xYzJFdVkyOXRLQUFQAQ",
-    "related_topics": []
   },
   {
     "article_id": "CBMiqwFBVV95cUxPVnRkeG1QbjYtNUFaTG1vcV8xeUpndUFvZ1hqUEp6OHBkeFllb1R0NHZ4eUt2WmcxU1pHcnRKOGYtakhCdHB5TXdfVVZSNElndlFJdkFGcXo2Z2NZSkZBQmxhODFrVDc4b2w2Z2hhdE9vUXN0cEJLMURwbFhIRDBMbmZIZDl3Q3BpeGtPS1NDVDNUc1lqN3RHVHNHQTNCcG8ydmhyNGZIYl9FSVk",
@@ -1518,6 +1385,22 @@
     ]
   },
   {
+    "article_id": "CBMitwFBVV95cUxNVU1BcTA4UlVWZ09WWFV4MDgxMHg3SS1MUHhjSDhtTW1JZnFBbFJoSFVVVjFmUnVMa2lrSjFpX2tXVUpHbHcwend6UXJla2daRjluVjUwT0NjZjk2Y09kb01pRER3ZjYzOHg5S2pBZVRPOGxBTnM4VzRVX0tmVThaTk1QNXNrVUFyVHkxVXVWRDdBeG5fYkE1dS1UZnlCSzJaVzdLN0xZVWY0Rzg0UHFwT1Q1MG95MVE",
+    "title": "AG Bonta Announces Action on Cryptocurrency, Sextortion Fraud – Increasingly Targeting Gen-Z",
+    "link": "https://blackpressusa.com/ag-bonta-announces-action-on-cryptocurrency-sextortion-fraud-increasingly-targeting-gen-z/",
+    "snippet": "California Attorney General Rob Bonta warned residents about rising cryptocurrency fraud and online sextortion scams, urging Californians to ...",
+    "photo_url": "https://blackpressusa.com/wp-content/uploads/2026/11/nnpa-x-hero-919fd1.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBkMk5oTlVkNFUzazBSVE5OVFJDUkF4ajlCU2dLTWdhUlVwSnJMUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T20:12:22.000Z",
+    "authors": [],
+    "source_url": "https://blackpressusa.com",
+    "source_name": "BlackPressUSA",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blackpressusa.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blackpressusa.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLQgKIidDQklTRndnTWFoTUtFV0pzWVdOcmNISmxjM04xYzJFdVkyOXRLQUFQAQ",
+    "related_topics": []
+  },
+  {
     "article_id": "CBMingFBVV95cUxORGM4N3dlS0JDWEFoTUhrREw5S19EQ0w3RWpPRFVOUmFGY1lUNXVQenVsX2hISjdtdzhweDJldjlOSlZJT0ktNEIzV1JBVDRNczVNOGJ3Q2hfVklsRnpCWF9ERW81NEE1RkxWdmRuTXpPRldxYzFySnB0ZnZUZFp3SGdpU254c3cxNllVZFk4VWM0MVB3OC1hRHJRZG9oUQ",
     "title": "Binance users withdraw billions after cryptocurrency hack",
     "link": "https://ia.acs.org.au/article/2026/binance-users-withdraw-billions-after-cryptocurrency-hack.html",
@@ -1541,10 +1424,33 @@
     ]
   },
   {
+    "article_id": "CBMihwFBVV95cUxPUFVibEt2UFJGbkdqRjUyTVFRSWdhbF9SMFJqNFAta2JSd0trYzFZOEN2aXVJSGo2dkhpQ3BWWmRRY2s4RjZVSjExUzd3YXhzUGhvcVRVd3ByaGRRWTNldGRITXVMOGtOakZUUUttdmt0NFlEc3BNbGItNVdaR3Z1Zm1LWmZHNTQ",
+    "title": "Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility",
+    "link": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
+    "snippet": "Binance CEO says 'months-long campaign' led to $6.3 billion theft as N. Korea denies responsibility. Cryptocurrency giant Binance said North ...",
+    "photo_url": "https://cms.therecord.media/uploads/small_binance_logo_f4cdb044bb.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlSMFpVYUhaU1NsRTVlRXBqVFJDaUFoajBBeWdLTWdrUmtwWVR0ZWVoRGdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T16:52:03.000Z",
+    "authors": [
+      "Jonathan Greig"
+    ],
+    "source_url": "https://therecord.media",
+    "source_name": "The Record from Recorded Future News",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://therecord.media&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://therecord.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWlhKbFkyOXlaQzV0WldScFlTZ0FQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUc1b2VXMXpNaElDWlc0b0FBUAE",
+        "topic_name": "Jonathan Greig"
+      }
+    ]
+  },
+  {
     "article_id": "CBMi5gFBVV95cUxNRVlfLWM5bmQ4dnUwamxaZkR4MnFNYWlFaGxuTzRLOWhLYVREWUtBMG9kV18tYTVTcC1sTHpPUlJsaXVsWU5haUc0YjFjUWpLakJFVlg3ZUViMktwdHRVN19QSUpZaUVjNklSTF9DX1N4TUVCcXVMMG4yZGs0QkdfU1VwMDdFWk80U3lrZUp3Z2liWnQzLU5CcWliRE1vNzV6d1cteFVTUzBuMkZ1T1NrWEMzLXE0QXNIVWVmM2Q1S0VNTVBzLW1sSG1GWDhXQmJiODFRdVZnMlZuMVVqaHdETk1iUVZUdw",
     "title": "Pepe Rose 12% and Hyperliquid Nearly 10% This Week While Bitcoin Fell. Can Either Keep Climbing?",
     "link": "https://247wallst.com/investing/cryptocurrency/2026/11/03/pepe-rose-12-and-hyperliquid-nearly-10-this-week-while-bitcoin-fell-can-either-keep-climbing/",
-    "snippet": "Pepe is a meme coin—a cryptocurrency built around internet humor, with no underlying product, revenue, or business model.",
+    "snippet": "Pepe surged 7% this week even after a Binance hacker dumped $32 million worth of PEPE, signaling unusually strong market liquidity.",
     "photo_url": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_2853380661-400x265.jpg",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDVRbFowUW5ka2JEWnJlREZQVFJDSkFoaVFBeWdLTWdZWmtwQ3R0UVk=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-11-04T00:17:00.000Z",
@@ -1560,6 +1466,29 @@
       {
         "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWkdweU1XdDJaaElDWlc0b0FBUAE",
         "topic_name": "Sam Daodu"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiaEFVX3lxTE1INHFqNEtXQVVvWkhybWViMTREWHpJTnNray1DNmJ2b0p2ckU0bGpnY0RtMUhWWkRKaVdJUlBKY0lPeHVPd2hBZF9VYzh2ajV2bDVLNUl6R0lZQm5HbU5sVTN2MF8wQ01F",
+    "title": "Current price of Ethereum for November 4, 2026",
+    "link": "https://fortune.com/article/price-of-ethereum-11-04-2026/",
+    "snippet": "Ethereum (1 ETH) is trading at $2,330.30. That's a $68.43 increase from yesterday and about a $956 loss over the past year.",
+    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-4.jpg?format=webp&w=1440&quality=75",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNWSFEzWnpsM1RIVlZSSGs0VFJERUF4aW1CU2dLTWdheDhJYXcwQU0=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T12:15:00.000Z",
+    "authors": [
+      "Joseph Hostetler"
+    ],
+    "source_url": "https://fortune.com",
+    "source_name": "Fortune",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
+        "topic_name": "Joseph Hostetler"
       }
     ]
   },
@@ -1587,29 +1516,6 @@
     ]
   },
   {
-    "article_id": "CBMihwFBVV95cUxPUFVibEt2UFJGbkdqRjUyTVFRSWdhbF9SMFJqNFAta2JSd0trYzFZOEN2aXVJSGo2dkhpQ3BWWmRRY2s4RjZVSjExUzd3YXhzUGhvcVRVd3ByaGRRWTNldGRITXVMOGtOakZUUUttdmt0NFlEc3BNbGItNVdaR3Z1Zm1LWmZHNTQ",
-    "title": "Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility",
-    "link": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
-    "snippet": "Binance CEO says 'months-long campaign' led to $6.3 billion theft as N. Korea denies responsibility. Cryptocurrency giant Binance said North ...",
-    "photo_url": "https://cms.therecord.media/uploads/small_binance_logo_f4cdb044bb.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlSMFpVYUhaU1NsRTVlRXBqVFJDckFSaW5BaWdCTWdrUmtwWVR0ZWVoRGdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T16:52:03.000Z",
-    "authors": [
-      "Jonathan Greig"
-    ],
-    "source_url": "https://therecord.media",
-    "source_name": "The Record from Recorded Future News",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://therecord.media&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://therecord.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1JvWlhKbFkyOXlaQzV0WldScFlTZ0FQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuTUc1b2VXMXpNaElDWlc0b0FBUAE",
-        "topic_name": "Jonathan Greig"
-      }
-    ]
-  },
-  {
     "article_id": "CBMi2gFBVV95cUxNSWlBZklNd01oal9IYnJSdjg4VGFsTGs1VkNpVTM1c3RqS1djN1ljdUZXWXl2OVV0YThuZUo2VjZ4elpVUFZuU2xFT0txaHZZVWt0cW81Y0s0bHJRNVYyeGg4M3NaVngzYkVpREpMMEpkUHFLWjFIbjExc2tzNThwMDFpQTJ1V2JrS0NJaVFIYWpLRXV5a09zZWplY2J4WnM2NzM0QmxvMUh2Wm42a1dkc3NsT25LRGEzY1otTkdNUzRuTldYd1dtd2JxSGhTRmIwWkxhUEozOUdjdw",
     "title": "Sahara becomes first Las Vegas Strip casino to accept cryptocurrency for gambling",
     "link": "https://www.yogonet.com/international/news/2026/11/02/127113-sahara-becomes-first-las-vegas-strip-casino-to-accept-cryptocurrency-for-gambling",
@@ -1626,29 +1532,6 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMitgFBVV95cUxNZmdYZ1dOR001dWwxWS14a3RJdEwyOWlsQmYyemtsX0ZQRVl1ZFFYc0pud2FqbGpTVVlTOVJ2N19BaElpQ1oxbzlBRGh3cFpCelNiU3NFcTRMTXRBS0MwT1dBYjlENl9GTDhjQ1RDSC1FU2NJRExNOUMyTjAtemRvazI2N0J6SWV2c25uX1h6OUU0R1VRcWZ3ZlZ3VENlTnY5dTRYMEZwTjlKak1iZTJpVXlmQ0JkQQ",
-    "title": "Dubai Police arrest six over Dh2.6 million cryptocurrency fraud",
-    "link": "https://www.thenationalnews.com/news/uae/2026/10/30/dubai-police-arrest-six-over-dh26-million-cryptocurrency-fraud/",
-    "snippet": "Dubai Police have arrested a six-member gang accused of swindling someone out of Dh2.6 million ($707,964) in a cryptocurrency scam involving an ...",
-    "photo_url": "https://www.thenationalnews.com/resizer/v2/P4NAS7Z5ZXW2EHSJT4SUTAY2YM.jpg?auth=03c694c37b2e740b09a6e1b8d8b0bea07ea25107685a8404aedcc269634db350&smart=true&width=400&height=225",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1ZMDE2TTFwaGMwUmlTRlZCVFJEaEFSaVFBeWdLTWdZQkJZUUtIZ2s=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-10-30T12:16:26.000Z",
-    "authors": [
-      "Ali Al Shouk"
-    ],
-    "source_url": "https://www.thenationalnews.com",
-    "source_name": "The National",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenationalnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenationalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWlc1aGRHbHZibUZzYm1WM2N5NWpiMjBvQUFQAQ",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeGVuRjZheElDWlc0b0FBUAE",
-        "topic_name": "Ali Al Shouk"
-      }
-    ]
-  },
-  {
     "article_id": "CBMiZ0FVX3lxTE1SWEhYRDk2clJUOWI1bmNjSW9TRkRTME5QTzk3LVhUaC12ZFRHWmljREN3SkRmYUh6OVJ1SGtURDhKRm1INUhpMGlhbFFsRmsyRm4ySFdVM1ZaWEVpb1NPWGtua05UUXM",
     "title": "The problem with cryptocurrency",
     "link": "https://finshots.in/archive/problem-with-cryptocurrency/",
@@ -1662,68 +1545,6 @@
     "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finshots.in&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finshots.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
     "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlpwYm5Ob2IzUnpMbWx1S0FBUAE",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMiaEFVX3lxTE1INHFqNEtXQVVvWkhybWViMTREWHpJTnNray1DNmJ2b0p2ckU0bGpnY0RtMUhWWkRKaVdJUlBKY0lPeHVPd2hBZF9VYzh2ajV2bDVLNUl6R0lZQm5HbU5sVTN2MF8wQ01F",
-    "title": "Current price of Ethereum for November 4, 2026",
-    "link": "https://fortune.com/article/price-of-ethereum-11-04-2026/",
-    "snippet": "Ethereum (1 ETH) is trading at $2,330.30. That's a $68.43 increase from yesterday and about a $956 loss over the past year.",
-    "photo_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Price-of-Ethereum-Nov-4.jpg?format=webp&w=1440&quality=75",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDNWSFEzWnpsM1RIVlZSSGs0VFJERUF4aW1CU2dLTWdheDhJYXcwQU0=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-04T12:15:00.000Z",
-    "authors": [
-      "Joseph Hostetler"
-    ],
-    "source_url": "https://fortune.com",
-    "source_name": "Fortune",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlp2Y25SMWJtVXVZMjl0S0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6YlhReGNteHVNUklDWlc0b0FBUAE",
-        "topic_name": "Joseph Hostetler"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMingFBVV95cUxPWWdDcnBRRFZWQnRhZ0t1WDFMQTNCeHZBRVZrRU1mSFJEMVZvMDNKRnBKY3BIaWhKNkx0dEtoZWM4bVVIMHBQRzZqYXAwcnROcTB3ZWliWmtnc0lFV1JBRnFFSVJHVE50WkxSUlkxUUtOa0ZWU2VrdDltVGtHZm9aNjk1cnV4ZWdVSDhTMVp0SVI0Y3ZZWTJUVzNyNjEwQdIBowFBVV95cUxOd1hhYThJc3M1WnZ4dlF0MElMRVExTmRBcDFFUy1QcVhQenBNbnlKeVUyZ3dodEdJQWNaOGVtY2lJSDJSeXhSd2JMaVhCcU5UTm5yNVU3bTE0YWZWVllnb3AzZWdueEZpV09sbVdaSmRUS3d6ZkNXUGc2RjhiTGU0dXpSSGozT0xOUlRFWm5YUVVtOWNsNGVDd3gtUEhZOW5XMDEw",
-    "title": "North Korea denies role in $6.3 billion Binance crypto theft",
-    "link": "https://www.upi.com/Top_News/World-News/2026/11/03/Kim-Yo-Jong-Binance-hack-crypto/2441793694435/",
-    "snippet": "The FBI said Saturday that North Korea was responsible for stealing more than $6 billion in virtual assets from Binance on or about Oct. 29, ...",
-    "photo_url": "https://cdnph.upi.com/ph/st/th/2441793694435/2026/upi_com/06356cae9f81b523d9e71f7450ba75be/v1.2/North-Korea-denies-role-in-63-billion-Binance-crypto-theft.jpg?lg=5&=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBNM05EV1RCQ2QwZERiVFJSVFJENkF4amVCQ2dLTWdZNVE1SlJvUWc=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T08:44:29.000Z",
-    "authors": [
-      "Thomas Maresca"
-    ],
-    "source_url": "https://www.upi.com",
-    "source_name": "upi",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM1Z3YVM1amIyMG9BQVAB",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhONFpEVnVheElDWlc0b0FBUAE",
-        "topic_name": "Thomas Maresca"
-      }
-    ]
-  },
-  {
-    "article_id": "CBMi7AFBVV95cUxPS1FZNGF3bDhsX0FyWHlaWGJvdldGQnBUaGJTdDQySUhZc2NNMGhUUGtmM1pDV3hpNm8xejlGTlVmSzJhWW44R0F5aC1mUFdHdXViS3BXNy01WjNMZUNXa2c2XzBMNkZSMmdoQ3duN1RpVTZaTG5vdmFQWkVuLXNHSFIybTBtN2RwUmJsWjRaeS1HTWM3Tl9IdjFEeG42TUl1UV9QMXRyWmZPSUM0cjRraVBJM2JhUm9zcmhmUW9tclItWWVHSnpPQnB4OW5BWlpKRGtFSDdYcDQyLS1KMXJac0dKTDBCU2ZwMEM4cg",
-    "title": "Binance Hit by the Largest Hack in Cryptocurrency Market History. Losses Could Reach USD 6.3 Billion",
-    "link": "https://www.xtb.com/cy/market-analysis/news-and-research/binance-hit-by-the-largest-hack-in-cryptocurrency-market-history-losses-could-reach-usd-6-3-billion",
-    "snippet": "Binance, the world's largest cryptocurrency exchange, has fallen victim to a massive cyberattack, at approximately USD 6.3 billion.",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2026-10-30T08:32:19.000Z",
-    "authors": [],
-    "source_url": "https://www.xtb.com",
-    "source_name": "XTB.com",
-    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.xtb.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.xtb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2gwWWk1amIyMG9BQVAB",
     "related_topics": []
   },
   {
@@ -1750,6 +1571,123 @@
     ]
   },
   {
+    "article_id": "CBMitgFBVV95cUxNZmdYZ1dOR001dWwxWS14a3RJdEwyOWlsQmYyemtsX0ZQRVl1ZFFYc0pud2FqbGpTVVlTOVJ2N19BaElpQ1oxbzlBRGh3cFpCelNiU3NFcTRMTXRBS0MwT1dBYjlENl9GTDhjQ1RDSC1FU2NJRExNOUMyTjAtemRvazI2N0J6SWV2c25uX1h6OUU0R1VRcWZ3ZlZ3VENlTnY5dTRYMEZwTjlKak1iZTJpVXlmQ0JkQQ",
+    "title": "Dubai Police arrest six over Dh2.6 million cryptocurrency fraud",
+    "link": "https://www.thenationalnews.com/news/uae/2026/10/30/dubai-police-arrest-six-over-dh26-million-cryptocurrency-fraud/",
+    "snippet": "Dubai Police have arrested a six-member gang accused of swindling someone out of Dh2.6 million ($707,964) in a cryptocurrency scam involving an ...",
+    "photo_url": "https://www.thenationalnews.com/resizer/v2/P4NAS7Z5ZXW2EHSJT4SUTAY2YM.jpg?auth=03c694c37b2e740b09a6e1b8d8b0bea07ea25107685a8404aedcc269634db350&smart=true&width=400&height=225",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNW1ZMDE2TTFwaGMwUmlTRlZCVFJEaEFSaVFBeWdLTWdZQkJZUUtIZ2s=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-10-30T12:16:26.000Z",
+    "authors": [
+      "Ali Al Shouk"
+    ],
+    "source_url": "https://www.thenationalnews.com",
+    "source_name": "The National",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenationalnews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenationalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqMAgKIipDQklTR1FnTWFoVUtFM1JvWlc1aGRHbHZibUZzYm1WM2N5NWpiMjBvQUFQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ4T1RSeGVuRjZheElDWlc0b0FBUAE",
+        "topic_name": "Ali Al Shouk"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiwwFBVV95cUxQWEZLRDAyZFJjY0V1QjVsOWQ5TVd5cUx5ZWlkTHhNZXdtRDdEQWN1MDMzYlJTbGpYaTk4OTMzRUhjanowd19xenJRVGFROXJIWmdkcURUaFhiVEoxUW5ySFJfcnVuQUFMY01GbTM1dFM5MVZlSFpUdDFCdnl5YURjUFRrd2ZReHBvNkFzeUFfN1hCOGE3Si1QV2NiVnRlYVJPS0dUZlVRZ3Njb3o2Ynk0a0Z6R08zSkRQaml3bDZMcmJtMU0",
+    "title": "California Recovers Over $4.8 Million for Scam Victims of Major Crypto ATM Company CoinFlip",
+    "link": "https://dfpi.ca.gov/press_release/california-recovers-over-4-8-million-for-scam-victims-of-major-crypto-atm-company-coinflip/",
+    "snippet": "California is cracking down on a major crypto kiosk company that failed to adequately protect consumers from fraud, securing full compensation ...",
+    "photo_url": "https://cdn-ilenpic.nitrocdn.com/PPTxqsMyuGaqPtHgEyUGJowvLwsdjZUD/assets/images/optimized/rev-0c54710/dfpi.ca.gov/wp-content/uploads/2026/08/PressRelease_Placeholder_V06-150x150.png",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWhNazFmWlRrMVgxOUdVak5OVFJDV0FSaVdBU2dLTWdhVms1U0x1UWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T23:13:41.000Z",
+    "authors": [],
+    "source_url": "https://dfpi.ca.gov",
+    "source_name": "The Department of Financial Protection and Innovation (.gov)",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dfpi.ca.gov&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dfpi.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDMlJtY0drdVkyRXVaMjkyS0FBUAE",
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMingFBVV95cUxPWWdDcnBRRFZWQnRhZ0t1WDFMQTNCeHZBRVZrRU1mSFJEMVZvMDNKRnBKY3BIaWhKNkx0dEtoZWM4bVVIMHBQRzZqYXAwcnROcTB3ZWliWmtnc0lFV1JBRnFFSVJHVE50WkxSUlkxUUtOa0ZWU2VrdDltVGtHZm9aNjk1cnV4ZWdVSDhTMVp0SVI0Y3ZZWTJUVzNyNjEwQdIBowFBVV95cUxOd1hhYThJc3M1WnZ4dlF0MElMRVExTmRBcDFFUy1QcVhQenBNbnlKeVUyZ3dodEdJQWNaOGVtY2lJSDJSeXhSd2JMaVhCcU5UTm5yNVU3bTE0YWZWVllnb3AzZWdueEZpV09sbVdaSmRUS3d6ZkNXUGc2RjhiTGU0dXpSSGozT0xOUlRFWm5YUVVtOWNsNGVDd3gtUEhZOW5XMDEw",
+    "title": "North Korea denies role in $6.3 billion Binance crypto theft",
+    "link": "https://www.upi.com/Top_News/World-News/2026/11/03/Kim-Yo-Jong-Binance-hack-crypto/2441793694435/",
+    "snippet": "The FBI said Saturday that North Korea was responsible for stealing more than $6 billion in virtual assets from Binance on or about Oct. 29, ...",
+    "photo_url": "https://cdnph.upi.com/ph/st/th/2441793694435/2026/upi_com/06356cae9f81b523d9e71f7450ba75be/v1.2/North-Korea-denies-role-in-63-billion-Binance-crypto-theft.jpg?lg=5&=1",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNDBNM05EV1RCQ2QwZERiVFJSVFJENkF4amVCQ2dLTWdZNVE1SlJvUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T08:44:29.000Z",
+    "authors": [
+      "Thomas Maresca"
+    ],
+    "source_url": "https://www.upi.com",
+    "source_name": "upi",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM1Z3YVM1amIyMG9BQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtZVhONFpEVnVheElDWlc0b0FBUAE",
+        "topic_name": "Thomas Maresca"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMitgFBVV95cUxPeGZOT1RKRGNKUm5FZ3dfY19yeWV0MGR4Y3RtdFJULUhHQVo4UG9fSF9PLVZkc3JMMzVIS1dOY1BwWUFEUEMxc3RmTWt0Rm83TEh0SGVYUUVFV2xfUWdrdXVBUEtvNEtVOFd4Q3l4OHBHUENNR0xmV0N6ZTg5Z0I3Vk9vUDYwWU1zb3pxSEE0UE15elRTajEzckJNZjBseDd2dEE3UENxSm96QTBmWlp4T05sd0hWdw",
+    "title": "How malware and a bogus job interview let attackers nab $6.3B from Binance",
+    "link": "https://www.washingtonpost.com/technology/2026/11/03/how-malware-bogus-job-interview-let-attackers-nab-63b-binance/",
+    "snippet": "Binance said code downloaded during a purported job interview included malware that evaded its security tools.",
+    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3DYYNVU6V4I6ZFBYEVLQTNWN3Q.jpg&w=1440",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTVNRVI1T0RWYVFUWmZlRVpFVFJERUF4aW1CU2dLTWdZbGRZek5yUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T01:42:40.000Z",
+    "authors": [
+      "Miriam Waldvogel"
+    ],
+    "source_url": "https://www.washingtonpost.com",
+    "source_name": "The Washington Post",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEYwY0RCeWMyUTBaeElDWlc0b0FBUAE",
+        "topic_name": "Miriam Waldvogel"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMi7AFBVV95cUxPS1FZNGF3bDhsX0FyWHlaWGJvdldGQnBUaGJTdDQySUhZc2NNMGhUUGtmM1pDV3hpNm8xejlGTlVmSzJhWW44R0F5aC1mUFdHdXViS3BXNy01WjNMZUNXa2c2XzBMNkZSMmdoQ3duN1RpVTZaTG5vdmFQWkVuLXNHSFIybTBtN2RwUmJsWjRaeS1HTWM3Tl9IdjFEeG42TUl1UV9QMXRyWmZPSUM0cjRraVBJM2JhUm9zcmhmUW9tclItWWVHSnpPQnB4OW5BWlpKRGtFSDdYcDQyLS1KMXJac0dKTDBCU2ZwMEM4cg",
+    "title": "Binance Hit by the Largest Hack in Cryptocurrency Market History. Losses Could Reach USD 6.3 Billion",
+    "link": "https://www.xtb.com/cy/market-analysis/news-and-research/binance-hit-by-the-largest-hack-in-cryptocurrency-market-history-losses-could-reach-usd-6-3-billion",
+    "snippet": "Binance, the world's largest cryptocurrency exchange, has fallen victim to a massive cyberattack, at approximately USD 6.3 billion.",
+    "photo_url": null,
+    "thumbnail_url": null,
+    "published_datetime_utc": "2026-10-30T08:32:19.000Z",
+    "authors": [],
+    "source_url": "https://www.xtb.com",
+    "source_name": "XTB.com",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.xtb.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.xtb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM2gwWWk1amIyMG9BQVAB",
+    "related_topics": []
+  },
+  {
+    "article_id": "CBMitAFBVV95cUxOS09nLVVraEc3NUpISndtTXFPMkRSMFFTU201T3dBcTU4MGE3UDBIeER4YkRTclNPWTByNUEtaWxFUWJZbmlQUG1iMEFELUlmSFNjS3lueW1rZjJ1aHJqZnVma0R4YkNqc2F1amV5WWZYN0otN0FUdE5wTl9VS2RnVkI0aUVicnpRdlV3ejRKMWM5UEtpcjhMTnN2eENqV08yeE1wempuemM3MlNRWW9qcmVUdmE",
+    "title": "What the 2026 Midterms Mean for Crypto, Banks and Stablecoin Regulation",
+    "link": "https://www.pymnts.com/cryptocurrency/2026/what-the-2026-midterms-mean-for-crypto-banks-and-stablecoin-regulation/",
+    "snippet": "Democrats' sweep of Congress threatens to derail crypto's legislative ambitions and change who interprets existing laws.",
+    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/01/Congress-Capitol-Hill.jpeg?w=457",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNTJkVWRGYWtaaWJUSlpVekJFVFJDUkFoakpBeWdLTWdhbFJJRHZMUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T20:00:26.000Z",
+    "authors": [],
+    "source_url": "https://www.pymnts.com",
+    "source_name": "PYMNTS.com",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
+    "related_topics": []
+  },
+  {
     "article_id": "CBMiwwFBVV95cUxOVFVNQ3NCdGxnN01GeDdlbjNpOFExaVZWeXRkZUptdGFQSWJGdjRQblN1TjdIQlZHcXFwUjlKbjQ1cDQxTzhUZEZZZXM1NEZodlZYb0VWWlNaUXZSdWd1ZTRWWjViSElHSlFRZzVZcWptQUltN1p0czhwYUNCSGZSd0hsNm9TeU5Qay0ybWtfOFNwd2F1MVZCMURuZEI0ZDZQVXhFRWJtU1RmUmJnNkxvNExMTkNKUXhJNkNoNVFiR0tlaWM",
     "title": "FBI confirms it thinks North Korean hackers hit Binance in record cryptocurrency heist",
     "link": "https://www.techradar.com/pro/security/fbi-confirms-it-thinks-north-korean-hackers-hit-binance-in-record-cryptocurrency-heist",
@@ -1773,6 +1711,22 @@
     ]
   },
   {
+    "article_id": "CBMipwFBVV95cUxNM3Z5TkNlUjNPeVNCanp4Z285SnRFaUNqZzNHc2EzYVVQVUUwUUpGaTZGTTVpenEwWVJpWWd5bHhyT3ZTdWZYa0tsX2tGWW9mZWdhV3g4cmRZR0lnNks4SXRoZ21Xc3c4SEhEMlJaSlR3SXJaLXFsY0FBbUdla1JyWDZGdEZFRDRHOW9hQUZ6NEliaHR2YjRoMlVmM2wtU1Q0eExDMlc4bw",
+    "title": "Two Canadians indicted for hacking US universities to mine cryptocurrency",
+    "link": "https://www.scworld.com/brief/two-canadians-indicted-for-hacking-u-s-universities-to-mine-cryptocurrency",
+    "snippet": "Ryan James Roach, 35, and Mathiew James Stubbings, 41, face charges including conspiracy to obtain information from a protected computer and ...",
+    "photo_url": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fcanada-canadian-flag-2.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iKkNnNUZUbTlmVFZBd09FODJZbTlqVFJCNEdLTURLQUV5QmhXWWhtaENCQQ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-05T01:10:25.000Z",
+    "authors": [],
+    "source_url": "https://www.scworld.com",
+    "source_name": "SC Media",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": null,
+    "related_topics": []
+  },
+  {
     "article_id": "CBMiswFBVV95cUxOelRxdHVXcXVVSWFfeFBYcml3TDJBYzVOcTh5SVFzWko0LWRIU3Z2aTFKTEdMQWRKc3NLb0F4UGlmb1JjbzR3bFFPVVJqdXdSSmFpWWE2QWlCRTRwb3haQy1kcHJISXlfbl9QUE9LTUIyaWE0SHlLTlNreE13QThwRGl3YnJ4SENaUV9CTlhQNENXczRMNWl3MWJEM0FiMEppRFplTnVUbXZMUVpvUmRYWmwzYw",
     "title": "FBI Identifies North Korean Hackers in $6 Billion Binance Theft",
     "link": "https://www.presidentialprayerteam.org/2026/11/04/fbi-identifies-north-korean-hackers-in-6-billion-binance-theft/",
@@ -1789,29 +1743,13 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMisAFBVV95cUxPNk10amhPVTNRNVZQRFpTV0N3dm1CX3U3RWdjTUxIaHlzaUFraTdmUGY2QXRiQUI3dk1OZndxOUJnNEhUUXN2MU8xUlhVam9XSlZSUjB0WTl0RHAxaXE0ZWRWYmxUS1FKWkpQMkZXRFBfWDR6YnVSS0tlNFV6cVM5MXZYTzhkYmxzcWhja25LMDMtY1hzYm9VY0JIT2JobGZSdUEtRHlBYy1WTFRXVU8zY9IBtgFBVV95cUxOWm9WZWRoV0lLdk53UUJRR1R0ajg3TXMxaVp3MGd4bnFjZ3diSlViak82VnVxTWhHRFNxWkt2UHBfZktVYVNJclM1cHpJbkFTZjlvWFZMRFR2RUtiYWFLUTEtNmhMaVp4WkJINWFmUC0zdzJEOEoyNWlDM1lYU2dOWUh4LXpfUUJoZjBrTDEySG1nX290c01NcUdIbVByamRfSDNPX016MDNGSFRxZi1VbGdidlAtdw",
-    "title": "North Korean hackers steal more Bitcoin than Tesla holds",
-    "link": "https://www.upi.com/Top_News/World-News/2026/11/02/binance-tradertraitor-fbi-cryptocurrency-hack/3931793653251/",
-    "snippet": "Bitcoin stolen in the record $6.3 billion Binance hack exceeds Tesla's holdings as the FBI identifies North Korea's TraderTraitor group as ...",
-    "photo_url": "https://cdnph.upi.com/ph/st/th/3931793653251/2026/upi_com/1b8b7320949a3efc10736cb26815cb4f/v1.2/North-Korean-hackers-steal-more-Bitcoin-than-Tesla-holds.jpg?lg=5&=1",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iI0NnNVhaMVF5ZVhCd1dXNUdlWEo1VFJENUF4amZCQ2dLTWdB=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T21:13:27.000Z",
-    "authors": [],
-    "source_url": "https://www.upi.com",
-    "source_name": "upi",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIAgKIhpDQklTRFFnTWFna0tCM1Z3YVM1amIyMG9BQVAB",
-    "related_topics": []
-  },
-  {
-    "article_id": "CBMi3wFBVV95cUxPVkZYNjhkU1hDM0ZWZUNxTHhhYVpGd1FqX29zR1ctTkFuc2o1RlIxdGhUb0dHQ2dLYjZTcDFGZlN6S0Foa0dYbWpJbnNZb3RVcTJ5Zko2LXJUVHhic2xFUmRYaFI3NGh5WDdZUElKay1sMjNZRXFwTVpaaEJQYjBXYzhlOGEzNm1XXzEzeXF5MElCY0FkOHNSYWNZYUFDY1ZlM1lsdkJsYkNyUmZoS3NfN2tWc0pLamgyM2pqakpKejhsMjJtZk03ZnFEYmlQU1Ftc3cwaWZkdS1YQkNNWkdF",
-    "title": "XRP ETFs Mark Their First Year This Month. Have They Delivered What XRP Holders Expected?",
-    "link": "https://247wallst.com/investing/cryptocurrency/2026/11/02/xrp-etfs-mark-their-first-year-this-month-have-they-delivered-what-xrp-holders-expected/",
-    "snippet": "XRP ETFs have drawn a net $1.81 billion since November 2025, but XRP is down 46.1% since launch. XRP now trades 65.8% below its all-time high ...",
-    "photo_url": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_1167281044-400x298.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU9XazA1YTFVelIxVnFhMWRmVFJDcUFoaVFBeWdLTWdtSklaTFZMT2VwNWdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T17:57:00.000Z",
+    "article_id": "CBMi8gFBVV95cUxNTmRMemI3TXJzcV8tVi1IOGVneVVXTHd0Yk9Mb29vNnhHWWJya0t6dzYwRG50c0VyazlnclFsc1FBaEduTlVLVXpoNlJ3dmlOUDhXajBwSy1SRVlBdEFvSmZrLTJKWkhOSE5QZ3pZalBnM21IZnRBY2xLY0Q4blRLMkxOSGl0NGZYWkZ5eXIzLXNOb091MmE5TmZaVmJJcHlxRnZvQVVzdk1aLS1VaF81RlVkVXpNRHpkTXlVYkVBalNTY1VJUmRhYlVueEY3Q01LYWJrb045VW5WZEQtMlYzcWd2VlBtWFpWakpMcTJfN0pwdw",
+    "title": "New XRP Wallets Just Hit Their Sixth-Highest Day of 2026. Are They New Buyers or Coins Leaving Binance?",
+    "link": "https://247wallst.com/investing/cryptocurrency/2026/11/03/new-xrp-wallets-just-hit-their-sixth-highest-day-of-2026-are-they-new-buyers-or-coins-leaving-binance/",
+    "snippet": "New XRP wallets reached their sixth-highest day of 2026 as Binance reopened withdrawals. Find out what this surge indicates about demand.",
+    "photo_url": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_2838884309-400x264.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRXWHBOUjFBdFMxbEVTRXhNVFJDSUFoaVFBeWdLTWdZbGxKS3RzUVk=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T01:01:00.000Z",
     "authors": [
       "Sam Daodu"
     ],
@@ -1828,13 +1766,13 @@
     ]
   },
   {
-    "article_id": "CBMi8gFBVV95cUxNTmRMemI3TXJzcV8tVi1IOGVneVVXTHd0Yk9Mb29vNnhHWWJya0t6dzYwRG50c0VyazlnclFsc1FBaEduTlVLVXpoNlJ3dmlOUDhXajBwSy1SRVlBdEFvSmZrLTJKWkhOSE5QZ3pZalBnM21IZnRBY2xLY0Q4blRLMkxOSGl0NGZYWkZ5eXIzLXNOb091MmE5TmZaVmJJcHlxRnZvQVVzdk1aLS1VaF81RlVkVXpNRHpkTXlVYkVBalNTY1VJUmRhYlVueEY3Q01LYWJrb045VW5WZEQtMlYzcWd2VlBtWFpWakpMcTJfN0pwdw",
-    "title": "New XRP Wallets Just Hit Their Sixth-Highest Day of 2026. Are They New Buyers or Coins Leaving Binance?",
-    "link": "https://247wallst.com/investing/cryptocurrency/2026/11/03/new-xrp-wallets-just-hit-their-sixth-highest-day-of-2026-are-they-new-buyers-or-coins-leaving-binance/",
-    "snippet": "XRP Ledger hit 7,934 new wallets on November 1, its sixth-highest of 2026, XRP is currently at $1.28, up 2.6% over 24 hours.",
-    "photo_url": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_2838884309-400x264.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXRXWHBOUjFBdFMxbEVTRXhNVFJDSUFoaVFBeWdLTWdZbGxKS3RzUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-04T01:01:00.000Z",
+    "article_id": "CBMi3wFBVV95cUxPVkZYNjhkU1hDM0ZWZUNxTHhhYVpGd1FqX29zR1ctTkFuc2o1RlIxdGhUb0dHQ2dLYjZTcDFGZlN6S0Foa0dYbWpJbnNZb3RVcTJ5Zko2LXJUVHhic2xFUmRYaFI3NGh5WDdZUElKay1sMjNZRXFwTVpaaEJQYjBXYzhlOGEzNm1XXzEzeXF5MElCY0FkOHNSYWNZYUFDY1ZlM1lsdkJsYkNyUmZoS3NfN2tWc0pLamgyM2pqakpKejhsMjJtZk03ZnFEYmlQU1Ftc3cwaWZkdS1YQkNNWkdF",
+    "title": "XRP ETFs Mark Their First Year This Month. Have They Delivered What XRP Holders Expected?",
+    "link": "https://247wallst.com/investing/cryptocurrency/2026/11/02/xrp-etfs-mark-their-first-year-this-month-have-they-delivered-what-xrp-holders-expected/",
+    "snippet": "XRP ETFs have drawn a net $1.81 billion since November 2025, but XRP is down 46.1% since launch. XRP now trades 65.8% below its all-time high ...",
+    "photo_url": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_1167281044-400x298.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNU9XazA1YTFVelIxVnFhMWRmVFJDcUFoaVFBeWdLTWdtSklaTFZMT2VwNWdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-02T17:57:00.000Z",
     "authors": [
       "Sam Daodu"
     ],
@@ -1874,25 +1812,25 @@
     ]
   },
   {
-    "article_id": "CBMikAFBVV95cUxQWG1LbFptU0RCMF81Wm1xT3ViblBwaG4wN1M0X3NmUVJCT0RyQTI4NlBTY19IaHFTc2p6b0NyUnN5NDczQy1ZajFkZjc1bG8tRm40YmlLM3FuY1FVM0RVX1VVYy1PRVBSYXFCVUs1WXVveWp5eHhiUnNuZlQtTVdzMzBMSnFJRFMwc3RqT0l5T2Q",
-    "title": "CEO Reveals How Hackers Stole $6.3B In Historic Cryptocurrency Heist",
-    "link": "https://dailyvoice.com/article/binance-ceo-reveals-details-on-63b-cryptocurrency-heist/",
-    "snippet": "The company lost about $6.34 billion in digital currencies on Thursday, Oct. 29, in what could be the largest cryptocurrency theft in history.",
-    "photo_url": "https://edge.dailyvoice.com/upload/traxer-kM6QNrgo0YE-unsplash.jpg?width=720",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlPSFV0U2pKUk5UTlFNbTlMVFJDM0FSaVRBaWdCTWdrQkFZektIU2pnUmdJ=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-03T22:24:35.000Z",
+    "article_id": "CBMie0FVX3lxTE5nS2ktWnVyVTJjbkZ0Q09JUHdqZS1rblUxMjZwQ3FTQVFRS0RnemNvdGFCS1ZhV3IxdmtPZUhwUTl1bktOOVB3eEYzSDE0THdRZHJOcFhpeUFRNk1SR2x5M2dCZGhxajBVQnNoVDJ3QXBVNk5KVDlvQ0h1Zw",
+    "title": "Binance stabilizes withdrawals after cryptocurrency theft",
+    "link": "https://inspenet.com/en/news/binance-withdrawals-following-crypto-thef/",
+    "snippet": "Binance normalizes withdrawals after $6.3 billion cyberattack, while North Korea rejects FBI accusation and deposits increase.",
+    "photo_url": "https://cdn.inspenet.com/Binance.webp",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVlTemxMWm05cFRWTm5XRlpYVFJDZkF4ampCU2dLTWdhVkFZNnNvUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T19:01:16.000Z",
     "authors": [
-      "Chris Spiker"
+      "Marcos Godoy Medina"
     ],
-    "source_url": "https://dailyvoice.com",
-    "source_name": "DailyVoice.com",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbVJoYVd4NWRtOXBZMlV1WTI5dEtBQVAB",
+    "source_url": "https://inspenet.com",
+    "source_name": "Inspenet",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://inspenet.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://inspenet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER2x1YzNCbGJtVjBMbU52YlNnQVAB",
     "related_topics": [
       {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhvMlpISnJNQklDWlc0b0FBUAE",
-        "topic_name": "Chris Spiker"
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEY2TURCNU9UTTNNQklDWlc0b0FBUAE",
+        "topic_name": "Marcos Godoy Medina"
       }
     ]
   },
@@ -1916,7 +1854,7 @@
     "article_id": "CBMiwwFBVV95cUxQWnp5TUNjTjZaR3NMNUJjRHB5WnYxN0tyTjRjelVyMDVlRXhkNE5XVndmd0hBNUVUTG5xN2F1bDk3dmJFYlgyUDFkQ28yUTJIMjdteFo4QjVqbF9SS0V4UEo4bTIxRG9QZnl5WlhxWlE5ZWlRVnZFVS0wMk9VaW40SV8xU0lNMzRIUlhENmRMekxhSHZIVjFmSGpLdS1BUDZ6cGZrdFQzNFNiWFEyR29ZQ2JFejVvTEhTLW80RWhjek8xZzg",
     "title": "Binance reveals how hackers carried out record $6.3 billion cryptocurrency theft",
     "link": "https://www.rivieraradio.mc/article/binance-reveals-how-hackers-carried-out-record-63-billion-cryptocurrency-theft-5Hjdkrp_2/",
-    "snippet": "Cryptocurrency exchange Binance has revealed how hackers used fake job interviews and compromised software to steal $6.3 billion (£4.7 ...",
+    "snippet": "Binance has revealed how hackers used fake job interviews and compromised software to steal $6.3 billion",
     "photo_url": "https://images.rivieraradio.mc/images/853323?crop=16_9&width=660&relax=1&format=webp&signature=sUMWSwAsR00-H2HewHOSV0hbYjs=",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHdMVlpSUWpGTWVFUmpUR1F3VFJEekFoaVVCU2dLTWdhbGhZYk50UU0=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-11-04T09:51:29.000Z",
@@ -1929,26 +1867,33 @@
     "related_topics": []
   },
   {
-    "article_id": "CBMiY0FVX3lxTFBfQVJNY2p6eUlkTEkyS2hILXBMQ2RaMVlzckNNaWlySzlqbFBtUmgxVTRLT18tbk1waTlyVVg5THFzRVB6RFh5LVRNNjA1UmxjNFkwMUxZdkp0bGlRWXZlZDhUOA",
-    "title": "Cryptocurrency exchange Binance confirms security breach | NHK WORLD-JAPAN News",
-    "link": "https://www3.nhk.or.jp/nhkworld/news/20261030de68760/",
-    "snippet": "Binance says it has confirmed what appears to be unauthorized access to its system resulting in the loss of over 6 billion dollars.",
-    "photo_url": null,
-    "thumbnail_url": null,
-    "published_datetime_utc": "2026-10-29T23:33:19.000Z",
-    "authors": [],
-    "source_url": "https://www3.nhk.or.jp",
-    "source_name": "NHKニュース",
-    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www3.nhk.or.jp&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www3.nhk.or.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzVvYXk1dmNpNXFjQ2dBUAE",
-    "related_topics": []
+    "article_id": "CBMitwFBVV95cUxPR1dGU29hOXpIZHFLM3NFNnR5QkJqcHhNWUhtY0FEcDlfMHJTX3hHME9Id3R2RDh6UHM5TFlPNU5wV19uVG9Ud3RiTzN6VVoyRUVjUGRaT01iVFBsb01YLWt2bW1zZmVjZ2tDeDVGb2tnRzl6SFgxUlJ3ZFZrVTVhVzh2aFg3anJIOVRCS2hsV0FYaS1RS0h4TVhxU2s0Q3ZCSTRtaV9jQmZlZ0Q4amR1NURoR01BLUE",
+    "title": "Ex-FBI agent set to plead guilty to stealing $1 million in crypto",
+    "link": "https://www.washingtonpost.com/national-security/2026/11/04/ex-fbi-agent-set-plead-guilty-stealing-1-million-crypto/",
+    "snippet": "The former agent, Patrick Yaroch, was planning a move to Portugal on ChatGPT's advice, prosecutors said.",
+    "photo_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/R6EVISBWYQI6TBKKPIKNP7WJNI.jpg&w=1440",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXpkRGxyVURsNk1HOHpWMjlaVFJERUF4aW1CU2dLTWdhbGM0eXVzUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-05T02:55:11.000Z",
+    "authors": [
+      "Salvador Rizzo (Journalist)"
+    ],
+    "source_url": "https://www.washingtonpost.com",
+    "source_name": "The Washington Post",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqLggKIihDQklTR0FnTWFoUUtFbmRoYzJocGJtZDBiMjV3YjNOMExtTnZiU2dBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWW1nMWF6ZDVPUklDWlc0b0FBUAE",
+        "topic_name": "Salvador Rizzo (Journalist)"
+      }
+    ]
   },
   {
     "article_id": "CBMi1wFBVV95cUxPbVRGdUw2Q0d4R0tmTWYtZU9hTmUxaWhfd0NtSnBMcDVLcndSOW5jbTdsWEdDY1BpdDlZZkhWLXNVcXJXSE1hNzlHQjNYOUlkZ1Q5Wnc3emVQTTBYQmpLMlYxYS16Wl9IaGZDNlUzYlVGWnczdEIzZ0NjZjFuUXBRbG9ZMXZzcjlwWDdwTWIwcmt1OVQ1emlxbUh6X2tKRDZ0VjdreHNTUlVxQ29vSjhzdEVxRC03SHNXbjE3LTVraHhCRE4wRnpPSjNheU5kUTRscU03WlBkbw",
     "title": "If You Had Bought XRP the Day Ripple Won Its SEC Case, How Much Would You Have Now?",
     "link": "https://247wallst.com/investing/cryptocurrency/2026/11/03/if-you-had-bought-xrp-the-day-ripple-won-its-sec-case-how-much-would-you-have-now/",
-    "snippet": "XRP SEC ruling is worth $1562 to $2715 now. If you had invested $1,000 in XRP around that day, your investment would now be worth between $1, ...",
+    "snippet": "A $1,000 Bitcoin investment made on the same ruling day now sits at $2,467, beating the $1,562 return of the ruling-day XRP buyer. XRP peaked at ...",
     "photo_url": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1103967176-huge-licensed-scaled.jpg",
     "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNVRlbEJpUmpodVRuSXdlak53VFJERUF4aW1CU2dLTWdhUlVvZ3J4UU0=-w200-h200-p-df-rw",
     "published_datetime_utc": "2026-11-03T23:31:00.000Z",
@@ -1966,6 +1911,22 @@
         "topic_name": "Sam Daodu"
       }
     ]
+  },
+  {
+    "article_id": "CBMiY0FVX3lxTFBfQVJNY2p6eUlkTEkyS2hILXBMQ2RaMVlzckNNaWlySzlqbFBtUmgxVTRLT18tbk1waTlyVVg5THFzRVB6RFh5LVRNNjA1UmxjNFkwMUxZdkp0bGlRWXZlZDhUOA",
+    "title": "Cryptocurrency exchange Binance confirms security breach | NHK WORLD-JAPAN News",
+    "link": "https://www3.nhk.or.jp/nhkworld/news/20261030de68760/",
+    "snippet": "Binance says it has confirmed what appears to be unauthorized access to its system resulting in the loss of over 6 billion dollars.",
+    "photo_url": null,
+    "thumbnail_url": null,
+    "published_datetime_utc": "2026-10-29T23:33:19.000Z",
+    "authors": [],
+    "source_url": "https://www3.nhk.or.jp",
+    "source_name": "NHKニュース",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www3.nhk.or.jp&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www3.nhk.or.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqIggKIhxDQklTRHdnTWFnc0tDVzVvYXk1dmNpNXFjQ2dBUAE",
+    "related_topics": []
   },
   {
     "article_id": "CBMiwwFBVV95cUxOdWxMdWl5bHE1UHZ2cXBFcHpRZFZFV2UyeXVxV2hvdktvV2hrRjNrZkNDSlR5YkVtZ0JSRnV2RXdHMzJfT2lqTEJxclVhMGQ3b0FHTldWa1hLOUNRSzBubWhWWnNpSEtxSWVpQ3ZlSkk5d2FjOTRxdTZOTy1ScGI2TUk0NVR5cUNGVk9MOE1Bc2R4Sjl1bkRRZWU3RG1tRGxiNk0zWXdPc18wMDgxSFNVU21semFTUWR5ZEZxdzhVWm5lT28",
@@ -2037,29 +1998,6 @@
     ]
   },
   {
-    "article_id": "CBMitwFBVV95cUxQR0JEaVNlckJtYU1HZnVyYjlKdk9tSWJQZ1Zwc0Z2cDVRR05DQVNpQ0JnbU5rV0NNZjE0ak9Za2F6QWhjcDdVZVF6MW8wVElTdm9GSG9xV1pZc1VuN0pGTHNkb3FKcFJfX2RHUjdSTXhVYmJ1WTdYa1poY093OEQ5SWZfZGJSdVpEVThhekxjTVRqcTdYcnZUUENTdVRpMW45eWNPM211V2NDY3N4U1ZPbUFQNnozaVE",
-    "title": "10,000 Sui or 100 Solana: Which Could Be Worth More by 2028?",
-    "link": "https://247wallst.com/investing/cryptocurrency/2026/11/02/10000-sui-or-100-solana-which-could-be-worth-more-by-2028/",
-    "snippet": "For roughly $9,000, investors can buy 10,000 SUI at $0.88 or 100 SOL at $93, both down over 20% in the past 30 days.",
-    "photo_url": "https://247wallst.com/wp-content/uploads/2026/11/shutterstock_2479894035-400x267.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNWphMHRJYzNkU2EyWm5SMDlzVFJDTEFoaVFBeWdLTWdhcFZKQ3RJUVk=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T22:37:00.000Z",
-    "authors": [
-      "Sam Daodu"
-    ],
-    "source_url": "https://247wallst.com",
-    "source_name": "24/7 Wall St.",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVEkwTjNkaGJHeHpkQzVqYjIwb0FBUAE",
-    "related_topics": [
-      {
-        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWkdweU1XdDJaaElDWlc0b0FBUAE",
-        "topic_name": "Sam Daodu"
-      }
-    ]
-  },
-  {
     "article_id": "CBMi2AFBVV95cUxPeHdMbHZ5V1c5VW9wQ3d4c0g1STJjTmwydm9rem5PRGthVF90M0dwaVdrYzlsNEJTbFlMT2xHWUxrcVBSSzhlX2ZITlVIWngzX0U4NXJhaHpjNDYzamxZRHNhanltS19qY0daNVN6eW12TW0tajlUSTJ2TW1rZzFROU5GZG5RMUFyaXctT3dfSENodFlJblhiQkw3X1ZmSW1FWFhnQlZOcXRJYTJMR2VSVTFIajJIZVM2c2RILUNveUdDTXdLbW05N21uT0xWeEIwZFhGTEw1dXQ",
     "title": "South Korea Just Told Exchanges to Keep More Crypto Offline. Should You Do the Same?",
     "link": "https://247wallst.com/investing/cryptocurrency/2026/11/02/south-korea-just-told-exchanges-to-keep-more-crypto-offline-should-you-do-the-same/",
@@ -2083,20 +2021,27 @@
     ]
   },
   {
-    "article_id": "CBMizAFBVV95cUxOcjVvdWFUdTRtRzhTTlRMaUR1UXowem9paUlwWWIzTklYQzJWMURqLVJQSlJMeVNmZ21rSzlYa1piUC1jM0hsYS1OWVd2Rm9yZ2tUQmoxQ3BSU2ZoYzh6RFo4TkIzUXZTbmtZb2gyNUJhbjJ5YVcxX3R6bnJIRkRwZjQ2X0NZTi1VMEFjamJoc2lGVGdFR1NVQ1FFbnRrcmxwT2JzeWp3SjlxYllhYXVRTnluQXBXTEQyOXFtejhsNFVPQzhxZC05SHBKdVQ",
-    "title": "South Korea urges cryptocurrency exchanges to tighten security",
-    "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46J0EX:0-south-korea-urges-cryptocurrency-exchanges-to-tighten-security/",
-    "snippet": "South Korea's financial regulator on Monday urged local cryptocurrency exchanges to tighten security measures to prevent hacking attacks, ...",
-    "photo_url": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T06:55:00.000Z",
-    "authors": [],
-    "source_url": "https://www.tradingview.com",
-    "source_name": "TradingView",
-    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEM1J5WVdScGJtZDJhV1YzTG1OdmJTZ0FQAQ",
-    "related_topics": []
+    "article_id": "CBMikAFBVV95cUxQWG1LbFptU0RCMF81Wm1xT3ViblBwaG4wN1M0X3NmUVJCT0RyQTI4NlBTY19IaHFTc2p6b0NyUnN5NDczQy1ZajFkZjc1bG8tRm40YmlLM3FuY1FVM0RVX1VVYy1PRVBSYXFCVUs1WXVveWp5eHhiUnNuZlQtTVdzMzBMSnFJRFMwc3RqT0l5T2Q",
+    "title": "CEO Reveals How Hackers Stole $6.3B In Historic Cryptocurrency Heist",
+    "link": "https://dailyvoice.com/article/binance-ceo-reveals-details-on-63b-cryptocurrency-heist/",
+    "snippet": "The company lost about $6.34 billion in digital currencies on Thursday, Oct. 29, in what could be the largest cryptocurrency theft in history.",
+    "photo_url": "https://edge.dailyvoice.com/upload/traxer-kM6QNrgo0YE-unsplash.jpg?width=720",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNXlPSFV0U2pKUk5UTlFNbTlMVFJDM0FSaVRBaWdCTWdrQkFZektIU2pnUmdJ=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T22:24:35.000Z",
+    "authors": [
+      "Chris Spiker"
+    ],
+    "source_url": "https://dailyvoice.com",
+    "source_name": "DailyVoice.com",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyvoice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKQgKIiNDQklTRkFnTWFoQUtEbVJoYVd4NWRtOXBZMlV1WTI5dEtBQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtTkhvMlpISnJNQklDWlc0b0FBUAE",
+        "topic_name": "Chris Spiker"
+      }
+    ]
   },
   {
     "article_id": "CBMikAFBVV95cUxNQW9Sb1dsbWd6ZXRORTZCamFlNHNURDZTbUpqMFh4SC1keGxiTFZ6VmhyMnNhX1JqWTNiTUc1M2FvMF9QRGNQaHdfV2RzLVlDSWVwdGc3bXZEcFhJN1NWeWRGUTdmZjZGMGFVRi0xZUNxN1NZWXlFNWEtS1AwaVRWdFp6YmE3cmNYOGlfT25pMl8",
@@ -2122,19 +2067,95 @@
     ]
   },
   {
-    "article_id": "CBMisgFBVV95cUxOUFozeEU5aHJTWnRpTWlTbU12dHVUaWVSbUFDVm9BUW9uYlp0SnU4MEJJdUg1Q2ZDNFhpZnVmT0JuajdVRHNTeEZ6TjFjd0ExT05ReW5QWEhHT3g2M0EtOFhJWnhXQ1VrQmkzOEpranhoanhoSUM5M2dQNG4wZUF1RUJqcjlMYTIyWXRJbmlfaUxzQW5FNll5a1ZaLVM0c1ZKOUlxd2hRRzhnYzk0cEd5V1dn",
-    "title": "CFTC’s Selig Uses Binance Theft to Press for Federal Exchange Oversight",
-    "link": "https://www.pymnts.com/legal/2026/cftcs-selig-uses-binance-theft-to-press-for-federal-crypto-exchange-oversight/",
-    "snippet": "CFTC Chairman Michael Selig is pressing his case for bringing offshore cryptocurrency exchanges under federal supervision.",
-    "photo_url": "https://www.pymnts.com/wp-content/uploads/2026/10/Binance.jpeg?w=457",
-    "thumbnail_url": "https://news.google.com/api/attachments/CC8iL0NnNUZTRXhuVXpKTWFrcFdTekpwVFJDUkFoakpBeWdLTWdtTkVZb0dGaWxFYkFF=-w200-h200-p-df-rw",
-    "published_datetime_utc": "2026-11-02T18:09:46.000Z",
-    "authors": [],
-    "source_url": "https://www.pymnts.com",
-    "source_name": "PYMNTS.com",
-    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-    "source_publication_id": "CAAqJAgKIh5DQklTRUFnTWFnd0tDbkI1Ylc1MGN5NWpiMjBvQUFQAQ",
-    "related_topics": []
+    "article_id": "CBMi2wFBVV95cUxNMk1yMzhBdXpoZ3NfTXRxcXRfVlVhSGoydnFYbFlTQ2stdktRb2JUQlUzY0w0ck9Wb092SzZTaXZaWU4tVUxCcWoxcEJ5Z0Fobnh0bGFtU0JjZmlweDFDdDV5LTNKYnNKQ1VaQ2VJanlOaEI0aUVpTnVvWnRGTlc5Z01Ed1Q1YWJhUmZOdnZQRVNHTjA2bmlKbUZMSXc5MC10SWNubWNuR3doR204VVV6Qk96bXBCY1UwYlhKa1ZORXdHRTFySEQxSWVCeXZLWkxFX3RGMDFhWEhDb00",
+    "title": "XRP Has Lost Two-Thirds of Its Value Since Its All-Time High. Should You Hold or Sell?",
+    "link": "https://247wallst.com/investing/cryptocurrency/2026/11/02/xrp-has-lost-two-thirds-of-its-value-since-its-all-time-high-should-you-hold-or-sell/",
+    "snippet": "XRP trades 66% below its $3.65 all-time high. Here is how cost basis, time horizon and taxes shape the XRP hold or sell decision.",
+    "photo_url": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-2274516117-huge-licensed-scaled.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNXVkRzFmWWpKTllXSklVWFl5VFJERUF4aW5CU2dLTWdZcGhaVE5NUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-03T00:33:00.000Z",
+    "authors": [
+      "Sam Daodu"
+    ],
+    "source_url": "https://247wallst.com",
+    "source_name": "24/7 Wall St.",
+    "source_logo_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKAgKIiJDQklTRXdnTWFnOEtEVEkwTjNkaGJHeHpkQzVqYjIwb0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZzWkdweU1XdDJaaElDWlc0b0FBUAE",
+        "topic_name": "Sam Daodu"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiWkFVX3lxTE83c0prVnFFMjFXMlhURF9hS1lqWGlTVEdsRzVNOHAzR19jaDFFV3V3WjBHNkxZT203MHFNMGoyVkxOd1dJWndTVE5fV3pRUXJxZzgxR0lMTWl5dw",
+    "title": "Ruling party proposes gov't delay planned taxation of cryptocurrency",
+    "link": "https://en.yna.co.kr/view/AEN20261104004600315",
+    "snippet": "The ruling Democratic Party (DP) on Wednesday formally proposed that the government postpone the implementation of taxation on cryptocurrencies ...",
+    "photo_url": "https://img1.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110404420001300_P4.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHRRbU0wTjB0cWJpMVNRMUZFVFJETUF4aWJCU2dLTWdZQlFKVHNyUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T02:14:54.000Z",
+    "authors": [
+      "Yi Wonju"
+    ],
+    "source_url": "https://en.yna.co.kr",
+    "source_name": "Yonhap News Agency",
+    "source_logo_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://en.yna.co.kr&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://en.yna.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJggKIiBDQklTRWdnTWFnNEtER1Z1TG5sdVlTNWpieTVyY2lnQVAB",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ6ZHpOM01qY3dZeElDWlc0b0FBUAE",
+        "topic_name": "Yi Wonju"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMiV0FVX3lxTE1fdUZrMnNkcHpqREdwMUY0ME9HcjRfc2Eta3NzYnBLOWVrR1dPY2hyWWpUcC1VY3UzaWJIOGdBMzVYVDROd2FmUHk1b25DT0FQXzhWT2s3NA",
+    "title": "North Korea rejects Binance hack accusation, warns against US talks",
+    "link": "https://www.koreaherald.com/article/10925553",
+    "snippet": "North Korean hackers Saturday of stealing more than $6 billion in cryptocurrency from Binance,",
+    "photo_url": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.4b833cad81a9417fb4b822d07a0dc098_P1.jpg",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNUJPSEEwV1c1TWVuWlNRekZUVFJDZkF4ampCU2dLTWdhQlJaanRvUWc=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-04T04:01:58.000Z",
+    "authors": [
+      "JOO YOUNG HWANG"
+    ],
+    "source_url": "https://www.koreaherald.com",
+    "source_name": "The Korea Herald",
+    "source_logo_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.koreaherald.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.koreaherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqKggKIiRDQklTRlFnTWFoRUtEMnR2Y21WaGFHVnlZV3hrTG1OdmJTZ0FQAQ",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ1ZUhJd2VHeDZPQklDWlc0b0FBUAE",
+        "topic_name": "JOO YOUNG HWANG"
+      }
+    ]
+  },
+  {
+    "article_id": "CBMi7wFBVV95cUxQXy16SER3aUNqejN5LThvLXJZU2R6SUdRaTkzaXc1NzJKVWxwbDU4ZXZVVG1wQlZ5LVRaUlNZM1RtZkp1cDJtZDBtTTZ0RnRIVWo5dmlsaVF1Qm9nV2Z3TmpMN3Zfck1FMXg3dk1ldk5hX05rQWpNR2VtNWFfaFFtSHhJSmNISmd4ajUyTHlUSDktbHBCSFN4SUc0b0JuaU8zMUhKRnZFMEZQblZlYUROODVNeTBWSWRlQXBUS1dVWkJJamRuQ3N0akZqU1c2ZjhENXJzMV94UHR0R05qcVpCUzdudHc2MGpLaWx2cTFyc9IB9AFBVV95cUxNMnRzRXdBZERJOFdJd0hMTVZtUGM2aGRMVnBtdFpiRkFId21jMDBtOHhjSVVOeThKY1ZSSGNZVUhqc212RDVoMU1sVHkwSVBTb1RPcUNKbVNsWkZDTFFSblQ3bWM1SkFZc0lxckNrSnpUTGtWU1cyUF9DN1pGMm9lRjFBNW12LVZJRkdCc2JNWk5vMjJHYUFfWHlFT3BWb0M1ODFXVXRwSVpmVUUxQlRxVktuMDhiRWUwZlpmT0xXLTlKZUNvcnh6VEdocHNnWFRjNU5xRDlWVnlmOFFPX3U3LWh1Y0NVMjlxckhvbHhjT2wtZkpT",
+    "title": "Binance hack and the safety of cryptocurrency: How and why your wallet is under threat, and what you can do about it",
+    "link": "https://www.wionews.com/world/binance-hack-and-the-safety-of-cryptocurrency-how-and-why-your-wallet-is-under-threat-and-what-you-can-do-about-it-1793608528201",
+    "snippet": "Binance lost nearly $6.3bn to allegedly North Korea-linked TraderTraitor hackers in the largest crypto heist on record.",
+    "photo_url": "https://cdn3.wionews.com/prod/wion/images/2026/20261102/image-1793609966882.png?rect=(0,0,1448,1086)",
+    "thumbnail_url": "https://news.google.com/api/attachments/CC8iK0NnNHhjUzFLVlhkb1RVVlpNVWhRVFJEZ0F4aUFCU2dLTWdhRk1ZZ1NJUWM=-w200-h200-p-df-rw",
+    "published_datetime_utc": "2026-11-02T09:12:00.000Z",
+    "authors": [
+      "Dr. Vinod Janardhanan"
+    ],
+    "source_url": "https://www.wionews.com",
+    "source_name": "WION",
+    "source_logo_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=256&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_favicon_url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "source_publication_id": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM2RwYjI1bGQzTXVZMjl0S0FBUAE",
+    "related_topics": [
+      {
+        "topic_id": "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWkRKcWNIWmlNeElDWlc0b0FBUAE",
+        "topic_name": "Dr. Vinod Janardhanan"
+      }
+    ]
   }
 ]
